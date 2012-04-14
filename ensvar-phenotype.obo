@@ -1,0 +1,6588 @@
+[Term]
+id: ENSPHENO:0000001
+name: 17-@ALPHA-HYDROXYLASE/1720-LYASE DEFICIENCY COMBINED COMPLETE
+
+[Term]
+id: ENSPHENO:0000002
+name: 17-@ALPHA-HYDROXYLASE/1720-LYASE DEFICIENCY COMBINED PARTIAL
+
+[Term]
+id: ENSPHENO:0000003
+name: 17-@BETA HYDROXYSTEROID DEHYDROGENASE III DEFICIENCY
+
+[Term]
+id: ENSPHENO:0000004
+name: 17-@BETA-HYDROXYSTEROID DEHYDROGENASE X DEFICIENCY
+
+[Term]
+id: ENSPHENO:0000005
+name: 2-PRIME5-PRIME-@OLIGOADENYLATE SYNTHETASE 1
+
+[Term]
+id: ENSPHENO:0000006
+name: 3-@BETA-HYDROXYSTEROID DEHYDROGENASE TYPE II DEFICIENCY OF
+
+[Term]
+id: ENSPHENO:0000007
+name: 3-@KETOTHIOLASE DEFICIENCY
+
+[Term]
+id: ENSPHENO:0000008
+name: 3-@METHYLCROTONYL-CoA CARBOXYLASE 2 DEFICIENCY
+
+[Term]
+id: ENSPHENO:0000009
+name: 3-@METHYLGLUTACONIC ACIDURIA TYPE III
+
+[Term]
+id: ENSPHENO:0000010
+name: 46XY GONADAL DYSGENESIS COMPLETE WITHOUT ADRENAL FAILURE
+
+[Term]
+id: ENSPHENO:0000011
+name: 46XY GONADAL DYSGENESIS PARTIAL WITH MINIFASCICULAR NEUROPATHY
+
+[Term]
+id: ENSPHENO:0000012
+name: 46XY SEX REVERSAL 3
+
+[Term]
+id: ENSPHENO:0000013
+name: 5-@FLUOROURACIL TOXICITY
+
+[Term]
+id: ENSPHENO:0000014
+name: A breast cancer sample
+
+[Term]
+id: ENSPHENO:0000015
+name: A colon cancer sample
+
+[Term]
+id: ENSPHENO:0000016
+name: A colorectal cancer sample
+
+[Term]
+id: ENSPHENO:0000017
+name: A familial cancer not matching LFS
+
+[Term]
+id: ENSPHENO:0000018
+name: A metastatic melanoma sample
+
+[Term]
+id: ENSPHENO:0000019
+name: AB1-42
+
+[Term]
+id: ENSPHENO:0000020
+name: ABO GLYCOSYLTRANSFERASE
+
+[Term]
+id: ENSPHENO:0000021
+name: ACID ALPHA-GLUCOSIDASE ALLELE 2
+
+[Term]
+id: ENSPHENO:0000022
+name: ACRODERMATITIS ENTEROPATHICA
+
+[Term]
+id: ENSPHENO:0000023
+name: ACTH DEFICIENCY ISOLATED
+
+[Term]
+id: ENSPHENO:0000024
+name: ACTININ ALPHA-3 POLYMORPHISM
+
+[Term]
+id: ENSPHENO:0000025
+name: ADENOMATOUS POLYPOSIS COLI ATTENUATED
+
+[Term]
+id: ENSPHENO:0000026
+name: ADENOMATOUS POLYPOSIS COLI SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000027
+name: ADIPONECTIN SERUM LEVEL OF QUANTITATIVE TRAIT LOCUS 1
+
+[Term]
+id: ENSPHENO:0000028
+name: ADRENAL HYPOPLASIA CONGENITAL
+
+[Term]
+id: ENSPHENO:0000029
+name: ADRENOLEUKODYSTROPHY NEONATAL
+
+[Term]
+id: ENSPHENO:0000030
+name: ADULT SYNDROME
+
+[Term]
+id: ENSPHENO:0000031
+name: AGE-RELATED HEARING IMPAIRMENT 1
+
+[Term]
+id: ENSPHENO:0000032
+name: AGE-RELATED HEARING IMPAIRMENT 2
+
+[Term]
+id: ENSPHENO:0000033
+name: AICARDI-GOUTIERES SYNDROME 1
+
+[Term]
+id: ENSPHENO:0000034
+name: AICARDI-GOUTIERES SYNDROME 2
+
+[Term]
+id: ENSPHENO:0000035
+name: AICARDI-GOUTIERES SYNDROME 3
+
+[Term]
+id: ENSPHENO:0000036
+name: AICARDI-GOUTIERES SYNDROME 4
+
+[Term]
+id: ENSPHENO:0000037
+name: AICARDI-GOUTIERES SYNDROME 5
+
+[Term]
+id: ENSPHENO:0000038
+name: AIDS
+
+[Term]
+id: ENSPHENO:0000039
+name: AIDS progression
+
+[Term]
+id: ENSPHENO:0000040
+name: ALBINISM OCULOCUTANEOUS TYPE IA
+
+[Term]
+id: ENSPHENO:0000041
+name: ALBUMIN
+
+[Term]
+id: ENSPHENO:0000042
+name: ALBUMIN CASEBROOK
+
+[Term]
+id: ENSPHENO:0000043
+name: ALBUMIN HIROSHIMA 1
+
+[Term]
+id: ENSPHENO:0000044
+name: ALBUMIN HONOLULU 1
+
+[Term]
+id: ENSPHENO:0000045
+name: ALBUMIN HONOLULU 2
+
+[Term]
+id: ENSPHENO:0000046
+name: ALBUMIN LAMBADI
+
+[Term]
+id: ENSPHENO:0000047
+name: ALBUMIN LARINO
+
+[Term]
+id: ENSPHENO:0000048
+name: ALBUMIN NAGASAKI 2
+
+[Term]
+id: ENSPHENO:0000049
+name: ALBUMIN PARKLANDS
+
+[Term]
+id: ENSPHENO:0000050
+name: ALCOHOL DEPENDENCE PROTECTION AGAINST
+
+[Term]
+id: ENSPHENO:0000051
+name: ALCOHOLISM SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000052
+name: ALKALINE PHOSPHATASE PLASMA LEVEL OF QUANTITATIVE TRAIT LOCUS 3
+
+[Term]
+id: ENSPHENO:0000053
+name: ALLAN-HERNDON-DUDLEY SYNDROME
+
+[Term]
+id: ENSPHENO:0000054
+name: ALLERGIC RHINITIS
+
+[Term]
+id: ENSPHENO:0000055
+name: ALOPECIA ANDROGENETIC 3
+
+[Term]
+id: ENSPHENO:0000056
+name: ALPHA-MANNOSIDOSIS TYPE II
+
+[Term]
+id: ENSPHENO:0000057
+name: ALPORT SYNDROME X-LINKED
+
+[Term]
+id: ENSPHENO:0000058
+name: ALZHEIMER DISEASE 11
+
+[Term]
+id: ENSPHENO:0000059
+name: ALZHEIMER DISEASE 2
+
+[Term]
+id: ENSPHENO:0000060
+name: ALZHEIMER DISEASE FAMILIAL 1
+
+[Term]
+id: ENSPHENO:0000061
+name: ALZHEIMER DISEASE FAMILIAL 3
+
+[Term]
+id: ENSPHENO:0000062
+name: ALZHEIMER DISEASE FAMILIAL 3 WITH SPASTIC PARAPARESIS AND APRAXIA
+
+[Term]
+id: ENSPHENO:0000063
+name: AMEGAKARYOCYTIC THROMBOCYTOPENIA CONGENITAL
+
+[Term]
+id: ENSPHENO:0000064
+name: AMELOGENESIS IMPERFECTA X-LINKED 1
+
+[Term]
+id: ENSPHENO:0000065
+name: AMYLOID BETA A4 PRECURSOR PROTEIN
+
+[Term]
+id: ENSPHENO:0000066
+name: AMYLOIDOSIS CARDIAC AND CUTANEOUS
+
+[Term]
+id: ENSPHENO:0000067
+name: AMYLOIDOSIS FAMILIAL VISCERAL
+
+[Term]
+id: ENSPHENO:0000068
+name: AMYLOIDOSIS HEREDITARY TRANSTHYRETIN-RELATED
+
+[Term]
+id: ENSPHENO:0000069
+name: AMYOTROPHIC LATERAL SCLEROSIS 10 WITH OR WITHOUT FRONTOTEMPORAL DEMENTIA WITH TDP43 INCLUSIONS
+
+[Term]
+id: ENSPHENO:0000070
+name: AMYOTROPHIC LATERAL SCLEROSIS 10 WITHOUT FRONTOTEMPORAL DEMENTIA AND WITH TDP43 INCLUSIONS
+
+[Term]
+id: ENSPHENO:0000071
+name: AMYOTROPHIC LATERAL SCLEROSIS 10 WITHOUT FRONTOTEMPORAL DEMENTIA WITH TDP43 INCLUSIONS
+
+[Term]
+id: ENSPHENO:0000072
+name: AMYOTROPHY HEREDITARY NEURALGIC
+
+[Term]
+id: ENSPHENO:0000073
+name: ANALBUMINEMIA
+
+[Term]
+id: ENSPHENO:0000074
+name: ANDROGEN INSENSITIVITY PARTIAL
+
+[Term]
+id: ENSPHENO:0000075
+name: ANEMIA CONGENITAL DYSERYTHROPOIETIC TYPE I
+
+[Term]
+id: ENSPHENO:0000076
+name: ANEMIA DYSERYTHROPOIETIC CONGENITAL TYPE I
+
+[Term]
+id: ENSPHENO:0000077
+name: ANEURYSM INTRACRANIAL BERRY 1
+
+[Term]
+id: ENSPHENO:0000078
+name: ANEURYSM INTRACRANIAL BERRY 10
+
+[Term]
+id: ENSPHENO:0000079
+name: ANGIOEDEMA INDUCED BY ACE INHIBITORS SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000080
+name: ANONYCHIA CONGENITA
+
+[Term]
+id: ENSPHENO:0000081
+name: APLASTIC ANEMIA
+
+[Term]
+id: ENSPHENO:0000082
+name: APOLIPOPROTEIN C-II (AUCKLAND)
+
+[Term]
+id: ENSPHENO:0000083
+name: APPARENT MINERALOCORTICOID EXCESS
+
+[Term]
+id: ENSPHENO:0000084
+name: ARGININOSUCCINIC ACIDURIA
+
+[Term]
+id: ENSPHENO:0000085
+name: AROMATASE DEFICIENCY
+
+[Term]
+id: ENSPHENO:0000086
+name: ARTHROGRYPOSIS RENAL DYSFUNCTION AND CHOLESTASIS 1
+
+[Term]
+id: ENSPHENO:0000087
+name: ARTS SYNDROME
+
+[Term]
+id: ENSPHENO:0000088
+name: ARYLSULFATASE A PSEUDODEFICIENCY
+
+[Term]
+id: ENSPHENO:0000089
+name: ARYLSULFATASE A PSEUDODEFICIENCY SEVERE
+
+[Term]
+id: ENSPHENO:0000090
+name: ASTHMA-RELATED TRAITS SUSCEPTIBILITY TO 6
+
+[Term]
+id: ENSPHENO:0000091
+name: ATAXIA-TELANGIECTASIA WITHOUT IMMUNODEFICIENCY
+
+[Term]
+id: ENSPHENO:0000092
+name: ATOPY SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000093
+name: ATRIAL FIBRILLATION FAMILIAL 5
+
+[Term]
+id: ENSPHENO:0000094
+name: ATRIAL FIBRILLATION FAMILIAL 7
+
+[Term]
+id: ENSPHENO:0000095
+name: ATRIAL FIBRILLATION FAMILIAL 8
+
+[Term]
+id: ENSPHENO:0000096
+name: ATRIAL SEPTAL DEFECT 2
+
+[Term]
+id: ENSPHENO:0000097
+name: ATYPICAL MYCOBACTERIAL INFECTION DISSEMINATED FAMILIAL
+
+[Term]
+id: ENSPHENO:0000098
+name: ATYPICAL MYCOBACTERIAL INFECTION FAMILIAL DISSEMINATED
+
+[Term]
+id: ENSPHENO:0000099
+name: AUTISM SUSCEPTIBILITY TO 5
+
+[Term]
+id: ENSPHENO:0000100
+name: AUTOIMMUNE LYMPHOPROLIFERATIVE SYNDROME TYPE IIA
+
+[Term]
+id: ENSPHENO:0000101
+name: AUTOIMMUNE THYROID DISEASE SUSCEPTIBILITY TO 2
+
+[Term]
+id: ENSPHENO:0000102
+name: AXENFELD-RIEGER ANOMALY
+
+[Term]
+id: ENSPHENO:0000103
+name: Achromatopsia type 3
+
+[Term]
+id: ENSPHENO:0000104
+name: Activated partial thromboplastin time
+
+[Term]
+id: ENSPHENO:0000105
+name: Acute lymphoblastic leukemia (childhood)
+
+[Term]
+id: ENSPHENO:0000106
+name: Acyl-CoA dehydrogenase short-chain deficiency
+
+[Term]
+id: ENSPHENO:0000107
+name: Adenylosuccinase deficiency
+
+[Term]
+id: ENSPHENO:0000108
+name: Adiponectin levels
+
+[Term]
+id: ENSPHENO:0000109
+name: Adiposity
+
+[Term]
+id: ENSPHENO:0000110
+name: Adrenal hyperplasia type 3
+
+[Term]
+id: ENSPHENO:0000111
+name: Adult fetal hemoblogbin levels (HbF) by F cell levels
+
+[Term]
+id: ENSPHENO:0000112
+name: Age-related macular degeneration
+
+[Term]
+id: ENSPHENO:0000113
+name: Age-related macular degeneration (wet)
+
+[Term]
+id: ENSPHENO:0000114
+name: Age-related macular degeneration type 2
+
+[Term]
+id: ENSPHENO:0000115
+name: Aging (time to death)
+
+[Term]
+id: ENSPHENO:0000116
+name: Aging (time to event)
+
+[Term]
+id: ENSPHENO:0000117
+name: Aging traits
+
+[Term]
+id: ENSPHENO:0000118
+name: Alcohol consumption
+
+[Term]
+id: ENSPHENO:0000119
+name: Alcohol dependence
+
+[Term]
+id: ENSPHENO:0000120
+name: Alcoholism (alcohol dependence factor score)
+
+[Term]
+id: ENSPHENO:0000121
+name: Alcoholism (alcohol use disorder factor score)
+
+[Term]
+id: ENSPHENO:0000122
+name: Alcoholism (heaviness of drinking)
+
+[Term]
+id: ENSPHENO:0000123
+name: Alexander disease
+
+[Term]
+id: ENSPHENO:0000124
+name: Alkaptonuria
+
+[Term]
+id: ENSPHENO:0000125
+name: Alopecia universalis congenita
+
+[Term]
+id: ENSPHENO:0000126
+name: Alternating hemiplegia of childhood
+
+[Term]
+id: ENSPHENO:0000127
+name: Alzheimer disease type 3
+
+[Term]
+id: ENSPHENO:0000128
+name: Alzheimer's disease
+
+[Term]
+id: ENSPHENO:0000129
+name: Alzheimer's disease (late onset)
+
+[Term]
+id: ENSPHENO:0000130
+name: Alzheimer's disease biomarkers
+
+[Term]
+id: ENSPHENO:0000131
+name: Alzheimer's disease-Alzheimer's disease gender differentiated in males
+
+[Term]
+id: ENSPHENO:0000132
+name: Amyloid A Levels
+
+[Term]
+id: ENSPHENO:0000133
+name: Amyotrophic Lateral Sclerosis (ALS)
+
+[Term]
+id: ENSPHENO:0000134
+name: Amyotrophic Lateral Sclerosis (ALS)-Amyotrophic Lateral Sclerosis (ALS) bulbar onset
+
+[Term]
+id: ENSPHENO:0000135
+name: Amyotrophic lateral sclerosis
+
+[Term]
+id: ENSPHENO:0000136
+name: Angiotensin-converting enzyme activity
+
+[Term]
+id: ENSPHENO:0000137
+name: Anorexia nervosa
+
+[Term]
+id: ENSPHENO:0000138
+name: Aortic root size
+
+[Term]
+id: ENSPHENO:0000139
+name: Argininemia
+
+[Term]
+id: ENSPHENO:0000140
+name: Arginosuccinicaciduria
+
+[Term]
+id: ENSPHENO:0000141
+name: Arthritis (juvenile idiopathic)
+
+[Term]
+id: ENSPHENO:0000142
+name: Asperger disorder
+
+[Term]
+id: ENSPHENO:0000143
+name: Asthma
+
+[Term]
+id: ENSPHENO:0000144
+name: Ataxia with isolated vitamin E deficiency
+
+[Term]
+id: ENSPHENO:0000145
+name: Atelosteogenesis type 1
+
+[Term]
+id: ENSPHENO:0000146
+name: Atrial fibrillation
+
+[Term]
+id: ENSPHENO:0000147
+name: Atrial fibrillation/atrial flutter
+
+[Term]
+id: ENSPHENO:0000148
+name: Atrial septal defect with atrioventricular conduction defects
+
+[Term]
+id: ENSPHENO:0000149
+name: Atrioventricular conduction
+
+[Term]
+id: ENSPHENO:0000150
+name: Attention deficit hyperactivity disorder
+
+[Term]
+id: ENSPHENO:0000151
+name: Attention deficit hyperactivity disorder (time to onset)
+
+[Term]
+id: ENSPHENO:0000152
+name: Attention deficit hyperactivity disorder and conduct disorder
+
+[Term]
+id: ENSPHENO:0000153
+name: Attention deficit hyperactivity disorder symptoms (interaction)
+
+[Term]
+id: ENSPHENO:0000154
+name: Autism
+
+[Term]
+id: ENSPHENO:0000155
+name: BARDET-BIEDL SYNDROME
+
+[Term]
+id: ENSPHENO:0000156
+name: BARDET-BIEDL SYNDROME 1
+
+[Term]
+id: ENSPHENO:0000157
+name: BARDET-BIEDL SYNDROME 3
+
+[Term]
+id: ENSPHENO:0000158
+name: BARDET-BIEDL SYNDROME 6
+
+[Term]
+id: ENSPHENO:0000159
+name: BARTTER SYNDROME TYPE 4A
+
+[Term]
+id: ENSPHENO:0000160
+name: BASAL CELL CARCINOMA SUSCEPTIBILITY TO 1
+
+[Term]
+id: ENSPHENO:0000161
+name: BASAL CELL CARCINOMA SUSCEPTIBILITY TO 2
+
+[Term]
+id: ENSPHENO:0000162
+name: BECKWITH-WIEDEMANN SYNDROME
+
+[Term]
+id: ENSPHENO:0000163
+name: BERNARD-SOULIER SYNDROME TYPE A
+
+[Term]
+id: ENSPHENO:0000164
+name: BERNARD-SOULIER SYNDROME TYPE A1
+
+[Term]
+id: ENSPHENO:0000165
+name: BERNARD-SOULIER SYNDROME TYPE C
+
+[Term]
+id: ENSPHENO:0000166
+name: BEST MACULAR DYSTROPHY
+
+[Term]
+id: ENSPHENO:0000167
+name: BETA-THALASSEMIA
+
+[Term]
+id: ENSPHENO:0000168
+name: BETA-THALASSEMIA INTERMEDIA
+
+[Term]
+id: ENSPHENO:0000169
+name: BETA-ZERO-THALASSEMIA
+
+[Term]
+id: ENSPHENO:0000170
+name: BIPOLAR AFFECTIVE DISORDER SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000171
+name: BJORNSTAD SYNDROME WITH MILD MITOCHONDRIAL COMPLEX III DEFICIENCY
+
+[Term]
+id: ENSPHENO:0000172
+name: BLAU SYNDROME
+
+[Term]
+id: ENSPHENO:0000173
+name: BLEPHAROPHIMOSIS PTOSIS AND EPICANTHUS INVERSUS
+
+[Term]
+id: ENSPHENO:0000174
+name: BLOOD GROUP ERIK
+
+[Term]
+id: ENSPHENO:0000175
+name: BLOOD GROUP--LUTHERAN NULL
+
+[Term]
+id: ENSPHENO:0000176
+name: BLOOD GROUP--OK
+
+[Term]
+id: ENSPHENO:0000177
+name: BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 11
+
+[Term]
+id: ENSPHENO:0000178
+name: BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 12
+
+[Term]
+id: ENSPHENO:0000179
+name: BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 15
+
+[Term]
+id: ENSPHENO:0000180
+name: BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 8
+
+[Term]
+id: ENSPHENO:0000181
+name: BONE MINERAL DENSITY QUANTITATIVE TRAIT LOCUS 11
+
+[Term]
+id: ENSPHENO:0000182
+name: BONE MINERAL DENSITY QUANTITATIVE TRAIT LOCUS 13
+
+[Term]
+id: ENSPHENO:0000183
+name: BONE MINERAL DENSITY QUANTITATIVE TRAIT LOCUS 3
+
+[Term]
+id: ENSPHENO:0000184
+name: BONE MINERAL DENSITY VARIATION QUANTITATIVE TRAIT LOCUS
+
+[Term]
+id: ENSPHENO:0000185
+name: BONE MORPHOGENETIC PROTEIN 15
+
+[Term]
+id: ENSPHENO:0000186
+name: BRANCHIOOTORENAL SYNDROME 2
+
+[Term]
+id: ENSPHENO:0000187
+name: BRCA2 GENE
+
+[Term]
+id: ENSPHENO:0000188
+name: BREAST-OVARIAN CANCER FAMILIAL SUSCEPTIBILITY TO 1
+
+[Term]
+id: ENSPHENO:0000189
+name: BREAST-OVARIAN CANCER FAMILIAL SUSCEPTIBILITY TO 2
+
+[Term]
+id: ENSPHENO:0000190
+name: BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 1
+
+[Term]
+id: ENSPHENO:0000191
+name: BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 2
+
+[Term]
+id: ENSPHENO:0000192
+name: BRUNNER SYNDROME
+
+[Term]
+id: ENSPHENO:0000193
+name: BURKITT LYMPHOMA
+
+[Term]
+id: ENSPHENO:0000194
+name: BURULI ULCER SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000195
+name: Basal cell carcinoma (cutaneous)
+
+[Term]
+id: ENSPHENO:0000196
+name: Benign familial neonatal seizures type 1
+
+[Term]
+id: ENSPHENO:0000197
+name: Bernard-Soulier syndrome
+
+[Term]
+id: ENSPHENO:0000198
+name: Biliary atresia
+
+[Term]
+id: ENSPHENO:0000199
+name: Bilirubin levels
+
+[Term]
+id: ENSPHENO:0000200
+name: Biochemical measures
+
+[Term]
+id: ENSPHENO:0000201
+name: Biomarkers-TNFa
+
+[Term]
+id: ENSPHENO:0000202
+name: Biomedical quantitative traits
+
+[Term]
+id: ENSPHENO:0000203
+name: Bipolar disorder
+
+[Term]
+id: ENSPHENO:0000204
+name: Bipolar disorder and schizophrenia
+
+[Term]
+id: ENSPHENO:0000205
+name: Bladder cancer
+
+[Term]
+id: ENSPHENO:0000206
+name: Blood Lipids-MeanHDL-C
+
+[Term]
+id: ENSPHENO:0000207
+name: Blood Lipids-MeanLDL-C
+
+[Term]
+id: ENSPHENO:0000208
+name: Blood Lipids-MeanTG
+
+[Term]
+id: ENSPHENO:0000209
+name: Blood Phenotypes-FVII
+
+[Term]
+id: ENSPHENO:0000210
+name: Blood Phenotypes-Fibrinogen
+
+[Term]
+id: ENSPHENO:0000211
+name: Blood Phenotypes-Hematocrit
+
+[Term]
+id: ENSPHENO:0000212
+name: Blood Phenotypes-MCH
+
+[Term]
+id: ENSPHENO:0000213
+name: Blood Phenotypes-RBCC
+
+[Term]
+id: ENSPHENO:0000214
+name: Blood Pressure and Arterial Stiffness-Arterial Stiffness
+
+[Term]
+id: ENSPHENO:0000215
+name: Blood Pressure and Arterial Stiffness-Carotid-Brachial Pulse Wave Velocity
+
+[Term]
+id: ENSPHENO:0000216
+name: Blood Pressure and Arterial Stiffness-Carotid-Femoral Pulse Wave Velocity
+
+[Term]
+id: ENSPHENO:0000217
+name: Blood Pressure and Arterial Stiffness-Diastolic Blood Pressure
+
+[Term]
+id: ENSPHENO:0000218
+name: Blood Pressure and Arterial Stiffness-Forward Wave Amplitude
+
+[Term]
+id: ENSPHENO:0000219
+name: Blood Pressure and Arterial Stiffness-Mean Artierial Pressure
+
+[Term]
+id: ENSPHENO:0000220
+name: Blood Pressure and Arterial Stiffness-Reflected Wave Amplitude
+
+[Term]
+id: ENSPHENO:0000221
+name: Blood Pressure and Arterial Stiffness-Systolic Blood Pressure
+
+[Term]
+id: ENSPHENO:0000222
+name: Blood pressure
+
+[Term]
+id: ENSPHENO:0000223
+name: Blue vs. green eyes
+
+[Term]
+id: ENSPHENO:0000224
+name: Body mass index
+
+[Term]
+id: ENSPHENO:0000225
+name: Bone mass and geometry-Combined Bone Mineral Density phenotypes Femoral Neck Bone Mineral Density Trochanater Bone Mineral Density Lumbar Spine Bone Mineral Density
+
+[Term]
+id: ENSPHENO:0000226
+name: Bone mass and geometry-Combined Bone Mineral Density phenotypes Femoral Neck Bone Mineral Density Trochanater Bone Mineral Density Lumbar Spine Bone Mineral Density gender differentiated in females
+
+[Term]
+id: ENSPHENO:0000227
+name: Bone mass and geometry-Femoral Neck Bone Mineral Density
+
+[Term]
+id: ENSPHENO:0000228
+name: Bone mass and geometry-Femoral Neck Bone Mineral Density gender differentiated in females
+
+[Term]
+id: ENSPHENO:0000229
+name: Bone mass and geometry-Hip geometery neck shaft angle
+
+[Term]
+id: ENSPHENO:0000230
+name: Bone mass and geometry-Hip geometry neck section modulus
+
+[Term]
+id: ENSPHENO:0000231
+name: Bone mass and geometry-Hip geometry neck section modulus gender differentiated in females
+
+[Term]
+id: ENSPHENO:0000232
+name: Bone mass and geometry-Hip geometry shaft width
+
+[Term]
+id: ENSPHENO:0000233
+name: Bone mass and geometry-Quantitative broadband ultrasound attentuation of the calcaneus
+
+[Term]
+id: ENSPHENO:0000234
+name: Bone mass and geometry-Trochanter Bone Mineral Density
+
+[Term]
+id: ENSPHENO:0000235
+name: Bone mineral density
+
+[Term]
+id: ENSPHENO:0000236
+name: Bone mineral density (hip)
+
+[Term]
+id: ENSPHENO:0000237
+name: Bone mineral density (spine)
+
+[Term]
+id: ENSPHENO:0000238
+name: Brain aging MRI and cognition phenotypes-Brain MRI Frontal Brain Volume
+
+[Term]
+id: ENSPHENO:0000239
+name: Brain aging MRI and cognition phenotypes-Brain MRI Hippocampal Volume
+
+[Term]
+id: ENSPHENO:0000240
+name: Brain aging MRI and cognition phenotypes-Brain MRI Temporal Brain Volume
+
+[Term]
+id: ENSPHENO:0000241
+name: Brain aging MRI and cognition phenotypes-Brain MRI Total Cerebral Brain Volume
+
+[Term]
+id: ENSPHENO:0000242
+name: Brain aging MRI and cognition phenotypes-Brain MRI White Matter Hyperintensity Volume
+
+[Term]
+id: ENSPHENO:0000243
+name: Brain aging MRI and cognition phenotypes-Cognitive performance Similarities
+
+[Term]
+id: ENSPHENO:0000244
+name: Brain aging MRI and cognition phenotypes-Cognitive performance Wide-Range Achievement Test
+
+[Term]
+id: ENSPHENO:0000245
+name: Brain aging MRI and cognition phenotypes-Cognitive performance attention and executive function
+
+[Term]
+id: ENSPHENO:0000246
+name: Brain aging MRI and cognition phenotypes-Cognitive performance verbal memory
+
+[Term]
+id: ENSPHENO:0000247
+name: Brain aging MRI and cognition phenotypes-Cognitive performance visual memory and organization
+
+[Term]
+id: ENSPHENO:0000248
+name: Brain imaging
+
+[Term]
+id: ENSPHENO:0000249
+name: Brain structure
+
+[Term]
+id: ENSPHENO:0000250
+name: Breast cancer
+
+[Term]
+id: ENSPHENO:0000251
+name: Bronchiectasis with or without elevated sweat chloride type 2
+
+[Term]
+id: ENSPHENO:0000252
+name: Bullous congenital ichthyosiform erythroderma
+
+[Term]
+id: ENSPHENO:0000253
+name: C-REACTIVE PROTEIN PENTRAXIN-RELATED
+
+[Term]
+id: ENSPHENO:0000254
+name: C-reactive protein
+
+[Term]
+id: ENSPHENO:0000255
+name: CAMURATI-ENGELMANN DISEASE
+
+[Term]
+id: ENSPHENO:0000256
+name: CANCER PROGRESSION AND TUMOR CELL MOTILITY
+
+[Term]
+id: ENSPHENO:0000257
+name: CANDIDIASIS FAMILIAL 4
+
+[Term]
+id: ENSPHENO:0000258
+name: CARDIOENCEPHALOMYOPATHY FATAL INFANTILE DUE TO CYTOCHROME c OXIDASE DEFICIENCY
+
+[Term]
+id: ENSPHENO:0000259
+name: CARDIOFACIOCUTANEOUS SYNDROME
+
+[Term]
+id: ENSPHENO:0000260
+name: CARDIOMYOPATHY DILATED 1M
+
+[Term]
+id: ENSPHENO:0000261
+name: CARDIOMYOPATHY DILATED 1P
+
+[Term]
+id: ENSPHENO:0000262
+name: CARDIOMYOPATHY FAMILIAL HYPERTROPHIC
+
+[Term]
+id: ENSPHENO:0000263
+name: CARDIOMYOPATHY FAMILIAL HYPERTROPHIC 1
+
+[Term]
+id: ENSPHENO:0000264
+name: CARDIOMYOPATHY FAMILIAL HYPERTROPHIC 10
+
+[Term]
+id: ENSPHENO:0000265
+name: CARDIOMYOPATHY FAMILIAL HYPERTROPHIC 3
+
+[Term]
+id: ENSPHENO:0000266
+name: CARDIOMYOPATHY FAMILIAL HYPERTROPHIC 6
+
+[Term]
+id: ENSPHENO:0000267
+name: CARDIOMYOPATHY FAMILIAL HYPERTROPHIC 7
+
+[Term]
+id: ENSPHENO:0000268
+name: CARDIOMYOPATHY FAMILIAL RESTRICTIVE 1
+
+[Term]
+id: ENSPHENO:0000269
+name: CARNITINE PALMITOYLTRANSFERASE I DEFICIENCY
+
+[Term]
+id: ENSPHENO:0000270
+name: CARNITINE PALMITOYLTRANSFERASE II DEFICIENCY INFANTILE
+
+[Term]
+id: ENSPHENO:0000271
+name: CARNITINE PALMITOYLTRANSFERASE II DEFICIENCY LATE-ONSET
+
+[Term]
+id: ENSPHENO:0000272
+name: CATARACT AGE-RELATED CORTICAL 2
+
+[Term]
+id: ENSPHENO:0000273
+name: CATARACT AUTOSOMAL DOMINANT NUCLEAR
+
+[Term]
+id: ENSPHENO:0000274
+name: CATARACT POSTERIOR POLAR 1
+
+[Term]
+id: ENSPHENO:0000275
+name: CATARACT PROGRESSIVE POLYMORPHIC CORTICAL
+
+[Term]
+id: ENSPHENO:0000276
+name: CATECHOL-O-METHYLTRANSFERASE POLYMORPHISM
+
+[Term]
+id: ENSPHENO:0000277
+name: CD207 ANTIGEN
+
+[Term]
+id: ENSPHENO:0000278
+name: CENANI-LENZ SYNDACTYLY SYNDROME
+
+[Term]
+id: ENSPHENO:0000279
+name: CENTRAL CORE DISEASE
+
+[Term]
+id: ENSPHENO:0000280
+name: CENTRAL HYPOVENTILATION SYNDROME CONGENITAL WITH HIRSCHSPRUNG DISEASE
+
+[Term]
+id: ENSPHENO:0000281
+name: CEREBELLAR ATAXIA MENTAL RETARDATION AND DYSEQUILIBRIUM SYNDROME 1
+
+[Term]
+id: ENSPHENO:0000282
+name: CEREBRAL AMYLOID ANGIOPATHY APP-RELATED DUTCH VARIANT
+
+[Term]
+id: ENSPHENO:0000283
+name: CEREBRAL AMYLOID ANGIOPATHY APP-RELATED ITALIAN VARIANT
+
+[Term]
+id: ENSPHENO:0000284
+name: CEREBRAL ARTERIOPATHY AUTOSOMAL DOMINANT WITH SUBCORTICAL INFARCTS AND LEUKOENCEPHALOPATHY
+
+[Term]
+id: ENSPHENO:0000285
+name: CEROID LIPOFUSCINOSIS NEURONAL 5
+
+[Term]
+id: ENSPHENO:0000286
+name: CHAR SYNDROME
+
+[Term]
+id: ENSPHENO:0000287
+name: CHARCOT-MARIE-TOOTH DISEASE AXONAL TYPE 2A2
+
+[Term]
+id: ENSPHENO:0000288
+name: CHARCOT-MARIE-TOOTH DISEASE AXONAL TYPE 2B1
+
+[Term]
+id: ENSPHENO:0000289
+name: CHARCOT-MARIE-TOOTH DISEASE AXONAL TYPE 2E
+
+[Term]
+id: ENSPHENO:0000290
+name: CHARCOT-MARIE-TOOTH DISEASE AXONAL TYPE 2F
+
+[Term]
+id: ENSPHENO:0000291
+name: CHARCOT-MARIE-TOOTH DISEASE TYPE 1A
+
+[Term]
+id: ENSPHENO:0000292
+name: CHARCOT-MARIE-TOOTH DISEASE TYPE 4B1
+
+[Term]
+id: ENSPHENO:0000293
+name: CHARCOT-MARIE-TOOTH DISEASE TYPE 4C
+
+[Term]
+id: ENSPHENO:0000294
+name: CHARCOT-MARIE-TOOTH DISEASE TYPE 4J
+
+[Term]
+id: ENSPHENO:0000295
+name: CHARCOT-MARIE-TOOTH DISEASE X-LINKED DOMINANT
+
+[Term]
+id: ENSPHENO:0000296
+name: CHARCOT-MARIE-TOOTH DISEASE X-LINKED DOMINANT 1
+
+[Term]
+id: ENSPHENO:0000297
+name: CHARCOT-MARIE-TOOTH DISEASE X-LINKED RECESSIVE 5
+
+[Term]
+id: ENSPHENO:0000298
+name: CHEDIAK-HIGASHI SYNDROME ADULT TYPE
+
+[Term]
+id: ENSPHENO:0000299
+name: CHIARI MALFORMATION TYPE I
+
+[Term]
+id: ENSPHENO:0000300
+name: CHILD SYNDROME
+
+[Term]
+id: ENSPHENO:0000301
+name: CHOLESTASIS INTRAHEPATIC OF PREGNANCY
+
+[Term]
+id: ENSPHENO:0000302
+name: CHOLINERGIC RECEPTOR NEURONAL NICOTINIC ALPHA POLYPEPTIDE 4
+
+[Term]
+id: ENSPHENO:0000303
+name: CHONDRODYSPLASIA PUNCTATA 2 X-LINKED DOMINANT
+
+[Term]
+id: ENSPHENO:0000304
+name: CHOROIDAL DYSTROPHY CENTRAL AREOLAR 2
+
+[Term]
+id: ENSPHENO:0000305
+name: CHROMOSOME 6q24-q25 DELETION SYNDROME
+
+[Term]
+id: ENSPHENO:0000306
+name: CILIARY DYSKINESIA PRIMARY 11
+
+[Term]
+id: ENSPHENO:0000307
+name: CITRULLINEMIA TYPE II ADULT-ONSET
+
+[Term]
+id: ENSPHENO:0000308
+name: CITRULLINEMIA TYPE II NEONATAL-ONSET
+
+[Term]
+id: ENSPHENO:0000309
+name: CLEIDOCRANIAL DYSPLASIA
+
+[Term]
+id: ENSPHENO:0000310
+name: COCKAYNE SYNDROME TYPE A
+
+[Term]
+id: ENSPHENO:0000311
+name: CODON 72 POLYMORPHISM ({dbSNP rs1042522})
+
+[Term]
+id: ENSPHENO:0000312
+name: COENZYME Q10 DEFICIENCY
+
+[Term]
+id: ENSPHENO:0000313
+name: COLD-INDUCED SWEATING SYNDROME 2
+
+[Term]
+id: ENSPHENO:0000314
+name: COLON CANCER SOMATIC
+
+[Term]
+id: ENSPHENO:0000315
+name: COLORECTAL CANCER HEREDITARY NONPOLYPOSIS TYPE 2
+
+[Term]
+id: ENSPHENO:0000316
+name: COLORECTAL CANCER SUSCEPTIBILITY TO 2
+
+[Term]
+id: ENSPHENO:0000317
+name: COLORECTAL CANCER SUSCEPTIBILITY TO 6
+
+[Term]
+id: ENSPHENO:0000318
+name: COLORECTAL CANCER SUSCEPTIBILITY TO 7
+
+[Term]
+id: ENSPHENO:0000319
+name: COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 5
+
+[Term]
+id: ENSPHENO:0000320
+name: CONE DYSTROPHY 3
+
+[Term]
+id: ENSPHENO:0000321
+name: CONE-ROD DYSTROPHY 2
+
+[Term]
+id: ENSPHENO:0000322
+name: CONE-ROD DYSTROPHY 5
+
+[Term]
+id: ENSPHENO:0000323
+name: CONE-ROD DYSTROPHY 6
+
+[Term]
+id: ENSPHENO:0000324
+name: CONGENITAL CATARACTS FACIAL DYSMORPHISM AND NEUROPATHY
+
+[Term]
+id: ENSPHENO:0000325
+name: CONGENITAL DISORDER OF GLYCOSYLATION TYPE IIa
+
+[Term]
+id: ENSPHENO:0000326
+name: CONGENITAL DISORDER OF GLYCOSYLATION TYPE Ia
+
+[Term]
+id: ENSPHENO:0000327
+name: CONGENITAL DISORDER OF GLYCOSYLATION TYPE Ib
+
+[Term]
+id: ENSPHENO:0000328
+name: CONGENITAL DISORDER OF GLYCOSYLATION TYPE If
+
+[Term]
+id: ENSPHENO:0000329
+name: CONGENITAL DISORDER OF GLYCOSYLATION TYPE Ik
+
+[Term]
+id: ENSPHENO:0000330
+name: CONGENITAL DISORDER OF GLYCOSYLATION TYPE In
+
+[Term]
+id: ENSPHENO:0000331
+name: CORNEAL DYSTROPHY CONGENITAL STROMAL
+
+[Term]
+id: ENSPHENO:0000332
+name: CORNEAL DYSTROPHY CRYSTALLINE OF SCHNYDER
+
+[Term]
+id: ENSPHENO:0000333
+name: CORNELIA DE LANGE SYNDROME 1
+
+[Term]
+id: ENSPHENO:0000334
+name: CORONARY HEART DISEASE IN FAMILIAL HYPERCHOLESTEROLEMIA PROTECTION AGAINST
+
+[Term]
+id: ENSPHENO:0000335
+name: COWDEN-LIKE SYNDROME
+
+[Term]
+id: ENSPHENO:0000336
+name: CRANIOMETAPHYSEAL DYSPLASIA AUTOSOMAL DOMINANT
+
+[Term]
+id: ENSPHENO:0000337
+name: CRIGLER-NAJJAR SYNDROME TYPE I
+
+[Term]
+id: ENSPHENO:0000338
+name: CUTIS LAXA AUTOSOMAL RECESSIVE TYPE IIA
+
+[Term]
+id: ENSPHENO:0000339
+name: CUTIS LAXA AUTOSOMAL RECESSIVE TYPE IIA;
+
+[Term]
+id: ENSPHENO:0000340
+name: CUTIS LAXA AUTOSOMAL RECESSIVE TYPE IIB
+
+[Term]
+id: ENSPHENO:0000341
+name: CVD outcomes-Atrial Fibrillation
+
+[Term]
+id: ENSPHENO:0000342
+name: CVD outcomes-Cardiovascular Disease including Myocardial Infarction Coronary Insufficiency CHD death Atherothrombotic stroke
+
+[Term]
+id: ENSPHENO:0000343
+name: CVD outcomes-Coronary Heart Disease including Myocardial Infarction Coronary Insufficiency CHD death
+
+[Term]
+id: ENSPHENO:0000344
+name: CYP2E1*5B ALLELE
+
+[Term]
+id: ENSPHENO:0000345
+name: CYSTIC FIBROSIS TRANSMEMBRANE CONDUCTANCE REGULATOR
+
+[Term]
+id: ENSPHENO:0000346
+name: CYSTINOSIS NEPHROPATHIC
+
+[Term]
+id: ENSPHENO:0000347
+name: CYSTINURIA
+
+[Term]
+id: ENSPHENO:0000348
+name: Ca/Tu ALLOANTIGEN POLYMORPHISM
+
+[Term]
+id: ENSPHENO:0000349
+name: Canavan disease
+
+[Term]
+id: ENSPHENO:0000350
+name: Cancer breast cancer and prostate cancer-Breast cancer
+
+[Term]
+id: ENSPHENO:0000351
+name: Cancer breast cancer and prostate cancer-Prostate cancer
+
+[Term]
+id: ENSPHENO:0000352
+name: Cannabis dependence
+
+[Term]
+id: ENSPHENO:0000353
+name: Cardiac hypertrophy
+
+[Term]
+id: ENSPHENO:0000354
+name: Cardiac repolarization (QT interval)
+
+[Term]
+id: ENSPHENO:0000355
+name: Cardiomyopathy dilated type 1A
+
+[Term]
+id: ENSPHENO:0000356
+name: Cardiomyopathy dilated type 1M
+
+[Term]
+id: ENSPHENO:0000357
+name: Cardiomyopathy familial hypertrophic type 1
+
+[Term]
+id: ENSPHENO:0000358
+name: Cardiomyopathy familial hypertrophic type 4
+
+[Term]
+id: ENSPHENO:0000359
+name: Cardiomyopathy familial hypertrophic with Wolff-Parkinson-White syndrome
+
+[Term]
+id: ENSPHENO:0000360
+name: Cardiovascular disease risk factors
+
+[Term]
+id: ENSPHENO:0000361
+name: Carotid atherosclerosis in HIV infection
+
+[Term]
+id: ENSPHENO:0000362
+name: Celiac disease
+
+[Term]
+id: ENSPHENO:0000363
+name: Celiac disease and Rheumatoid arthritis
+
+[Term]
+id: ENSPHENO:0000364
+name: Central core disease of muscle
+
+[Term]
+id: ENSPHENO:0000365
+name: Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy
+
+[Term]
+id: ENSPHENO:0000366
+name: Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy
+
+[Term]
+id: ENSPHENO:0000367
+name: Chanarin-Dorfman syndrome
+
+[Term]
+id: ENSPHENO:0000368
+name: Charcot-Marie-Tooth disease type 2A2
+
+[Term]
+id: ENSPHENO:0000369
+name: Charcot-Marie-Tooth disease type 2E
+
+[Term]
+id: ENSPHENO:0000370
+name: Chediak-Higashi syndrome
+
+[Term]
+id: ENSPHENO:0000371
+name: Cherubism
+
+[Term]
+id: ENSPHENO:0000372
+name: Childhood asthma
+
+[Term]
+id: ENSPHENO:0000373
+name: Childhood asthma-ORMDL3 Gene Expression QTL for childhood asthma
+
+[Term]
+id: ENSPHENO:0000374
+name: Cholesterol total
+
+[Term]
+id: ENSPHENO:0000375
+name: Chronic granulomatous disease autosomal recessive cytochrome-b-negative
+
+[Term]
+id: ENSPHENO:0000376
+name: Chronic kidney disease
+
+[Term]
+id: ENSPHENO:0000377
+name: Chronic lymphocytic leukemia
+
+[Term]
+id: ENSPHENO:0000378
+name: Chronic obstructive pulmonary disease
+
+[Term]
+id: ENSPHENO:0000379
+name: Coffee consumption
+
+[Term]
+id: ENSPHENO:0000380
+name: Cognitive performance
+
+[Term]
+id: ENSPHENO:0000381
+name: Cognitive test performance
+
+[Term]
+id: ENSPHENO:0000382
+name: Colorectal cancer
+
+[Term]
+id: ENSPHENO:0000383
+name: Common traits (Other)
+
+[Term]
+id: ENSPHENO:0000384
+name: Conduct disorder (case status)
+
+[Term]
+id: ENSPHENO:0000385
+name: Conduct disorder (interaction)
+
+[Term]
+id: ENSPHENO:0000386
+name: Conduct disorder (symptom count)
+
+[Term]
+id: ENSPHENO:0000387
+name: Cone-rod dystrophy type 3
+
+[Term]
+id: ENSPHENO:0000388
+name: Congenital disorder of glycosylation type 1K
+
+[Term]
+id: ENSPHENO:0000389
+name: Congenital erythropoietic porphyria
+
+[Term]
+id: ENSPHENO:0000390
+name: Congenital hypothyroidism non-goitrous type 5
+
+[Term]
+id: ENSPHENO:0000391
+name: Coronary Artery Disease
+
+[Term]
+id: ENSPHENO:0000392
+name: Coronary heart disease
+
+[Term]
+id: ENSPHENO:0000393
+name: Coronary spasm-Coronary spasm gender differentiated in women
+
+[Term]
+id: ENSPHENO:0000394
+name: Coumarin resistance
+
+[Term]
+id: ENSPHENO:0000395
+name: Craniofrontonasal syndrome
+
+[Term]
+id: ENSPHENO:0000396
+name: Craniometaphyseal dysplasia Jackson type
+
+[Term]
+id: ENSPHENO:0000397
+name: Crigler-Najjar syndrome type 2
+
+[Term]
+id: ENSPHENO:0000398
+name: Crohn's disease
+
+[Term]
+id: ENSPHENO:0000399
+name: Crohn's disease and Celiac disease
+
+[Term]
+id: ENSPHENO:0000400
+name: Crouzon syndrome with acanthosis nigricans
+
+[Term]
+id: ENSPHENO:0000401
+name: Cryptorchidism
+
+[Term]
+id: ENSPHENO:0000402
+name: Cystic fibrosis
+
+[Term]
+id: ENSPHENO:0000403
+name: Cystic fibrosis severity
+
+[Term]
+id: ENSPHENO:0000404
+name: D-dimer levels
+
+[Term]
+id: ENSPHENO:0000405
+name: DAOA ANTISENSE RNA
+
+[Term]
+id: ENSPHENO:0000406
+name: DEAFNESS AUTOSOMAL DOMINANT 2A
+
+[Term]
+id: ENSPHENO:0000407
+name: DEAFNESS AUTOSOMAL DOMINANT 2B
+
+[Term]
+id: ENSPHENO:0000408
+name: DEAFNESS AUTOSOMAL DOMINANT 3A
+
+[Term]
+id: ENSPHENO:0000409
+name: DEAFNESS AUTOSOMAL DOMINANT 4
+
+[Term]
+id: ENSPHENO:0000410
+name: DEAFNESS AUTOSOMAL DOMINANT 47
+
+[Term]
+id: ENSPHENO:0000411
+name: DEAFNESS AUTOSOMAL DOMINANT 6
+
+[Term]
+id: ENSPHENO:0000412
+name: DEAFNESS AUTOSOMAL DOMINANT WITHOUT VESTIBULAR INVOLVEMENT
+
+[Term]
+id: ENSPHENO:0000413
+name: DEAFNESS AUTOSOMAL RECESSIVE 1A
+
+[Term]
+id: ENSPHENO:0000414
+name: DEAFNESS AUTOSOMAL RECESSIVE 29
+
+[Term]
+id: ENSPHENO:0000415
+name: DEAFNESS AUTOSOMAL RECESSIVE 9
+
+[Term]
+id: ENSPHENO:0000416
+name: DEAFNESS X-LINKED 2
+
+[Term]
+id: ENSPHENO:0000417
+name: DEJERINE-SOTTAS NEUROPATHY AUTOSOMAL RECESSIVE
+
+[Term]
+id: ENSPHENO:0000418
+name: DEMENTIA FRONTOTEMPORAL WITH PARKINSONISM
+
+[Term]
+id: ENSPHENO:0000419
+name: DIABETES INSIPIDUS NEPHROGENIC AUTOSOMAL RECESSIVE
+
+[Term]
+id: ENSPHENO:0000420
+name: DIABETES INSIPIDUS NEPHROGENIC X-LINKED
+
+[Term]
+id: ENSPHENO:0000421
+name: DIABETES MELLITUS INSULIN-DEPENDENT 5
+
+[Term]
+id: ENSPHENO:0000422
+name: DIABETES MELLITUS NONINSULIN-DEPENDENT
+
+[Term]
+id: ENSPHENO:0000423
+name: DIABETES MELLITUS NONINSULIN-DEPENDENT SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000424
+name: DIABETES MELLITUS PERMANENT NEONATAL
+
+[Term]
+id: ENSPHENO:0000425
+name: DIABETES MELLITUS PERMANENT NEONATAL WITH NEUROLOGIC FEATURES
+
+[Term]
+id: ENSPHENO:0000426
+name: DIABETES MELLITUS TRANSIENT NEONATAL 1
+
+[Term]
+id: ENSPHENO:0000427
+name: DIARRHEA 2 WITH MICROVILLUS ATROPHY
+
+[Term]
+id: ENSPHENO:0000428
+name: DISRUPTED IN SCHIZOPHRENIA 1
+
+[Term]
+id: ENSPHENO:0000429
+name: DONOHUE SYNDROME
+
+[Term]
+id: ENSPHENO:0000430
+name: DYSLEXIA SUSCEPTIBILITY TO 2
+
+[Term]
+id: ENSPHENO:0000431
+name: DYSTONIA 1 TORSION MODIFIER OF
+
+[Term]
+id: ENSPHENO:0000432
+name: DYSTONIA 12
+
+[Term]
+id: ENSPHENO:0000433
+name: Deafness autosomal dominant type 2A
+
+[Term]
+id: ENSPHENO:0000434
+name: Deafness autosomal dominant type 3A
+
+[Term]
+id: ENSPHENO:0000435
+name: Deafness autosomal dominant type 6
+
+[Term]
+id: ENSPHENO:0000436
+name: Depression--quantitative trait
+
+[Term]
+id: ENSPHENO:0000437
+name: Diabetes related insulin traits
+
+[Term]
+id: ENSPHENO:0000438
+name: Diabetic nephropathy
+
+[Term]
+id: ENSPHENO:0000439
+name: Diabetic retinopathy
+
+[Term]
+id: ENSPHENO:0000440
+name: Dialysis-related mortality
+
+[Term]
+id: ENSPHENO:0000441
+name: Diastolic blood pressure
+
+[Term]
+id: ENSPHENO:0000442
+name: Digit length ratio
+
+[Term]
+id: ENSPHENO:0000443
+name: Dilated cardiomyopathy
+
+[Term]
+id: ENSPHENO:0000444
+name: Distal arthrogryposis type 2B
+
+[Term]
+id: ENSPHENO:0000445
+name: Distal renal tubular acidosis with preserved hearing
+
+[Term]
+id: ENSPHENO:0000446
+name: Drug-induced liver injury (flucloxacillin)
+
+[Term]
+id: ENSPHENO:0000447
+name: ECG and HR variability-Heart rate variability - SDNN - standard deviation of normal RR intervals
+
+[Term]
+id: ENSPHENO:0000448
+name: ECG and HR variability-Heart rate variability - TP - total power
+
+[Term]
+id: ENSPHENO:0000449
+name: ECG and HR variability-PR interval length
+
+[Term]
+id: ENSPHENO:0000450
+name: ECG and HR variability-QT interval length
+
+[Term]
+id: ENSPHENO:0000451
+name: ECG and HR variability-RR interval length
+
+[Term]
+id: ENSPHENO:0000452
+name: ECG dimensions brachial artery endothelial function treadmill exercise responses-Aortic root diameter
+
+[Term]
+id: ENSPHENO:0000453
+name: ECG dimensions brachial artery endothelial function treadmill exercise responses-Baseline brachial artery diameter
+
+[Term]
+id: ENSPHENO:0000454
+name: ECG dimensions brachial artery endothelial function treadmill exercise responses-Brachial artery flow-mediated dilation percent
+
+[Term]
+id: ENSPHENO:0000455
+name: ECG dimensions brachial artery endothelial function treadmill exercise responses-Brachial artery hyperemic flow velocity
+
+[Term]
+id: ENSPHENO:0000456
+name: ECG dimensions brachial artery endothelial function treadmill exercise responses-LV diastolic dimension
+
+[Term]
+id: ENSPHENO:0000457
+name: ECG dimensions brachial artery endothelial function treadmill exercise responses-LV systolic dimension
+
+[Term]
+id: ENSPHENO:0000458
+name: ECG dimensions brachial artery endothelial function treadmill exercise responses-LV wall thickness
+
+[Term]
+id: ENSPHENO:0000459
+name: ECG dimensions brachial artery endothelial function treadmill exercise responses-Left atrial diameter
+
+[Term]
+id: ENSPHENO:0000460
+name: ECG dimensions brachial artery endothelial function treadmill exercise responses-Mean Exercise Treadmill Test phenotypes
+
+[Term]
+id: ENSPHENO:0000461
+name: ECG dimensions brachial artery endothelial function treadmill exercise responses-Mean LV phenotypes
+
+[Term]
+id: ENSPHENO:0000462
+name: ECG dimensions brachial artery endothelial function treadmill exercise responses-Post-exercise 3 minute recovery systolic blood pressure
+
+[Term]
+id: ENSPHENO:0000463
+name: ECG dimensions brachial artery endothelial function treadmill exercise responses-Stage 2 exercise heart rate
+
+[Term]
+id: ENSPHENO:0000464
+name: ECTODERMAL DYSPLASIA ANHIDROTIC AUTOSOMAL RECESSIVE
+
+[Term]
+id: ENSPHENO:0000465
+name: ECTODERMAL DYSPLASIA HYPOHIDROTIC AUTOSOMAL DOMINANT
+
+[Term]
+id: ENSPHENO:0000466
+name: ECTODERMAL DYSPLASIA-SYNDACTYLY SYNDROME 1
+
+[Term]
+id: ENSPHENO:0000467
+name: EHLERS-DANLOS SYNDROME AUTOSOMAL RECESSIVE CARDIAC VALVULAR FORM
+
+[Term]
+id: ENSPHENO:0000468
+name: EHLERS-DANLOS SYNDROME MUSCULOCONTRACTURAL TYPE
+
+[Term]
+id: ENSPHENO:0000469
+name: EHLERS-DANLOS SYNDROME TYPE IV
+
+[Term]
+id: ENSPHENO:0000470
+name: EMERY-DREIFUSS MUSCULAR DYSTROPHY 4
+
+[Term]
+id: ENSPHENO:0000471
+name: EMERY-DREIFUSS MUSCULAR DYSTROPHY 5
+
+[Term]
+id: ENSPHENO:0000472
+name: EMERY-DREIFUSS MUSCULAR DYSTROPHY ATYPICAL AUTOSOMAL RECESSIVE
+
+[Term]
+id: ENSPHENO:0000473
+name: EMERY-DREIFUSS MUSCULAR DYSTROPHY AUTOSOMAL DOMINANT
+
+[Term]
+id: ENSPHENO:0000474
+name: ENDOMETRIAL CANCER
+
+[Term]
+id: ENSPHENO:0000475
+name: ENDPLATE ACETYLCHOLINESTERASE DEFICIENCY
+
+[Term]
+id: ENSPHENO:0000476
+name: ENHANCED S-CONE SYNDROME
+
+[Term]
+id: ENSPHENO:0000477
+name: EPIDERMOLYSIS BULLOSA JUNCTIONAL HERLITZ TYPE
+
+[Term]
+id: ENSPHENO:0000478
+name: EPIDERMOLYSIS BULLOSA SIMPLEX AUTOSOMAL RECESSIVE
+
+[Term]
+id: ENSPHENO:0000479
+name: EPIDERMOLYSIS BULLOSA SIMPLEX DOWLING-MEARA TYPE
+
+[Term]
+id: ENSPHENO:0000480
+name: EPIDERMOLYSIS BULLOSA SIMPLEX GENERALIZED
+
+[Term]
+id: ENSPHENO:0000481
+name: EPIDERMOLYSIS BULLOSA SIMPLEX LOCALIZED
+
+[Term]
+id: ENSPHENO:0000482
+name: EPIDERMOLYSIS BULLOSA SIMPLEX OGNA TYPE
+
+[Term]
+id: ENSPHENO:0000483
+name: EPIDERMOLYTIC HYPERKERATOSIS
+
+[Term]
+id: ENSPHENO:0000484
+name: EPILEPSY CHILDHOOD ABSENCE SUSCEPTIBILITY TO 6
+
+[Term]
+id: ENSPHENO:0000485
+name: EPILEPSY IDIOPATHIC GENERALIZED SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000486
+name: EPILEPTIC ENCEPHALOPATHY EARLY INFANTILE 7
+
+[Term]
+id: ENSPHENO:0000487
+name: EPISODIC ATAXIA TYPE 2
+
+[Term]
+id: ENSPHENO:0000488
+name: EPOXIDE HYDROLASE POLYMORPHISM
+
+[Term]
+id: ENSPHENO:0000489
+name: ERYTHERMALGIA PRIMARY
+
+[Term]
+id: ENSPHENO:0000490
+name: ERYTHROCYTOSIS FAMILIAL 1
+
+[Term]
+id: ENSPHENO:0000491
+name: ERYTHROCYTOSIS FAMILIAL 3
+
+[Term]
+id: ENSPHENO:0000492
+name: ERYTHROKERATODERMIA VARIABILIS ET PROGRESSIVA
+
+[Term]
+id: ENSPHENO:0000493
+name: ESTROGEN RECEPTOR 2
+
+[Term]
+id: ENSPHENO:0000494
+name: EXFOLIATION SYNDROME SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000495
+name: EXOCRINE PANCREATIC INSUFFICIENCY DYSERYTHROPOIETIC ANEMIA AND CALVARIAL HYPEROSTOSIS
+
+[Term]
+id: ENSPHENO:0000496
+name: EXOSTOSES MULTIPLE TYPE I
+
+[Term]
+id: ENSPHENO:0000497
+name: EXUDATIVE VITREORETINOPATHY 1
+
+[Term]
+id: ENSPHENO:0000498
+name: EXUDATIVE VITREORETINOPATHY 2 X-LINKED
+
+[Term]
+id: ENSPHENO:0000499
+name: EXUDATIVE VITREORETINOPATHY 4
+
+[Term]
+id: ENSPHENO:0000500
+name: EXUDATIVE VITREORETINOPATHY 4 AUTOSOMAL DOMINANT
+
+[Term]
+id: ENSPHENO:0000501
+name: EXUDATIVE VITREORETINOPATHY 4 AUTOSOMAL RECESSIVE
+
+[Term]
+id: ENSPHENO:0000502
+name: Early onset extreme obesity
+
+[Term]
+id: ENSPHENO:0000503
+name: Echocardiographic traits
+
+[Term]
+id: ENSPHENO:0000504
+name: Electrocardiographic conduction measures
+
+[Term]
+id: ENSPHENO:0000505
+name: Electrocardiographic traits
+
+[Term]
+id: ENSPHENO:0000506
+name: Emery-Dreifuss muscular dystrophy type 2
+
+[Term]
+id: ENSPHENO:0000507
+name: Entorhinal cortical thickness
+
+[Term]
+id: ENSPHENO:0000508
+name: Eosinophilic esophagitis (pediatric)
+
+[Term]
+id: ENSPHENO:0000509
+name: Epidermolysis bullosa simplex Dowling-Meara type
+
+[Term]
+id: ENSPHENO:0000510
+name: Epidermolysis bullosa simplex Koebner type
+
+[Term]
+id: ENSPHENO:0000511
+name: Epidermolysis bullosa simplex Weber-Cockayne type
+
+[Term]
+id: ENSPHENO:0000512
+name: Episodic ataxia type 2
+
+[Term]
+id: ENSPHENO:0000513
+name: Erectile dysfunction and prostate cancer treatment
+
+[Term]
+id: ENSPHENO:0000514
+name: Erythrocyte sedimentation rate
+
+[Term]
+id: ENSPHENO:0000515
+name: Esophageal cancer
+
+[Term]
+id: ENSPHENO:0000516
+name: Esophageal cancer and gastric cancer
+
+[Term]
+id: ENSPHENO:0000517
+name: Event-related brain oscillations
+
+[Term]
+id: ENSPHENO:0000518
+name: Exercise treadmill test traits
+
+[Term]
+id: ENSPHENO:0000519
+name: Eye color
+
+[Term]
+id: ENSPHENO:0000520
+name: F-cell distribution
+
+[Term]
+id: ENSPHENO:0000521
+name: FABRY DISEASE CARDIAC VARIANT
+
+[Term]
+id: ENSPHENO:0000522
+name: FACTOR VII-ACTIVATING PROTEASE MARBURG I
+
+[Term]
+id: ENSPHENO:0000523
+name: FAMILIAL ADENOMATOUS POLYPOSIS 1 ATTENUATED
+
+[Term]
+id: ENSPHENO:0000524
+name: FAMILIAL ADENOMATOUS POLYPOSIS 1 SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000525
+name: FAMILIAL COLD AUTOINFLAMMATORY SYNDROME 1
+
+[Term]
+id: ENSPHENO:0000526
+name: FAMILIAL MEDITERRANEAN FEVER
+
+[Term]
+id: ENSPHENO:0000527
+name: FANCONI ANEMIA COMPLEMENTATION GROUP C
+
+[Term]
+id: ENSPHENO:0000528
+name: FANCONI ANEMIA COMPLEMENTATION GROUP D1
+
+[Term]
+id: ENSPHENO:0000529
+name: FANCONI ANEMIA COMPLEMENTATION GROUP N
+
+[Term]
+id: ENSPHENO:0000530
+name: FANCONI RENOTUBULAR SYNDROME 2
+
+[Term]
+id: ENSPHENO:0000531
+name: FASTING PLASMA GLUCOSE LEVEL QUANTITATIVE TRAIT LOCUS 1
+
+[Term]
+id: ENSPHENO:0000532
+name: FASTING PLASMA GLUCOSE LEVEL QUANTITATIVE TRAIT LOCUS 2
+
+[Term]
+id: ENSPHENO:0000533
+name: FASTING PLASMA GLUCOSE LEVEL QUANTITATIVE TRAIT LOCUS 5
+
+[Term]
+id: ENSPHENO:0000534
+name: FETAL HEMOGLOBIN QUANTITATIVE TRAIT LOCUS 5
+
+[Term]
+id: ENSPHENO:0000535
+name: FH FRENCH CANADIAN 2
+
+[Term]
+id: ENSPHENO:0000536
+name: FH KUWAIT
+
+[Term]
+id: ENSPHENO:0000537
+name: FIBROBLAST GROWTH FACTOR 20
+
+[Term]
+id: ENSPHENO:0000538
+name: FINGERS RELATIVE LENGTH OF
+
+[Term]
+id: ENSPHENO:0000539
+name: FMO3 ACTIVITY DECREASED
+
+[Term]
+id: ENSPHENO:0000540
+name: FOCAL SEGMENTAL GLOMERULOSCLEROSIS 2
+
+[Term]
+id: ENSPHENO:0000541
+name: FOCAL SEGMENTAL GLOMERULOSCLEROSIS 4 SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000542
+name: FORKHEAD BOX J1
+
+[Term]
+id: ENSPHENO:0000543
+name: FORKHEAD BOX O3A
+
+[Term]
+id: ENSPHENO:0000544
+name: FRASER SYNDROME
+
+[Term]
+id: ENSPHENO:0000545
+name: FRIEDREICH ATAXIA
+
+[Term]
+id: ENSPHENO:0000546
+name: FRONTOTEMPORAL DEMENTIA
+
+[Term]
+id: ENSPHENO:0000547
+name: FRONTOTEMPORAL DEMENTIA CHROMOSOME 3-LINKED
+
+[Term]
+id: ENSPHENO:0000548
+name: FRONTOTEMPORAL LOBAR DEGENERATION WITH UBIQUITIN-POSITIVE INCLUSIONS
+
+[Term]
+id: ENSPHENO:0000549
+name: FUCOSIDOSIS
+
+[Term]
+id: ENSPHENO:0000550
+name: FUCOSYLTRANSFERASE 2
+
+[Term]
+id: ENSPHENO:0000551
+name: FUNDUS ALBIPUNCTATUS AUTOSOMAL RECESSIVE
+
+[Term]
+id: ENSPHENO:0000552
+name: FYVE RhoGEF AND PH DOMAIN-CONTAINING PROTEIN 6
+
+[Term]
+id: ENSPHENO:0000553
+name: Fabry disease
+
+[Term]
+id: ENSPHENO:0000554
+name: Factor XI deficiency
+
+[Term]
+id: ENSPHENO:0000555
+name: Familial Mediterranean fever autosomal dominant
+
+[Term]
+id: ENSPHENO:0000556
+name: Familial Mediterranean fever autosomal recessive
+
+[Term]
+id: ENSPHENO:0000557
+name: Familial arrhythmogenic right ventricular dysplasia type 8
+
+[Term]
+id: ENSPHENO:0000558
+name: Familial hypercholesterolemia
+
+[Term]
+id: ENSPHENO:0000559
+name: Familial hyperproinsulinemia
+
+[Term]
+id: ENSPHENO:0000560
+name: Familial juvenile hyperuricemic nephropathy type 1
+
+[Term]
+id: ENSPHENO:0000561
+name: Familial multiple endocrine neoplasia type I
+
+[Term]
+id: ENSPHENO:0000562
+name: Familial partial lipodystrophy type 2
+
+[Term]
+id: ENSPHENO:0000563
+name: Fanconi anemia
+
+[Term]
+id: ENSPHENO:0000564
+name: Fasting plasma glucose
+
+[Term]
+id: ENSPHENO:0000565
+name: Fetal hemoglobin levels
+
+[Term]
+id: ENSPHENO:0000566
+name: Folate pathway vitamin levels
+
+[Term]
+id: ENSPHENO:0000567
+name: Freckles
+
+[Term]
+id: ENSPHENO:0000568
+name: Freckling
+
+[Term]
+id: ENSPHENO:0000569
+name: Fundus flavimaculatus
+
+[Term]
+id: ENSPHENO:0000570
+name: G6PD MEDITERRANEAN
+
+[Term]
+id: ENSPHENO:0000571
+name: G6PD ORISSA
+
+[Term]
+id: ENSPHENO:0000572
+name: GALACTOKINASE DEFICIENCY
+
+[Term]
+id: ENSPHENO:0000573
+name: GAUCHER DISEASE TYPE I
+
+[Term]
+id: ENSPHENO:0000574
+name: GC1/GC2 POLYMORPHISM
+
+[Term]
+id: ENSPHENO:0000575
+name: GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS
+
+[Term]
+id: ENSPHENO:0000576
+name: GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS TYPE 1
+
+[Term]
+id: ENSPHENO:0000577
+name: GERSTMANN-STRAUSSLER DISEASE
+
+[Term]
+id: ENSPHENO:0000578
+name: GLAUCOMA 1 OPEN ANGLE A
+
+[Term]
+id: ENSPHENO:0000579
+name: GLAUCOMA 1 OPEN ANGLE F
+
+[Term]
+id: ENSPHENO:0000580
+name: GLIOMA SUSCEPTIBILITY 5
+
+[Term]
+id: ENSPHENO:0000581
+name: GLIOMA SUSCEPTIBILITY 6
+
+[Term]
+id: ENSPHENO:0000582
+name: GLUCOCORTICOID DEFICIENCY 1
+
+[Term]
+id: ENSPHENO:0000583
+name: GLUT1 DEFICIENCY SYNDROME 1
+
+[Term]
+id: ENSPHENO:0000584
+name: GLUTAMINE DEFICIENCY CONGENITAL
+
+[Term]
+id: ENSPHENO:0000585
+name: GLUTARIC ACIDEMIA I
+
+[Term]
+id: ENSPHENO:0000586
+name: GLUTARIC ACIDEMIA IIB
+
+[Term]
+id: ENSPHENO:0000587
+name: GLUTARIC ACIDURIA IIB
+
+[Term]
+id: ENSPHENO:0000588
+name: GLYCOGEN STORAGE DISEASE III
+
+[Term]
+id: ENSPHENO:0000589
+name: GLYCOGEN STORAGE DISEASE IV COMBINED HEPATIC AND MYOPATHIC
+
+[Term]
+id: ENSPHENO:0000590
+name: GLYCOGEN STORAGE DISEASE IXb
+
+[Term]
+id: ENSPHENO:0000591
+name: GLYCOGEN STORAGE DISEASE Ia
+
+[Term]
+id: ENSPHENO:0000592
+name: GLYCOGEN STORAGE DISEASE Ib
+
+[Term]
+id: ENSPHENO:0000593
+name: GLYCOGEN STORAGE DISEASE VI
+
+[Term]
+id: ENSPHENO:0000594
+name: GLYCOGEN STORAGE DISEASE X
+
+[Term]
+id: ENSPHENO:0000595
+name: GM1-GANGLIOSIDOSIS TYPE I
+
+[Term]
+id: ENSPHENO:0000596
+name: GM2-GANGLIOSIDOSIS LATE ONSET
+
+[Term]
+id: ENSPHENO:0000597
+name: GM2-gangliosidosis type 1
+
+[Term]
+id: ENSPHENO:0000598
+name: GRANULOMATOUS DISEASE CHRONIC AUTOSOMAL RECESSIVE CYTOCHROME b-NEGATIVE
+
+[Term]
+id: ENSPHENO:0000599
+name: GRAVES DISEASE SUSCEPTIBILITY TO 4
+
+[Term]
+id: ENSPHENO:0000600
+name: GROWTH HORMONE DEFICIENCY WITH PITUITARY ANOMALIES
+
+[Term]
+id: ENSPHENO:0000601
+name: GUANIDINOACETATE METHYLTRANSFERASE DEFICIENCY
+
+[Term]
+id: ENSPHENO:0000602
+name: Galactosialidosis
+
+[Term]
+id: ENSPHENO:0000603
+name: Gallstone disease
+
+[Term]
+id: ENSPHENO:0000604
+name: Gaucher disease
+
+[Term]
+id: ENSPHENO:0000605
+name: Gaucher disease type 1
+
+[Term]
+id: ENSPHENO:0000606
+name: General cognitive ability
+
+[Term]
+id: ENSPHENO:0000607
+name: Generalized thyroid hormone resistance
+
+[Term]
+id: ENSPHENO:0000608
+name: Gilbert syndrome
+
+[Term]
+id: ENSPHENO:0000609
+name: Glaucoma
+
+[Term]
+id: ENSPHENO:0000610
+name: Glaucoma (exfoliation)
+
+[Term]
+id: ENSPHENO:0000611
+name: Glaucoma (primary open-angle)
+
+[Term]
+id: ENSPHENO:0000612
+name: Glaucoma-Exfoliation glaucoma
+
+[Term]
+id: ENSPHENO:0000613
+name: Glioma
+
+[Term]
+id: ENSPHENO:0000614
+name: Glioma (high-grade)
+
+[Term]
+id: ENSPHENO:0000615
+name: Glutamate formiminotransferase deficiency
+
+[Term]
+id: ENSPHENO:0000616
+name: Glycated hemoglobin levels
+
+[Term]
+id: ENSPHENO:0000617
+name: Glycogen storage disease type 1A
+
+[Term]
+id: ENSPHENO:0000618
+name: Graves' disease
+
+[Term]
+id: ENSPHENO:0000619
+name: HBG1 POLYMORPHISM
+
+[Term]
+id: ENSPHENO:0000620
+name: HDL cholesterol
+
+[Term]
+id: ENSPHENO:0000621
+name: HEARING LOSS NOISE-INDUCED SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000622
+name: HEMOCHROMATOSIS TYPE 2A
+
+[Term]
+id: ENSPHENO:0000623
+name: HEMOCHROMATOSIS TYPE 2B
+
+[Term]
+id: ENSPHENO:0000624
+name: HEMOCHROMATOSIS TYPE 3
+
+[Term]
+id: ENSPHENO:0000625
+name: HEMOCHROMATOSIS TYPE 4
+
+[Term]
+id: ENSPHENO:0000626
+name: HEMOGLOBIN A(2) LUCANIA
+
+[Term]
+id: ENSPHENO:0000627
+name: HEMOGLOBIN A(2) NYU
+
+[Term]
+id: ENSPHENO:0000628
+name: HEMOGLOBIN A(2) ZAGREB
+
+[Term]
+id: ENSPHENO:0000629
+name: HEMOGLOBIN ALESHA
+
+[Term]
+id: ENSPHENO:0000630
+name: HEMOGLOBIN ALTDORF
+
+[Term]
+id: ENSPHENO:0000631
+name: HEMOGLOBIN ANAMOSA
+
+[Term]
+id: ENSPHENO:0000632
+name: HEMOGLOBIN ATHENS-GEORGIA
+
+[Term]
+id: ENSPHENO:0000633
+name: HEMOGLOBIN BETHESDA
+
+[Term]
+id: ENSPHENO:0000634
+name: HEMOGLOBIN BRIE COMTE ROBERT
+
+[Term]
+id: ENSPHENO:0000635
+name: HEMOGLOBIN BRISTOL
+
+[Term]
+id: ENSPHENO:0000636
+name: HEMOGLOBIN BRYN MAWR
+
+[Term]
+id: ENSPHENO:0000637
+name: HEMOGLOBIN BURKE
+
+[Term]
+id: ENSPHENO:0000638
+name: HEMOGLOBIN BUSHWICK
+
+[Term]
+id: ENSPHENO:0000639
+name: HEMOGLOBIN CAEN
+
+[Term]
+id: ENSPHENO:0000640
+name: HEMOGLOBIN CAMPERDOWN
+
+[Term]
+id: ENSPHENO:0000641
+name: HEMOGLOBIN CASTILLA
+
+[Term]
+id: ENSPHENO:0000642
+name: HEMOGLOBIN CHAROLLES
+
+[Term]
+id: ENSPHENO:0000643
+name: HEMOGLOBIN CHRISTCHURCH
+
+[Term]
+id: ENSPHENO:0000644
+name: HEMOGLOBIN CONSTANT SPRING
+
+[Term]
+id: ENSPHENO:0000645
+name: HEMOGLOBIN DARTMOUTH
+
+[Term]
+id: ENSPHENO:0000646
+name: HEMOGLOBIN DEBROUSSE
+
+[Term]
+id: ENSPHENO:0000647
+name: HEMOGLOBIN DUINO
+
+[Term]
+id: ENSPHENO:0000648
+name: HEMOGLOBIN E
+
+[Term]
+id: ENSPHENO:0000649
+name: HEMOGLOBIN F (CARLTON)
+
+[Term]
+id: ENSPHENO:0000650
+name: HEMOGLOBIN F (DAMMAM)
+
+[Term]
+id: ENSPHENO:0000651
+name: HEMOGLOBIN F (MACEDONIA II)
+
+[Term]
+id: ENSPHENO:0000652
+name: HEMOGLOBIN F (MARIETTA)
+
+[Term]
+id: ENSPHENO:0000653
+name: HEMOGLOBIN F (ONODA)
+
+[Term]
+id: ENSPHENO:0000654
+name: HEMOGLOBIN F (PORDENONE)
+
+[Term]
+id: ENSPHENO:0000655
+name: HEMOGLOBIN F (PORTO TORRES)
+
+[Term]
+id: ENSPHENO:0000656
+name: HEMOGLOBIN F (SARDINIA)
+
+[Term]
+id: ENSPHENO:0000657
+name: HEMOGLOBIN F (SIENA)
+
+[Term]
+id: ENSPHENO:0000658
+name: HEMOGLOBIN F (TEXAS I)
+
+[Term]
+id: ENSPHENO:0000659
+name: HEMOGLOBIN F (VICTORIA JUBILEE)
+
+[Term]
+id: ENSPHENO:0000660
+name: HEMOGLOBIN F (WAYNESBORO)
+
+[Term]
+id: ENSPHENO:0000661
+name: HEMOGLOBIN F (YAMAGUCHI)
+
+[Term]
+id: ENSPHENO:0000662
+name: HEMOGLOBIN FUKUYAMA
+
+[Term]
+id: ENSPHENO:0000663
+name: HEMOGLOBIN G (COPENHAGEN)
+
+[Term]
+id: ENSPHENO:0000664
+name: HEMOGLOBIN G (FERRARA)
+
+[Term]
+id: ENSPHENO:0000665
+name: HEMOGLOBIN G (HONOLULU)
+
+[Term]
+id: ENSPHENO:0000666
+name: HEMOGLOBIN GRANGE-BLANCHE
+
+[Term]
+id: ENSPHENO:0000667
+name: HEMOGLOBIN HAMADAN
+
+[Term]
+id: ENSPHENO:0000668
+name: HEMOGLOBIN HAMMERSMITH
+
+[Term]
+id: ENSPHENO:0000669
+name: HEMOGLOBIN HOWICK
+
+[Term]
+id: ENSPHENO:0000670
+name: HEMOGLOBIN ICARIA
+
+[Term]
+id: ENSPHENO:0000671
+name: HEMOGLOBIN J (BUDA)
+
+[Term]
+id: ENSPHENO:0000672
+name: HEMOGLOBIN J (CHICAGO)
+
+[Term]
+id: ENSPHENO:0000673
+name: HEMOGLOBIN J (EUROPA)
+
+[Term]
+id: ENSPHENO:0000674
+name: HEMOGLOBIN J (IRAN)
+
+[Term]
+id: ENSPHENO:0000675
+name: HEMOGLOBIN J (RAMBAM)
+
+[Term]
+id: ENSPHENO:0000676
+name: HEMOGLOBIN J (SICILIA)
+
+[Term]
+id: ENSPHENO:0000677
+name: HEMOGLOBIN J (TAICHUNG)
+
+[Term]
+id: ENSPHENO:0000678
+name: HEMOGLOBIN J (TONGARIKI)
+
+[Term]
+id: ENSPHENO:0000679
+name: HEMOGLOBIN JAMAICA PLAIN
+
+[Term]
+id: ENSPHENO:0000680
+name: HEMOGLOBIN JOHNSTOWN
+
+[Term]
+id: ENSPHENO:0000681
+name: HEMOGLOBIN KOCHI
+
+[Term]
+id: ENSPHENO:0000682
+name: HEMOGLOBIN LA DESIRADE
+
+[Term]
+id: ENSPHENO:0000683
+name: HEMOGLOBIN LINKOPING
+
+[Term]
+id: ENSPHENO:0000684
+name: HEMOGLOBIN M (SASKATOON)
+
+[Term]
+id: ENSPHENO:0000685
+name: HEMOGLOBIN MAPUTO
+
+[Term]
+id: ENSPHENO:0000686
+name: HEMOGLOBIN MEDICINE LAKE
+
+[Term]
+id: ENSPHENO:0000687
+name: HEMOGLOBIN MELUSINE
+
+[Term]
+id: ENSPHENO:0000688
+name: HEMOGLOBIN MONTEFIORE
+
+[Term]
+id: ENSPHENO:0000689
+name: HEMOGLOBIN MOSCVA
+
+[Term]
+id: ENSPHENO:0000690
+name: HEMOGLOBIN NAGASAKI
+
+[Term]
+id: ENSPHENO:0000691
+name: HEMOGLOBIN NIKOSIA
+
+[Term]
+id: ENSPHENO:0000692
+name: HEMOGLOBIN NORTH CHICAGO
+
+[Term]
+id: ENSPHENO:0000693
+name: HEMOGLOBIN O (PADOVA)
+
+[Term]
+id: ENSPHENO:0000694
+name: HEMOGLOBIN OLOMOUC
+
+[Term]
+id: ENSPHENO:0000695
+name: HEMOGLOBIN OSLER
+
+[Term]
+id: ENSPHENO:0000696
+name: HEMOGLOBIN OWARI
+
+[Term]
+id: ENSPHENO:0000697
+name: HEMOGLOBIN PAVIE
+
+[Term]
+id: ENSPHENO:0000698
+name: HEMOGLOBIN PERTH
+
+[Term]
+id: ENSPHENO:0000699
+name: HEMOGLOBIN PETERBOROUGH
+
+[Term]
+id: ENSPHENO:0000700
+name: HEMOGLOBIN POISSY
+
+[Term]
+id: ENSPHENO:0000701
+name: HEMOGLOBIN POTOMAC
+
+[Term]
+id: ENSPHENO:0000702
+name: HEMOGLOBIN PRESBYTERIAN
+
+[Term]
+id: ENSPHENO:0000703
+name: HEMOGLOBIN QUESTEMBERT
+
+[Term]
+id: ENSPHENO:0000704
+name: HEMOGLOBIN RENERT
+
+[Term]
+id: ENSPHENO:0000705
+name: HEMOGLOBIN ROCKFORD
+
+[Term]
+id: ENSPHENO:0000706
+name: HEMOGLOBIN ROTHSCHILD
+
+[Term]
+id: ENSPHENO:0000707
+name: HEMOGLOBIN SAKI
+
+[Term]
+id: ENSPHENO:0000708
+name: HEMOGLOBIN SAN DIEGO
+
+[Term]
+id: ENSPHENO:0000709
+name: HEMOGLOBIN SAVANNAH
+
+[Term]
+id: ENSPHENO:0000710
+name: HEMOGLOBIN SEAL ROCK
+
+[Term]
+id: ENSPHENO:0000711
+name: HEMOGLOBIN SHEPHERDS BUSH
+
+[Term]
+id: ENSPHENO:0000712
+name: HEMOGLOBIN SILVER SPRINGS
+
+[Term]
+id: ENSPHENO:0000713
+name: HEMOGLOBIN SOGN
+
+[Term]
+id: ENSPHENO:0000714
+name: HEMOGLOBIN STANMORE
+
+[Term]
+id: ENSPHENO:0000715
+name: HEMOGLOBIN T (CAMBODIA)
+
+[Term]
+id: ENSPHENO:0000716
+name: HEMOGLOBIN TACOMA
+
+[Term]
+id: ENSPHENO:0000717
+name: HEMOGLOBIN TARRANT
+
+[Term]
+id: ENSPHENO:0000718
+name: HEMOGLOBIN TIZI-OUZOU
+
+[Term]
+id: ENSPHENO:0000719
+name: HEMOGLOBIN TUNIS
+
+[Term]
+id: ENSPHENO:0000720
+name: HEMOGLOBIN VAL DE MARNE
+
+[Term]
+id: ENSPHENO:0000721
+name: HEMOGLOBIN VOLGA
+
+[Term]
+id: ENSPHENO:0000722
+name: HEMOGLOBIN WARWICKSHIRE
+
+[Term]
+id: ENSPHENO:0000723
+name: HEMOGLOBIN WIEN
+
+[Term]
+id: ENSPHENO:0000724
+name: HEMOGLOBIN WINDSOR
+
+[Term]
+id: ENSPHENO:0000725
+name: HEMOGLOBIN--BETA LOCUS
+
+[Term]
+id: ENSPHENO:0000726
+name: HEMOLYTIC ANEMIA NONSPHEROCYTIC DUE TO GLUCOSE PHOSPHATE ISOMERASE DEFICIENCY
+
+[Term]
+id: ENSPHENO:0000727
+name: HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS FAMILIAL 2
+
+[Term]
+id: ENSPHENO:0000728
+name: HEMOPHILIA B
+
+[Term]
+id: ENSPHENO:0000729
+name: HEPATITIS A VIRUS CELLULAR RECEPTOR 1
+
+[Term]
+id: ENSPHENO:0000730
+name: HEPATOBLASTOMA SOMATIC
+
+[Term]
+id: ENSPHENO:0000731
+name: HERMANSKY-PUDLAK SYNDROME 7
+
+[Term]
+id: ENSPHENO:0000732
+name: HERPES SIMPLEX ENCEPHALITIS SUSCEPTIBILITY TO 2
+
+[Term]
+id: ENSPHENO:0000733
+name: HETEROTAXY VISCERAL 1 X-LINKED
+
+[Term]
+id: ENSPHENO:0000734
+name: HHH SYNDROME
+
+[Term]
+id: ENSPHENO:0000735
+name: HIGH DENSITY LIPOPROTEIN CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 10
+
+[Term]
+id: ENSPHENO:0000736
+name: HIGH DENSITY LIPOPROTEIN CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 11
+
+[Term]
+id: ENSPHENO:0000737
+name: HIRSCHSPRUNG DISEASE PROTECTION AGAINST
+
+[Term]
+id: ENSPHENO:0000738
+name: HIRSCHSPRUNG DISEASE SUSCEPTIBILITY TO 1
+
+[Term]
+id: ENSPHENO:0000739
+name: HIRSCHSPRUNG DISEASE SUSCEPTIBILITY TO 2
+
+[Term]
+id: ENSPHENO:0000740
+name: HIRSCHSPRUNG DISEASE SUSCEPTIBILITY TO 4
+
+[Term]
+id: ENSPHENO:0000741
+name: HISTIDINEMIA
+
+[Term]
+id: ENSPHENO:0000742
+name: HIV-1 control
+
+[Term]
+id: ENSPHENO:0000743
+name: HIV-1 disease progression-HIV-1 viral load at set point
+
+[Term]
+id: ENSPHENO:0000744
+name: HIV-1 susceptibility
+
+[Term]
+id: ENSPHENO:0000745
+name: HMG-CoA synthase deficiency
+
+[Term]
+id: ENSPHENO:0000746
+name: HOLOPROSENCEPHALY 3
+
+[Term]
+id: ENSPHENO:0000747
+name: HOLT-ORAM SYNDROME
+
+[Term]
+id: ENSPHENO:0000748
+name: HOMOCYSTINURIA cblD TYPE VARIANT 1
+
+[Term]
+id: ENSPHENO:0000749
+name: HUMAN IMMUNODEFICIENCY VIRUS TYPE 1 RESISTANCE TO
+
+[Term]
+id: ENSPHENO:0000750
+name: HUNTINGTIN-ASSOCIATED PROTEIN 1
+
+[Term]
+id: ENSPHENO:0000751
+name: HUNTINGTON DISEASE
+
+[Term]
+id: ENSPHENO:0000752
+name: HYDATIDIFORM MOLE RECURRENT
+
+[Term]
+id: ENSPHENO:0000753
+name: HYDATIDIFORM MOLE RECURRENT 1
+
+[Term]
+id: ENSPHENO:0000754
+name: HYPER-IgD SYNDROME
+
+[Term]
+id: ENSPHENO:0000755
+name: HYPER-IgE RECURRENT INFECTION SYNDROME AUTOSOMAL DOMINANT
+
+[Term]
+id: ENSPHENO:0000756
+name: HYPERCAROTENEMIA AND VITAMIN A DEFICIENCY AUTOSOMAL DOMINANT
+
+[Term]
+id: ENSPHENO:0000757
+name: HYPERINSULINEMIC HYPOGLYCEMIA FAMILIAL 2
+
+[Term]
+id: ENSPHENO:0000758
+name: HYPERINSULINEMIC HYPOGLYCEMIA FAMILIAL 3
+
+[Term]
+id: ENSPHENO:0000759
+name: HYPERLIPIDEMIA FAMILIAL COMBINED SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000760
+name: HYPERPARATHYROIDISM-JAW TUMOR SYNDROME
+
+[Term]
+id: ENSPHENO:0000761
+name: HYPERPHENYLALANINEMIA BH4-DEFICIENT A
+
+[Term]
+id: ENSPHENO:0000762
+name: HYPERPHENYLALANINEMIA BH4-DEFICIENT A DUE TO PARTIAL PTS DEFICIENCY
+
+[Term]
+id: ENSPHENO:0000763
+name: HYPERPHENYLALANINEMIA BH4-DEFICIENT B
+
+[Term]
+id: ENSPHENO:0000764
+name: HYPERPHENYLALANINEMIA BH4-DEFICIENT C
+
+[Term]
+id: ENSPHENO:0000765
+name: HYPERPHENYLALANINEMIA BH4-DEFICIENT D
+
+[Term]
+id: ENSPHENO:0000766
+name: HYPERPROINSULINEMIA FAMILIAL
+
+[Term]
+id: ENSPHENO:0000767
+name: HYPERPROLINEMIA TYPE I
+
+[Term]
+id: ENSPHENO:0000768
+name: HYPERURICEMIC NEPHROPATHY FAMILIAL JUVENILE 1
+
+[Term]
+id: ENSPHENO:0000769
+name: HYPOCALCIURIC HYPERCALCEMIA FAMILIAL
+
+[Term]
+id: ENSPHENO:0000770
+name: HYPOGONADOTROPIC HYPOGONADISM
+
+[Term]
+id: ENSPHENO:0000771
+name: HYPOKALEMIC PERIODIC PARALYSIS TYPE 1
+
+[Term]
+id: ENSPHENO:0000772
+name: HYPOMAGNESEMIA 3 RENAL
+
+[Term]
+id: ENSPHENO:0000773
+name: HYPOMAGNESEMIA PRIMARY
+
+[Term]
+id: ENSPHENO:0000774
+name: HYPOPARATHYROIDISM FAMILIAL ISOLATED
+
+[Term]
+id: ENSPHENO:0000775
+name: HYPOPARATHYROIDISM SPORADIC
+
+[Term]
+id: ENSPHENO:0000776
+name: HYPOPARATHYROIDISM-RETARDATION-DYSMORPHISM SYNDROME
+
+[Term]
+id: ENSPHENO:0000777
+name: HYPOPHOSPHATEMIC RICKETS AUTOSOMAL RECESSIVE 2
+
+[Term]
+id: ENSPHENO:0000778
+name: HYPOTHYROIDISM CONGENITAL NONGOITROUS 2
+
+[Term]
+id: ENSPHENO:0000779
+name: HYPOTHYROIDISM THYROIDAL WITH SPIKY HAIR AND CLEFT PALATE
+
+[Term]
+id: ENSPHENO:0000780
+name: HYPOURICEMIA RENAL 1
+
+[Term]
+id: ENSPHENO:0000781
+name: HYPOURICEMIA RENAL 2
+
+[Term]
+id: ENSPHENO:0000782
+name: Haemotological (blood) traits-Fetal hemoglobin (HbF)
+
+[Term]
+id: ENSPHENO:0000783
+name: Haemotological (blood) traits-Hemoglobin (Hb)
+
+[Term]
+id: ENSPHENO:0000784
+name: Haemotological (blood) traits-Hemoglobin A2 (HbA2)
+
+[Term]
+id: ENSPHENO:0000785
+name: Haemotological (blood) traits-Mean corpuscular hemoglobin (MCH)
+
+[Term]
+id: ENSPHENO:0000786
+name: Hair eye and skin pigmentation-Blue versus brown eye pigmentation
+
+[Term]
+id: ENSPHENO:0000787
+name: Hair eye and skin pigmentation-Blue versus green eye pigmentation
+
+[Term]
+id: ENSPHENO:0000788
+name: Hair eye and skin pigmentation-Freckles
+
+[Term]
+id: ENSPHENO:0000789
+name: Hair eye and skin pigmentation-Red hair pigmentation
+
+[Term]
+id: ENSPHENO:0000790
+name: Hair morphology
+
+[Term]
+id: ENSPHENO:0000791
+name: Heart failure
+
+[Term]
+id: ENSPHENO:0000792
+name: Height
+
+[Term]
+id: ENSPHENO:0000793
+name: Hematocrit
+
+[Term]
+id: ENSPHENO:0000794
+name: Hematological and biochemical traits
+
+[Term]
+id: ENSPHENO:0000795
+name: Hematological parameters
+
+[Term]
+id: ENSPHENO:0000796
+name: Hemochromatosis type 2A
+
+[Term]
+id: ENSPHENO:0000797
+name: Hemoglobin
+
+[Term]
+id: ENSPHENO:0000798
+name: Hemophilia A
+
+[Term]
+id: ENSPHENO:0000799
+name: Hemostatic factors and hematological phenotypes
+
+[Term]
+id: ENSPHENO:0000800
+name: Hennekam lymphangiectasia-lymphedema syndrome
+
+[Term]
+id: ENSPHENO:0000801
+name: Hepatic adverse events with thrombin inhibitor ximelagatran-Serum alanine aminotransferase levels
+
+[Term]
+id: ENSPHENO:0000802
+name: Hepatitis B
+
+[Term]
+id: ENSPHENO:0000803
+name: Hepatocellular carcinoma
+
+[Term]
+id: ENSPHENO:0000804
+name: Hereditary hemorrhagic telangiectasia type 2
+
+[Term]
+id: ENSPHENO:0000805
+name: Hereditary non-polyposis colorectal cancer type 2
+
+[Term]
+id: ENSPHENO:0000806
+name: Hip geometry
+
+[Term]
+id: ENSPHENO:0000807
+name: Hippocampal atrophy
+
+[Term]
+id: ENSPHENO:0000808
+name: Hirschsprung disease type 2
+
+[Term]
+id: ENSPHENO:0000809
+name: Hirschsprung disease type 4
+
+[Term]
+id: ENSPHENO:0000810
+name: Holocarboxylase synthetase deficiency
+
+[Term]
+id: ENSPHENO:0000811
+name: Hoyeraal-Hreidarsson syndrome
+
+[Term]
+id: ENSPHENO:0000812
+name: Human episodic memory
+
+[Term]
+id: ENSPHENO:0000813
+name: Hutchinson-Gilford progeria syndrome
+
+[Term]
+id: ENSPHENO:0000814
+name: Hypertension
+
+[Term]
+id: ENSPHENO:0000815
+name: Hypertriglyceridemia
+
+[Term]
+id: ENSPHENO:0000816
+name: Hypochondroplasia
+
+[Term]
+id: ENSPHENO:0000817
+name: Hypophosphatemic nephrolithiasis/osteoporosis type 2
+
+[Term]
+id: ENSPHENO:0000818
+name: Hypoplastic left heart syndrome
+
+[Term]
+id: ENSPHENO:0000819
+name: Hypospadias
+
+[Term]
+id: ENSPHENO:0000820
+name: Hypotrichosis-lymphedema-telangiectasia syndrome
+
+[Term]
+id: ENSPHENO:0000821
+name: ICHTHYOSIS LAMELLAR 3
+
+[Term]
+id: ENSPHENO:0000822
+name: IMMUNITY-RELATED GTPase FAMILY M
+
+[Term]
+id: ENSPHENO:0000823
+name: IMMUNODEFICIENCY DUE TO FICOLIN 3 DEFICIENCY
+
+[Term]
+id: ENSPHENO:0000824
+name: IMMUNODEFICIENCY WITH HYPER-IgM TYPE 2
+
+[Term]
+id: ENSPHENO:0000825
+name: IMMUNODEFICIENCY WITH HYPER-IgM TYPE 3
+
+[Term]
+id: ENSPHENO:0000826
+name: IMMUNODEFICIENCY WITH HYPER-IgM TYPE 5
+
+[Term]
+id: ENSPHENO:0000827
+name: INFERTILITY MALE AND FEMALE
+
+[Term]
+id: ENSPHENO:0000828
+name: INFLAMMATORY BOWEL DISEASE 1
+
+[Term]
+id: ENSPHENO:0000829
+name: INFLAMMATORY BOWEL DISEASE 1 SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000830
+name: INFLAMMATORY BOWEL DISEASE 10
+
+[Term]
+id: ENSPHENO:0000831
+name: INFLAMMATORY BOWEL DISEASE 17
+
+[Term]
+id: ENSPHENO:0000832
+name: INFLAMMATORY BOWEL DISEASE 19
+
+[Term]
+id: ENSPHENO:0000833
+name: INFLAMMATORY BOWEL DISEASE 20
+
+[Term]
+id: ENSPHENO:0000834
+name: INFLAMMATORY BOWEL DISEASE 22
+
+[Term]
+id: ENSPHENO:0000835
+name: INFLAMMATORY BOWEL DISEASE 24
+
+[Term]
+id: ENSPHENO:0000836
+name: INFLAMMATORY BOWEL DISEASE 26
+
+[Term]
+id: ENSPHENO:0000837
+name: INFLAMMATORY BOWEL DISEASE 27
+
+[Term]
+id: ENSPHENO:0000838
+name: INFLAMMATORY BOWEL DISEASE 3
+
+[Term]
+id: ENSPHENO:0000839
+name: INFLAMMATORY BOWEL DISEASE 8
+
+[Term]
+id: ENSPHENO:0000840
+name: INSENSITIVITY TO PAIN CONGENITAL WITH ANHIDROSIS
+
+[Term]
+id: ENSPHENO:0000841
+name: INSULIN-LIKE GROWTH FACTOR I
+
+[Term]
+id: ENSPHENO:0000842
+name: INTERFERON REGULATORY FACTOR 1
+
+[Term]
+id: ENSPHENO:0000843
+name: INTERFERON REGULATORY FACTOR 6
+
+[Term]
+id: ENSPHENO:0000844
+name: INTERFERON-RELATED DEVELOPMENTAL REGULATOR 1
+
+[Term]
+id: ENSPHENO:0000845
+name: INTERLEUKIN 23 RECEPTOR
+
+[Term]
+id: ENSPHENO:0000846
+name: INTERLEUKIN 6
+
+[Term]
+id: ENSPHENO:0000847
+name: INTERVERTEBRAL DISC DISEASE SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000848
+name: INTRINSIC FACTOR DEFICIENCY
+
+[Term]
+id: ENSPHENO:0000849
+name: ISOVALERIC ACIDEMIA
+
+[Term]
+id: ENSPHENO:0000850
+name: ISOVALERIC ACIDEMIA TYPE I
+
+[Term]
+id: ENSPHENO:0000851
+name: Ichthyosis lamellar type 2
+
+[Term]
+id: ENSPHENO:0000852
+name: Immunodeficiency with hyper-IgM type 3
+
+[Term]
+id: ENSPHENO:0000853
+name: Immunoglobulin A
+
+[Term]
+id: ENSPHENO:0000854
+name: Immunoglobulin A nephropathy
+
+[Term]
+id: ENSPHENO:0000855
+name: Inflammatory bowel disease
+
+[Term]
+id: ENSPHENO:0000856
+name: Inflammatory bowel disease (early onset)
+
+[Term]
+id: ENSPHENO:0000857
+name: Information processing speed
+
+[Term]
+id: ENSPHENO:0000858
+name: Insulin resistance/response
+
+[Term]
+id: ENSPHENO:0000859
+name: Intracranial aneurysm
+
+[Term]
+id: ENSPHENO:0000860
+name: Iris color
+
+[Term]
+id: ENSPHENO:0000861
+name: Ischemic stroke
+
+[Term]
+id: ENSPHENO:0000862
+name: Ischemic stroke-Large vessel stroke
+
+[Term]
+id: ENSPHENO:0000863
+name: Ischemic stroke-Small vessel stroke
+
+[Term]
+id: ENSPHENO:0000864
+name: Ischemic stroke-Stroke cardioembolism
+
+[Term]
+id: ENSPHENO:0000865
+name: JANUS KINASE 2
+
+[Term]
+id: ENSPHENO:0000866
+name: JERVELL AND LANGE-NIELSEN SYNDROME 2
+
+[Term]
+id: ENSPHENO:0000867
+name: JOUBERT SYNDROME 3
+
+[Term]
+id: ENSPHENO:0000868
+name: Jervell and Lange-Nielsen syndrome type 2
+
+[Term]
+id: ENSPHENO:0000869
+name: KALLMANN SYNDROME 3
+
+[Term]
+id: ENSPHENO:0000870
+name: KELOID FORMATION
+
+[Term]
+id: ENSPHENO:0000871
+name: KIAA0319 GENE
+
+[Term]
+id: ENSPHENO:0000872
+name: KLIPPEL-FEIL SYNDROME 1 AUTOSOMAL DOMINANT
+
+[Term]
+id: ENSPHENO:0000873
+name: KNOBLOCH SYNDROME 1
+
+[Term]
+id: ENSPHENO:0000874
+name: KNOBLOCH SYNDROME TYPE I
+
+[Term]
+id: ENSPHENO:0000875
+name: KNUCKLE PADS LEUKONYCHIA AND SENSORINEURAL DEAFNESS
+
+[Term]
+id: ENSPHENO:0000876
+name: Keloid
+
+[Term]
+id: ENSPHENO:0000877
+name: Keratitis-ichthyosis-deafness syndrome
+
+[Term]
+id: ENSPHENO:0000878
+name: Kidney function and endocine traits-GFR
+
+[Term]
+id: ENSPHENO:0000879
+name: Kidney function and endocine traits-TSH
+
+[Term]
+id: ENSPHENO:0000880
+name: Kidney function and endocine traits-UAE
+
+[Term]
+id: ENSPHENO:0000881
+name: Kidney function and endocine traits-meanTSH
+
+[Term]
+id: ENSPHENO:0000882
+name: LACTASE PERSISTENCE
+
+[Term]
+id: ENSPHENO:0000883
+name: LADD SYNDROME
+
+[Term]
+id: ENSPHENO:0000884
+name: LARSEN SYNDROME AUTOSOMAL DOMINANT
+
+[Term]
+id: ENSPHENO:0000885
+name: LDL cholesterol
+
+[Term]
+id: ENSPHENO:0000886
+name: LEBER CONGENITAL AMAUROSIS 13
+
+[Term]
+id: ENSPHENO:0000887
+name: LEBER CONGENITAL AMAUROSIS 3
+
+[Term]
+id: ENSPHENO:0000888
+name: LEBER CONGENITAL AMAUROSIS 8
+
+[Term]
+id: ENSPHENO:0000889
+name: LEIGH SYNDROME FRENCH-CANADIAN TYPE
+
+[Term]
+id: ENSPHENO:0000890
+name: LEPROSY SUSCEPTIBILITY TO 1
+
+[Term]
+id: ENSPHENO:0000891
+name: LEUKEMIA ACUTE LYMPHOBLASTIC
+
+[Term]
+id: ENSPHENO:0000892
+name: LEUKEMIA ACUTE LYMPHOBLASTIC SUSCEPTIBILITY TO 2
+
+[Term]
+id: ENSPHENO:0000893
+name: LEUKEMIA ACUTE MYELOID SOMATIC
+
+[Term]
+id: ENSPHENO:0000894
+name: LEUKODYSTROPHY HYPOMYELINATING 2
+
+[Term]
+id: ENSPHENO:0000895
+name: LEUKODYSTROPHY HYPOMYELINATING 5
+
+[Term]
+id: ENSPHENO:0000896
+name: LEUKOENCEPHALOPATHY WITH VANISHING WHITE MATTER
+
+[Term]
+id: ENSPHENO:0000897
+name: LEUKOTRIENE A4 HYDROLASE
+
+[Term]
+id: ENSPHENO:0000898
+name: LIPODYSTROPHY FAMILIAL PARTIAL TYPE 2
+
+[Term]
+id: ENSPHENO:0000899
+name: LIPODYSTROPHY FAMILIAL PARTIAL TYPE 3
+
+[Term]
+id: ENSPHENO:0000900
+name: LIPOPROTEIN LIPASE
+
+[Term]
+id: ENSPHENO:0000901
+name: LISSENCEPHALY 1
+
+[Term]
+id: ENSPHENO:0000902
+name: LISSENCEPHALY X-LINKED 1
+
+[Term]
+id: ENSPHENO:0000903
+name: LISSENCEPHALY X-LINKED 2
+
+[Term]
+id: ENSPHENO:0000904
+name: LIVER FIBROSIS SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000905
+name: LOC387715 GENE
+
+[Term]
+id: ENSPHENO:0000906
+name: LOEYS-DIETZ SYNDROME TYPE 1B
+
+[Term]
+id: ENSPHENO:0000907
+name: LOEYS-DIETZ SYNDROME TYPE 2B
+
+[Term]
+id: ENSPHENO:0000908
+name: LONG QT SYNDROME 1
+
+[Term]
+id: ENSPHENO:0000909
+name: LONG QT SYNDROME 2
+
+[Term]
+id: ENSPHENO:0000910
+name: LONG QT SYNDROME 3/6 DIGENIC
+
+[Term]
+id: ENSPHENO:0000911
+name: LONG QT SYNDROME 5 ACQUIRED SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000912
+name: LONGEVITY 2
+
+[Term]
+id: ENSPHENO:0000913
+name: LOW DENSITY LIPOPROTEIN CHOLESTEROL LEVEL QUANTITATIVE TRAIT LOCUS 6
+
+[Term]
+id: ENSPHENO:0000914
+name: LUNG CANCER SUSCEPTIBILITY 2
+
+[Term]
+id: ENSPHENO:0000915
+name: LUNG CANCER SUSCEPTIBILITY 4
+
+[Term]
+id: ENSPHENO:0000916
+name: LYMPHOPROLIFERATIVE SYNDROME X-LINKED 1
+
+[Term]
+id: ENSPHENO:0000917
+name: LYMPHOPROLIFERATIVE SYNDROME X-LINKED 2
+
+[Term]
+id: ENSPHENO:0000918
+name: Large B-cell lymphoma
+
+[Term]
+id: ENSPHENO:0000919
+name: Late-onset Alzheimer's disease
+
+[Term]
+id: ENSPHENO:0000920
+name: Leber congenital amaurosis type 13
+
+[Term]
+id: ENSPHENO:0000921
+name: Left ventricular mass
+
+[Term]
+id: ENSPHENO:0000922
+name: Leprechaunism
+
+[Term]
+id: ENSPHENO:0000923
+name: Leprosy
+
+[Term]
+id: ENSPHENO:0000924
+name: Leukodystrophy globoid cell
+
+[Term]
+id: ENSPHENO:0000925
+name: Leukodystrophy metachromatic
+
+[Term]
+id: ENSPHENO:0000926
+name: Li-Fraumeni syndrome
+
+[Term]
+id: ENSPHENO:0000927
+name: Limb-girdle muscular dystrophy type 2A
+
+[Term]
+id: ENSPHENO:0000928
+name: Limb-girdle muscular dystrophy type 2B
+
+[Term]
+id: ENSPHENO:0000929
+name: Limb-girdle muscular dystrophy type 2D
+
+[Term]
+id: ENSPHENO:0000930
+name: Lipid level measurements-HDL cholesterol levels
+
+[Term]
+id: ENSPHENO:0000931
+name: Lipid level measurements-LDL cholesterol levels
+
+[Term]
+id: ENSPHENO:0000932
+name: Lipid level measurements-Triglyceride levels
+
+[Term]
+id: ENSPHENO:0000933
+name: Lipid measurements-HDL cholesterol
+
+[Term]
+id: ENSPHENO:0000934
+name: Lipid measurements-Triglycerides
+
+[Term]
+id: ENSPHENO:0000935
+name: Lipoprotein lipase deficiency
+
+[Term]
+id: ENSPHENO:0000936
+name: Lipoprotein-associated phospholipase A2 activity and mass
+
+[Term]
+id: ENSPHENO:0000937
+name: Long QT syndrome type 2
+
+[Term]
+id: ENSPHENO:0000938
+name: Long QT syndrome type 6
+
+[Term]
+id: ENSPHENO:0000939
+name: Longevity
+
+[Term]
+id: ENSPHENO:0000940
+name: Longevity and age-related phenotypes-Age at death
+
+[Term]
+id: ENSPHENO:0000941
+name: Longevity and age-related phenotypes-Age at death morbidity-free survival at age 65
+
+[Term]
+id: ENSPHENO:0000942
+name: Longevity and age-related phenotypes-Age at natural menopause
+
+[Term]
+id: ENSPHENO:0000943
+name: Longevity and age-related phenotypes-Biologic age by osseographic scoring system
+
+[Term]
+id: ENSPHENO:0000944
+name: Longevity and age-related phenotypes-Biologic age by osseographic scoring system walking speed at advanced age
+
+[Term]
+id: ENSPHENO:0000945
+name: Longevity and age-related phenotypes-Morbidity-free survival at age 65
+
+[Term]
+id: ENSPHENO:0000946
+name: Longevity and age-related phenotypes-Walking speed at advanced age
+
+[Term]
+id: ENSPHENO:0000947
+name: Lung cancer
+
+[Term]
+id: ENSPHENO:0000948
+name: Lung cancer smokers with versus smokers without
+
+[Term]
+id: ENSPHENO:0000949
+name: Lung carcinoma
+
+[Term]
+id: ENSPHENO:0000950
+name: MACULAR CORNEAL DYSTROPHY TYPE I
+
+[Term]
+id: ENSPHENO:0000951
+name: MACULAR DEGENERATION AGE-RELATED 1
+
+[Term]
+id: ENSPHENO:0000952
+name: MACULAR DEGENERATION AGE-RELATED 11
+
+[Term]
+id: ENSPHENO:0000953
+name: MACULAR DEGENERATION AGE-RELATED 3
+
+[Term]
+id: ENSPHENO:0000954
+name: MACULAR DEGENERATION AGE-RELATED 7
+
+[Term]
+id: ENSPHENO:0000955
+name: MACULAR DEGENERATION AGE-RELATED 7 SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000956
+name: MAJOR AFFECTIVE DISORDER 4
+
+[Term]
+id: ENSPHENO:0000957
+name: MALARIA SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0000958
+name: MALATTIA LEVENTINESE
+
+[Term]
+id: ENSPHENO:0000959
+name: MALIGNANT HYPERTHERMIA SUSCEPTIBILITY TO 1
+
+[Term]
+id: ENSPHENO:0000960
+name: MALT lymphoma
+
+[Term]
+id: ENSPHENO:0000961
+name: MANDIBULOACRAL DYSPLASIA WITH TYPE A LIPODYSTROPHY
+
+[Term]
+id: ENSPHENO:0000962
+name: MANNOSIDOSIS ALPHA B LYSOSOMAL
+
+[Term]
+id: ENSPHENO:0000963
+name: MANTLE CELL LYMPHOMA SOMATIC
+
+[Term]
+id: ENSPHENO:0000964
+name: MARINESCO-SJOGREN SYNDROME
+
+[Term]
+id: ENSPHENO:0000965
+name: MATRIX METALLOPROTEINASE 1
+
+[Term]
+id: ENSPHENO:0000966
+name: MATURITY-ONSET DIABETES OF THE YOUNG TYPE 7
+
+[Term]
+id: ENSPHENO:0000967
+name: MATURITY-ONSET DIABETES OF THE YOUNG TYPE II
+
+[Term]
+id: ENSPHENO:0000968
+name: MCKUSICK-KAUFMAN SYNDROME
+
+[Term]
+id: ENSPHENO:0000969
+name: MDR1 POLYMORPHISM
+
+[Term]
+id: ENSPHENO:0000970
+name: MEGALENCEPHALIC LEUKOENCEPHALOPATHY WITH SUBCORTICAL CYSTS
+
+[Term]
+id: ENSPHENO:0000971
+name: MEGALENCEPHALIC LEUKOENCEPHALOPATHY WITH SUBCORTICAL CYSTS 1
+
+[Term]
+id: ENSPHENO:0000972
+name: MELANOMA CUTANEOUS MALIGNANT 2
+
+[Term]
+id: ENSPHENO:0000973
+name: MELANOMA CUTANEOUS MALIGNANT 3
+
+[Term]
+id: ENSPHENO:0000974
+name: MELANOMA CUTANEOUS MALIGNANT SUSCEPTIBILITY TO 2
+
+[Term]
+id: ENSPHENO:0000975
+name: MELANOMA CUTANEOUS MALIGNANT SUSCEPTIBILITY TO 3
+
+[Term]
+id: ENSPHENO:0000976
+name: MELANOMA CUTANEOUS MALIGNANT SUSCEPTIBILITY TO 5
+
+[Term]
+id: ENSPHENO:0000977
+name: MENARCHE AGE AT QUANTITATIVE TRAIT LOCUS 2
+
+[Term]
+id: ENSPHENO:0000978
+name: MENINGIOMA SOMATIC
+
+[Term]
+id: ENSPHENO:0000979
+name: MENKES DISEASE
+
+[Term]
+id: ENSPHENO:0000980
+name: MENOPAUSE NATURAL AGE AT QUANTITATIVE TRAIT LOCUS 4
+
+[Term]
+id: ENSPHENO:0000981
+name: MENTAL RETARDATION AUTOSOMAL DOMINANT 3
+
+[Term]
+id: ENSPHENO:0000982
+name: MENTAL RETARDATION AUTOSOMAL RECESSIVE 10
+
+[Term]
+id: ENSPHENO:0000983
+name: MENTAL RETARDATION AUTOSOMAL RECESSIVE 11
+
+[Term]
+id: ENSPHENO:0000984
+name: MENTAL RETARDATION AUTOSOMAL RECESSIVE 12
+
+[Term]
+id: ENSPHENO:0000985
+name: MENTAL RETARDATION AUTOSOMAL RECESSIVE 5
+
+[Term]
+id: ENSPHENO:0000986
+name: MENTAL RETARDATION X-LINKED 30
+
+[Term]
+id: ENSPHENO:0000987
+name: MENTAL RETARDATION X-LINKED 58
+
+[Term]
+id: ENSPHENO:0000988
+name: MENTAL RETARDATION X-LINKED 59
+
+[Term]
+id: ENSPHENO:0000989
+name: MENTAL RETARDATION X-LINKED 88
+
+[Term]
+id: ENSPHENO:0000990
+name: MENTAL RETARDATION X-LINKED WITH OR WITHOUT SEIZURES ARX-RELATED
+
+[Term]
+id: ENSPHENO:0000991
+name: METACHROMATIC LEUKODYSTROPHY
+
+[Term]
+id: ENSPHENO:0000992
+name: METACHROMATIC LEUKODYSTROPHY ADULT
+
+[Term]
+id: ENSPHENO:0000993
+name: METACHROMATIC LEUKODYSTROPHY LATE INFANTILE
+
+[Term]
+id: ENSPHENO:0000994
+name: METACHROMATIC LEUKODYSTROPHY LATE-ONSET
+
+[Term]
+id: ENSPHENO:0000995
+name: METACHROMATIC LEUKODYSTROPHY MILD
+
+[Term]
+id: ENSPHENO:0000996
+name: METAPHYSEAL CHONDRODYSPLASIA SCHMID TYPE
+
+[Term]
+id: ENSPHENO:0000997
+name: METHIONINE ADENOSYLTRANSFERASE DEFICIENCY AUTOSOMAL RECESSIVE
+
+[Term]
+id: ENSPHENO:0000998
+name: MICRO RNA 433
+
+[Term]
+id: ENSPHENO:0000999
+name: MICROCEPHALIC OSTEODYSPLASTIC PRIMORDIAL DWARFISM TYPE II
+
+[Term]
+id: ENSPHENO:0001000
+name: MICROCEPHALY 1 PRIMARY AUTOSOMAL RECESSIVE
+
+[Term]
+id: ENSPHENO:0001001
+name: MICROCEPHALY AMISH TYPE
+
+[Term]
+id: ENSPHENO:0001002
+name: MICROCEPHALY PRIMARY AUTOSOMAL RECESSIVE 1
+
+[Term]
+id: ENSPHENO:0001003
+name: MICROPHTHALMIA SYNDROMIC 3
+
+[Term]
+id: ENSPHENO:0001004
+name: MICROPHTHALMIA SYNDROMIC 9
+
+[Term]
+id: ENSPHENO:0001005
+name: MICROVASCULAR COMPLICATIONS OF DIABETES SUSCEPTIBILITY TO 1
+
+[Term]
+id: ENSPHENO:0001006
+name: MICROVASCULAR COMPLICATIONS OF DIABETES SUSCEPTIBILITY TO 2
+
+[Term]
+id: ENSPHENO:0001007
+name: MIGRAINE FAMILIAL HEMIPLEGIC 2
+
+[Term]
+id: ENSPHENO:0001008
+name: MINICORE MYOPATHY WITH EXTERNAL OPHTHALMOPLEGIA
+
+[Term]
+id: ENSPHENO:0001009
+name: MISMATCH REPAIR CANCER SYNDROME
+
+[Term]
+id: ENSPHENO:0001010
+name: MITOCHONDRIAL COMPLEX I DEFICIENCY
+
+[Term]
+id: ENSPHENO:0001011
+name: MITOCHONDRIAL DNA DEPLETION SYNDROME 4B (MNGIE TYPE)
+
+[Term]
+id: ENSPHENO:0001012
+name: MITOCHONDRIAL HMG-CoA SYNTHASE DEFICIENCY
+
+[Term]
+id: ENSPHENO:0001013
+name: MOVED TO 141900.0452
+
+[Term]
+id: ENSPHENO:0001014
+name: MRI atrophy measures
+
+[Term]
+id: ENSPHENO:0001015
+name: MUCOPOLYSACCHARIDOSIS TYPE IIIB
+
+[Term]
+id: ENSPHENO:0001016
+name: MUCOPOLYSACCHARIDOSIS TYPE IIIC
+
+[Term]
+id: ENSPHENO:0001017
+name: MUCOPOLYSACCHARIDOSIS TYPE IIID
+
+[Term]
+id: ENSPHENO:0001018
+name: MUCOPOLYSACCHARIDOSIS TYPE IVA
+
+[Term]
+id: ENSPHENO:0001019
+name: MUCOPOLYSACCHARIDOSIS TYPE IVB
+
+[Term]
+id: ENSPHENO:0001020
+name: MUCOPOLYSACCHARIDOSIS TYPE VI
+
+[Term]
+id: ENSPHENO:0001021
+name: MULTIPLE ENDOCRINE NEOPLASIA TYPE I
+
+[Term]
+id: ENSPHENO:0001022
+name: MULTIPLE ENDOCRINE NEOPLASIA TYPE IIA
+
+[Term]
+id: ENSPHENO:0001023
+name: MULTIPLE ENDOCRINE NEOPLASIA TYPE IIB
+
+[Term]
+id: ENSPHENO:0001024
+name: MULTIPLE SCLEROSIS SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0001025
+name: MULTIPLE SYNOSTOSES SYNDROME 1
+
+[Term]
+id: ENSPHENO:0001026
+name: MUSCULAR DYSTROPHY LIMB-GIRDLE TYPE 1B
+
+[Term]
+id: ENSPHENO:0001027
+name: MUSCULAR DYSTROPHY LIMB-GIRDLE TYPE 1C
+
+[Term]
+id: ENSPHENO:0001028
+name: MUSCULAR DYSTROPHY LIMB-GIRDLE TYPE 2A AMISH
+
+[Term]
+id: ENSPHENO:0001029
+name: MUSCULAR DYSTROPHY LIMB-GIRDLE TYPE 2C
+
+[Term]
+id: ENSPHENO:0001030
+name: MUSCULAR DYSTROPHY LIMB-GIRDLE TYPE 2D
+
+[Term]
+id: ENSPHENO:0001031
+name: MUSCULAR DYSTROPHY LIMB-GIRDLE TYPE 2E
+
+[Term]
+id: ENSPHENO:0001032
+name: MUSCULAR DYSTROPHY LIMB-GIRDLE TYPE 2G
+
+[Term]
+id: ENSPHENO:0001033
+name: MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES) TYPE A 5
+
+[Term]
+id: ENSPHENO:0001034
+name: MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH MENTAL RETARDATION) TYPE B 1
+
+[Term]
+id: ENSPHENO:0001035
+name: MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH MENTAL RETARDATION) TYPE B 5
+
+[Term]
+id: ENSPHENO:0001036
+name: MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITHOUT MENTAL RETARDATION) TYPE B 5
+
+[Term]
+id: ENSPHENO:0001037
+name: MUSICAL PERFECT PITCH
+
+[Term]
+id: ENSPHENO:0001038
+name: MYASTHENIC SYNDROME CONGENITAL ASSOCIATED WITH ACETYLCHOLINE RECEPTOR DEFICIENCY
+
+[Term]
+id: ENSPHENO:0001039
+name: MYCOBACTERIUM TUBERCULOSIS SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0001040
+name: MYELOMA MULTIPLE
+
+[Term]
+id: ENSPHENO:0001041
+name: MYOCARDIAL INFARCTION PROTECTION AGAINST
+
+[Term]
+id: ENSPHENO:0001042
+name: MYOCARDIAL INFARCTION SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0001043
+name: MYOCILIN
+
+[Term]
+id: ENSPHENO:0001044
+name: MYOCLONIC EPILEPSY JUVENILE SUSCEPTIBILITY TO 1
+
+[Term]
+id: ENSPHENO:0001045
+name: MYOCLONUS-DYSTONIA SYNDROME
+
+[Term]
+id: ENSPHENO:0001046
+name: MYOKYMIA 1
+
+[Term]
+id: ENSPHENO:0001047
+name: MYOPATHY DISTAL WITH DECREASED CAVEOLIN 3
+
+[Term]
+id: ENSPHENO:0001048
+name: MYOTONIA CONGENITA AUTOSOMAL DOMINANT
+
+[Term]
+id: ENSPHENO:0001049
+name: Macular corneal dystrophy
+
+[Term]
+id: ENSPHENO:0001050
+name: Major CVD
+
+[Term]
+id: ENSPHENO:0001051
+name: Major depressive disorder
+
+[Term]
+id: ENSPHENO:0001052
+name: Major depressive disorder (broad)
+
+[Term]
+id: ENSPHENO:0001053
+name: Male-pattern baldness
+
+[Term]
+id: ENSPHENO:0001054
+name: Malignant hyperthermia susceptibility type 1
+
+[Term]
+id: ENSPHENO:0001055
+name: Marfan syndrome
+
+[Term]
+id: ENSPHENO:0001056
+name: Maturity-onset diabetes of the young type 7
+
+[Term]
+id: ENSPHENO:0001057
+name: McLeod syndrome
+
+[Term]
+id: ENSPHENO:0001058
+name: Mean corpuscular hemoglobin
+
+[Term]
+id: ENSPHENO:0001059
+name: Mean corpuscular volume
+
+[Term]
+id: ENSPHENO:0001060
+name: Mean platelet volume
+
+[Term]
+id: ENSPHENO:0001061
+name: Meesmann corneal dystrophy
+
+[Term]
+id: ENSPHENO:0001062
+name: Melanoma
+
+[Term]
+id: ENSPHENO:0001063
+name: Menarche (age at onset)
+
+[Term]
+id: ENSPHENO:0001064
+name: Menarche and menopause (age at onset)
+
+[Term]
+id: ENSPHENO:0001065
+name: Menopause (age at onset)
+
+[Term]
+id: ENSPHENO:0001066
+name: Metabolic syndrome
+
+[Term]
+id: ENSPHENO:0001067
+name: Metabolic syndrome (bivariate traits)
+
+[Term]
+id: ENSPHENO:0001068
+name: Metabolic traits
+
+[Term]
+id: ENSPHENO:0001069
+name: Methylmalonic aciduria type cblB
+
+[Term]
+id: ENSPHENO:0001070
+name: Migraine
+
+[Term]
+id: ENSPHENO:0001071
+name: Migraine familial hemiplegic type 2
+
+[Term]
+id: ENSPHENO:0001072
+name: Minor histocompatibility antigenicity-Cytotoxicity of lymphoblastoid cell lines (BLCLs) to CTL-1B9
+
+[Term]
+id: ENSPHENO:0001073
+name: Minor histocompatibility antigenicity-Cytotoxicity of lymphoblastoid cell lines (BLCLs) to CTL-2A12
+
+[Term]
+id: ENSPHENO:0001074
+name: Mitochondrial complex IV deficiency
+
+[Term]
+id: ENSPHENO:0001075
+name: Miyoshi muscular dystrophy type
+
+[Term]
+id: ENSPHENO:0001076
+name: Morbidity-free survival
+
+[Term]
+id: ENSPHENO:0001077
+name: Moyamoya disease
+
+[Term]
+id: ENSPHENO:0001078
+name: Muenke syndrome
+
+[Term]
+id: ENSPHENO:0001079
+name: Multiple complex diseases-Bipolar disorder
+
+[Term]
+id: ENSPHENO:0001080
+name: Multiple complex diseases-Bipolar disorder combined control dataset
+
+[Term]
+id: ENSPHENO:0001081
+name: Multiple complex diseases-Bipolar disorder combined control dataset gender differentiated
+
+[Term]
+id: ENSPHENO:0001082
+name: Multiple complex diseases-Bipolar disorder gender differentiated
+
+[Term]
+id: ENSPHENO:0001083
+name: Multiple complex diseases-Coronary Artery Disease
+
+[Term]
+id: ENSPHENO:0001084
+name: Multiple complex diseases-Coronary Artery Disease combined control dataset
+
+[Term]
+id: ENSPHENO:0001085
+name: Multiple complex diseases-Coronary Artery Disease combined control dataset gender differentiated
+
+[Term]
+id: ENSPHENO:0001086
+name: Multiple complex diseases-Coronary Artery Disease gender differentiated
+
+[Term]
+id: ENSPHENO:0001087
+name: Multiple complex diseases-Crohn's disease
+
+[Term]
+id: ENSPHENO:0001088
+name: Multiple complex diseases-Crohn's disease combined control dataset
+
+[Term]
+id: ENSPHENO:0001089
+name: Multiple complex diseases-Crohn's disease combined control dataset gender differentiated
+
+[Term]
+id: ENSPHENO:0001090
+name: Multiple complex diseases-Crohn's disease gender differentiated
+
+[Term]
+id: ENSPHENO:0001091
+name: Multiple complex diseases-Hypertension
+
+[Term]
+id: ENSPHENO:0001092
+name: Multiple complex diseases-Hypertension combined control dataset
+
+[Term]
+id: ENSPHENO:0001093
+name: Multiple complex diseases-Hypertension combined control dataset gender differentiated
+
+[Term]
+id: ENSPHENO:0001094
+name: Multiple complex diseases-Hypertension gender differentiated
+
+[Term]
+id: ENSPHENO:0001095
+name: Multiple complex diseases-Population differentiation markers among Great Britain
+
+[Term]
+id: ENSPHENO:0001096
+name: Multiple complex diseases-Rheumatoid Arthritis
+
+[Term]
+id: ENSPHENO:0001097
+name: Multiple complex diseases-Rheumatoid Arthritis combined control dataset
+
+[Term]
+id: ENSPHENO:0001098
+name: Multiple complex diseases-Rheumatoid Arthritis combined control dataset gender differentiated
+
+[Term]
+id: ENSPHENO:0001099
+name: Multiple complex diseases-Rheumatoid Arthritis gender differentiated
+
+[Term]
+id: ENSPHENO:0001100
+name: Multiple complex diseases-Type I Diabetes
+
+[Term]
+id: ENSPHENO:0001101
+name: Multiple complex diseases-Type I Diabetes Rheumatoid Arthritis Crohn's disease combined case analysis
+
+[Term]
+id: ENSPHENO:0001102
+name: Multiple complex diseases-Type I Diabetes Rheumatoid Arthritis Crohn's disease combined case analysis gender differentiated
+
+[Term]
+id: ENSPHENO:0001103
+name: Multiple complex diseases-Type I Diabetes Rheumatoid Arthritis combined case analysis
+
+[Term]
+id: ENSPHENO:0001104
+name: Multiple complex diseases-Type I Diabetes Rheumatoid Arthritis combined case analysis gender differentiated
+
+[Term]
+id: ENSPHENO:0001105
+name: Multiple complex diseases-Type I Diabetes combined control dataset
+
+[Term]
+id: ENSPHENO:0001106
+name: Multiple complex diseases-Type I Diabetes combined control dataset gender differentiated
+
+[Term]
+id: ENSPHENO:0001107
+name: Multiple complex diseases-Type I Diabetes gender differentiated
+
+[Term]
+id: ENSPHENO:0001108
+name: Multiple complex diseases-Type II Diabetes Mellitus
+
+[Term]
+id: ENSPHENO:0001109
+name: Multiple complex diseases-Type II Diabetes Mellitus Hypertension Coronary Artery Disease combined case analysis
+
+[Term]
+id: ENSPHENO:0001110
+name: Multiple complex diseases-Type II Diabetes Mellitus Hypertension Coronary Artery Disease combined case analysis gender differentiated
+
+[Term]
+id: ENSPHENO:0001111
+name: Multiple complex diseases-Type II Diabetes Mellitus combined control dataset
+
+[Term]
+id: ENSPHENO:0001112
+name: Multiple complex diseases-Type II Diabetes Mellitus combined control dataset gender differentiated
+
+[Term]
+id: ENSPHENO:0001113
+name: Multiple complex diseases-Type II Diabetes Mellitus gender differentiated
+
+[Term]
+id: ENSPHENO:0001114
+name: Multiple continuous traits in DGI samples-2 hour Insulin
+
+[Term]
+id: ENSPHENO:0001115
+name: Multiple continuous traits in DGI samples-2 hour glucose
+
+[Term]
+id: ENSPHENO:0001116
+name: Multiple continuous traits in DGI samples-ApoAI
+
+[Term]
+id: ENSPHENO:0001117
+name: Multiple continuous traits in DGI samples-ApoAII
+
+[Term]
+id: ENSPHENO:0001118
+name: Multiple continuous traits in DGI samples-ApoB
+
+[Term]
+id: ENSPHENO:0001119
+name: Multiple continuous traits in DGI samples-BMI Type II Diabetes Mellitus Cases
+
+[Term]
+id: ENSPHENO:0001120
+name: Multiple continuous traits in DGI samples-BMI Type II Diabetes Mellitus Controls
+
+[Term]
+id: ENSPHENO:0001121
+name: Multiple continuous traits in DGI samples-Diastolic Blood Pressure
+
+[Term]
+id: ENSPHENO:0001122
+name: Multiple continuous traits in DGI samples-Fasting glucose
+
+[Term]
+id: ENSPHENO:0001123
+name: Multiple continuous traits in DGI samples-Fasting insulin
+
+[Term]
+id: ENSPHENO:0001124
+name: Multiple continuous traits in DGI samples-Fat mass
+
+[Term]
+id: ENSPHENO:0001125
+name: Multiple continuous traits in DGI samples-HDL cholesterol
+
+[Term]
+id: ENSPHENO:0001126
+name: Multiple continuous traits in DGI samples-HOMA-IR
+
+[Term]
+id: ENSPHENO:0001127
+name: Multiple continuous traits in DGI samples-Height in Type II Diabetes Mellitus Cases
+
+[Term]
+id: ENSPHENO:0001128
+name: Multiple continuous traits in DGI samples-Height in Type II Diabetes Mellitus Controls
+
+[Term]
+id: ENSPHENO:0001129
+name: Multiple continuous traits in DGI samples-Hypertension
+
+[Term]
+id: ENSPHENO:0001130
+name: Multiple continuous traits in DGI samples-Insulinogenic index
+
+[Term]
+id: ENSPHENO:0001131
+name: Multiple continuous traits in DGI samples-LDL cholesterol
+
+[Term]
+id: ENSPHENO:0001132
+name: Multiple continuous traits in DGI samples-Systolic Blood Pressure
+
+[Term]
+id: ENSPHENO:0001133
+name: Multiple continuous traits in DGI samples-Total cholesterol
+
+[Term]
+id: ENSPHENO:0001134
+name: Multiple continuous traits in DGI samples-Triglyceride/HDL ratio
+
+[Term]
+id: ENSPHENO:0001135
+name: Multiple continuous traits in DGI samples-Triglycerides
+
+[Term]
+id: ENSPHENO:0001136
+name: Multiple continuous traits in DGI samples-Type II Diabetes Mellitus
+
+[Term]
+id: ENSPHENO:0001137
+name: Multiple continuous traits in DGI samples-Waist circumference in Type II Diabetes Mellitus Cases
+
+[Term]
+id: ENSPHENO:0001138
+name: Multiple continuous traits in DGI samples-Waist circumference in Type II Diabetes Mellitus Controls
+
+[Term]
+id: ENSPHENO:0001139
+name: Multiple continuous traits in DGI samples-Waist/height ratio squared
+
+[Term]
+id: ENSPHENO:0001140
+name: Multiple continuous traits in DGI samples-Waist/hip ratio in Type II Diabetes Mellitus Cases
+
+[Term]
+id: ENSPHENO:0001141
+name: Multiple continuous traits in DGI samples-Waist/hip ratio in Type II Diabetes Mellitus Controls
+
+[Term]
+id: ENSPHENO:0001142
+name: Multiple continuous traits in DGI samples-Weight in Type II Diabetes Mellitus Cases
+
+[Term]
+id: ENSPHENO:0001143
+name: Multiple continuous traits in DGI samples-Weight in Type II Diabetes Mellitus Controls
+
+[Term]
+id: ENSPHENO:0001144
+name: Multiple sclerosis
+
+[Term]
+id: ENSPHENO:0001145
+name: Multiple sclerosis (age of onset)
+
+[Term]
+id: ENSPHENO:0001146
+name: Multiple sclerosis (severity)
+
+[Term]
+id: ENSPHENO:0001147
+name: Multiple serum and urine biomarkers in WTCCC BRIGHT samples-Serum calcium levels
+
+[Term]
+id: ENSPHENO:0001148
+name: Multiple serum and urine biomarkers in WTCCC BRIGHT samples-Serum total cholesterol levels
+
+[Term]
+id: ENSPHENO:0001149
+name: Multiple serum and urine biomarkers in WTCCC BRIGHT samples-Serum triglyceride levels
+
+[Term]
+id: ENSPHENO:0001150
+name: Multiple serum and urine biomarkers in WTCCC BRIGHT samples-Serum urea levels
+
+[Term]
+id: ENSPHENO:0001151
+name: Multiple serum and urine biomarkers in WTCCC BRIGHT samples-Urine alubumin levels
+
+[Term]
+id: ENSPHENO:0001152
+name: Multiple serum and urine biomarkers in WTCCC BRIGHT samples-Urine potassium levels
+
+[Term]
+id: ENSPHENO:0001153
+name: Muscular dystrophy congenital LMNA-related
+
+[Term]
+id: ENSPHENO:0001154
+name: Muscular dystrophy-dystroglycanopathy congenital with or without mental retardation type B5
+
+[Term]
+id: ENSPHENO:0001155
+name: Myeloperoxidase deficiency
+
+[Term]
+id: ENSPHENO:0001156
+name: Myocardial infarction
+
+[Term]
+id: ENSPHENO:0001157
+name: Myokymia isolated type 1
+
+[Term]
+id: ENSPHENO:0001158
+name: Myopathy myofibrillar type 1
+
+[Term]
+id: ENSPHENO:0001159
+name: NAIL DISORDER NONSYNDROMIC CONGENITAL 4
+
+[Term]
+id: ENSPHENO:0001160
+name: NANCE-HORAN SYNDROME
+
+[Term]
+id: ENSPHENO:0001161
+name: NARCOLEPSY 5
+
+[Term]
+id: ENSPHENO:0001162
+name: NASOPHARYNGEAL CARCINOMA SUSCEPTIBILITY TO 2
+
+[Term]
+id: ENSPHENO:0001163
+name: NEONATAL ADRENOLEUKODYSTROPHY
+
+[Term]
+id: ENSPHENO:0001164
+name: NEPHROGENIC SYNDROME OF INAPPROPRIATE ANTIDIURESIS
+
+[Term]
+id: ENSPHENO:0001165
+name: NEPHROLITHIASIS CALCIUM OXALATE
+
+[Term]
+id: ENSPHENO:0001166
+name: NEPHROLITHIASIS/OSTEOPOROSIS HYPOPHOSPHATEMIC 2
+
+[Term]
+id: ENSPHENO:0001167
+name: NEPHRONOPHTHISIS 3
+
+[Term]
+id: ENSPHENO:0001168
+name: NEUROFIBROMATOSIS TYPE II
+
+[Term]
+id: ENSPHENO:0001169
+name: NEURONOPATHY DISTAL HEREDITARY MOTOR TYPE IIB
+
+[Term]
+id: ENSPHENO:0001170
+name: NEUROPATHY AXONAL WITH VOCAL CORD PARESIS AUTOSOMAL RECESSIVE
+
+[Term]
+id: ENSPHENO:0001171
+name: NEUROPATHY CONGENITAL HYPOMYELINATING AUTOSOMAL DOMINANT
+
+[Term]
+id: ENSPHENO:0001172
+name: NEUROTROPHIC TYROSINE KINASE RECEPTOR TYPE 3
+
+[Term]
+id: ENSPHENO:0001173
+name: NEUTROPHIL-SPECIFIC ANTIGENS NA1/NA2
+
+[Term]
+id: ENSPHENO:0001174
+name: NICOTINE ADDICTION PROTECTION AGAINST
+
+[Term]
+id: ENSPHENO:0001175
+name: NIEMANN-PICK DISEASE INTERMEDIATE PROTRACTED NEUROVISCERAL
+
+[Term]
+id: ENSPHENO:0001176
+name: NIEMANN-PICK DISEASE TYPE A
+
+[Term]
+id: ENSPHENO:0001177
+name: NIEMANN-PICK DISEASE TYPE B
+
+[Term]
+id: ENSPHENO:0001178
+name: NIEMANN-PICK DISEASE TYPE C1
+
+[Term]
+id: ENSPHENO:0001179
+name: NIEMANN-PICK DISEASE TYPE C2
+
+[Term]
+id: ENSPHENO:0001180
+name: NIGHT BLINDNESS CONGENITAL STATIONARY TYPE 1A
+
+[Term]
+id: ENSPHENO:0001181
+name: NIGHT BLINDNESS CONGENITAL STATIONARY TYPE 1B
+
+[Term]
+id: ENSPHENO:0001182
+name: NIGHT BLINDNESS CONGENITAL STATIONARY TYPE 1C
+
+[Term]
+id: ENSPHENO:0001183
+name: NONAKA MYOPATHY
+
+[Term]
+id: ENSPHENO:0001184
+name: NOONAN SYNDROME 5
+
+[Term]
+id: ENSPHENO:0001185
+name: NORRIE DISEASE
+
+[Term]
+id: ENSPHENO:0001186
+name: Narcolepsy
+
+[Term]
+id: ENSPHENO:0001187
+name: Nasopharyngeal carcinoma
+
+[Term]
+id: ENSPHENO:0001188
+name: Natriuretic peptide levels
+
+[Term]
+id: ENSPHENO:0001189
+name: Nephronophthisis type 4
+
+[Term]
+id: ENSPHENO:0001190
+name: Nephropathy
+
+[Term]
+id: ENSPHENO:0001191
+name: Nephrotic syndrome (acquired)
+
+[Term]
+id: ENSPHENO:0001192
+name: Neuroticism
+
+[Term]
+id: ENSPHENO:0001193
+name: Neutrophil count
+
+[Term]
+id: ENSPHENO:0001194
+name: Nicotine dependence
+
+[Term]
+id: ENSPHENO:0001195
+name: Nicotine dependence cigarettes per day
+
+[Term]
+id: ENSPHENO:0001196
+name: Nicotine dependence-Nicotine dependence gender-differentiated
+
+[Term]
+id: ENSPHENO:0001197
+name: Non-alcoholic fatty liver disease histology (AST)
+
+[Term]
+id: ENSPHENO:0001198
+name: Non-alcoholic fatty liver disease histology (lobular)
+
+[Term]
+id: ENSPHENO:0001199
+name: Non-alcoholic fatty liver disease histology (other)
+
+[Term]
+id: ENSPHENO:0001200
+name: Non-small cell lung cancer
+
+[Term]
+id: ENSPHENO:0001201
+name: Nonsyndromic cleft lip with or without cleft palate
+
+[Term]
+id: ENSPHENO:0001202
+name: Noonan syndrome type 1
+
+[Term]
+id: ENSPHENO:0001203
+name: Normalized brain volume
+
+[Term]
+id: ENSPHENO:0001204
+name: OAT POLYMORPHISM
+
+[Term]
+id: ENSPHENO:0001205
+name: OBESITY AGE AT ONSET OF
+
+[Term]
+id: ENSPHENO:0001206
+name: OBESITY ASSOCIATION WITH
+
+[Term]
+id: ENSPHENO:0001207
+name: OBESITY LATE-ONSET
+
+[Term]
+id: ENSPHENO:0001208
+name: OBESITY SEVERE
+
+[Term]
+id: ENSPHENO:0001209
+name: OBESITY SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0001210
+name: OBESITY VARIATION IN
+
+[Term]
+id: ENSPHENO:0001211
+name: OCA2 GENE
+
+[Term]
+id: ENSPHENO:0001212
+name: OCULOPHARYNGEAL MUSCULAR DYSTROPHY
+
+[Term]
+id: ENSPHENO:0001213
+name: ODONTOONYCHODERMAL DYSPLASIA
+
+[Term]
+id: ENSPHENO:0001214
+name: OLIGODENDROCYTE LINEAGE TRANSCRIPTION FACTOR 2
+
+[Term]
+id: ENSPHENO:0001215
+name: OMENN SYNDROME
+
+[Term]
+id: ENSPHENO:0001216
+name: OPIOID DEPENDENCE SUSCEPTIBILITY TO 1
+
+[Term]
+id: ENSPHENO:0001217
+name: OPTIC ATROPHY 1 WITH DEAFNESS
+
+[Term]
+id: ENSPHENO:0001218
+name: OPTIC ATROPHY WITH OR WITHOUT DEAFNESS OPHTHALMOPLEGIA MYOPATHY ATAXIA AND NEUROPATHY
+
+[Term]
+id: ENSPHENO:0001219
+name: ORNITHINE CARBAMOYLTRANSFERASE
+
+[Term]
+id: ENSPHENO:0001220
+name: ORNITHINE TRANSCARBAMYLASE DEFICIENCY
+
+[Term]
+id: ENSPHENO:0001221
+name: OROFACIAL CLEFT 6 SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0001222
+name: OSTEOARTHRITIS SUSCEPTIBILITY 1
+
+[Term]
+id: ENSPHENO:0001223
+name: OSTEOARTHRITIS SUSCEPTIBILITY 5
+
+[Term]
+id: ENSPHENO:0001224
+name: OSTEOGENESIS IMPERFECTA
+
+[Term]
+id: ENSPHENO:0001225
+name: OSTEOGENESIS IMPERFECTA TYPE II
+
+[Term]
+id: ENSPHENO:0001226
+name: OSTEOGENESIS IMPERFECTA TYPE III
+
+[Term]
+id: ENSPHENO:0001227
+name: OSTEOGENESIS IMPERFECTA TYPE III/IV
+
+[Term]
+id: ENSPHENO:0001228
+name: OSTEOGENESIS IMPERFECTA TYPE IV
+
+[Term]
+id: ENSPHENO:0001229
+name: OSTEOGENESIS IMPERFECTA TYPE VIII
+
+[Term]
+id: ENSPHENO:0001230
+name: OSTEOPETROSIS AUTOSOMAL RECESSIVE 3
+
+[Term]
+id: ENSPHENO:0001231
+name: OSTEOPOROSIS-PSEUDOGLIOMA SYNDROME
+
+[Term]
+id: ENSPHENO:0001232
+name: Obesity
+
+[Term]
+id: ENSPHENO:0001233
+name: Obesity (extreme)
+
+[Term]
+id: ENSPHENO:0001234
+name: Obesity and osteoporosis
+
+[Term]
+id: ENSPHENO:0001235
+name: Obesity-related traits-8 Combined BMI traits
+
+[Term]
+id: ENSPHENO:0001236
+name: Obesity-related traits-BMI
+
+[Term]
+id: ENSPHENO:0001237
+name: Obesity-related traits-Hip circumference
+
+[Term]
+id: ENSPHENO:0001238
+name: Obesity-related traits-Mean BMI
+
+[Term]
+id: ENSPHENO:0001239
+name: Obesity-related traits-Mean Waist Circumference
+
+[Term]
+id: ENSPHENO:0001240
+name: Obesity-related traits-Mean waist circumference Mean BMI
+
+[Term]
+id: ENSPHENO:0001241
+name: Obesity-related traits-Weight
+
+[Term]
+id: ENSPHENO:0001242
+name: Optic disc parameters
+
+[Term]
+id: ENSPHENO:0001243
+name: Osteoporosis
+
+[Term]
+id: ENSPHENO:0001244
+name: Other erythrocyte phenotypes
+
+[Term]
+id: ENSPHENO:0001245
+name: Ovarian cancer
+
+[Term]
+id: ENSPHENO:0001246
+name: Ovarian hyperstimulation syndrome
+
+[Term]
+id: ENSPHENO:0001247
+name: PACHYONYCHIA CONGENITA TYPE 1
+
+[Term]
+id: ENSPHENO:0001248
+name: PACHYONYCHIA CONGENITA TYPE 2
+
+[Term]
+id: ENSPHENO:0001249
+name: PAGET DISEASE OF BONE
+
+[Term]
+id: ENSPHENO:0001250
+name: PALLISTER-HALL SYNDROME
+
+[Term]
+id: ENSPHENO:0001251
+name: PALMOPLANTAR KERATODERMA EPIDERMOLYTIC
+
+[Term]
+id: ENSPHENO:0001252
+name: PANCREATIC AGENESIS
+
+[Term]
+id: ENSPHENO:0001253
+name: PAPA syndrome
+
+[Term]
+id: ENSPHENO:0001254
+name: PAPILLON-LEFEVRE SYNDROME
+
+[Term]
+id: ENSPHENO:0001255
+name: PARAGANGLIOMAS 1
+
+[Term]
+id: ENSPHENO:0001256
+name: PARAGANGLIOMAS 2
+
+[Term]
+id: ENSPHENO:0001257
+name: PARATHYROID CARCINOMA SOMATIC
+
+[Term]
+id: ENSPHENO:0001258
+name: PARIETAL FORAMINA 2
+
+[Term]
+id: ENSPHENO:0001259
+name: PARKINSON DISEASE 10
+
+[Term]
+id: ENSPHENO:0001260
+name: PARKINSON DISEASE 16
+
+[Term]
+id: ENSPHENO:0001261
+name: PARKINSON DISEASE 6 AUTOSOMAL RECESSIVE EARLY-ONSET
+
+[Term]
+id: ENSPHENO:0001262
+name: PARKINSON DISEASE 6 EARLY-ONSET
+
+[Term]
+id: ENSPHENO:0001263
+name: PARKINSON DISEASE 6 LATE-ONSET SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0001264
+name: PARKINSON DISEASE 8 SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0001265
+name: PARKINSON DISEASE LATE-ONSET
+
+[Term]
+id: ENSPHENO:0001266
+name: PELVIC ORGAN PROLAPSE SUSCEPTIBILITY TO 2
+
+[Term]
+id: ENSPHENO:0001267
+name: PEPTIDE TRANSPORTER PSF2 POLYMORPHISM
+
+[Term]
+id: ENSPHENO:0001268
+name: PERIODIC FEVER FAMILIAL AUTOSOMAL DOMINANT
+
+[Term]
+id: ENSPHENO:0001269
+name: PERIPHERAL DEMYELINATING NEUROPATHY CENTRAL DYSMYELINATION WAARDENBURG SYNDROME AND HIRSCHSPRUNG DISEASE
+
+[Term]
+id: ENSPHENO:0001270
+name: PEROXISOME BIOGENESIS DISORDER COMPLEMENTATION GROUP 3
+
+[Term]
+id: ENSPHENO:0001271
+name: PI NULL(LUDWIGSHAFEN)
+
+[Term]
+id: ENSPHENO:0001272
+name: PI P(ST. ALBANS)
+
+[Term]
+id: ENSPHENO:0001273
+name: PI S(IIYAMA)
+
+[Term]
+id: ENSPHENO:0001274
+name: PI Z
+
+[Term]
+id: ENSPHENO:0001275
+name: PILOMATRICOMA SOMATIC
+
+[Term]
+id: ENSPHENO:0001276
+name: PITUITARY ADENOMA GROWTH HORMONE-SECRETING
+
+[Term]
+id: ENSPHENO:0001277
+name: PITUITARY HORMONE DEFICIENCY COMBINED 1
+
+[Term]
+id: ENSPHENO:0001278
+name: POIKILODERMA WITH NEUTROPENIA
+
+[Term]
+id: ENSPHENO:0001279
+name: PONTOCEREBELLAR HYPOPLASIA TYPE 4
+
+[Term]
+id: ENSPHENO:0001280
+name: POPLITEAL PTERYGIUM SYNDROME
+
+[Term]
+id: ENSPHENO:0001281
+name: PORENCEPHALY FAMILIAL
+
+[Term]
+id: ENSPHENO:0001282
+name: PORPHYRIA ACUTE INTERMITTENT
+
+[Term]
+id: ENSPHENO:0001283
+name: PORPHYRIA CONGENITAL ERYTHROPOIETIC
+
+[Term]
+id: ENSPHENO:0001284
+name: PRETERM PREMATURE RUPTURE OF THE MEMBRANES
+
+[Term]
+id: ENSPHENO:0001285
+name: PROALBUMIN JAFFNA
+
+[Term]
+id: ENSPHENO:0001286
+name: PROGRESSIVE EXTERNAL OPHTHALMOPLEGIA WITH MITOCHONDRIAL DNA DELETIONS AUTOSOMAL DOMINANT 3
+
+[Term]
+id: ENSPHENO:0001287
+name: PROGRESSIVE EXTERNAL OPHTHALMOPLEGIA WITH MITOCHONDRIAL DNA DELETIONS AUTOSOMAL DOMINANT 4
+
+[Term]
+id: ENSPHENO:0001288
+name: PROPROTEIN CONVERTASE SUBTILISIN/KEXIN-TYPE 1
+
+[Term]
+id: ENSPHENO:0001289
+name: PROSTATE CANCER HEREDITARY 10
+
+[Term]
+id: ENSPHENO:0001290
+name: PROSTATE CANCER HEREDITARY 15
+
+[Term]
+id: ENSPHENO:0001291
+name: PSEUDOHERMAPHRODITISM FEMALE WITH HYPOKALEMIA DUE TO GLUCOCORTICOID RESISTANCE
+
+[Term]
+id: ENSPHENO:0001292
+name: PSORIASIS SUSCEPTIBILITY 1
+
+[Term]
+id: ENSPHENO:0001293
+name: PSORIASIS SUSCEPTIBILITY 11
+
+[Term]
+id: ENSPHENO:0001294
+name: PSORIASIS SUSCEPTIBILITY 13
+
+[Term]
+id: ENSPHENO:0001295
+name: PSORIASIS SUSCEPTIBILITY 7
+
+[Term]
+id: ENSPHENO:0001296
+name: PULMONARY ARTERIAL HYPERTENSION HEREDITARY HEMORRHAGIC TELANGIECTASIA-RELATED
+
+[Term]
+id: ENSPHENO:0001297
+name: PYOGENIC STERILE ARTHRITIS PYODERMA GANGRENOSUM AND ACNE
+
+[Term]
+id: ENSPHENO:0001298
+name: PYRUVATE DEHYDROGENASE E1-ALPHA DEFICIENCY
+
+[Term]
+id: ENSPHENO:0001299
+name: PYRUVATE KINASE DEFICIENCY
+
+[Term]
+id: ENSPHENO:0001300
+name: PYRUVATE KINASE DEFICIENCY AMISH TYPE
+
+[Term]
+id: ENSPHENO:0001301
+name: Pachyonychia congenita type 1
+
+[Term]
+id: ENSPHENO:0001302
+name: Paget's disease
+
+[Term]
+id: ENSPHENO:0001303
+name: Pain
+
+[Term]
+id: ENSPHENO:0001304
+name: Palmoplantar keratoderma epidermolytic
+
+[Term]
+id: ENSPHENO:0001305
+name: Pancreatic cancer
+
+[Term]
+id: ENSPHENO:0001306
+name: Panic disorder
+
+[Term]
+id: ENSPHENO:0001307
+name: Parkinson disease
+
+[Term]
+id: ENSPHENO:0001308
+name: Parkinson disease type 8
+
+[Term]
+id: ENSPHENO:0001309
+name: Parkinson's disease
+
+[Term]
+id: ENSPHENO:0001310
+name: Paroxysmal nocturnal hemoglobinuria
+
+[Term]
+id: ENSPHENO:0001311
+name: Partial acquired lipodystrophy
+
+[Term]
+id: ENSPHENO:0001312
+name: Pendred syndrome
+
+[Term]
+id: ENSPHENO:0001313
+name: Personality dimensions
+
+[Term]
+id: ENSPHENO:0001314
+name: Phenylketonuria
+
+[Term]
+id: ENSPHENO:0001315
+name: Phospholipid levels (plasma)
+
+[Term]
+id: ENSPHENO:0001316
+name: Plasma E-selectin levels
+
+[Term]
+id: ENSPHENO:0001317
+name: Plasma carotenoid and tocopherol levels
+
+[Term]
+id: ENSPHENO:0001318
+name: Plasma chemerin levels
+
+[Term]
+id: ENSPHENO:0001319
+name: Plasma eosinophil count
+
+[Term]
+id: ENSPHENO:0001320
+name: Plasma homocysteine
+
+[Term]
+id: ENSPHENO:0001321
+name: Plasma level of vitamin B12
+
+[Term]
+id: ENSPHENO:0001322
+name: Plasma levels of liver enzymes
+
+[Term]
+id: ENSPHENO:0001323
+name: Plasma vWF and FVIII levels
+
+[Term]
+id: ENSPHENO:0001324
+name: Platelet aggregation
+
+[Term]
+id: ENSPHENO:0001325
+name: Platelet counts
+
+[Term]
+id: ENSPHENO:0001326
+name: Platelet-activating factor acetylhydrolase deficiency
+
+[Term]
+id: ENSPHENO:0001327
+name: Polycystic kidney disease autosomal dominant type 1
+
+[Term]
+id: ENSPHENO:0001328
+name: Polysubstance addiction
+
+[Term]
+id: ENSPHENO:0001329
+name: Primary biliary cirrhosis
+
+[Term]
+id: ENSPHENO:0001330
+name: Primary congenital glaucoma type 3A
+
+[Term]
+id: ENSPHENO:0001331
+name: Primary tooth development (number of teeth)
+
+[Term]
+id: ENSPHENO:0001332
+name: Progressive Supranuclear Palsy
+
+[Term]
+id: ENSPHENO:0001333
+name: Progressive familial intrahepatic cholestasis type 3
+
+[Term]
+id: ENSPHENO:0001334
+name: Prostate cancer
+
+[Term]
+id: ENSPHENO:0001335
+name: Protein quantitative trait loci
+
+[Term]
+id: ENSPHENO:0001336
+name: Pseudovaginal perineoscrotal hypospadias
+
+[Term]
+id: ENSPHENO:0001337
+name: Pseudoxanthoma elasticum
+
+[Term]
+id: ENSPHENO:0001338
+name: Psoriasis
+
+[Term]
+id: ENSPHENO:0001339
+name: Psoriatic arthritis
+
+[Term]
+id: ENSPHENO:0001340
+name: Pulmonary function
+
+[Term]
+id: ENSPHENO:0001341
+name: Pulmonary function phenotypes-meanfev1
+
+[Term]
+id: ENSPHENO:0001342
+name: Pulmonary function phenotypes-meanratio
+
+[Term]
+id: ENSPHENO:0001343
+name: Pulmonary function phenotypes-ppfef
+
+[Term]
+id: ENSPHENO:0001344
+name: Pulmonary function phenotypes-ppfefrat
+
+[Term]
+id: ENSPHENO:0001345
+name: Pulmonary function phenotypes-ppfvc
+
+[Term]
+id: ENSPHENO:0001346
+name: Pulmonary function phenotypes-ppratio
+
+[Term]
+id: ENSPHENO:0001347
+name: Pulmonary function traits (other)
+
+[Term]
+id: ENSPHENO:0001348
+name: Pycnodysostosis
+
+[Term]
+id: ENSPHENO:0001349
+name: Pyruvate carboxylase deficiency
+
+[Term]
+id: ENSPHENO:0001350
+name: QT INTERVAL VARIATION IN
+
+[Term]
+id: ENSPHENO:0001351
+name: QT interval
+
+[Term]
+id: ENSPHENO:0001352
+name: Quantitative traits
+
+[Term]
+id: ENSPHENO:0001353
+name: RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+
+[Term]
+id: ENSPHENO:0001354
+name: RECOMBINATION RATE QUANTITATIVE TRAIT LOCUS 1
+
+[Term]
+id: ENSPHENO:0001355
+name: REFSUM DISEASE INFANTILE FORM
+
+[Term]
+id: ENSPHENO:0001356
+name: RENAL AGENESIS
+
+[Term]
+id: ENSPHENO:0001357
+name: RENAL CELL CARCINOMA WITH PARANEOPLASTIC ERYTHROCYTOSIS
+
+[Term]
+id: ENSPHENO:0001358
+name: RENAL TUBULAR ACIDOSIS DISTAL AUTOSOMAL RECESSIVE
+
+[Term]
+id: ENSPHENO:0001359
+name: RESTING HEART RATE VARIATION IN
+
+[Term]
+id: ENSPHENO:0001360
+name: RESTLESS LEGS SYNDROME SUSCEPTIBILITY TO 6
+
+[Term]
+id: ENSPHENO:0001361
+name: RESTLESS LEGS SYNDROME SUSCEPTIBILITY TO 7
+
+[Term]
+id: ENSPHENO:0001362
+name: RETINAL CONE DYSTROPHY 3B
+
+[Term]
+id: ENSPHENO:0001363
+name: RETINAL DEGENERATION AUTOSOMAL RECESSIVE CLUMPED PIGMENT TYPE
+
+[Term]
+id: ENSPHENO:0001364
+name: RETINAL DYSTROPHY EARLY-ONSET SEVERE LRAT-RELATED
+
+[Term]
+id: ENSPHENO:0001365
+name: RETINITIS PIGMENTOSA 11
+
+[Term]
+id: ENSPHENO:0001366
+name: RETINITIS PIGMENTOSA 12
+
+[Term]
+id: ENSPHENO:0001367
+name: RETINITIS PIGMENTOSA 13
+
+[Term]
+id: ENSPHENO:0001368
+name: RETINITIS PIGMENTOSA 17
+
+[Term]
+id: ENSPHENO:0001369
+name: RETINITIS PIGMENTOSA 18
+
+[Term]
+id: ENSPHENO:0001370
+name: RETINITIS PIGMENTOSA 2
+
+[Term]
+id: ENSPHENO:0001371
+name: RETINITIS PIGMENTOSA 3
+
+[Term]
+id: ENSPHENO:0001372
+name: RETINITIS PIGMENTOSA 39
+
+[Term]
+id: ENSPHENO:0001373
+name: RETINITIS PIGMENTOSA 4
+
+[Term]
+id: ENSPHENO:0001374
+name: RETINITIS PIGMENTOSA 42
+
+[Term]
+id: ENSPHENO:0001375
+name: RETINITIS PIGMENTOSA 49
+
+[Term]
+id: ENSPHENO:0001376
+name: RETINITIS PIGMENTOSA 50
+
+[Term]
+id: ENSPHENO:0001377
+name: RETINITIS PIGMENTOSA 54
+
+[Term]
+id: ENSPHENO:0001378
+name: RETINITIS PIGMENTOSA 7 WITH BULL'S-EYE MACULOPATHY
+
+[Term]
+id: ENSPHENO:0001379
+name: RETINOBLASTOMA
+
+[Term]
+id: ENSPHENO:0001380
+name: RETINOBLASTOMA-BINDING PROTEIN 8
+
+[Term]
+id: ENSPHENO:0001381
+name: RETINOSCHISIS 1 X-LINKED JUVENILE
+
+[Term]
+id: ENSPHENO:0001382
+name: RETT SYNDROME ZAPPELLA VARIANT
+
+[Term]
+id: ENSPHENO:0001383
+name: RHIZOMELIC CHONDRODYSPLASIA PUNCTATA TYPE 3
+
+[Term]
+id: ENSPHENO:0001384
+name: RIEGER ANOMALY
+
+[Term]
+id: ENSPHENO:0001385
+name: RIGID SPINE MUSCULAR DYSTROPHY 1
+
+[Term]
+id: ENSPHENO:0001386
+name: RING DERMOID OF CORNEA
+
+[Term]
+id: ENSPHENO:0001387
+name: RIPPLING MUSCLE DISEASE 2
+
+[Term]
+id: ENSPHENO:0001388
+name: ROBERTS SYNDROME
+
+[Term]
+id: ENSPHENO:0001389
+name: ROD MONOCHROMACY
+
+[Term]
+id: ENSPHENO:0001390
+name: RR interval (heart rate)
+
+[Term]
+id: ENSPHENO:0001391
+name: Reasoning
+
+[Term]
+id: ENSPHENO:0001392
+name: Recombination rate (males)
+
+[Term]
+id: ENSPHENO:0001393
+name: Recombination rate-Recombination rate gender specific in males
+
+[Term]
+id: ENSPHENO:0001394
+name: Red blood cell traits
+
+[Term]
+id: ENSPHENO:0001395
+name: Renal cell carcinoma
+
+[Term]
+id: ENSPHENO:0001396
+name: Response to TNF antagonist treatment
+
+[Term]
+id: ENSPHENO:0001397
+name: Response to antidepressants
+
+[Term]
+id: ENSPHENO:0001398
+name: Response to antineoplastic agents
+
+[Term]
+id: ENSPHENO:0001399
+name: Response to antipsychotic therapy (extrapyramidal side effects)
+
+[Term]
+id: ENSPHENO:0001400
+name: Response to antipsychotic treatment
+
+[Term]
+id: ENSPHENO:0001401
+name: Response to diuretic therapy
+
+[Term]
+id: ENSPHENO:0001402
+name: Response to statin therapy
+
+[Term]
+id: ENSPHENO:0001403
+name: Response to treatment for acute lymphoblastic leukemia
+
+[Term]
+id: ENSPHENO:0001404
+name: Restless Leg Syndrome
+
+[Term]
+id: ENSPHENO:0001405
+name: Restless Leg Syndrome-Periodic Leg Movements
+
+[Term]
+id: ENSPHENO:0001406
+name: Restless legs syndrome
+
+[Term]
+id: ENSPHENO:0001407
+name: Retinal vascular caliber
+
+[Term]
+id: ENSPHENO:0001408
+name: Rett syndrome
+
+[Term]
+id: ENSPHENO:0001409
+name: Rheumatoid Arthritis cyclic citrullinated peptide (CCP) positive
+
+[Term]
+id: ENSPHENO:0001410
+name: Rheumatoid arthritis
+
+[Term]
+id: ENSPHENO:0001411
+name: Rickets vitamin D-dependent type 1A
+
+[Term]
+id: ENSPHENO:0001412
+name: Rippling muscle disease
+
+[Term]
+id: ENSPHENO:0001413
+name: SAETHRE-CHOTZEN SYNDROME
+
+[Term]
+id: ENSPHENO:0001414
+name: SANFILIPPO SYNDROME A
+
+[Term]
+id: ENSPHENO:0001415
+name: SARCOIDOSIS EARLY-ONSET
+
+[Term]
+id: ENSPHENO:0001416
+name: SC PHOCOMELIA SYNDROME
+
+[Term]
+id: ENSPHENO:0001417
+name: SCAD DEFICIENCY
+
+[Term]
+id: ENSPHENO:0001418
+name: SCHIZOPHRENIA 7
+
+[Term]
+id: ENSPHENO:0001419
+name: SCHIZOPHRENIA SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0001420
+name: SCIANNA BLOOD GROUP SYSTEM SC:-12
+
+[Term]
+id: ENSPHENO:0001421
+name: SCIANNA BLOOD GROUP SYSTEM STAR ANTIGEN
+
+[Term]
+id: ENSPHENO:0001422
+name: SCOLIOSIS IDIOPATHIC SUSCEPTIBILITY TO 3
+
+[Term]
+id: ENSPHENO:0001423
+name: SEIZURES BENIGN FAMILIAL NEONATAL 1
+
+[Term]
+id: ENSPHENO:0001424
+name: SEIZURES BENIGN FAMILIAL NEONATAL 1 AND/OR MYOKYMIA
+
+[Term]
+id: ENSPHENO:0001425
+name: SENSORINEURAL DEAFNESS WITH MILD RENAL DYSFUNCTION
+
+[Term]
+id: ENSPHENO:0001426
+name: SEVERE COMBINED IMMUNODEFICIENCY AUTOSOMAL RECESSIVE T CELL-NEGATIVE B CELL-POSITIVE NK CELL-POSITIVE
+
+[Term]
+id: ENSPHENO:0001427
+name: SEVERE COMBINED IMMUNODEFICIENCY B CELL-NEGATIVE
+
+[Term]
+id: ENSPHENO:0001428
+name: SEVERE COMBINED IMMUNODEFICIENCY X-LINKED
+
+[Term]
+id: ENSPHENO:0001429
+name: SEX HORMONE-BINDING GLOBULIN
+
+[Term]
+id: ENSPHENO:0001430
+name: SEX HORMONE-BINDING GLOBULIN CIRCULATING LEVEL QUANTITATIVE TRAIT LOCUS
+
+[Term]
+id: ENSPHENO:0001431
+name: SHORT STATURE IDIOPATHIC AUTOSOMAL
+
+[Term]
+id: ENSPHENO:0001432
+name: SIALIDOSIS TYPE I
+
+[Term]
+id: ENSPHENO:0001433
+name: SIALIDOSIS TYPE II
+
+[Term]
+id: ENSPHENO:0001434
+name: SICKLE CELL ANEMIA
+
+[Term]
+id: ENSPHENO:0001435
+name: SKIN/HAIR/EYE PIGMENTATION 2 BLOND HAIR/FAIR SKIN
+
+[Term]
+id: ENSPHENO:0001436
+name: SKIN/HAIR/EYE PIGMENTATION 2 RED HAIR/FAIR SKIN
+
+[Term]
+id: ENSPHENO:0001437
+name: SKIN/HAIR/EYE PIGMENTATION 3 LIGHT/DARK SKIN
+
+[Term]
+id: ENSPHENO:0001438
+name: SKIN/HAIR/EYE PIGMENTATION VARIATION IN 3
+
+[Term]
+id: ENSPHENO:0001439
+name: SKIN/HAIR/EYE PIGMENTATION VARIATION IN 5
+
+[Term]
+id: ENSPHENO:0001440
+name: SLE
+
+[Term]
+id: ENSPHENO:0001441
+name: SOLUTE CARRIER FAMILY 18 (VESICULAR MONOAMINE) MEMBER 2
+
+[Term]
+id: ENSPHENO:0001442
+name: SOLUTE CARRIER FAMILY 25 (MITOCHONDRIAL CARRIER ARALAR) MEMBER 12
+
+[Term]
+id: ENSPHENO:0001443
+name: SOLUTE CARRIER FAMILY 45 MEMBER 2
+
+[Term]
+id: ENSPHENO:0001444
+name: SOLUTE CARRIER FAMILY 6 (NEUROTRANSMITTER TRANSPORTER SEROTONIN) MEMBER 4
+
+[Term]
+id: ENSPHENO:0001445
+name: SORBIN AND SH3-DOMAINS CONTAINING 1
+
+[Term]
+id: ENSPHENO:0001446
+name: SPASTIC PARAPLEGIA 3 AUTOSOMAL DOMINANT
+
+[Term]
+id: ENSPHENO:0001447
+name: SPASTIC PARAPLEGIA 4
+
+[Term]
+id: ENSPHENO:0001448
+name: SPECIFIC LANGUAGE IMPAIRMENT 1
+
+[Term]
+id: ENSPHENO:0001449
+name: SPINAL MUSCULAR ATROPHY TYPE I
+
+[Term]
+id: ENSPHENO:0001450
+name: SPINAL MUSCULAR ATROPHY TYPE II
+
+[Term]
+id: ENSPHENO:0001451
+name: SPINOCEREBELLAR ATAXIA 1
+
+[Term]
+id: ENSPHENO:0001452
+name: SPINOCEREBELLAR ATAXIA AUTOSOMAL RECESSIVE 1
+
+[Term]
+id: ENSPHENO:0001453
+name: SPINOCEREBELLAR ATAXIA AUTOSOMAL RECESSIVE 8
+
+[Term]
+id: ENSPHENO:0001454
+name: SPONDYLOCOSTAL DYSOSTOSIS 1 AUTOSOMAL RECESSIVE
+
+[Term]
+id: ENSPHENO:0001455
+name: SPONDYLOEPIMETAPHYSEAL DYSPLASIA MATN3-RELATED
+
+[Term]
+id: ENSPHENO:0001456
+name: SPONDYLOMETAEPIPHYSEAL DYSPLASIA SHORT LIMB-HAND TYPE
+
+[Term]
+id: ENSPHENO:0001457
+name: SPONDYLOMETAPHYSEAL DYSPLASIA KOZLOWSKI TYPE
+
+[Term]
+id: ENSPHENO:0001458
+name: STARGARDT DISEASE 1
+
+[Term]
+id: ENSPHENO:0001459
+name: STATURE AS A QUANTITATIVE TRAIT
+
+[Term]
+id: ENSPHENO:0001460
+name: STATURE QUANTITATIVE TRAIT LOCUS 12
+
+[Term]
+id: ENSPHENO:0001461
+name: STATURE QUANTITATIVE TRAIT LOCUS 14
+
+[Term]
+id: ENSPHENO:0001462
+name: STATURE QUANTITATIVE TRAIT LOCUS 22
+
+[Term]
+id: ENSPHENO:0001463
+name: STATURE QUANTITATIVE TRAIT LOCUS 9
+
+[Term]
+id: ENSPHENO:0001464
+name: STEROID 5-ALPHA-REDUCTASE POLYMORPHISM
+
+[Term]
+id: ENSPHENO:0001465
+name: STROKE ISCHEMIC
+
+[Term]
+id: ENSPHENO:0001466
+name: SUBCORTICAL LAMINAR HETEROTOPIA
+
+[Term]
+id: ENSPHENO:0001467
+name: SUBCORTICAL LAMINAR HETEROTOPIA X-LINKED
+
+[Term]
+id: ENSPHENO:0001468
+name: SUCCINIC SEMIALDEHYDE DEHYDROGENASE DEFICIENCY
+
+[Term]
+id: ENSPHENO:0001469
+name: SULFOTRANSFERASE FAMILY 1A PHENOL-PREFERRING MEMBER 1
+
+[Term]
+id: ENSPHENO:0001470
+name: SUPEROXIDE DISMUTASE 2 POLYMORPHISM
+
+[Term]
+id: ENSPHENO:0001471
+name: SYMPHALANGISM PROXIMAL
+
+[Term]
+id: ENSPHENO:0001472
+name: SYSTEMIC LUPUS ERYTHEMATOSUS ASSOCIATION WITH SUSCEPTIBILITY TO 10
+
+[Term]
+id: ENSPHENO:0001473
+name: SYSTEMIC LUPUS ERYTHEMATOSUS SUSCEPTIBILITY TO 10
+
+[Term]
+id: ENSPHENO:0001474
+name: SYSTEMIC LUPUS ERYTHEMATOSUS SUSCEPTIBILITY TO 14
+
+[Term]
+id: ENSPHENO:0001475
+name: SYSTEMIC LUPUS ERYTHEMATOSUS SUSCEPTIBILITY TO 15
+
+[Term]
+id: ENSPHENO:0001476
+name: SYSTEMIC LUPUS ERYTHEMATOSUS SUSCEPTIBILITY TO 9
+
+[Term]
+id: ENSPHENO:0001477
+name: Schizophrenia
+
+[Term]
+id: ENSPHENO:0001478
+name: Schizophrenia bipolar disorder and depression (combined)
+
+[Term]
+id: ENSPHENO:0001479
+name: Schizophrenia-Schizophrenia gender differentiated in females
+
+[Term]
+id: ENSPHENO:0001480
+name: Schizophrenia-Schizophrenia gender differentiated in males
+
+[Term]
+id: ENSPHENO:0001481
+name: Self-rated health
+
+[Term]
+id: ENSPHENO:0001482
+name: Serum LDL cholesterol levels
+
+[Term]
+id: ENSPHENO:0001483
+name: Serum calcium
+
+[Term]
+id: ENSPHENO:0001484
+name: Serum creatinine
+
+[Term]
+id: ENSPHENO:0001485
+name: Serum dehydroepiandrosterone sulphate levels
+
+[Term]
+id: ENSPHENO:0001486
+name: Serum hepcidin
+
+[Term]
+id: ENSPHENO:0001487
+name: Serum iron levels
+
+[Term]
+id: ENSPHENO:0001488
+name: Serum magnesium levels
+
+[Term]
+id: ENSPHENO:0001489
+name: Serum markers of iron status
+
+[Term]
+id: ENSPHENO:0001490
+name: Serum metabolites
+
+[Term]
+id: ENSPHENO:0001491
+name: Serum phosphorus levels
+
+[Term]
+id: ENSPHENO:0001492
+name: Serum urate
+
+[Term]
+id: ENSPHENO:0001493
+name: Serum uric acid
+
+[Term]
+id: ENSPHENO:0001494
+name: Serum uric acid levels
+
+[Term]
+id: ENSPHENO:0001495
+name: Severe combined immunodeficiency autosomal recessive T-cell-negative/B-cell-positive/NK-cell-negative
+
+[Term]
+id: ENSPHENO:0001496
+name: Shwachman-Diamond syndrome
+
+[Term]
+id: ENSPHENO:0001497
+name: Sialidosis
+
+[Term]
+id: ENSPHENO:0001498
+name: Skin pigmentation
+
+[Term]
+id: ENSPHENO:0001499
+name: Skin sensitivity to sun
+
+[Term]
+id: ENSPHENO:0001500
+name: Sleep and circadian phenotypes-Epworth Sleepiness Scale score
+
+[Term]
+id: ENSPHENO:0001501
+name: Sleep and circadian phenotypes-Usual Bedtime (questionnaire)
+
+[Term]
+id: ENSPHENO:0001502
+name: Sleep and circadian phenotypes-Usual Sleep Duration (questionnaire)
+
+[Term]
+id: ENSPHENO:0001503
+name: Smith-Lemli-Opitz syndrome
+
+[Term]
+id: ENSPHENO:0001504
+name: Smoking behavior
+
+[Term]
+id: ENSPHENO:0001505
+name: Sphingolipid levels
+
+[Term]
+id: ENSPHENO:0001506
+name: Spinocerebellar ataxia autosomal recessive type 1
+
+[Term]
+id: ENSPHENO:0001507
+name: Sporadic Amyotrophic Lateral Sclerosis (ALS)
+
+[Term]
+id: ENSPHENO:0001508
+name: Sporadic Amyotrophic Lateral Sclerosis (ALS)-Amyotrophic Lateral Sclerosis (ALS) gender differentiated
+
+[Term]
+id: ENSPHENO:0001509
+name: Sporadic Amyotrophic Lateral Sclerosis (ALS)-Bulbar Onset Amyotrophic Lateral Sclerosis (ALS)
+
+[Term]
+id: ENSPHENO:0001510
+name: Sporadic Amyotrophic Lateral Sclerosis (ALS)-Early Onset Amyotrophic Lateral Sclerosis (ALS)
+
+[Term]
+id: ENSPHENO:0001511
+name: Sporadic post-menopausal breast cancer
+
+[Term]
+id: ENSPHENO:0001512
+name: Squamous cell carcinoma
+
+[Term]
+id: ENSPHENO:0001513
+name: Stargardt disease type 1
+
+[Term]
+id: ENSPHENO:0001514
+name: Stroke
+
+[Term]
+id: ENSPHENO:0001515
+name: Stroke-Lacunar Stroke
+
+[Term]
+id: ENSPHENO:0001516
+name: Subclinical atherosclerosis traits (other)
+
+[Term]
+id: ENSPHENO:0001517
+name: Subclinical atherosclerosis-Ankle brachial index
+
+[Term]
+id: ENSPHENO:0001518
+name: Subclinical atherosclerosis-Common carotid artery IMT (intimal medial thickness)
+
+[Term]
+id: ENSPHENO:0001519
+name: Subclinical atherosclerosis-Coronary artery calcification
+
+[Term]
+id: ENSPHENO:0001520
+name: Subclinical atherosclerosis-Internal carotid artery IMT (intimal medial thickness)
+
+[Term]
+id: ENSPHENO:0001521
+name: Sudden cardiac arrest
+
+[Term]
+id: ENSPHENO:0001522
+name: Suicide attempts in bipolar disorder
+
+[Term]
+id: ENSPHENO:0001523
+name: Systemic Lupus Erythematosus (SLE) gender differentiated in women
+
+[Term]
+id: ENSPHENO:0001524
+name: Systemic lupus erythematosus
+
+[Term]
+id: ENSPHENO:0001525
+name: Systemic sclerosis
+
+[Term]
+id: ENSPHENO:0001526
+name: Systolic blood pressure
+
+[Term]
+id: ENSPHENO:0001527
+name: TAY-SACHS DISEASE
+
+[Term]
+id: ENSPHENO:0001528
+name: TCN2 POLYMORPHISM
+
+[Term]
+id: ENSPHENO:0001529
+name: TELANGIECTASIA HEREDITARY HEMORRHAGIC TYPE 2
+
+[Term]
+id: ENSPHENO:0001530
+name: TELOMERE LENGTH MEAN LEUKOCYTE
+
+[Term]
+id: ENSPHENO:0001531
+name: TESTICULAR TUMORS
+
+[Term]
+id: ENSPHENO:0001532
+name: THROMBASTHENIA OF GLANZMANN AND NAEGELI
+
+[Term]
+id: ENSPHENO:0001533
+name: THROMBOCYTOPENIA 2
+
+[Term]
+id: ENSPHENO:0001534
+name: THROMBOCYTOPENIA AUTOSOMAL DOMINANT 2
+
+[Term]
+id: ENSPHENO:0001535
+name: THROMBOPHILIA DUE TO FACTOR V LEIDEN
+
+[Term]
+id: ENSPHENO:0001536
+name: THROMBOSIS SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0001537
+name: THYROID CARCINOMA FAMILIAL MEDULLARY
+
+[Term]
+id: ENSPHENO:0001538
+name: THYROID DYSHORMONOGENESIS 2A
+
+[Term]
+id: ENSPHENO:0001539
+name: THYROID DYSHORMONOGENESIS 6
+
+[Term]
+id: ENSPHENO:0001540
+name: THYROID HORMONE RESISTANCE GENERALIZED AUTOSOMAL DOMINANT
+
+[Term]
+id: ENSPHENO:0001541
+name: THYROXINE-BINDING GLOBULIN VARIANT P
+
+[Term]
+id: ENSPHENO:0001542
+name: TIETZ ALBINISM-DEAFNESS SYNDROME
+
+[Term]
+id: ENSPHENO:0001543
+name: TOLL-LIKE RECEPTOR 3
+
+[Term]
+id: ENSPHENO:0001544
+name: TOOTH AGENESIS SELECTIVE 3
+
+[Term]
+id: ENSPHENO:0001545
+name: TORSIN 1A
+
+[Term]
+id: ENSPHENO:0001546
+name: TOWNES-BROCKS SYNDROME
+
+[Term]
+id: ENSPHENO:0001547
+name: TRANSCRIPTION FACTOR 7-LIKE 2
+
+[Term]
+id: ENSPHENO:0001548
+name: TRANSFERRIN
+
+[Term]
+id: ENSPHENO:0001549
+name: TREACHER COLLINS SYNDROME
+
+[Term]
+id: ENSPHENO:0001550
+name: TRICHORHINOPHALANGEAL SYNDROME TYPE I
+
+[Term]
+id: ENSPHENO:0001551
+name: TRIMETHYLAMINURIA
+
+[Term]
+id: ENSPHENO:0001552
+name: TRITANOPIA
+
+[Term]
+id: ENSPHENO:0001553
+name: TUBERCULOSIS SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0001554
+name: TUBEROUS SCLEROSIS 1
+
+[Term]
+id: ENSPHENO:0001555
+name: TUBEROUS SCLEROSIS 2
+
+[Term]
+id: ENSPHENO:0001556
+name: TUMORAL CALCINOSIS FAMILIAL HYPERPHOSPHATEMIC
+
+[Term]
+id: ENSPHENO:0001557
+name: TYROSINASE
+
+[Term]
+id: ENSPHENO:0001558
+name: TYROSINEMIA TYPE I
+
+[Term]
+id: ENSPHENO:0001559
+name: TYROSINEMIA TYPE II
+
+[Term]
+id: ENSPHENO:0001560
+name: Tanning
+
+[Term]
+id: ENSPHENO:0001561
+name: Telomere length
+
+[Term]
+id: ENSPHENO:0001562
+name: Testicular germ cell cancer
+
+[Term]
+id: ENSPHENO:0001563
+name: Testicular germ cell tumor
+
+[Term]
+id: ENSPHENO:0001564
+name: Tetralogy of Fallot
+
+[Term]
+id: ENSPHENO:0001565
+name: Thiamine-responsive megaloblastic anemia syndrome
+
+[Term]
+id: ENSPHENO:0001566
+name: Thiopurine S-methyltransferase deficiency
+
+[Term]
+id: ENSPHENO:0001567
+name: Thrombocytopenia type 2
+
+[Term]
+id: ENSPHENO:0001568
+name: Thyroid volume
+
+[Term]
+id: ENSPHENO:0001569
+name: Tonometry
+
+[Term]
+id: ENSPHENO:0001570
+name: Total ventricular volume
+
+[Term]
+id: ENSPHENO:0001571
+name: Transient familial neonatal hyperbilirubinemia
+
+[Term]
+id: ENSPHENO:0001572
+name: Triglycerides
+
+[Term]
+id: ENSPHENO:0001573
+name: Tuberculosis
+
+[Term]
+id: ENSPHENO:0001574
+name: Two-hour glucose challenge
+
+[Term]
+id: ENSPHENO:0001575
+name: Type 1 diabetes
+
+[Term]
+id: ENSPHENO:0001576
+name: Type 1 diabetes autoantibodies
+
+[Term]
+id: ENSPHENO:0001577
+name: Type 2 diabetes
+
+[Term]
+id: ENSPHENO:0001578
+name: Type I Diabetes
+
+[Term]
+id: ENSPHENO:0001579
+name: Type II Diabetes Mellitus
+
+[Term]
+id: ENSPHENO:0001580
+name: Type II Diabetes Mellitus-Early onset Type II Diabetes Mellitus
+
+[Term]
+id: ENSPHENO:0001581
+name: Type II Diabetes Mellitus-End stage renal disease
+
+[Term]
+id: ENSPHENO:0001582
+name: Type II Diabetes Mellitus-FPG
+
+[Term]
+id: ENSPHENO:0001583
+name: Type II Diabetes Mellitus-Fasting glucose
+
+[Term]
+id: ENSPHENO:0001584
+name: Type II Diabetes Mellitus-Fasting insulin
+
+[Term]
+id: ENSPHENO:0001585
+name: Type II Diabetes Mellitus-Glucose - glucose tolerance test
+
+[Term]
+id: ENSPHENO:0001586
+name: Type II Diabetes Mellitus-HOMA-IR
+
+[Term]
+id: ENSPHENO:0001587
+name: Type II Diabetes Mellitus-HbA1c
+
+[Term]
+id: ENSPHENO:0001588
+name: Type II Diabetes Mellitus-ISI_0-120
+
+[Term]
+id: ENSPHENO:0001589
+name: Type II Diabetes Mellitus-Insulinogenic Index
+
+[Term]
+id: ENSPHENO:0001590
+name: Type II Diabetes Mellitus-Type II Diabetes Mellitus in NonObese Subjects
+
+[Term]
+id: ENSPHENO:0001591
+name: Type II Diabetes Mellitus-Type II Diabetes Mellitus in Obese Subjects
+
+[Term]
+id: ENSPHENO:0001592
+name: Type II Diabetes Mellitus-mFPG
+
+[Term]
+id: ENSPHENO:0001593
+name: Type II Diabetes Mellitus-tFPG
+
+[Term]
+id: ENSPHENO:0001594
+name: UCP3 POLYMORPHISM G/A
+
+[Term]
+id: ENSPHENO:0001595
+name: URIC ACID CONCENTRATION SERUM QUANTITATIVE TRAIT LOCUS 2
+
+[Term]
+id: ENSPHENO:0001596
+name: URIC ACID NEPHROLITHIASIS SUSCEPTIBILITY TO
+
+[Term]
+id: ENSPHENO:0001597
+name: USHER SYNDROME TYPE IB
+
+[Term]
+id: ENSPHENO:0001598
+name: USHER SYNDROME TYPE IC
+
+[Term]
+id: ENSPHENO:0001599
+name: USHER SYNDROME TYPE ID
+
+[Term]
+id: ENSPHENO:0001600
+name: USHER SYNDROME TYPE IG
+
+[Term]
+id: ENSPHENO:0001601
+name: USHER SYNDROME TYPE III
+
+[Term]
+id: ENSPHENO:0001602
+name: Ulcerative colitis
+
+[Term]
+id: ENSPHENO:0001603
+name: Upper aerodigestive tract cancers
+
+[Term]
+id: ENSPHENO:0001604
+name: Urinary albumin excretion
+
+[Term]
+id: ENSPHENO:0001605
+name: Urinary bladder cancer
+
+[Term]
+id: ENSPHENO:0001606
+name: Urinary metabolites
+
+[Term]
+id: ENSPHENO:0001607
+name: Usher syndrome type 2A
+
+[Term]
+id: ENSPHENO:0001608
+name: Uterine fibroids
+
+[Term]
+id: ENSPHENO:0001609
+name: VENOUS MALFORMATIONS MULTIPLE CUTANEOUS AND MUCOSAL
+
+[Term]
+id: ENSPHENO:0001610
+name: VENTRICULAR FIBRILLATION PAROXYSMAL FAMILIAL 2
+
+[Term]
+id: ENSPHENO:0001611
+name: VITAMIN B12 PLASMA LEVEL QUANTITATIVE TRAIT LOCUS 1
+
+[Term]
+id: ENSPHENO:0001612
+name: VITAMIN B6 PLASMA LEVEL QUANTITATIVE TRAIT LOCUS 1
+
+[Term]
+id: ENSPHENO:0001613
+name: VITAMIN D HYDROXYLATION-DEFICIENT RICKETS TYPE 1A
+
+[Term]
+id: ENSPHENO:0001614
+name: VITAMIN K EPOXIDE REDUCTASE COMPLEX SUBUNIT 1
+
+[Term]
+id: ENSPHENO:0001615
+name: VLCAD DEFICIENCY
+
+[Term]
+id: ENSPHENO:0001616
+name: VOHWINKEL SYNDROME
+
+[Term]
+id: ENSPHENO:0001617
+name: VON HIPPEL-LINDAU SYNDROME
+
+[Term]
+id: ENSPHENO:0001618
+name: Vascular endothelial growth factor levels
+
+[Term]
+id: ENSPHENO:0001619
+name: Ventricular conduction
+
+[Term]
+id: ENSPHENO:0001620
+name: Vertical cup-disc ratio
+
+[Term]
+id: ENSPHENO:0001621
+name: Vitamin D levels
+
+[Term]
+id: ENSPHENO:0001622
+name: Vitelliform macular dystrophy type 2
+
+[Term]
+id: ENSPHENO:0001623
+name: Vitiligo
+
+[Term]
+id: ENSPHENO:0001624
+name: Volumetric brain MRI
+
+[Term]
+id: ENSPHENO:0001625
+name: Von Hippel-Lindau disease
+
+[Term]
+id: ENSPHENO:0001626
+name: WAARDENBURG SYNDROME TYPE 1
+
+[Term]
+id: ENSPHENO:0001627
+name: WAARDENBURG SYNDROME TYPE 2E WITHOUT NEUROLOGIC INVOLVEMENT
+
+[Term]
+id: ENSPHENO:0001628
+name: WARFARIN RESISTANCE
+
+[Term]
+id: ENSPHENO:0001629
+name: WHITE SPONGE NEVUS
+
+[Term]
+id: ENSPHENO:0001630
+name: WOLFRAM SYNDROME 1
+
+[Term]
+id: ENSPHENO:0001631
+name: Waist circumference
+
+[Term]
+id: ENSPHENO:0001632
+name: Waist circumference and related phenotypes
+
+[Term]
+id: ENSPHENO:0001633
+name: Waist-hip ratio
+
+[Term]
+id: ENSPHENO:0001634
+name: Warfarin maintenance dose
+
+[Term]
+id: ENSPHENO:0001635
+name: Weight
+
+[Term]
+id: ENSPHENO:0001636
+name: Wet neovascular age-related macular degeneration (AMD)
+
+[Term]
+id: ENSPHENO:0001637
+name: White blood cell types
+
+[Term]
+id: ENSPHENO:0001638
+name: Wilson disease
+
+[Term]
+id: ENSPHENO:0001639
+name: Wolfram syndrome
+
+[Term]
+id: ENSPHENO:0001640
+name: Wrist bone mass
+
+[Term]
+id: ENSPHENO:0001641
+name: X-linked adrenal hypoplasia congenital
+
+[Term]
+id: ENSPHENO:0001642
+name: XERODERMA PIGMENTOSUM COMPLEMENTATION GROUP A
+
+[Term]
+id: ENSPHENO:0001643
+name: XERODERMA PIGMENTOSUM COMPLEMENTATION GROUP C
+
+[Term]
+id: ENSPHENO:0001644
+name: XERODERMA PIGMENTOSUM GROUP G/COCKAYNE SYNDROME
+
+[Term]
+id: ENSPHENO:0001645
+name: XERODERMA PIGMENTOSUM VARIANT TYPE
+
+[Term]
+id: ENSPHENO:0001646
+name: ZELLWEGER SYNDROME
+
+[Term]
+id: ENSPHENO:0001647
+name: phenotype_description
+

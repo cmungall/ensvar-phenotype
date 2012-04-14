@@ -1,0 +1,1384 @@
+ENSPHENO:0000054	ALLERGIC RHINITIS	SCTID_61582004	Allergic rhinitis	false	
+ENSPHENO:0000054	ALLERGIC RHINITIS	SCTID_61582004	Allergic rhinitis	true	
+ENSPHENO:0000075	ANEMIA CONGENITAL DYSERYTHROPOIETIC TYPE I	SCTID_59548005	Congenital dyserythropoietic anemia, type I	true	
+ENSPHENO:0000076	ANEMIA DYSERYTHROPOIETIC CONGENITAL TYPE I	SCTID_59548005	Congenital dyserythropoietic anemia, type I	true	
+ENSPHENO:0000081	APLASTIC ANEMIA	SCTID_306058006	Aplastic anemia	false	
+ENSPHENO:0000081	APLASTIC ANEMIA	SCTID_306058006	Aplastic anemia	true	
+ENSPHENO:0000112	Age-related macular degeneration	SCTID_267718000	Age-related macular degeneration	false	
+ENSPHENO:0000112	Age-related macular degeneration	SCTID_267718000	Age-related macular degeneration	true	
+ENSPHENO:0000119	Alcohol dependence	SCTID_66590003	Alcohol dependence	false	
+ENSPHENO:0000119	Alcohol dependence	SCTID_66590003	Alcohol dependence	true	
+ENSPHENO:0000123	Alexander disease	SCTID_81854007	Alexander's disease	false	
+ENSPHENO:0000123	Alexander disease	SCTID_81854007	Alexander's disease	true	
+ENSPHENO:0000126	Alternating hemiplegia of childhood	SCTID_230466004	Alternating hemiplegia of childhood	false	
+ENSPHENO:0000126	Alternating hemiplegia of childhood	SCTID_230466004	Alternating hemiplegia of childhood	true	
+ENSPHENO:0000128	Alzheimer's disease	SCTID_26929004	Alzheimer's disease	false	
+ENSPHENO:0000128	Alzheimer's disease	SCTID_26929004	Alzheimer's disease	true	
+ENSPHENO:0000135	Amyotrophic lateral sclerosis	SCTID_86044005	Amyotrophic lateral sclerosis	false	
+ENSPHENO:0000135	Amyotrophic lateral sclerosis	SCTID_86044005	Amyotrophic lateral sclerosis	true	
+ENSPHENO:0000137	Anorexia nervosa	SCTID_56882008	Anorexia nervosa	false	
+ENSPHENO:0000137	Anorexia nervosa	SCTID_56882008	Anorexia nervosa	true	
+ENSPHENO:0000142	Asperger disorder	SCTID_23560001	Asperger's disorder	false	
+ENSPHENO:0000142	Asperger disorder	SCTID_23560001	Asperger's disorder	true	
+ENSPHENO:0000143	Asthma	SCTID_195967001	Asthma	false	
+ENSPHENO:0000143	Asthma	SCTID_195967001	Asthma	true	
+ENSPHENO:0000146	Atrial fibrillation	SCTID_49436004	Atrial fibrillation	false	
+ENSPHENO:0000146	Atrial fibrillation	SCTID_49436004	Atrial fibrillation	true	
+ENSPHENO:0000150	Attention deficit hyperactivity disorder	SCTID_406506008	Attention deficit hyperactivity disorder	false	
+ENSPHENO:0000150	Attention deficit hyperactivity disorder	SCTID_406506008	Attention deficit hyperactivity disorder	true	
+ENSPHENO:0000155	BARDET-BIEDL SYNDROME	SCTID_5619004	Bardet-Biedl syndrome	false	
+ENSPHENO:0000155	BARDET-BIEDL SYNDROME	SCTID_5619004	Bardet-Biedl syndrome	true	
+ENSPHENO:0000162	BECKWITH-WIEDEMANN SYNDROME	SCTID_81780002	Beckwith-Wiedemann syndrome	false	
+ENSPHENO:0000162	BECKWITH-WIEDEMANN SYNDROME	SCTID_81780002	Beckwith-Wiedemann syndrome	true	
+ENSPHENO:0000167	BETA-THALASSEMIA	SCTID_65959000	beta Thalassemia	false	
+ENSPHENO:0000167	BETA-THALASSEMIA	SCTID_65959000	beta Thalassemia	true	
+ENSPHENO:0000168	BETA-THALASSEMIA INTERMEDIA	SCTID_191189009	Beta thalassemia intermedia	false	
+ENSPHENO:0000168	BETA-THALASSEMIA INTERMEDIA	SCTID_191189009	Beta thalassemia intermedia	true	
+ENSPHENO:0000193	BURKITT LYMPHOMA	SCTID_118617000	Burkitt's lymphoma	false	
+ENSPHENO:0000193	BURKITT LYMPHOMA	SCTID_118617000	Burkitt's lymphoma	true	
+ENSPHENO:0000197	Bernard-Soulier syndrome	SCTID_54569005	Bernard Soulier syndrome	false	
+ENSPHENO:0000197	Bernard-Soulier syndrome	SCTID_54569005	Bernard Soulier syndrome	true	
+ENSPHENO:0000203	Bipolar disorder	SCTID_13746004	Bipolar disorder	false	
+ENSPHENO:0000203	Bipolar disorder	SCTID_13746004	Bipolar disorder	true	
+ENSPHENO:0000259	CARDIOFACIOCUTANEOUS SYNDROME	SCTID_403770008	Cardio-facio-cutaneous syndrome	false	
+ENSPHENO:0000259	CARDIOFACIOCUTANEOUS SYNDROME	SCTID_403770008	Cardio-facio-cutaneous syndrome	true	
+ENSPHENO:0000269	CARNITINE PALMITOYLTRANSFERASE I DEFICIENCY	SCTID_238001003	Carnitine palmitoyltransferase I deficiency	false	
+ENSPHENO:0000269	CARNITINE PALMITOYLTRANSFERASE I DEFICIENCY	SCTID_238001003	Carnitine palmitoyltransferase I deficiency	true	
+ENSPHENO:0000279	CENTRAL CORE DISEASE	SCTID_43152001	Central core disease	false	
+ENSPHENO:0000279	CENTRAL CORE DISEASE	SCTID_43152001	Central core disease	true	
+ENSPHENO:0000284	CEREBRAL ARTERIOPATHY AUTOSOMAL DOMINANT WITH SUBCORTICAL INFARCTS AND LEUKOENCEPHALOPATHY	SCTID_390936003	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy	true	
+ENSPHENO:0000299	CHIARI MALFORMATION TYPE I	SCTID_253185002	Chiari malformation type I	false	
+ENSPHENO:0000299	CHIARI MALFORMATION TYPE I	SCTID_253185002	Chiari malformation type I	true	
+ENSPHENO:0000300	CHILD SYNDROME	SCTID_17608003	Child syndrome	false	
+ENSPHENO:0000300	CHILD SYNDROME	SCTID_17608003	Child syndrome	true	
+ENSPHENO:0000332	CORNEAL DYSTROPHY CRYSTALLINE OF SCHNYDER	SCTID_420212002	Schnyder crystalline corneal dystrophy	true	
+ENSPHENO:0000337	CRIGLER-NAJJAR SYNDROME TYPE I	SCTID_8933000	Crigler-Najjar syndrome, type I	false	
+ENSPHENO:0000337	CRIGLER-NAJJAR SYNDROME TYPE I	SCTID_8933000	Crigler-Najjar syndrome, type I	true	
+ENSPHENO:0000347	CYSTINURIA	SCTID_85020001	Cystinuria	false	
+ENSPHENO:0000347	CYSTINURIA	SCTID_85020001	Cystinuria	true	
+ENSPHENO:0000352	Cannabis dependence	SCTID_85005007	Cannabis dependence	false	
+ENSPHENO:0000352	Cannabis dependence	SCTID_85005007	Cannabis dependence	true	
+ENSPHENO:0000362	Celiac disease	SCTID_396331005	Celiac disease	false	
+ENSPHENO:0000362	Celiac disease	SCTID_396331005	Celiac disease	true	
+ENSPHENO:0000365	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy	SCTID_390936003	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy	false	
+ENSPHENO:0000365	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy	SCTID_390936003	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy	true	
+ENSPHENO:0000371	Cherubism	SCTID_53432004	Cherubism	false	
+ENSPHENO:0000371	Cherubism	SCTID_53432004	Cherubism	true	
+ENSPHENO:0000372	Childhood asthma	SCTID_233678006	Childhood asthma	false	
+ENSPHENO:0000372	Childhood asthma	SCTID_233678006	Childhood asthma	true	
+ENSPHENO:0000389	Congenital erythropoietic porphyria	SCTID_22935002	Congenital erythropoietic porphyria	false	
+ENSPHENO:0000389	Congenital erythropoietic porphyria	SCTID_22935002	Congenital erythropoietic porphyria	true	
+ENSPHENO:0000391	Coronary Artery Disease	SCTID_414024009	Disorder of coronary artery	false	
+ENSPHENO:0000398	Crohn's disease	SCTID_34000006	Crohn's disease	false	
+ENSPHENO:0000398	Crohn's disease	SCTID_34000006	Crohn's disease	true	
+ENSPHENO:0000402	Cystic fibrosis	SCTID_190905008	Cystic fibrosis	false	
+ENSPHENO:0000402	Cystic fibrosis	SCTID_190905008	Cystic fibrosis	true	
+ENSPHENO:0000439	Diabetic retinopathy	SCTID_4855003	Diabetic retinopathy	false	
+ENSPHENO:0000439	Diabetic retinopathy	SCTID_4855003	Diabetic retinopathy	true	
+ENSPHENO:0000480	EPIDERMOLYSIS BULLOSA SIMPLEX GENERALIZED	SCTID_90496008	Generalized epidermolysis bullosa simplex	true	
+ENSPHENO:0000482	EPIDERMOLYSIS BULLOSA SIMPLEX OGNA TYPE	SCTID_398071000	Epidermolysis bullosa simplex, Ogna type	false	
+ENSPHENO:0000482	EPIDERMOLYSIS BULLOSA SIMPLEX OGNA TYPE	SCTID_398071000	Epidermolysis bullosa simplex, Ogna type	true	
+ENSPHENO:0000487	EPISODIC ATAXIA TYPE 2	SCTID_420932006	Episodic ataxia type 2	false	
+ENSPHENO:0000487	EPISODIC ATAXIA TYPE 2	SCTID_420932006	Episodic ataxia type 2	true	
+ENSPHENO:0000512	Episodic ataxia type 2	SCTID_420932006	Episodic ataxia type 2	false	
+ENSPHENO:0000512	Episodic ataxia type 2	SCTID_420932006	Episodic ataxia type 2	true	
+ENSPHENO:0000526	FAMILIAL MEDITERRANEAN FEVER	SCTID_12579009	Familial Mediterranean fever	false	
+ENSPHENO:0000526	FAMILIAL MEDITERRANEAN FEVER	SCTID_12579009	Familial Mediterranean fever	true	
+ENSPHENO:0000545	FRIEDREICH ATAXIA	SCTID_10394003	Friedreich's ataxia	false	
+ENSPHENO:0000545	FRIEDREICH ATAXIA	SCTID_10394003	Friedreich's ataxia	true	
+ENSPHENO:0000546	FRONTOTEMPORAL DEMENTIA	SCTID_230270009	Frontotemporal dementia	false	
+ENSPHENO:0000546	FRONTOTEMPORAL DEMENTIA	SCTID_230270009	Frontotemporal dementia	true	
+ENSPHENO:0000549	FUCOSIDOSIS	SCTID_64716005	Fucosidosis	false	
+ENSPHENO:0000549	FUCOSIDOSIS	SCTID_64716005	Fucosidosis	true	
+ENSPHENO:0000553	Fabry disease	SCTID_16652001	Fabry's disease	false	
+ENSPHENO:0000553	Fabry disease	SCTID_16652001	Fabry's disease	true	
+ENSPHENO:0000558	Familial hypercholesterolemia	SCTID_398036000	Familial hypercholesterolemia	false	
+ENSPHENO:0000558	Familial hypercholesterolemia	SCTID_398036000	Familial hypercholesterolemia	true	
+ENSPHENO:0000563	Fanconi anemia	SCTID_30575002	Fanconi's anemia	false	
+ENSPHENO:0000563	Fanconi anemia	SCTID_30575002	Fanconi's anemia	true	
+ENSPHENO:0000569	Fundus flavimaculatus	SCTID_47673003	Fundus flavimaculatus	false	
+ENSPHENO:0000569	Fundus flavimaculatus	SCTID_47673003	Fundus flavimaculatus	true	
+ENSPHENO:0000572	GALACTOKINASE DEFICIENCY	SCTID_124302001	Deficiency of galactokinase	true	
+ENSPHENO:0000601	GUANIDINOACETATE METHYLTRANSFERASE DEFICIENCY	SCTID_124239003	Deficiency of guanidinoacetate methyltransferase	true	
+ENSPHENO:0000607	Generalized thyroid hormone resistance	SCTID_237560005	Generalized thyroid hormone resistance	false	
+ENSPHENO:0000607	Generalized thyroid hormone resistance	SCTID_237560005	Generalized thyroid hormone resistance	true	
+ENSPHENO:0000608	Gilbert syndrome	SCTID_27503000	Gilbert's syndrome	false	
+ENSPHENO:0000608	Gilbert syndrome	SCTID_27503000	Gilbert's syndrome	true	
+ENSPHENO:0000609	Glaucoma	SCTID_23986001	Glaucoma	false	
+ENSPHENO:0000609	Glaucoma	SCTID_23986001	Glaucoma	true	
+ENSPHENO:0000615	Glutamate formiminotransferase deficiency	SCTID_59761008	Glutamate formiminotransferase deficiency	false	
+ENSPHENO:0000615	Glutamate formiminotransferase deficiency	SCTID_59761008	Glutamate formiminotransferase deficiency	true	
+ENSPHENO:0000618	Graves' disease	SCTID_353295004	Graves' disease	false	
+ENSPHENO:0000618	Graves' disease	SCTID_353295004	Graves' disease	true	
+ENSPHENO:0000741	HISTIDINEMIA	SCTID_410058007	Histidinemia	false	
+ENSPHENO:0000741	HISTIDINEMIA	SCTID_410058007	Histidinemia	true	
+ENSPHENO:0000747	HOLT-ORAM SYNDROME	SCTID_19092004	Holt-Oram syndrome	false	
+ENSPHENO:0000747	HOLT-ORAM SYNDROME	SCTID_19092004	Holt-Oram syndrome	true	
+ENSPHENO:0000769	HYPOCALCIURIC HYPERCALCEMIA FAMILIAL	SCTID_237885008	Familial hypocalciuric hypercalcemia	true	
+ENSPHENO:0000770	HYPOGONADOTROPIC HYPOGONADISM	SCTID_33927004	Hypogonadotropic hypogonadism	false	
+ENSPHENO:0000770	HYPOGONADOTROPIC HYPOGONADISM	SCTID_33927004	Hypogonadotropic hypogonadism	true	
+ENSPHENO:0000773	HYPOMAGNESEMIA PRIMARY	SCTID_80710001	Primary hypomagnesemia	false	
+ENSPHENO:0000773	HYPOMAGNESEMIA PRIMARY	SCTID_80710001	Primary hypomagnesemia	true	
+ENSPHENO:0000791	Heart failure	SCTID_84114007	Heart failure	false	
+ENSPHENO:0000791	Heart failure	SCTID_84114007	Heart failure	true	
+ENSPHENO:0000800	Hennekam lymphangiectasia-lymphedema syndrome	SCTID_234146006	Hennekam lymphangiectasia-lymphedema syndrome	false	
+ENSPHENO:0000800	Hennekam lymphangiectasia-lymphedema syndrome	SCTID_234146006	Hennekam lymphangiectasia-lymphedema syndrome	true	
+ENSPHENO:0000815	Hypertriglyceridemia	SCTID_302870006	Hypertriglyceridemia	false	
+ENSPHENO:0000815	Hypertriglyceridemia	SCTID_302870006	Hypertriglyceridemia	true	
+ENSPHENO:0000816	Hypochondroplasia	SCTID_205468002	Hypochondroplasia	false	
+ENSPHENO:0000816	Hypochondroplasia	SCTID_205468002	Hypochondroplasia	true	
+ENSPHENO:0000818	Hypoplastic left heart syndrome	SCTID_62067003	Hypoplastic left heart syndrome	false	
+ENSPHENO:0000818	Hypoplastic left heart syndrome	SCTID_62067003	Hypoplastic left heart syndrome	true	
+ENSPHENO:0000819	Hypospadias	SCTID_416010008	Hypospadias	false	
+ENSPHENO:0000819	Hypospadias	SCTID_416010008	Hypospadias	true	
+ENSPHENO:0000855	Inflammatory bowel disease	SCTID_24526004	Inflammatory bowel disease	false	
+ENSPHENO:0000855	Inflammatory bowel disease	SCTID_24526004	Inflammatory bowel disease	true	
+ENSPHENO:0000859	Intracranial aneurysm	SCTID_128609009	Intracranial aneurysm	false	
+ENSPHENO:0000859	Intracranial aneurysm	SCTID_128609009	Intracranial aneurysm	true	
+ENSPHENO:0000861	Ischemic stroke	SCTID_422504002	Ischemic stroke	false	
+ENSPHENO:0000861	Ischemic stroke	SCTID_422504002	Ischemic stroke	true	
+ENSPHENO:0000923	Leprosy	SCTID_81004002	Leprosy	false	
+ENSPHENO:0000923	Leprosy	SCTID_81004002	Leprosy	true	
+ENSPHENO:0000926	Li-Fraumeni syndrome	SCTID_428850001	Li-Fraumeni syndrome	false	
+ENSPHENO:0000926	Li-Fraumeni syndrome	SCTID_428850001	Li-Fraumeni syndrome	true	
+ENSPHENO:0000950	MACULAR CORNEAL DYSTROPHY TYPE I	SCTID_418054005	Macular corneal dystrophy Type I	false	
+ENSPHENO:0000950	MACULAR CORNEAL DYSTROPHY TYPE I	SCTID_418054005	Macular corneal dystrophy Type I	true	
+ENSPHENO:0000996	METAPHYSEAL CHONDRODYSPLASIA SCHMID TYPE	SCTID_29248006	Metaphyseal chondrodysplasia, Schmid type	false	
+ENSPHENO:0000996	METAPHYSEAL CHONDRODYSPLASIA SCHMID TYPE	SCTID_29248006	Metaphyseal chondrodysplasia, Schmid type	true	
+ENSPHENO:0001019	MUCOPOLYSACCHARIDOSIS TYPE IVB	SCTID_238044004	Mucopolysaccharidosis type IVB	false	
+ENSPHENO:0001019	MUCOPOLYSACCHARIDOSIS TYPE IVB	SCTID_238044004	Mucopolysaccharidosis type IVB	true	
+ENSPHENO:0001040	MYELOMA MULTIPLE	SCTID_109989006	Multiple myeloma	true	
+ENSPHENO:0001049	Macular corneal dystrophy	SCTID_60258001	Macular corneal dystrophy	false	
+ENSPHENO:0001049	Macular corneal dystrophy	SCTID_60258001	Macular corneal dystrophy	true	
+ENSPHENO:0001051	Major depressive disorder	SCTID_370143000	Major depressive disorder	false	
+ENSPHENO:0001051	Major depressive disorder	SCTID_370143000	Major depressive disorder	true	
+ENSPHENO:0001055	Marfan syndrome	SCTID_19346006	Marfan's syndrome	false	
+ENSPHENO:0001055	Marfan syndrome	SCTID_19346006	Marfan's syndrome	true	
+ENSPHENO:0001066	Metabolic syndrome	SCTID_75934005	Metabolic disease	false	
+ENSPHENO:0001070	Migraine	SCTID_37796009	Migraine	false	
+ENSPHENO:0001070	Migraine	SCTID_37796009	Migraine	true	
+ENSPHENO:0001077	Moyamoya disease	SCTID_69116000	Moyamoya disease	false	
+ENSPHENO:0001077	Moyamoya disease	SCTID_69116000	Moyamoya disease	true	
+ENSPHENO:0001144	Multiple sclerosis	SCTID_24700007	Multiple sclerosis	false	
+ENSPHENO:0001144	Multiple sclerosis	SCTID_24700007	Multiple sclerosis	true	
+ENSPHENO:0001155	Myeloperoxidase deficiency	SCTID_234433009	Myeloperoxidase deficiency	false	
+ENSPHENO:0001155	Myeloperoxidase deficiency	SCTID_234433009	Myeloperoxidase deficiency	true	
+ENSPHENO:0001156	Myocardial infarction	SCTID_22298006	Myocardial infarction	false	
+ENSPHENO:0001156	Myocardial infarction	SCTID_22298006	Myocardial infarction	true	
+ENSPHENO:0001176	NIEMANN-PICK DISEASE TYPE A	SCTID_52165006	Niemann-Pick disease, type A	false	
+ENSPHENO:0001176	NIEMANN-PICK DISEASE TYPE A	SCTID_52165006	Niemann-Pick disease, type A	true	
+ENSPHENO:0001177	NIEMANN-PICK DISEASE TYPE B	SCTID_39390005	Niemann-Pick disease, type B	false	
+ENSPHENO:0001177	NIEMANN-PICK DISEASE TYPE B	SCTID_39390005	Niemann-Pick disease, type B	true	
+ENSPHENO:0001186	Narcolepsy	SCTID_60380001	Narcolepsy	false	
+ENSPHENO:0001186	Narcolepsy	SCTID_60380001	Narcolepsy	true	
+ENSPHENO:0001194	Nicotine dependence	SCTID_56294008	Nicotine dependence	false	
+ENSPHENO:0001194	Nicotine dependence	SCTID_56294008	Nicotine dependence	true	
+ENSPHENO:0001200	Non-small cell lung cancer	SCTID_254637007	Non-small cell lung cancer	false	
+ENSPHENO:0001200	Non-small cell lung cancer	SCTID_254637007	Non-small cell lung cancer	true	
+ENSPHENO:0001212	OCULOPHARYNGEAL MUSCULAR DYSTROPHY	SCTID_77097004	Oculopharyngeal muscular dystrophy	false	
+ENSPHENO:0001212	OCULOPHARYNGEAL MUSCULAR DYSTROPHY	SCTID_77097004	Oculopharyngeal muscular dystrophy	true	
+ENSPHENO:0001213	ODONTOONYCHODERMAL DYSPLASIA	SCTID_403762003	Odonto-onycho-dermal dysplasia	false	
+ENSPHENO:0001213	ODONTOONYCHODERMAL DYSPLASIA	SCTID_403762003	Odonto-onycho-dermal dysplasia	true	
+ENSPHENO:0001224	OSTEOGENESIS IMPERFECTA	SCTID_78314001	Osteogenesis imperfecta	false	
+ENSPHENO:0001224	OSTEOGENESIS IMPERFECTA	SCTID_78314001	Osteogenesis imperfecta	true	
+ENSPHENO:0001225	OSTEOGENESIS IMPERFECTA TYPE II	SCTID_205496008	Osteogenesis imperfecta type II	false	
+ENSPHENO:0001225	OSTEOGENESIS IMPERFECTA TYPE II	SCTID_205496008	Osteogenesis imperfecta type II	true	
+ENSPHENO:0001226	OSTEOGENESIS IMPERFECTA TYPE III	SCTID_385483009	Osteogenesis imperfecta type III	false	
+ENSPHENO:0001226	OSTEOGENESIS IMPERFECTA TYPE III	SCTID_385483009	Osteogenesis imperfecta type III	true	
+ENSPHENO:0001228	OSTEOGENESIS IMPERFECTA TYPE IV	SCTID_205497004	Osteogenesis imperfecta type IV	false	
+ENSPHENO:0001228	OSTEOGENESIS IMPERFECTA TYPE IV	SCTID_205497004	Osteogenesis imperfecta type IV	true	
+ENSPHENO:0001232	Obesity	SCTID_414916001	Obesity	false	
+ENSPHENO:0001232	Obesity	SCTID_414916001	Obesity	true	
+ENSPHENO:0001243	Osteoporosis	SCTID_281387004	Regional osteoporosis	true	
+ENSPHENO:0001243	Osteoporosis	SCTID_64859006	Osteoporosis	false	
+ENSPHENO:0001243	Osteoporosis	SCTID_64859006	Osteoporosis	true	
+ENSPHENO:0001246	Ovarian hyperstimulation syndrome	SCTID_129635004	Ovarian hyperstimulation syndrome	false	
+ENSPHENO:0001246	Ovarian hyperstimulation syndrome	SCTID_129635004	Ovarian hyperstimulation syndrome	true	
+ENSPHENO:0001250	PALLISTER-HALL SYNDROME	SCTID_56677004	Pallister-Hall syndrome	false	
+ENSPHENO:0001250	PALLISTER-HALL SYNDROME	SCTID_56677004	Pallister-Hall syndrome	true	
+ENSPHENO:0001280	POPLITEAL PTERYGIUM SYNDROME	SCTID_66783006	Popliteal pterygium syndrome	false	
+ENSPHENO:0001280	POPLITEAL PTERYGIUM SYNDROME	SCTID_66783006	Popliteal pterygium syndrome	true	
+ENSPHENO:0001282	PORPHYRIA ACUTE INTERMITTENT	SCTID_234422006	Acute intermittent porphyria	true	
+ENSPHENO:0001283	PORPHYRIA CONGENITAL ERYTHROPOIETIC	SCTID_22935002	Congenital erythropoietic porphyria	true	
+ENSPHENO:0001284	PRETERM PREMATURE RUPTURE OF THE MEMBRANES	SCTID_312974005	Preterm premature rupture of membranes	false	
+ENSPHENO:0001284	PRETERM PREMATURE RUPTURE OF THE MEMBRANES	SCTID_312974005	Preterm premature rupture of membranes	true	
+ENSPHENO:0001299	PYRUVATE KINASE DEFICIENCY	SCTID_124331002	Deficiency of pyruvate kinase	true	
+ENSPHENO:0001306	Panic disorder	SCTID_371631005	Panic disorder	false	
+ENSPHENO:0001306	Panic disorder	SCTID_371631005	Panic disorder	true	
+ENSPHENO:0001307	Parkinson disease	SCTID_49049000	Parkinson's disease	false	
+ENSPHENO:0001307	Parkinson disease	SCTID_49049000	Parkinson's disease	true	
+ENSPHENO:0001309	Parkinson's disease	SCTID_49049000	Parkinson's disease	false	
+ENSPHENO:0001309	Parkinson's disease	SCTID_49049000	Parkinson's disease	true	
+ENSPHENO:0001310	Paroxysmal nocturnal hemoglobinuria	SCTID_1963002	Paroxysmal nocturnal hemoglobinuria	false	
+ENSPHENO:0001310	Paroxysmal nocturnal hemoglobinuria	SCTID_1963002	Paroxysmal nocturnal hemoglobinuria	true	
+ENSPHENO:0001311	Partial acquired lipodystrophy	SCTID_75659004	Acquired partial lipodystrophy	false	
+ENSPHENO:0001311	Partial acquired lipodystrophy	SCTID_75659004	Acquired partial lipodystrophy	true	
+ENSPHENO:0001312	Pendred syndrome	SCTID_70348004	Pendred's syndrome	false	
+ENSPHENO:0001312	Pendred syndrome	SCTID_70348004	Pendred's syndrome	true	
+ENSPHENO:0001329	Primary biliary cirrhosis	SCTID_31712002	Primary biliary cirrhosis	false	
+ENSPHENO:0001329	Primary biliary cirrhosis	SCTID_31712002	Primary biliary cirrhosis	true	
+ENSPHENO:0001337	Pseudoxanthoma elasticum	SCTID_252246005	Pseudoxanthoma elasticum	false	
+ENSPHENO:0001337	Pseudoxanthoma elasticum	SCTID_252246005	Pseudoxanthoma elasticum	true	
+ENSPHENO:0001338	Psoriasis	SCTID_9014002	Psoriasis	false	
+ENSPHENO:0001338	Psoriasis	SCTID_9014002	Psoriasis	true	
+ENSPHENO:0001349	Pyruvate carboxylase deficiency	SCTID_87694001	Pyruvate carboxylase deficiency	false	
+ENSPHENO:0001349	Pyruvate carboxylase deficiency	SCTID_87694001	Pyruvate carboxylase deficiency	true	
+ENSPHENO:0001356	RENAL AGENESIS	SCTID_204942005	Renal agenesis	false	
+ENSPHENO:0001356	RENAL AGENESIS	SCTID_204942005	Renal agenesis	true	
+ENSPHENO:0001379	RETINOBLASTOMA	SCTID_370967009	Retinoblastoma	false	
+ENSPHENO:0001379	RETINOBLASTOMA	SCTID_370967009	Retinoblastoma	true	
+ENSPHENO:0001408	Rett syndrome	SCTID_68618008	Rett's disorder	false	
+ENSPHENO:0001410	Rheumatoid arthritis	SCTID_69896004	Rheumatoid arthritis	false	
+ENSPHENO:0001410	Rheumatoid arthritis	SCTID_69896004	Rheumatoid arthritis	true	
+ENSPHENO:0001413	SAETHRE-CHOTZEN SYNDROME	SCTID_83015004	Saethre-Chotzen syndrome	false	
+ENSPHENO:0001413	SAETHRE-CHOTZEN SYNDROME	SCTID_83015004	Saethre-Chotzen syndrome	true	
+ENSPHENO:0001428	SEVERE COMBINED IMMUNODEFICIENCY X-LINKED	SCTID_203592006	X-linked severe combined immunodeficiency	true	
+ENSPHENO:0001450	SPINAL MUSCULAR ATROPHY TYPE II	SCTID_128212001	Spinal muscular atrophy, type II	false	
+ENSPHENO:0001450	SPINAL MUSCULAR ATROPHY TYPE II	SCTID_128212001	Spinal muscular atrophy, type II	true	
+ENSPHENO:0001465	STROKE ISCHEMIC	SCTID_422504002	Ischemic stroke	true	
+ENSPHENO:0001477	Schizophrenia	SCTID_58214004	Schizophrenia	false	
+ENSPHENO:0001477	Schizophrenia	SCTID_58214004	Schizophrenia	true	
+ENSPHENO:0001497	Sialidosis	SCTID_38795005	Sialidosis	false	
+ENSPHENO:0001497	Sialidosis	SCTID_38795005	Sialidosis	true	
+ENSPHENO:0001503	Smith-Lemli-Opitz syndrome	SCTID_43929004	Smith-Lemli-Opitz syndrome	false	
+ENSPHENO:0001503	Smith-Lemli-Opitz syndrome	SCTID_43929004	Smith-Lemli-Opitz syndrome	true	
+ENSPHENO:0001512	Squamous cell carcinoma	SCTID_402815007	Squamous cell carcinoma	false	
+ENSPHENO:0001512	Squamous cell carcinoma	SCTID_402815007	Squamous cell carcinoma	true	
+ENSPHENO:0001524	Systemic lupus erythematosus	SCTID_55464009	Systemic lupus erythematosus	false	
+ENSPHENO:0001524	Systemic lupus erythematosus	SCTID_55464009	Systemic lupus erythematosus	true	
+ENSPHENO:0001525	Systemic sclerosis	SCTID_89155008	Systemic sclerosis	false	
+ENSPHENO:0001525	Systemic sclerosis	SCTID_89155008	Systemic sclerosis	true	
+ENSPHENO:0001527	TAY-SACHS DISEASE	SCTID_111385000	Tay-Sachs disease	false	
+ENSPHENO:0001527	TAY-SACHS DISEASE	SCTID_111385000	Tay-Sachs disease	true	
+ENSPHENO:0001542	TIETZ ALBINISM-DEAFNESS SYNDROME	SCTID_403805009	Albinism-deafness syndrome of Tietz	true	
+ENSPHENO:0001549	TREACHER COLLINS SYNDROME	SCTID_82203000	Treacher Collins syndrome	false	
+ENSPHENO:0001549	TREACHER COLLINS SYNDROME	SCTID_82203000	Treacher Collins syndrome	true	
+ENSPHENO:0001551	TRIMETHYLAMINURIA	SCTID_237959005	Trimethylaminuria	false	
+ENSPHENO:0001551	TRIMETHYLAMINURIA	SCTID_237959005	Trimethylaminuria	true	
+ENSPHENO:0001552	TRITANOPIA	SCTID_85049009	Tritanopia	false	
+ENSPHENO:0001552	TRITANOPIA	SCTID_85049009	Tritanopia	true	
+ENSPHENO:0001558	TYROSINEMIA TYPE I	SCTID_410056006	Tyrosinemia type I	false	
+ENSPHENO:0001558	TYROSINEMIA TYPE I	SCTID_410056006	Tyrosinemia type I	true	
+ENSPHENO:0001564	Tetralogy of Fallot	SCTID_86299006	Tetralogy of Fallot	false	
+ENSPHENO:0001564	Tetralogy of Fallot	SCTID_86299006	Tetralogy of Fallot	true	
+ENSPHENO:0001566	Thiopurine S-methyltransferase deficiency	SCTID_238012003	Thiopurine methyltransferase deficiency	false	
+ENSPHENO:0001566	Thiopurine S-methyltransferase deficiency	SCTID_238012003	Thiopurine methyltransferase deficiency	true	
+ENSPHENO:0001573	Tuberculosis	SCTID_56717001	Tuberculosis	false	
+ENSPHENO:0001573	Tuberculosis	SCTID_56717001	Tuberculosis	true	
+ENSPHENO:0001602	Ulcerative colitis	SCTID_64766004	Ulcerative colitis	false	
+ENSPHENO:0001602	Ulcerative colitis	SCTID_64766004	Ulcerative colitis	true	
+ENSPHENO:0001617	VON HIPPEL-LINDAU SYNDROME	SCTID_46659004	Von Hippel-Lindau syndrome	false	
+ENSPHENO:0001617	VON HIPPEL-LINDAU SYNDROME	SCTID_46659004	Von Hippel-Lindau syndrome	true	
+ENSPHENO:0001623	Vitiligo	SCTID_56727007	Vitiligo	false	
+ENSPHENO:0001623	Vitiligo	SCTID_56727007	Vitiligo	true	
+ENSPHENO:0001625	Von Hippel-Lindau disease	SCTID_46659004	Von Hippel-Lindau syndrome	false	
+ENSPHENO:0001638	Wilson disease	SCTID_88518009	Wilson's disease	false	
+ENSPHENO:0001638	Wilson disease	SCTID_88518009	Wilson's disease	true	
+ENSPHENO:0001641	X-linked adrenal hypoplasia congenital	SCTID_237764004	Congenital adrenal hypoplasia, X-linked	false	
+ENSPHENO:0001641	X-linked adrenal hypoplasia congenital	SCTID_237764004	Congenital adrenal hypoplasia, X-linked	true	
+ENSPHENO:0001646	ZELLWEGER SYNDROME	SCTID_88469006	Zellweger syndrome	false	
+ENSPHENO:0001646	ZELLWEGER SYNDROME	SCTID_88469006	Zellweger syndrome	true	
+SCTID_10061007	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_42670008	Brain stem contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_10061007	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_42670008	Brain stem contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_10061007	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_63023005	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_10061007	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_63023005	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_10389003	Acute gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction	SCTID_66673003	Acute gastrojejunal ulcer with hemorrhage AND with perforation but without obstruction	false	
+SCTID_10389003	Acute gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction	SCTID_66673003	Acute gastrojejunal ulcer with hemorrhage AND with perforation but without obstruction	true	
+SCTID_10394003	Friedreich's ataxia	ENSPHENO:0000545	FRIEDREICH ATAXIA	false	
+SCTID_10394003	Friedreich's ataxia	ENSPHENO:0000545	FRIEDREICH ATAXIA	true	
+SCTID_10426006	Discitis of thoracic region	SCTID_202748002	Thoracic discitis	false	
+SCTID_10426006	Discitis of thoracic region	SCTID_202748002	Thoracic discitis	true	
+SCTID_109971005	Follicular non-Hodgkin's lymphoma, mixed small cleaved cell and large cell	SCTID_188672005	Follicular non-Hodgkin's mixed small cleaved and large cell lymphoma	false	
+SCTID_109971005	Follicular non-Hodgkin's lymphoma, mixed small cleaved cell and large cell	SCTID_188672005	Follicular non-Hodgkin's mixed small cleaved and large cell lymphoma	true	
+SCTID_109989006	Multiple myeloma	ENSPHENO:0001040	MYELOMA MULTIPLE	true	
+SCTID_111385000	Tay-Sachs disease	ENSPHENO:0001527	TAY-SACHS DISEASE	false	
+SCTID_111385000	Tay-Sachs disease	ENSPHENO:0001527	TAY-SACHS DISEASE	true	
+SCTID_111490003	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND severe panic attacks	SCTID_74010007	Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in partial remission	false	
+SCTID_111490003	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND severe panic attacks	SCTID_74010007	Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in partial remission	true	
+SCTID_111491004	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in partial remission	SCTID_22230001	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in full remission	false	
+SCTID_111491004	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in partial remission	SCTID_22230001	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in full remission	true	
+SCTID_111519001	Impairment level: one eye: near-total impairment: other eye: normal vision	SCTID_14781008	Impairment level: one eye: near-total impairment: other eye: near-normal vision	false	
+SCTID_111519001	Impairment level: one eye: near-total impairment: other eye: normal vision	SCTID_14781008	Impairment level: one eye: near-total impairment: other eye: near-normal vision	true	
+SCTID_111519001	Impairment level: one eye: near-total impairment: other eye: normal vision	SCTID_31079007	Impairment level: one eye: total impairment: other eye: near-normal vision	false	
+SCTID_111519001	Impairment level: one eye: near-total impairment: other eye: normal vision	SCTID_31079007	Impairment level: one eye: total impairment: other eye: near-normal vision	true	
+SCTID_111671004	Intracranial hemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) without return to pre-existing level	SCTID_1430001	Intracranial hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing level	false	
+SCTID_111671004	Intracranial hemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) without return to pre-existing level	SCTID_1430001	Intracranial hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing level	true	
+SCTID_111677000	Subdural hemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) and without return to pre-existing conscious level	SCTID_70861009	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_111677000	Subdural hemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) and without return to pre-existing conscious level	SCTID_70861009	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_111677000	Subdural hemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) and without return to pre-existing conscious level	SCTID_87345009	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_111677000	Subdural hemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) and without return to pre-existing conscious level	SCTID_87345009	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_111726004	Posttraumatic wound infection	SCTID_269406001	Post-traumatic wound infection	false	
+SCTID_111726004	Posttraumatic wound infection	SCTID_269406001	Post-traumatic wound infection	true	
+SCTID_11441004	Prostatism	SCTID_9713002	Prostatitis	true	
+SCTID_11597004	Uterine prolapse without vaginal wall prolapse	SCTID_354737001	Prolapse of vaginal walls without uterine prolapse	true	
+SCTID_118615008	Malignant mast cell tumor	SCTID_188660004	Malignant mast cell tumors	true	
+SCTID_118617000	Burkitt's lymphoma	ENSPHENO:0000193	BURKITT LYMPHOMA	false	
+SCTID_118617000	Burkitt's lymphoma	ENSPHENO:0000193	BURKITT LYMPHOMA	true	
+SCTID_118940003	Disorder of nervous system	SCTID_230226000	System disorder of the nervous system	false	
+SCTID_118940003	Disorder of nervous system	SCTID_230226000	System disorder of the nervous system	true	
+SCTID_118944007	Disorder of shoulder region	SCTID_274139008	Shoulder syndrome	false	
+SCTID_12384004	Chronic peptic ulcer without hemorrhage AND without perforation but with obstruction	SCTID_55746001	Chronic peptic ulcer with hemorrhage AND with perforation but without obstruction	false	
+SCTID_12384004	Chronic peptic ulcer without hemorrhage AND without perforation but with obstruction	SCTID_55746001	Chronic peptic ulcer with hemorrhage AND with perforation but without obstruction	true	
+SCTID_124136000	Deficiency of 3beta-hydroxysteroid dehydrogenase	SCTID_54470008	3 beta-Hydroxysteroid dehydrogenase deficiency	false	
+SCTID_124136000	Deficiency of 3beta-hydroxysteroid dehydrogenase	SCTID_54470008	3 beta-Hydroxysteroid dehydrogenase deficiency	true	
+SCTID_124239003	Deficiency of guanidinoacetate methyltransferase	ENSPHENO:0000601	GUANIDINOACETATE METHYLTRANSFERASE DEFICIENCY	true	
+SCTID_124257002	Deficiency of carnitine acetyltransferase	SCTID_408661004	Carnitine acetyltransferase deficiency	false	
+SCTID_124257002	Deficiency of carnitine acetyltransferase	SCTID_408661004	Carnitine acetyltransferase deficiency	true	
+SCTID_124302001	Deficiency of galactokinase	ENSPHENO:0000572	GALACTOKINASE DEFICIENCY	true	
+SCTID_124331002	Deficiency of pyruvate kinase	ENSPHENO:0001299	PYRUVATE KINASE DEFICIENCY	true	
+SCTID_124910006	Deficiency of biotin	SCTID_413652008	Biotin deficiency	false	
+SCTID_124910006	Deficiency of biotin	SCTID_413652008	Biotin deficiency	true	
+SCTID_124950009	Deficiency of immunoglobulin	SCTID_417167007	Immunoglobulin deficiency	false	
+SCTID_124950009	Deficiency of immunoglobulin	SCTID_417167007	Immunoglobulin deficiency	true	
+SCTID_12579009	Familial Mediterranean fever	ENSPHENO:0000526	FAMILIAL MEDITERRANEAN FEVER	false	
+SCTID_12579009	Familial Mediterranean fever	ENSPHENO:0000526	FAMILIAL MEDITERRANEAN FEVER	true	
+SCTID_125963005	Patent ductus arteriosus with left-to-right shunt	SCTID_125964004	Patent ductus arteriosus with right-to-left shunt	false	
+SCTID_125963005	Patent ductus arteriosus with left-to-right shunt	SCTID_125964004	Patent ductus arteriosus with right-to-left shunt	true	
+SCTID_125964004	Patent ductus arteriosus with right-to-left shunt	SCTID_125963005	Patent ductus arteriosus with left-to-right shunt	false	
+SCTID_125964004	Patent ductus arteriosus with right-to-left shunt	SCTID_125963005	Patent ductus arteriosus with left-to-right shunt	true	
+SCTID_126488004	Neoplasm of skin	SCTID_400063003	Neoplasm of skin region	false	
+SCTID_126488004	Neoplasm of skin	SCTID_400063003	Neoplasm of skin region	true	
+SCTID_128212001	Spinal muscular atrophy, type II	ENSPHENO:0001450	SPINAL MUSCULAR ATROPHY TYPE II	false	
+SCTID_128212001	Spinal muscular atrophy, type II	ENSPHENO:0001450	SPINAL MUSCULAR ATROPHY TYPE II	true	
+SCTID_128609009	Intracranial aneurysm	ENSPHENO:0000859	Intracranial aneurysm	false	
+SCTID_128609009	Intracranial aneurysm	ENSPHENO:0000859	Intracranial aneurysm	true	
+SCTID_129635004	Ovarian hyperstimulation syndrome	ENSPHENO:0001246	Ovarian hyperstimulation syndrome	false	
+SCTID_129635004	Ovarian hyperstimulation syndrome	ENSPHENO:0001246	Ovarian hyperstimulation syndrome	true	
+SCTID_13746004	Bipolar disorder	ENSPHENO:0000203	Bipolar disorder	false	
+SCTID_13746004	Bipolar disorder	ENSPHENO:0000203	Bipolar disorder	true	
+SCTID_1430001	Intracranial hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing level	SCTID_111671004	Intracranial hemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) without return to pre-existing level	false	
+SCTID_1430001	Intracranial hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing level	SCTID_111671004	Intracranial hemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) without return to pre-existing level	true	
+SCTID_14465002	Ulcerative tonsillitis	SCTID_16485001	Ulcer of tonsil	true	
+SCTID_14781008	Impairment level: one eye: near-total impairment: other eye: near-normal vision	SCTID_111519001	Impairment level: one eye: near-total impairment: other eye: normal vision	false	
+SCTID_14781008	Impairment level: one eye: near-total impairment: other eye: near-normal vision	SCTID_111519001	Impairment level: one eye: near-total impairment: other eye: normal vision	true	
+SCTID_14781008	Impairment level: one eye: near-total impairment: other eye: near-normal vision	SCTID_31079007	Impairment level: one eye: total impairment: other eye: near-normal vision	false	
+SCTID_14781008	Impairment level: one eye: near-total impairment: other eye: near-normal vision	SCTID_31079007	Impairment level: one eye: total impairment: other eye: near-normal vision	true	
+SCTID_15115006	Duodenal ulcer with hemorrhage AND with perforation but without obstruction	SCTID_18169007	Duodenal ulcer without hemorrhage AND without perforation but with obstruction	false	
+SCTID_15115006	Duodenal ulcer with hemorrhage AND with perforation but without obstruction	SCTID_18169007	Duodenal ulcer without hemorrhage AND without perforation but with obstruction	true	
+SCTID_1563006	Protein S deficiency disease	SCTID_273491005	Protein deficiency disease	false	
+SCTID_1563006	Protein S deficiency disease	SCTID_273491005	Protein deficiency disease	true	
+SCTID_15639000	Moderate major depression, single episode	SCTID_191602001	Single major depressive episode, moderate	true	
+SCTID_16060001	Viral hepatitis A with hepatic coma	SCTID_186621007	Viral hepatitis A with coma	true	
+SCTID_16485001	Ulcer of tonsil	SCTID_14465002	Ulcerative tonsillitis	true	
+SCTID_16652001	Fabry's disease	ENSPHENO:0000553	Fabry disease	false	
+SCTID_16652001	Fabry's disease	ENSPHENO:0000553	Fabry disease	true	
+SCTID_16907002	Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_84792001	Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_16907002	Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_84792001	Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_16907002	Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_86182004	Extradural hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_16907002	Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_86182004	Extradural hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_17067009	Acute gastric ulcer with hemorrhage AND with perforation but without obstruction	SCTID_81225008	Acute gastric ulcer without hemorrhage AND without perforation but with obstruction	false	
+SCTID_17067009	Acute gastric ulcer with hemorrhage AND with perforation but without obstruction	SCTID_81225008	Acute gastric ulcer without hemorrhage AND without perforation but with obstruction	true	
+SCTID_17608003	Child syndrome	ENSPHENO:0000300	CHILD SYNDROME	false	
+SCTID_17608003	Child syndrome	ENSPHENO:0000300	CHILD SYNDROME	true	
+SCTID_1816003	Panic disorder with agoraphobia, severe agoraphobic avoidance AND mild panic attacks	SCTID_19766004	Panic disorder with agoraphobia, mild agoraphobic avoidance AND severe panic attacks	false	
+SCTID_1816003	Panic disorder with agoraphobia, severe agoraphobic avoidance AND mild panic attacks	SCTID_19766004	Panic disorder with agoraphobia, mild agoraphobic avoidance AND severe panic attacks	true	
+SCTID_18169007	Duodenal ulcer without hemorrhage AND without perforation but with obstruction	SCTID_15115006	Duodenal ulcer with hemorrhage AND with perforation but without obstruction	false	
+SCTID_18169007	Duodenal ulcer without hemorrhage AND without perforation but with obstruction	SCTID_15115006	Duodenal ulcer with hemorrhage AND with perforation but without obstruction	true	
+SCTID_186330005	Other specified zoonotic bacterial disease	SCTID_186332002	Other specified zoonotic bacterial diseases	true	
+SCTID_186332002	Other specified zoonotic bacterial diseases	SCTID_186330005	Other specified zoonotic bacterial disease	true	
+SCTID_186429004	Other specified bacterial disease	SCTID_186471003	Other specified bacterial diseases	true	
+SCTID_186471003	Other specified bacterial diseases	SCTID_186429004	Other specified bacterial disease	true	
+SCTID_186621007	Viral hepatitis A with coma	SCTID_16060001	Viral hepatitis A with hepatic coma	true	
+SCTID_186623005	Viral hepatitis B with coma	SCTID_26206000	Viral hepatitis B with hepatic coma	true	
+SCTID_186934005	Gonococcal infection of other specified sites	SCTID_266140007	Other gonococcal infection of other specified site	true	
+SCTID_186980007	Other specified spirochetal infection	SCTID_186982004	Other specified spirochetal infections	true	
+SCTID_186982004	Other specified spirochetal infections	SCTID_186980007	Other specified spirochetal infection	true	
+SCTID_187061004	Histoplasmosis with pneumonia	SCTID_195905006	Pneumonia with histoplasmosis	false	
+SCTID_187061004	Histoplasmosis with pneumonia	SCTID_195905006	Pneumonia with histoplasmosis	true	
+SCTID_18718003	Gingival disease	SCTID_234989006	Gingivitis/gingival disease	true	
+SCTID_187237001	Other and unspecified infectious and parasitic diseases	SCTID_187245006	Unspecified other infectious and parasitic diseases	false	
+SCTID_187237001	Other and unspecified infectious and parasitic diseases	SCTID_187245006	Unspecified other infectious and parasitic diseases	true	
+SCTID_187245006	Unspecified other infectious and parasitic diseases	SCTID_187237001	Other and unspecified infectious and parasitic diseases	false	
+SCTID_187245006	Unspecified other infectious and parasitic diseases	SCTID_187237001	Other and unspecified infectious and parasitic diseases	true	
+SCTID_188660004	Malignant mast cell tumors	SCTID_118615008	Malignant mast cell tumor	true	
+SCTID_188672005	Follicular non-Hodgkin's mixed small cleaved and large cell lymphoma	SCTID_109971005	Follicular non-Hodgkin's lymphoma, mixed small cleaved cell and large cell	false	
+SCTID_188672005	Follicular non-Hodgkin's mixed small cleaved and large cell lymphoma	SCTID_109971005	Follicular non-Hodgkin's lymphoma, mixed small cleaved cell and large cell	true	
+SCTID_189525008	Unspecified nature neoplasm	SCTID_189526009	Neoplasm of unspecified nature	false	
+SCTID_189525008	Unspecified nature neoplasm	SCTID_189526009	Neoplasm of unspecified nature	true	
+SCTID_189526009	Neoplasm of unspecified nature	SCTID_189525008	Unspecified nature neoplasm	false	
+SCTID_189526009	Neoplasm of unspecified nature	SCTID_189525008	Unspecified nature neoplasm	true	
+SCTID_190321005	Diabetes mellitus with no mention of complication	SCTID_190324002	Diabetes mellitus NOS with no mention of complication	true	
+SCTID_190324002	Diabetes mellitus NOS with no mention of complication	SCTID_190321005	Diabetes mellitus with no mention of complication	true	
+SCTID_190519004	Adrenogenital disorder NOS	SCTID_237746006	Adrenogenital syndrome NOS	false	
+SCTID_190589008	Other specified endocrine disorders	SCTID_190591000	Other specified other endocrine disorder	true	
+SCTID_190591000	Other specified other endocrine disorder	SCTID_190589008	Other specified endocrine disorders	true	
+SCTID_190612001	Vitamin A deficiency with corneal xerosis and ulcer	SCTID_90653005	Vitamin A deficiency with corneal ulceration AND xerosis	true	
+SCTID_190731000	Disturbance of other specified amino acid metabolism	SCTID_267423001	Other specified disturbance of amino acid metabolism	false	
+SCTID_190731000	Disturbance of other specified amino acid metabolism	SCTID_267423001	Other specified disturbance of amino acid metabolism	true	
+SCTID_190905008	Cystic fibrosis	ENSPHENO:0000402	Cystic fibrosis	false	
+SCTID_190905008	Cystic fibrosis	ENSPHENO:0000402	Cystic fibrosis	true	
+SCTID_19092004	Holt-Oram syndrome	ENSPHENO:0000747	HOLT-ORAM SYNDROME	false	
+SCTID_19092004	Holt-Oram syndrome	ENSPHENO:0000747	HOLT-ORAM SYNDROME	true	
+SCTID_191160007	Other specified nutritional deficiency anemia	SCTID_191163009	Other specified other nutritional deficiency anemia	false	
+SCTID_191160007	Other specified nutritional deficiency anemia	SCTID_191163009	Other specified other nutritional deficiency anemia	true	
+SCTID_191163009	Other specified other nutritional deficiency anemia	SCTID_191160007	Other specified nutritional deficiency anemia	false	
+SCTID_191163009	Other specified other nutritional deficiency anemia	SCTID_191160007	Other specified nutritional deficiency anemia	true	
+SCTID_191189009	Beta thalassemia intermedia	ENSPHENO:0000168	BETA-THALASSEMIA INTERMEDIA	false	
+SCTID_191189009	Beta thalassemia intermedia	ENSPHENO:0000168	BETA-THALASSEMIA INTERMEDIA	true	
+SCTID_191275007	Other specified other anemia	SCTID_191278009	Other specified anemias	true	
+SCTID_191278009	Other specified anemias	SCTID_191275007	Other specified other anemia	true	
+SCTID_191357009	Eosinophilic disorder	SCTID_417967008	Disorder of eosinophil	true	
+SCTID_191478006	Alcoholic paranoia	SCTID_79578000	Alcohol paranoia	true	
+SCTID_191601008	Single major depressive episode, mild	SCTID_79298009	Mild major depression, single episode	true	
+SCTID_191602001	Single major depressive episode, moderate	SCTID_15639000	Moderate major depression, single episode	true	
+SCTID_191646009	Unspecified bipolar affective disorder	SCTID_191647000	Unspecified bipolar affective disorder, unspecified	false	
+SCTID_191646009	Unspecified bipolar affective disorder	SCTID_191647000	Unspecified bipolar affective disorder, unspecified	true	
+SCTID_191647000	Unspecified bipolar affective disorder, unspecified	SCTID_191646009	Unspecified bipolar affective disorder	false	
+SCTID_191647000	Unspecified bipolar affective disorder, unspecified	SCTID_191646009	Unspecified bipolar affective disorder	true	
+SCTID_193338005	Retinal defects without detachment	SCTID_51987004	Retinal detachment without retinal defect	true	
+SCTID_19346006	Marfan's syndrome	ENSPHENO:0001055	Marfan syndrome	false	
+SCTID_19346006	Marfan's syndrome	ENSPHENO:0001055	Marfan syndrome	true	
+SCTID_193702000	Better eye: near total visual impairment, Lesser eye: unspecified	SCTID_193737002	Lesser eye: near total visual impairment, Better eye: unspecified	false	
+SCTID_193702000	Better eye: near total visual impairment, Lesser eye: unspecified	SCTID_193737002	Lesser eye: near total visual impairment, Better eye: unspecified	true	
+SCTID_193703005	Better eye: near total visual impairment, Lesser eye: total visual impairment	SCTID_193704004	Better eye: near total visual impairment, Lesser eye: near total visual impairment	false	
+SCTID_193703005	Better eye: near total visual impairment, Lesser eye: total visual impairment	SCTID_193704004	Better eye: near total visual impairment, Lesser eye: near total visual impairment	true	
+SCTID_193704004	Better eye: near total visual impairment, Lesser eye: near total visual impairment	SCTID_193703005	Better eye: near total visual impairment, Lesser eye: total visual impairment	false	
+SCTID_193704004	Better eye: near total visual impairment, Lesser eye: near total visual impairment	SCTID_193703005	Better eye: near total visual impairment, Lesser eye: total visual impairment	true	
+SCTID_193705003	Better eye: profound visual impairment, Lesser eye: unspecified	SCTID_193740002	Lesser eye: profound visual impairment, Better eye: unspecified	false	
+SCTID_193705003	Better eye: profound visual impairment, Lesser eye: unspecified	SCTID_193740002	Lesser eye: profound visual impairment, Better eye: unspecified	true	
+SCTID_193735005	Lesser eye: total visual impairment, Better eye: near normal vision	SCTID_193738007	Lesser eye: near total visual impairment, Better eye: near normal vision	false	
+SCTID_193735005	Lesser eye: total visual impairment, Better eye: near normal vision	SCTID_193738007	Lesser eye: near total visual impairment, Better eye: near normal vision	true	
+SCTID_193737002	Lesser eye: near total visual impairment, Better eye: unspecified	SCTID_193702000	Better eye: near total visual impairment, Lesser eye: unspecified	false	
+SCTID_193737002	Lesser eye: near total visual impairment, Better eye: unspecified	SCTID_193702000	Better eye: near total visual impairment, Lesser eye: unspecified	true	
+SCTID_193738007	Lesser eye: near total visual impairment, Better eye: near normal vision	SCTID_193735005	Lesser eye: total visual impairment, Better eye: near normal vision	false	
+SCTID_193738007	Lesser eye: near total visual impairment, Better eye: near normal vision	SCTID_193735005	Lesser eye: total visual impairment, Better eye: near normal vision	true	
+SCTID_193740002	Lesser eye: profound visual impairment, Better eye: unspecified	SCTID_193705003	Better eye: profound visual impairment, Lesser eye: unspecified	false	
+SCTID_193740002	Lesser eye: profound visual impairment, Better eye: unspecified	SCTID_193705003	Better eye: profound visual impairment, Lesser eye: unspecified	true	
+SCTID_193966008	Eyelid vascular anomalies	SCTID_69973000	Vascular anomaly of eyelid	true	
+SCTID_194304007	Postmastoidectomy granulation cavity	SCTID_63530007	Granulations of postmastoidectomy cavity	true	
+SCTID_194348002	Active cochleovestibular MC)niC(re's disease	SCTID_8535002	Cochleovestibular active MC)niC(re's disease	false	
+SCTID_194348002	Active cochleovestibular MC)niC(re's disease	SCTID_8535002	Cochleovestibular active MC)niC(re's disease	true	
+SCTID_194349005	Active cochlear MC)niC(re's disease	SCTID_21653008	Cochlear active MC)niC(re's disease	false	
+SCTID_194349005	Active cochlear MC)niC(re's disease	SCTID_21653008	Cochlear active MC)niC(re's disease	true	
+SCTID_194350005	Active vestibular MC)niC(re's disease	SCTID_51003001	Vestibular active MC)niC(re's disease	false	
+SCTID_194350005	Active vestibular MC)niC(re's disease	SCTID_51003001	Vestibular active MC)niC(re's disease	true	
+SCTID_194376005	Labyrinthine unilateral reactive loss	SCTID_43000004	Unilateral loss of labyrinthine reactivity	true	
+SCTID_194377001	Labyrinthine bilateral reactive loss	SCTID_2058001	Bilateral loss of labyrinthine reactivity	true	
+SCTID_194384009	Other ear disorders	SCTID_194409001	Other disorders of ear	false	
+SCTID_194384009	Other ear disorders	SCTID_194409001	Other disorders of ear	true	
+SCTID_194409001	Other disorders of ear	SCTID_194384009	Other ear disorders	false	
+SCTID_194409001	Other disorders of ear	SCTID_194384009	Other ear disorders	true	
+SCTID_194734000	Mitral stenosis and aortic insufficiency	SCTID_194735004	Mitral insufficiency and aortic stenosis	false	
+SCTID_194734000	Mitral stenosis and aortic insufficiency	SCTID_194735004	Mitral insufficiency and aortic stenosis	true	
+SCTID_194735004	Mitral insufficiency and aortic stenosis	SCTID_194734000	Mitral stenosis and aortic insufficiency	false	
+SCTID_194735004	Mitral insufficiency and aortic stenosis	SCTID_194734000	Mitral stenosis and aortic insufficiency	true	
+SCTID_195874005	Other upper respiratory tract diseases NOS	SCTID_195876007	Other upper respiratory tract disease NOS	true	
+SCTID_195876007	Other upper respiratory tract disease NOS	SCTID_195874005	Other upper respiratory tract diseases NOS	true	
+SCTID_195905006	Pneumonia with histoplasmosis	SCTID_187061004	Histoplasmosis with pneumonia	false	
+SCTID_195905006	Pneumonia with histoplasmosis	SCTID_187061004	Histoplasmosis with pneumonia	true	
+SCTID_195967001	Asthma	ENSPHENO:0000143	Asthma	false	
+SCTID_195967001	Asthma	ENSPHENO:0000143	Asthma	true	
+SCTID_196063008	Empyema with pleural fistula NOS	SCTID_271504004	Pleural empyema with no fistula	true	
+SCTID_196184000	Other diseases of respiratory system NOS	SCTID_266373008	Other respiratory system diseases NOS	false	
+SCTID_196184000	Other diseases of respiratory system NOS	SCTID_266373008	Other respiratory system diseases NOS	true	
+SCTID_196294003	Pre-eruption tooth color changes	SCTID_41060007	Pre-eruptive color change of tooth	true	
+SCTID_1963002	Paroxysmal nocturnal hemoglobinuria	ENSPHENO:0001310	Paroxysmal nocturnal hemoglobinuria	false	
+SCTID_1963002	Paroxysmal nocturnal hemoglobinuria	ENSPHENO:0001310	Paroxysmal nocturnal hemoglobinuria	true	
+SCTID_196623008	Esophageal erosions	SCTID_40719004	Erosive esophagitis	true	
+SCTID_196790008	Other diseases of appendix NOS	SCTID_196796002	Other appendix diseases NOS	false	
+SCTID_196790008	Other diseases of appendix NOS	SCTID_196796002	Other appendix diseases NOS	true	
+SCTID_196796002	Other appendix diseases NOS	SCTID_196790008	Other diseases of appendix NOS	false	
+SCTID_196796002	Other appendix diseases NOS	SCTID_196790008	Other diseases of appendix NOS	true	
+SCTID_196798001	Appendix diseases NOS	SCTID_266507009	Appendix disease NOS	true	
+SCTID_197072007	Intestinal obstruction NOS	SCTID_197073002	Obstruction of intestine NOS	true	
+SCTID_197073002	Obstruction of intestine NOS	SCTID_197072007	Intestinal obstruction NOS	true	
+SCTID_197271008	Acute hepatitis - non-infective	SCTID_4517001	Acute noninfective hepatitis	false	
+SCTID_197271008	Acute hepatitis - non-infective	SCTID_4517001	Acute noninfective hepatitis	true	
+SCTID_197377009	Gallbladder calculus with acute cholecystitis and no obstruction	SCTID_197379007	Gallbladder calculus with acute cholecystitis and obstruction NOS	true	
+SCTID_197379007	Gallbladder calculus with acute cholecystitis and obstruction NOS	SCTID_197377009	Gallbladder calculus with acute cholecystitis and no obstruction	true	
+SCTID_197381009	Gallbladder calculus with other cholecystitis and no obstruction	SCTID_197383007	Gallbladder calculus with other cholecystitis and obstruction NOS	true	
+SCTID_197383007	Gallbladder calculus with other cholecystitis and obstruction NOS	SCTID_197381009	Gallbladder calculus with other cholecystitis and no obstruction	true	
+SCTID_197385000	Gallbladder calculus without mention of cholecystitis and no obstruction	SCTID_197388003	Gallbladder calculus without mention of cholecystitis and obstruction NOS	true	
+SCTID_197388003	Gallbladder calculus without mention of cholecystitis and obstruction NOS	SCTID_197385000	Gallbladder calculus without mention of cholecystitis and no obstruction	true	
+SCTID_197390002	Bile duct calculus with acute cholecystitis and no obstruction	SCTID_197392005	Bile duct calculus with acute cholecystitis and obstruction NOS	true	
+SCTID_197392005	Bile duct calculus with acute cholecystitis and obstruction NOS	SCTID_197390002	Bile duct calculus with acute cholecystitis and no obstruction	true	
+SCTID_197394006	Bile duct calculus with other cholecystitis and no obstruction	SCTID_197396008	Bile duct calculus with other cholecystitis and obstruction NOS	true	
+SCTID_197396008	Bile duct calculus with other cholecystitis and obstruction NOS	SCTID_197394006	Bile duct calculus with other cholecystitis and no obstruction	true	
+SCTID_197398009	Bile duct calculus without mention of cholecystitis and no obstruction	SCTID_197401007	Bile duct calculus without mention of cholecystitis and obstruction NOS	true	
+SCTID_197401007	Bile duct calculus without mention of cholecystitis and obstruction NOS	SCTID_197398009	Bile duct calculus without mention of cholecystitis and no obstruction	true	
+SCTID_19766004	Panic disorder with agoraphobia, mild agoraphobic avoidance AND severe panic attacks	SCTID_1816003	Panic disorder with agoraphobia, severe agoraphobic avoidance AND mild panic attacks	false	
+SCTID_19766004	Panic disorder with agoraphobia, mild agoraphobic avoidance AND severe panic attacks	SCTID_1816003	Panic disorder with agoraphobia, severe agoraphobic avoidance AND mild panic attacks	true	
+SCTID_197858004	Other disorders of bladder	SCTID_197886007	Other bladder disorders	false	
+SCTID_197858004	Other disorders of bladder	SCTID_197886007	Other bladder disorders	true	
+SCTID_197886007	Other bladder disorders	SCTID_197858004	Other disorders of bladder	false	
+SCTID_197886007	Other bladder disorders	SCTID_197858004	Other disorders of bladder	true	
+SCTID_197963001	Prostatitis associated with another disorder	SCTID_47797003	Prostatitis associated with another disease	false	
+SCTID_197994001	Epididymitis associated with another disorder	SCTID_42234000	Epididymitis associated with another disease	false	
+SCTID_198216009	Vaginitis associated with another disorder	SCTID_69561008	Vaginitis associated with another disease	false	
+SCTID_198217000	Vulvitis associated with another disorder	SCTID_59269006	Vulvitis associated with another disease	false	
+SCTID_198218005	Vulvovaginitis associated with another disorder	SCTID_21751000	Vulvovaginitis associated with another disease	false	
+SCTID_198244005	Female pelvic inflammatory disease NOS	SCTID_266584000	Female pelvic inflammatory diseases NOS	true	
+SCTID_198330001	Other uterine disorders NOS	SCTID_198334005	Other uterine disorder NOS	true	
+SCTID_198334005	Other uterine disorder NOS	SCTID_198330001	Other uterine disorders NOS	true	
+SCTID_198973001	Mild or unspecified pre-eclampsia unspecified	SCTID_267200002	Mild or unspecified pre-eclampsia	false	
+SCTID_198973001	Mild or unspecified pre-eclampsia unspecified	SCTID_267200002	Mild or unspecified pre-eclampsia	true	
+SCTID_199012009	Unspecified hypertension complicating pregnancy, childbirth and the puerperium	SCTID_199013004	Unspecified hypertension complicating pregnancy, childbirth and the puerperium unspecified	false	
+SCTID_199012009	Unspecified hypertension complicating pregnancy, childbirth and the puerperium	SCTID_199013004	Unspecified hypertension complicating pregnancy, childbirth and the puerperium unspecified	true	
+SCTID_199013004	Unspecified hypertension complicating pregnancy, childbirth and the puerperium unspecified	SCTID_199012009	Unspecified hypertension complicating pregnancy, childbirth and the puerperium	false	
+SCTID_199013004	Unspecified hypertension complicating pregnancy, childbirth and the puerperium unspecified	SCTID_199012009	Unspecified hypertension complicating pregnancy, childbirth and the puerperium	true	
+SCTID_199040004	Unspecified pregnancy vomiting	SCTID_199041000	Unspecified pregnancy vomiting unspecified	false	
+SCTID_199040004	Unspecified pregnancy vomiting	SCTID_199041000	Unspecified pregnancy vomiting unspecified	true	
+SCTID_199041000	Unspecified pregnancy vomiting unspecified	SCTID_199040004	Unspecified pregnancy vomiting	false	
+SCTID_199041000	Unspecified pregnancy vomiting unspecified	SCTID_199040004	Unspecified pregnancy vomiting	true	
+SCTID_199080008	Unspecified renal disease in pregnancy unspecified	SCTID_267203000	Unspecified renal disease in pregnancy	false	
+SCTID_199080008	Unspecified renal disease in pregnancy unspecified	SCTID_267203000	Unspecified renal disease in pregnancy	true	
+SCTID_199152008	Pregnancy complication NOS	SCTID_267311008	Pregnancy complications NOS	true	
+SCTID_199664004	Prolonged spontaneous or unspecified rupture of membranes	SCTID_199665003	Prolonged spontaneous or unspecified rupture of membranes unspecified	false	
+SCTID_199664004	Prolonged spontaneous or unspecified rupture of membranes	SCTID_199665003	Prolonged spontaneous or unspecified rupture of membranes unspecified	true	
+SCTID_199665003	Prolonged spontaneous or unspecified rupture of membranes unspecified	SCTID_199664004	Prolonged spontaneous or unspecified rupture of membranes	false	
+SCTID_199665003	Prolonged spontaneous or unspecified rupture of membranes unspecified	SCTID_199664004	Prolonged spontaneous or unspecified rupture of membranes	true	
+SCTID_199687007	Amniotic cavity and membrane problems NOS	SCTID_199691002	Amniotic cavity and membrane problem NOS	true	
+SCTID_199691002	Amniotic cavity and membrane problem NOS	SCTID_199687007	Amniotic cavity and membrane problems NOS	true	
+SCTID_199703002	Maternal pyrexia during labor, unspecified	SCTID_199704008	Unspecified maternal pyrexia during labor, unspecified	false	
+SCTID_199703002	Maternal pyrexia during labor, unspecified	SCTID_199704008	Unspecified maternal pyrexia during labor, unspecified	true	
+SCTID_199704008	Unspecified maternal pyrexia during labor, unspecified	SCTID_199703002	Maternal pyrexia during labor, unspecified	false	
+SCTID_199704008	Unspecified maternal pyrexia during labor, unspecified	SCTID_199703002	Maternal pyrexia during labor, unspecified	true	
+SCTID_199850002	Prolonged labor unspecified	SCTID_199851003	Unspecified prolonged labor, unspecified	false	
+SCTID_199850002	Prolonged labor unspecified	SCTID_199851003	Unspecified prolonged labor, unspecified	true	
+SCTID_199851003	Unspecified prolonged labor, unspecified	SCTID_199850002	Prolonged labor unspecified	false	
+SCTID_199851003	Unspecified prolonged labor, unspecified	SCTID_199850002	Prolonged labor unspecified	true	
+SCTID_199937002	Unspecified perineal laceration during delivery	SCTID_199938007	Unspecified perineal laceration during delivery, unspecified	false	
+SCTID_199937002	Unspecified perineal laceration during delivery	SCTID_199938007	Unspecified perineal laceration during delivery, unspecified	true	
+SCTID_199938007	Unspecified perineal laceration during delivery, unspecified	SCTID_199937002	Unspecified perineal laceration during delivery	false	
+SCTID_199938007	Unspecified perineal laceration during delivery, unspecified	SCTID_199937002	Unspecified perineal laceration during delivery	true	
+SCTID_200045000	Retained placenta or membranes with no hemorrhage NOS	SCTID_267273001	Retained placenta or membranes with no hemorrhage	true	
+SCTID_200268001	Venous complications of pregnancy and puerperium NOS	SCTID_200276004	Venous complication of pregnancy and puerperium NOS	true	
+SCTID_200276004	Venous complication of pregnancy and puerperium NOS	SCTID_200268001	Venous complications of pregnancy and puerperium NOS	true	
+SCTID_200459001	Disorders of lactation NOS	SCTID_200465001	Disorder of lactation NOS	true	
+SCTID_200465001	Disorder of lactation NOS	SCTID_200459001	Disorders of lactation NOS	true	
+SCTID_201117001	Eggshell nail	SCTID_64560007	Eggshell nails	true	
+SCTID_201593005	Infective arthritis NOS, of the shoulder region	SCTID_201600007	Infective arthritis NOS, of shoulder	false	
+SCTID_201593005	Infective arthritis NOS, of the shoulder region	SCTID_201600007	Infective arthritis NOS, of shoulder	true	
+SCTID_201600007	Infective arthritis NOS, of shoulder	SCTID_201593005	Infective arthritis NOS, of the shoulder region	false	
+SCTID_201600007	Infective arthritis NOS, of shoulder	SCTID_201593005	Infective arthritis NOS, of the shoulder region	true	
+SCTID_20167009	Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_7604001	Cortex laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_20167009	Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_7604001	Cortex laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_20167009	Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_7711006	Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_20167009	Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_7711006	Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_201689006	Crystal arthropathy NOS, of the shoulder region	SCTID_201696008	Crystal arthropathy NOS, of shoulder	false	
+SCTID_201689006	Crystal arthropathy NOS, of the shoulder region	SCTID_201696008	Crystal arthropathy NOS, of shoulder	true	
+SCTID_201696008	Crystal arthropathy NOS, of shoulder	SCTID_201689006	Crystal arthropathy NOS, of the shoulder region	false	
+SCTID_201696008	Crystal arthropathy NOS, of shoulder	SCTID_201689006	Crystal arthropathy NOS, of the shoulder region	true	
+SCTID_201888001	Osteoarthritis NOS, of shoulder region	SCTID_201896006	Osteoarthritis NOS, of shoulder	false	
+SCTID_201888001	Osteoarthritis NOS, of shoulder region	SCTID_201896006	Osteoarthritis NOS, of shoulder	true	
+SCTID_201896006	Osteoarthritis NOS, of shoulder	SCTID_201888001	Osteoarthritis NOS, of shoulder region	false	
+SCTID_201896006	Osteoarthritis NOS, of shoulder	SCTID_201888001	Osteoarthritis NOS, of shoulder region	true	
+SCTID_201910000	Osteoarthritis NOS, of ankle	SCTID_239855009	Ankle osteoarthritis NOS	false	
+SCTID_201910000	Osteoarthritis NOS, of ankle	SCTID_239855009	Ankle osteoarthritis NOS	true	
+SCTID_201932009	Traumatic arthropathy of the shoulder region	SCTID_201941004	Traumatic arthropathy of shoulder	false	
+SCTID_201932009	Traumatic arthropathy of the shoulder region	SCTID_201941004	Traumatic arthropathy of shoulder	true	
+SCTID_201941004	Traumatic arthropathy of shoulder	SCTID_201932009	Traumatic arthropathy of the shoulder region	false	
+SCTID_201941004	Traumatic arthropathy of shoulder	SCTID_201932009	Traumatic arthropathy of the shoulder region	true	
+SCTID_201988000	Transient arthropathy of the shoulder region	SCTID_201997001	Transient arthropathy of shoulder	false	
+SCTID_201988000	Transient arthropathy of the shoulder region	SCTID_201997001	Transient arthropathy of shoulder	true	
+SCTID_201997001	Transient arthropathy of shoulder	SCTID_201988000	Transient arthropathy of the shoulder region	false	
+SCTID_201997001	Transient arthropathy of shoulder	SCTID_201988000	Transient arthropathy of the shoulder region	true	
+SCTID_202047000	Other specified arthropathy	SCTID_202646005	Other specified arthropathies	true	
+SCTID_202148007	Loose body in joint of shoulder region	SCTID_202156005	Loose body in shoulder joint	false	
+SCTID_202148007	Loose body in joint of shoulder region	SCTID_202156005	Loose body in shoulder joint	true	
+SCTID_202156005	Loose body in shoulder joint	SCTID_202148007	Loose body in joint of shoulder region	false	
+SCTID_202156005	Loose body in shoulder joint	SCTID_202148007	Loose body in joint of shoulder region	true	
+SCTID_202307002	Ankylosis of the elbow joint	SCTID_410044005	Ankylosis of elbow joint	false	
+SCTID_202307002	Ankylosis of the elbow joint	SCTID_410044005	Ankylosis of elbow joint	true	
+SCTID_202646005	Other specified arthropathies	SCTID_202047000	Other specified arthropathy	true	
+SCTID_202647001	Arthropathies NOS	SCTID_267904003	Arthropathy NOS	true	
+SCTID_202652006	Inflammatory spondylopathy associated with another disorder	SCTID_6963001	Inflammatory spondylopathy associated with another disease	false	
+SCTID_202723000	Cervical post-laminectomy syndrome	SCTID_28968001	Postlaminectomy syndrome of cervical region	false	
+SCTID_202723000	Cervical post-laminectomy syndrome	SCTID_28968001	Postlaminectomy syndrome of cervical region	true	
+SCTID_202724006	Thoracic post-laminectomy syndrome	SCTID_37432007	Postlaminectomy syndrome of thoracic region	false	
+SCTID_202724006	Thoracic post-laminectomy syndrome	SCTID_37432007	Postlaminectomy syndrome of thoracic region	true	
+SCTID_202725007	Lumbar post-laminectomy syndrome	SCTID_35731002	Postlaminectomy syndrome of lumbar region	false	
+SCTID_202725007	Lumbar post-laminectomy syndrome	SCTID_35731002	Postlaminectomy syndrome of lumbar region	true	
+SCTID_202748002	Thoracic discitis	SCTID_10426006	Discitis of thoracic region	false	
+SCTID_202748002	Thoracic discitis	SCTID_10426006	Discitis of thoracic region	true	
+SCTID_20276007	Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND without return to pre-existing conscious level	SCTID_69178005	Subarachnoid hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_20276007	Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND without return to pre-existing conscious level	SCTID_69178005	Subarachnoid hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_20276007	Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND without return to pre-existing conscious level	SCTID_88747000	Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_20276007	Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND without return to pre-existing conscious level	SCTID_88747000	Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_203355007	Osteitis deformans associated with another disorder	SCTID_45813008	Osteitis deformans associated with another disease	false	
+SCTID_203592006	X-linked severe combined immunodeficiency	ENSPHENO:0001428	SEVERE COMBINED IMMUNODEFICIENCY X-LINKED	true	
+SCTID_203631006	Post-laminectomy kyphosis	SCTID_2801003	Postlaminectomy kyphosis	false	
+SCTID_203631006	Post-laminectomy kyphosis	SCTID_2801003	Postlaminectomy kyphosis	true	
+SCTID_203635002	Post-laminectomy lordosis	SCTID_62567006	Postlaminectomy lordosis	false	
+SCTID_203635002	Post-laminectomy lordosis	SCTID_62567006	Postlaminectomy lordosis	true	
+SCTID_203932002	Unspecified spina bifida with hydrocephalus	SCTID_203933007	Spina bifida with hydrocephalus, unspecified	false	
+SCTID_203932002	Unspecified spina bifida with hydrocephalus	SCTID_203933007	Spina bifida with hydrocephalus, unspecified	true	
+SCTID_203933007	Spina bifida with hydrocephalus, unspecified	SCTID_203932002	Unspecified spina bifida with hydrocephalus	false	
+SCTID_203933007	Spina bifida with hydrocephalus, unspecified	SCTID_203932002	Unspecified spina bifida with hydrocephalus	true	
+SCTID_204076003	Other specified spinal cord anomalies	SCTID_268155007	Other specified anomalies of spinal cord	false	
+SCTID_204076003	Other specified spinal cord anomalies	SCTID_268155007	Other specified anomalies of spinal cord	true	
+SCTID_204216001	Accessory eye muscles	SCTID_85697009	Accessory eye muscle	true	
+SCTID_204532002	Other anomalies of larynx, trachea and bronchus	SCTID_204555004	Other anomaly of larynx, trachea and bronchus	true	
+SCTID_204555004	Other anomaly of larynx, trachea and bronchus	SCTID_204532002	Other anomalies of larynx, trachea and bronchus	true	
+SCTID_204565005	Other anomaly of larynx, trachea or bronchus NOS	SCTID_204566006	Other anomalies of larynx, trachea or bronchus NOS	true	
+SCTID_204566006	Other anomalies of larynx, trachea or bronchus NOS	SCTID_204565005	Other anomaly of larynx, trachea or bronchus NOS	true	
+SCTID_204581000	Other lung anomalies	SCTID_204583002	Other lung anomaly	true	
+SCTID_204583002	Other lung anomaly	SCTID_204581000	Other lung anomalies	true	
+SCTID_204679006	Upper alimentary tract anomalies NOS	SCTID_268203003	Anomalies of upper alimentary tract NOS	false	
+SCTID_204679006	Upper alimentary tract anomalies NOS	SCTID_268203003	Anomalies of upper alimentary tract NOS	true	
+SCTID_204919003	Erythematous pinta plaque	SCTID_90911007	Erythematous plaques of pinta	true	
+SCTID_204942005	Renal agenesis	ENSPHENO:0001356	RENAL AGENESIS	false	
+SCTID_204942005	Renal agenesis	ENSPHENO:0001356	RENAL AGENESIS	true	
+SCTID_205054000	Congenital dislocation of one hip with subluxation of other hip	SCTID_60108003	Congenital dislocation of one hip with subluxation of other	false	
+SCTID_205054000	Congenital dislocation of one hip with subluxation of other hip	SCTID_60108003	Congenital dislocation of one hip with subluxation of other	true	
+SCTID_205468002	Hypochondroplasia	ENSPHENO:0000816	Hypochondroplasia	false	
+SCTID_205468002	Hypochondroplasia	ENSPHENO:0000816	Hypochondroplasia	true	
+SCTID_205496008	Osteogenesis imperfecta type II	ENSPHENO:0001225	OSTEOGENESIS IMPERFECTA TYPE II	false	
+SCTID_205496008	Osteogenesis imperfecta type II	ENSPHENO:0001225	OSTEOGENESIS IMPERFECTA TYPE II	true	
+SCTID_205497004	Osteogenesis imperfecta type IV	ENSPHENO:0001228	OSTEOGENESIS IMPERFECTA TYPE IV	false	
+SCTID_205497004	Osteogenesis imperfecta type IV	ENSPHENO:0001228	OSTEOGENESIS IMPERFECTA TYPE IV	true	
+SCTID_205522003	Other specified muscle, tendon and fascia anomaly	SCTID_268280002	Other specified other anomalies of muscle, tendon and fascia	true	
+SCTID_205533000	Other anomaly of tendon, fascia or muscle NOS	SCTID_205534006	Other muscle, tendon or fascia anomalies NOS	true	
+SCTID_205534006	Other muscle, tendon or fascia anomalies NOS	SCTID_205533000	Other anomaly of tendon, fascia or muscle NOS	true	
+SCTID_205656002	Whole chromosome trisomy, meiotic nondisjunction	SCTID_254269007	Whole chromosome trisomy - meiotic nondisjunction	false	
+SCTID_205656002	Whole chromosome trisomy, meiotic nondisjunction	SCTID_254269007	Whole chromosome trisomy - meiotic nondisjunction	true	
+SCTID_2058001	Bilateral loss of labyrinthine reactivity	SCTID_194377001	Labyrinthine bilateral reactive loss	true	
+SCTID_205813009	Carpenter's syndrome	SCTID_74263009	Carpenter syndrome	false	
+SCTID_205813009	Carpenter's syndrome	SCTID_74263009	Carpenter syndrome	true	
+SCTID_206584005	Other specified perinatal condition	SCTID_206603005	Other specified perinatal conditions	true	
+SCTID_2066005	Gastric ulcer with hemorrhage AND perforation but without obstruction	SCTID_31452001	Gastric ulcer without hemorrhage AND without perforation but with obstruction	false	
+SCTID_2066005	Gastric ulcer with hemorrhage AND perforation but without obstruction	SCTID_31452001	Gastric ulcer without hemorrhage AND without perforation but with obstruction	true	
+SCTID_206603005	Other specified perinatal conditions	SCTID_206584005	Other specified perinatal condition	true	
+SCTID_207809001	Closed fracture of skull NOS without mention of intracranial injury, with more than 24 hours loss of consciousness with return to pre-existing conscious level	SCTID_207810006	Closed fracture of skull NOS without mention of intracranial injury, with more than 24 hours loss of consciousness without return to pre-existing conscious level	false	
+SCTID_207809001	Closed fracture of skull NOS without mention of intracranial injury, with more than 24 hours loss of consciousness with return to pre-existing conscious level	SCTID_207810006	Closed fracture of skull NOS without mention of intracranial injury, with more than 24 hours loss of consciousness without return to pre-existing conscious level	true	
+SCTID_207810006	Closed fracture of skull NOS without mention of intracranial injury, with more than 24 hours loss of consciousness without return to pre-existing conscious level	SCTID_207809001	Closed fracture of skull NOS without mention of intracranial injury, with more than 24 hours loss of consciousness with return to pre-existing conscious level	false	
+SCTID_207810006	Closed fracture of skull NOS without mention of intracranial injury, with more than 24 hours loss of consciousness without return to pre-existing conscious level	SCTID_207809001	Closed fracture of skull NOS without mention of intracranial injury, with more than 24 hours loss of consciousness with return to pre-existing conscious level	true	
+SCTID_207883002	Fracture of skull NOS	SCTID_269059005	Skull fracture NOS	false	
+SCTID_207883002	Fracture of skull NOS	SCTID_269059005	Skull fracture NOS	true	
+SCTID_209789003	Septal cartilage nose sprain	SCTID_51736007	Sprain of septal cartilage of nose	false	
+SCTID_209789003	Septal cartilage nose sprain	SCTID_51736007	Sprain of septal cartilage of nose	true	
+SCTID_210663009	Open wound hip and thigh, NOS	SCTID_210681007	Open wound of hip and thigh NOS	false	
+SCTID_210663009	Open wound hip and thigh, NOS	SCTID_210681007	Open wound of hip and thigh NOS	true	
+SCTID_210681007	Open wound of hip and thigh NOS	SCTID_210663009	Open wound hip and thigh, NOS	false	
+SCTID_210681007	Open wound of hip and thigh NOS	SCTID_210663009	Open wound hip and thigh, NOS	true	
+SCTID_211154003	Superficial injury of trunk NOS, without major open wound or mention of infection	SCTID_211169002	Superficial injury of trunk, without major open wound or mention of infection, NOS	false	
+SCTID_211154003	Superficial injury of trunk NOS, without major open wound or mention of infection	SCTID_211169002	Superficial injury of trunk, without major open wound or mention of infection, NOS	true	
+SCTID_211169002	Superficial injury of trunk, without major open wound or mention of infection, NOS	SCTID_211154003	Superficial injury of trunk NOS, without major open wound or mention of infection	false	
+SCTID_211169002	Superficial injury of trunk, without major open wound or mention of infection, NOS	SCTID_211154003	Superficial injury of trunk NOS, without major open wound or mention of infection	true	
+SCTID_211170001	Superficial injury of trunk NOS, infected	SCTID_211185007	Superficial injury of trunk NOS, infection NOS	true	
+SCTID_211185007	Superficial injury of trunk NOS, infection NOS	SCTID_211170001	Superficial injury of trunk NOS, infected	true	
+SCTID_211237003	Superficial injury of shoulder and upper arm NOS, without mention of infection	SCTID_211242006	Superficial injury of shoulder and upper arm, without mention of infection, NOS	false	
+SCTID_211237003	Superficial injury of shoulder and upper arm NOS, without mention of infection	SCTID_211242006	Superficial injury of shoulder and upper arm, without mention of infection, NOS	true	
+SCTID_211242006	Superficial injury of shoulder and upper arm, without mention of infection, NOS	SCTID_211237003	Superficial injury of shoulder and upper arm NOS, without mention of infection	false	
+SCTID_211242006	Superficial injury of shoulder and upper arm, without mention of infection, NOS	SCTID_211237003	Superficial injury of shoulder and upper arm NOS, without mention of infection	true	
+SCTID_211292007	Superficial injury of lower arm NOS, without mention of infection	SCTID_211296005	Superficial injury of lower arm, without mention of infection NOS	false	
+SCTID_211292007	Superficial injury of lower arm NOS, without mention of infection	SCTID_211296005	Superficial injury of lower arm, without mention of infection NOS	true	
+SCTID_211296005	Superficial injury of lower arm, without mention of infection NOS	SCTID_211292007	Superficial injury of lower arm NOS, without mention of infection	false	
+SCTID_211296005	Superficial injury of lower arm, without mention of infection NOS	SCTID_211292007	Superficial injury of lower arm NOS, without mention of infection	true	
+SCTID_211297001	Superficial injury of lower arm NOS, infected	SCTID_211301005	Superficial injury of lower arm, infected NOS	false	
+SCTID_211297001	Superficial injury of lower arm NOS, infected	SCTID_211301005	Superficial injury of lower arm, infected NOS	true	
+SCTID_211301005	Superficial injury of lower arm, infected NOS	SCTID_211297001	Superficial injury of lower arm NOS, infected	false	
+SCTID_211301005	Superficial injury of lower arm, infected NOS	SCTID_211297001	Superficial injury of lower arm NOS, infected	true	
+SCTID_211386003	Superficial injury of lower limb NOS, without mention of infection	SCTID_211392009	Superficial injury of lower limb, without mention of infection, NOS	false	
+SCTID_211386003	Superficial injury of lower limb NOS, without mention of infection	SCTID_211392009	Superficial injury of lower limb, without mention of infection, NOS	true	
+SCTID_211392009	Superficial injury of lower limb, without mention of infection, NOS	SCTID_211386003	Superficial injury of lower limb NOS, without mention of infection	false	
+SCTID_211392009	Superficial injury of lower limb, without mention of infection, NOS	SCTID_211386003	Superficial injury of lower limb NOS, without mention of infection	true	
+SCTID_211435009	Superficial injury of foot and toe NOS, without mention of infection	SCTID_211439003	Superficial injury of foot and toe, without mention of infection, NOS	false	
+SCTID_211435009	Superficial injury of foot and toe NOS, without mention of infection	SCTID_211439003	Superficial injury of foot and toe, without mention of infection, NOS	true	
+SCTID_211436005	Superficial injury of foot NOS	SCTID_287122009	Superficial injury foot NOS	false	
+SCTID_211436005	Superficial injury of foot NOS	SCTID_287122009	Superficial injury foot NOS	true	
+SCTID_211439003	Superficial injury of foot and toe, without mention of infection, NOS	SCTID_211435009	Superficial injury of foot and toe NOS, without mention of infection	false	
+SCTID_211439003	Superficial injury of foot and toe, without mention of infection, NOS	SCTID_211435009	Superficial injury of foot and toe NOS, without mention of infection	true	
+SCTID_211440001	Superficial injury of foot and toe NOS, infected	SCTID_211443004	Superficial injury of foot and toe, infected, NOS	false	
+SCTID_211440001	Superficial injury of foot and toe NOS, infected	SCTID_211443004	Superficial injury of foot and toe, infected, NOS	true	
+SCTID_211443004	Superficial injury of foot and toe, infected, NOS	SCTID_211440001	Superficial injury of foot and toe NOS, infected	false	
+SCTID_211443004	Superficial injury of foot and toe, infected, NOS	SCTID_211440001	Superficial injury of foot and toe NOS, infected	true	
+SCTID_211818000	Unspecified thickness burn of arm	SCTID_211819008	Unspecified thickness burn of arm, unspecified	false	
+SCTID_211818000	Unspecified thickness burn of arm	SCTID_211819008	Unspecified thickness burn of arm, unspecified	true	
+SCTID_211819008	Unspecified thickness burn of arm, unspecified	SCTID_211818000	Unspecified thickness burn of arm	false	
+SCTID_211819008	Unspecified thickness burn of arm, unspecified	SCTID_211818000	Unspecified thickness burn of arm	true	
+SCTID_212023001	Corrosions of multiple regions, unspecified degree	SCTID_284244003	Corrosion of multiple regions, unspecified degree	true	
+SCTID_212169004	Thoracic cord injury without spinal bone injury	SCTID_36838006	Spinal cord injury of thoracic region without bone injury	false	
+SCTID_212169004	Thoracic cord injury without spinal bone injury	SCTID_36838006	Spinal cord injury of thoracic region without bone injury	true	
+SCTID_21233002	Meningeal hemorrhage	SCTID_409501004	Hemorrhagic meningitis	true	
+SCTID_212388004	Other specified injury	SCTID_212495009	Other specified injuries	true	
+SCTID_212495009	Other specified injuries	SCTID_212388004	Other specified injury	true	
+SCTID_213170009	Partial failure replanted finger	SCTID_213172001	Partial failure replanted fingers	true	
+SCTID_213172001	Partial failure replanted fingers	SCTID_213170009	Partial failure replanted finger	true	
+SCTID_213176003	Partial failure replanted toe	SCTID_213177007	Partial failure replanted toes	true	
+SCTID_213177007	Partial failure replanted toes	SCTID_213176003	Partial failure replanted toe	true	
+SCTID_213182000	Total failure replanted finger	SCTID_213184004	Total failure replanted fingers	true	
+SCTID_213184004	Total failure replanted fingers	SCTID_213182000	Total failure replanted finger	true	
+SCTID_213188001	Total failure replanted toe	SCTID_213189009	Total failure replanted toes	true	
+SCTID_213189009	Total failure replanted toes	SCTID_213188001	Total failure replanted toe	true	
+SCTID_21653008	Cochlear active MC)niC(re's disease	SCTID_194349005	Active cochlear MC)niC(re's disease	false	
+SCTID_21653008	Cochlear active MC)niC(re's disease	SCTID_194349005	Active cochlear MC)niC(re's disease	true	
+SCTID_21751000	Vulvovaginitis associated with another disease	SCTID_198218005	Vulvovaginitis associated with another disorder	false	
+SCTID_217709000	Injury caused by other animal	SCTID_269710004	Other injury caused by animals	true	
+SCTID_22230001	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in full remission	SCTID_111491004	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in partial remission	false	
+SCTID_22230001	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND panic attacks in full remission	SCTID_111491004	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND panic attacks in partial remission	true	
+SCTID_22298006	Myocardial infarction	ENSPHENO:0001156	Myocardial infarction	false	
+SCTID_22298006	Myocardial infarction	ENSPHENO:0001156	Myocardial infarction	true	
+SCTID_22825007	Cerebellar contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_33117006	Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_22825007	Cerebellar contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_33117006	Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_22825007	Cerebellar contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_60546000	Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_22825007	Cerebellar contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_60546000	Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_22935002	Congenital erythropoietic porphyria	ENSPHENO:0000389	Congenital erythropoietic porphyria	false	
+SCTID_22935002	Congenital erythropoietic porphyria	ENSPHENO:0000389	Congenital erythropoietic porphyria	true	
+SCTID_22935002	Congenital erythropoietic porphyria	ENSPHENO:0001283	PORPHYRIA CONGENITAL ERYTHROPOIETIC	true	
+SCTID_229669002	Grapheme-phoneme conversion deficit	SCTID_229670001	Phoneme-grapheme conversion deficit	false	
+SCTID_229669002	Grapheme-phoneme conversion deficit	SCTID_229670001	Phoneme-grapheme conversion deficit	true	
+SCTID_229670001	Phoneme-grapheme conversion deficit	SCTID_229669002	Grapheme-phoneme conversion deficit	false	
+SCTID_229670001	Phoneme-grapheme conversion deficit	SCTID_229669002	Grapheme-phoneme conversion deficit	true	
+SCTID_23014006	Cervicofacial actinomycosis	SCTID_402991001	Cervico-facial actinomycosis	false	
+SCTID_23014006	Cervicofacial actinomycosis	SCTID_402991001	Cervico-facial actinomycosis	true	
+SCTID_230226000	System disorder of the nervous system	SCTID_118940003	Disorder of nervous system	false	
+SCTID_230226000	System disorder of the nervous system	SCTID_118940003	Disorder of nervous system	true	
+SCTID_230270009	Frontotemporal dementia	ENSPHENO:0000546	FRONTOTEMPORAL DEMENTIA	false	
+SCTID_230270009	Frontotemporal dementia	ENSPHENO:0000546	FRONTOTEMPORAL DEMENTIA	true	
+SCTID_230325003	Meige syndrome	SCTID_63402005	Meigs' syndrome	true	
+SCTID_230466004	Alternating hemiplegia of childhood	ENSPHENO:0000126	Alternating hemiplegia of childhood	false	
+SCTID_230466004	Alternating hemiplegia of childhood	ENSPHENO:0000126	Alternating hemiplegia of childhood	true	
+SCTID_233678006	Childhood asthma	ENSPHENO:0000372	Childhood asthma	false	
+SCTID_233678006	Childhood asthma	ENSPHENO:0000372	Childhood asthma	true	
+SCTID_234146006	Hennekam lymphangiectasia-lymphedema syndrome	ENSPHENO:0000800	Hennekam lymphangiectasia-lymphedema syndrome	false	
+SCTID_234146006	Hennekam lymphangiectasia-lymphedema syndrome	ENSPHENO:0000800	Hennekam lymphangiectasia-lymphedema syndrome	true	
+SCTID_234422006	Acute intermittent porphyria	ENSPHENO:0001282	PORPHYRIA ACUTE INTERMITTENT	true	
+SCTID_234433009	Myeloperoxidase deficiency	ENSPHENO:0001155	Myeloperoxidase deficiency	false	
+SCTID_234433009	Myeloperoxidase deficiency	ENSPHENO:0001155	Myeloperoxidase deficiency	true	
+SCTID_234989006	Gingivitis/gingival disease	SCTID_18718003	Gingival disease	true	
+SCTID_23560001	Asperger's disorder	ENSPHENO:0000142	Asperger disorder	false	
+SCTID_23560001	Asperger's disorder	ENSPHENO:0000142	Asperger disorder	true	
+SCTID_235712006	Ulcerative jejunitis	SCTID_54822007	Jejunal ulcer	true	
+SCTID_236506009	Goodpasture's disease	SCTID_50581000	Goodpasture's syndrome	false	
+SCTID_237560005	Generalized thyroid hormone resistance	ENSPHENO:0000607	Generalized thyroid hormone resistance	false	
+SCTID_237560005	Generalized thyroid hormone resistance	ENSPHENO:0000607	Generalized thyroid hormone resistance	true	
+SCTID_237630007	Hypoglycemic disorder	SCTID_271327008	Hypoglycemic syndrome	false	
+SCTID_237746006	Adrenogenital syndrome NOS	SCTID_190519004	Adrenogenital disorder NOS	false	
+SCTID_237764004	Congenital adrenal hypoplasia, X-linked	ENSPHENO:0001641	X-linked adrenal hypoplasia congenital	false	
+SCTID_237764004	Congenital adrenal hypoplasia, X-linked	ENSPHENO:0001641	X-linked adrenal hypoplasia congenital	true	
+SCTID_237860004	Respiratory alkalosis and metabolic acidosis	SCTID_237863002	Respiratory acidosis and metabolic alkalosis	false	
+SCTID_237860004	Respiratory alkalosis and metabolic acidosis	SCTID_237863002	Respiratory acidosis and metabolic alkalosis	true	
+SCTID_237863002	Respiratory acidosis and metabolic alkalosis	SCTID_237860004	Respiratory alkalosis and metabolic acidosis	false	
+SCTID_237863002	Respiratory acidosis and metabolic alkalosis	SCTID_237860004	Respiratory alkalosis and metabolic acidosis	true	
+SCTID_237885008	Familial hypocalciuric hypercalcemia	ENSPHENO:0000769	HYPOCALCIURIC HYPERCALCEMIA FAMILIAL	true	
+SCTID_237959005	Trimethylaminuria	ENSPHENO:0001551	TRIMETHYLAMINURIA	false	
+SCTID_237959005	Trimethylaminuria	ENSPHENO:0001551	TRIMETHYLAMINURIA	true	
+SCTID_238001003	Carnitine palmitoyltransferase I deficiency	ENSPHENO:0000269	CARNITINE PALMITOYLTRANSFERASE I DEFICIENCY	false	
+SCTID_238001003	Carnitine palmitoyltransferase I deficiency	ENSPHENO:0000269	CARNITINE PALMITOYLTRANSFERASE I DEFICIENCY	true	
+SCTID_238012003	Thiopurine methyltransferase deficiency	ENSPHENO:0001566	Thiopurine S-methyltransferase deficiency	false	
+SCTID_238012003	Thiopurine methyltransferase deficiency	ENSPHENO:0001566	Thiopurine S-methyltransferase deficiency	true	
+SCTID_238044004	Mucopolysaccharidosis type IVB	ENSPHENO:0001019	MUCOPOLYSACCHARIDOSIS TYPE IVB	false	
+SCTID_238044004	Mucopolysaccharidosis type IVB	ENSPHENO:0001019	MUCOPOLYSACCHARIDOSIS TYPE IVB	true	
+SCTID_238525001	Polymorphic light eruption	SCTID_367484009	Polymorphous light eruption	true	
+SCTID_238969001	Burning scrotum	SCTID_283953009	Burn of scrotum	true	
+SCTID_239855009	Ankle osteoarthritis NOS	SCTID_201910000	Osteoarthritis NOS, of ankle	false	
+SCTID_239855009	Ankle osteoarthritis NOS	SCTID_201910000	Osteoarthritis NOS, of ankle	true	
+SCTID_23986001	Glaucoma	ENSPHENO:0000609	Glaucoma	false	
+SCTID_23986001	Glaucoma	ENSPHENO:0000609	Glaucoma	true	
+SCTID_239966001	Rupture of tendon of elbow region	SCTID_287980003	Tendon rupture - elbow	false	
+SCTID_239966001	Rupture of tendon of elbow region	SCTID_287980003	Tendon rupture - elbow	true	
+SCTID_240199005	Collapse of vertebra NOS	SCTID_308146000	Collapsed vertebra NOS	true	
+SCTID_240850009	Mansonella perstans infection	SCTID_420811004	Infection by Mansonella perstans	false	
+SCTID_240850009	Mansonella perstans infection	SCTID_420811004	Infection by Mansonella perstans	true	
+SCTID_24526004	Inflammatory bowel disease	ENSPHENO:0000855	Inflammatory bowel disease	false	
+SCTID_24526004	Inflammatory bowel disease	ENSPHENO:0000855	Inflammatory bowel disease	true	
+SCTID_24700007	Multiple sclerosis	ENSPHENO:0001144	Multiple sclerosis	false	
+SCTID_24700007	Multiple sclerosis	ENSPHENO:0001144	Multiple sclerosis	true	
+SCTID_24781009	Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in full remission	SCTID_76868007	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND mild panic attacks	false	
+SCTID_24781009	Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in full remission	SCTID_76868007	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND mild panic attacks	true	
+SCTID_252246005	Pseudoxanthoma elasticum	ENSPHENO:0001337	Pseudoxanthoma elasticum	false	
+SCTID_252246005	Pseudoxanthoma elasticum	ENSPHENO:0001337	Pseudoxanthoma elasticum	true	
+SCTID_253185002	Chiari malformation type I	ENSPHENO:0000299	CHIARI MALFORMATION TYPE I	false	
+SCTID_253185002	Chiari malformation type I	ENSPHENO:0000299	CHIARI MALFORMATION TYPE I	true	
+SCTID_253303001	Solitary aortic trunk with pulmonary atresia	SCTID_253304007	Solitary pulmonary trunk with aortic atresia	false	
+SCTID_253303001	Solitary aortic trunk with pulmonary atresia	SCTID_253304007	Solitary pulmonary trunk with aortic atresia	true	
+SCTID_253304007	Solitary pulmonary trunk with aortic atresia	SCTID_253303001	Solitary aortic trunk with pulmonary atresia	false	
+SCTID_253304007	Solitary pulmonary trunk with aortic atresia	SCTID_253303001	Solitary aortic trunk with pulmonary atresia	true	
+SCTID_253346003	Right atrial appendage - left - juxtaposition	SCTID_253357008	Left atrial appendage - right - juxtaposition	false	
+SCTID_253346003	Right atrial appendage - left - juxtaposition	SCTID_253357008	Left atrial appendage - right - juxtaposition	true	
+SCTID_253357008	Left atrial appendage - right - juxtaposition	SCTID_253346003	Right atrial appendage - left - juxtaposition	false	
+SCTID_253357008	Left atrial appendage - right - juxtaposition	SCTID_253346003	Right atrial appendage - left - juxtaposition	true	
+SCTID_253653004	Left aortic arch and right descending aorta	SCTID_253655006	Right aortic arch and left descending aorta	false	
+SCTID_253653004	Left aortic arch and right descending aorta	SCTID_253655006	Right aortic arch and left descending aorta	true	
+SCTID_253655006	Right aortic arch and left descending aorta	SCTID_253653004	Left aortic arch and right descending aorta	false	
+SCTID_253655006	Right aortic arch and left descending aorta	SCTID_253653004	Left aortic arch and right descending aorta	true	
+SCTID_254269007	Whole chromosome trisomy - meiotic nondisjunction	SCTID_205656002	Whole chromosome trisomy, meiotic nondisjunction	false	
+SCTID_254269007	Whole chromosome trisomy - meiotic nondisjunction	SCTID_205656002	Whole chromosome trisomy, meiotic nondisjunction	true	
+SCTID_254637007	Non-small cell lung cancer	ENSPHENO:0001200	Non-small cell lung cancer	false	
+SCTID_254637007	Non-small cell lung cancer	ENSPHENO:0001200	Non-small cell lung cancer	true	
+SCTID_26206000	Viral hepatitis B with hepatic coma	SCTID_186623005	Viral hepatitis B with coma	true	
+SCTID_266097006	Viral meningitis NOS	SCTID_267575007	Meningitis - viral NOS	false	
+SCTID_266097006	Viral meningitis NOS	SCTID_267575007	Meningitis - viral NOS	true	
+SCTID_266140007	Other gonococcal infection of other specified site	SCTID_186934005	Gonococcal infection of other specified sites	true	
+SCTID_266373008	Other respiratory system diseases NOS	SCTID_196184000	Other diseases of respiratory system NOS	false	
+SCTID_266373008	Other respiratory system diseases NOS	SCTID_196184000	Other diseases of respiratory system NOS	true	
+SCTID_266507009	Appendix disease NOS	SCTID_196798001	Appendix diseases NOS	true	
+SCTID_266584000	Female pelvic inflammatory diseases NOS	SCTID_198244005	Female pelvic inflammatory disease NOS	true	
+SCTID_267200002	Mild or unspecified pre-eclampsia	SCTID_198973001	Mild or unspecified pre-eclampsia unspecified	false	
+SCTID_267200002	Mild or unspecified pre-eclampsia	SCTID_198973001	Mild or unspecified pre-eclampsia unspecified	true	
+SCTID_267203000	Unspecified renal disease in pregnancy	SCTID_199080008	Unspecified renal disease in pregnancy unspecified	false	
+SCTID_267203000	Unspecified renal disease in pregnancy	SCTID_199080008	Unspecified renal disease in pregnancy unspecified	true	
+SCTID_267273001	Retained placenta or membranes with no hemorrhage	SCTID_200045000	Retained placenta or membranes with no hemorrhage NOS	true	
+SCTID_267311008	Pregnancy complications NOS	SCTID_199152008	Pregnancy complication NOS	true	
+SCTID_267423001	Other specified disturbance of amino acid metabolism	SCTID_190731000	Disturbance of other specified amino acid metabolism	false	
+SCTID_267423001	Other specified disturbance of amino acid metabolism	SCTID_190731000	Disturbance of other specified amino acid metabolism	true	
+SCTID_26745009	Mucopolysaccharidosis, MPS-I-H/S	SCTID_65327002	Mucopolysaccharidosis, MPS-I-H	false	
+SCTID_26745009	Mucopolysaccharidosis, MPS-I-H/S	SCTID_65327002	Mucopolysaccharidosis, MPS-I-H	true	
+SCTID_267575007	Meningitis - viral NOS	SCTID_266097006	Viral meningitis NOS	false	
+SCTID_267575007	Meningitis - viral NOS	SCTID_266097006	Viral meningitis NOS	true	
+SCTID_267718000	Age-related macular degeneration	ENSPHENO:0000112	Age-related macular degeneration	false	
+SCTID_267718000	Age-related macular degeneration	ENSPHENO:0000112	Age-related macular degeneration	true	
+SCTID_267904003	Arthropathy NOS	SCTID_202647001	Arthropathies NOS	true	
+SCTID_268155007	Other specified anomalies of spinal cord	SCTID_204076003	Other specified spinal cord anomalies	false	
+SCTID_268155007	Other specified anomalies of spinal cord	SCTID_204076003	Other specified spinal cord anomalies	true	
+SCTID_268203003	Anomalies of upper alimentary tract NOS	SCTID_204679006	Upper alimentary tract anomalies NOS	false	
+SCTID_268203003	Anomalies of upper alimentary tract NOS	SCTID_204679006	Upper alimentary tract anomalies NOS	true	
+SCTID_268280002	Other specified other anomalies of muscle, tendon and fascia	SCTID_205522003	Other specified muscle, tendon and fascia anomaly	true	
+SCTID_268620009	Single major depressive episode	SCTID_36923009	Major depression, single episode	true	
+SCTID_268856005	Other perinatal condition NOS	SCTID_268857001	Other perinatal conditions NOS	true	
+SCTID_268857001	Other perinatal conditions NOS	SCTID_268856005	Other perinatal condition NOS	true	
+SCTID_269059005	Skull fracture NOS	SCTID_207883002	Fracture of skull NOS	false	
+SCTID_269059005	Skull fracture NOS	SCTID_207883002	Fracture of skull NOS	true	
+SCTID_26929004	Alzheimer's disease	ENSPHENO:0000128	Alzheimer's disease	false	
+SCTID_26929004	Alzheimer's disease	ENSPHENO:0000128	Alzheimer's disease	true	
+SCTID_269406001	Post-traumatic wound infection	SCTID_111726004	Posttraumatic wound infection	false	
+SCTID_269406001	Post-traumatic wound infection	SCTID_111726004	Posttraumatic wound infection	true	
+SCTID_269418005	Toxic effects - substances NOS	SCTID_269420008	Substance NOS - toxic effect	true	
+SCTID_269420008	Substance NOS - toxic effect	SCTID_269418005	Toxic effects - substances NOS	true	
+SCTID_269710004	Other injury caused by animals	SCTID_217709000	Injury caused by other animal	true	
+SCTID_271327008	Hypoglycemic syndrome	SCTID_237630007	Hypoglycemic disorder	false	
+SCTID_271504004	Pleural empyema with no fistula	SCTID_196063008	Empyema with pleural fistula NOS	true	
+SCTID_273491005	Protein deficiency disease	SCTID_1563006	Protein S deficiency disease	false	
+SCTID_273491005	Protein deficiency disease	SCTID_1563006	Protein S deficiency disease	true	
+SCTID_274097009	Heart valve disorders - non-rheumatic	SCTID_35205000	Nonrheumatic heart valve disorder	true	
+SCTID_274139008	Shoulder syndrome	SCTID_118944007	Disorder of shoulder region	false	
+SCTID_274205003	Burn of eye region	SCTID_284542003	Burn of eye structure	false	
+SCTID_27503000	Gilbert's syndrome	ENSPHENO:0000608	Gilbert syndrome	false	
+SCTID_27503000	Gilbert's syndrome	ENSPHENO:0000608	Gilbert syndrome	true	
+SCTID_2801003	Postlaminectomy kyphosis	SCTID_203631006	Post-laminectomy kyphosis	false	
+SCTID_2801003	Postlaminectomy kyphosis	SCTID_203631006	Post-laminectomy kyphosis	true	
+SCTID_28082003	Chronic duodenal ulcer without hemorrhage AND without perforation but with obstruction	SCTID_81142005	Chronic duodenal ulcer with hemorrhage AND with perforation but without obstruction	false	
+SCTID_28082003	Chronic duodenal ulcer without hemorrhage AND without perforation but with obstruction	SCTID_81142005	Chronic duodenal ulcer with hemorrhage AND with perforation but without obstruction	true	
+SCTID_281387004	Regional osteoporosis	ENSPHENO:0001243	Osteoporosis	true	
+SCTID_281387004	Regional osteoporosis	SCTID_64859006	Osteoporosis	true	
+SCTID_282784007	Spinal cord syndrome	SCTID_48522003	Spinal cord disorder	false	
+SCTID_283953009	Burn of scrotum	SCTID_238969001	Burning scrotum	true	
+SCTID_284244003	Corrosion of multiple regions, unspecified degree	SCTID_212023001	Corrosions of multiple regions, unspecified degree	true	
+SCTID_284542003	Burn of eye structure	SCTID_274205003	Burn of eye region	false	
+SCTID_287122009	Superficial injury foot NOS	SCTID_211436005	Superficial injury of foot NOS	false	
+SCTID_287122009	Superficial injury foot NOS	SCTID_211436005	Superficial injury of foot NOS	true	
+SCTID_287980003	Tendon rupture - elbow	SCTID_239966001	Rupture of tendon of elbow region	false	
+SCTID_287980003	Tendon rupture - elbow	SCTID_239966001	Rupture of tendon of elbow region	true	
+SCTID_28968001	Postlaminectomy syndrome of cervical region	SCTID_202723000	Cervical post-laminectomy syndrome	false	
+SCTID_28968001	Postlaminectomy syndrome of cervical region	SCTID_202723000	Cervical post-laminectomy syndrome	true	
+SCTID_29248006	Metaphyseal chondrodysplasia, Schmid type	ENSPHENO:0000996	METAPHYSEAL CHONDRODYSPLASIA SCHMID TYPE	false	
+SCTID_29248006	Metaphyseal chondrodysplasia, Schmid type	ENSPHENO:0000996	METAPHYSEAL CHONDRODYSPLASIA SCHMID TYPE	true	
+SCTID_292872000	Phenolics adverse reaction	SCTID_292878001	Phenol adverse reaction	true	
+SCTID_292878001	Phenol adverse reaction	SCTID_292872000	Phenolics adverse reaction	true	
+SCTID_294412002	Phenolics allergy	SCTID_294418003	Phenol allergy	true	
+SCTID_294418003	Phenol allergy	SCTID_294412002	Phenolics allergy	true	
+SCTID_30059008	Panic disorder with agoraphobia, severe agoraphobic avoidance AND moderate panic attacks	SCTID_83631006	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND severe panic attacks	false	
+SCTID_30059008	Panic disorder with agoraphobia, severe agoraphobic avoidance AND moderate panic attacks	SCTID_83631006	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND severe panic attacks	true	
+SCTID_302870006	Hypertriglyceridemia	ENSPHENO:0000815	Hypertriglyceridemia	false	
+SCTID_302870006	Hypertriglyceridemia	ENSPHENO:0000815	Hypertriglyceridemia	true	
+SCTID_30575002	Fanconi's anemia	ENSPHENO:0000563	Fanconi anemia	false	
+SCTID_30575002	Fanconi's anemia	ENSPHENO:0000563	Fanconi anemia	true	
+SCTID_306058006	Aplastic anemia	ENSPHENO:0000081	APLASTIC ANEMIA	false	
+SCTID_306058006	Aplastic anemia	ENSPHENO:0000081	APLASTIC ANEMIA	true	
+SCTID_308146000	Collapsed vertebra NOS	SCTID_240199005	Collapse of vertebra NOS	true	
+SCTID_31079007	Impairment level: one eye: total impairment: other eye: near-normal vision	SCTID_111519001	Impairment level: one eye: near-total impairment: other eye: normal vision	false	
+SCTID_31079007	Impairment level: one eye: total impairment: other eye: near-normal vision	SCTID_111519001	Impairment level: one eye: near-total impairment: other eye: normal vision	true	
+SCTID_31079007	Impairment level: one eye: total impairment: other eye: near-normal vision	SCTID_14781008	Impairment level: one eye: near-total impairment: other eye: near-normal vision	false	
+SCTID_31079007	Impairment level: one eye: total impairment: other eye: near-normal vision	SCTID_14781008	Impairment level: one eye: near-total impairment: other eye: near-normal vision	true	
+SCTID_312974005	Preterm premature rupture of membranes	ENSPHENO:0001284	PRETERM PREMATURE RUPTURE OF THE MEMBRANES	false	
+SCTID_312974005	Preterm premature rupture of membranes	ENSPHENO:0001284	PRETERM PREMATURE RUPTURE OF THE MEMBRANES	true	
+SCTID_31452001	Gastric ulcer without hemorrhage AND without perforation but with obstruction	SCTID_2066005	Gastric ulcer with hemorrhage AND perforation but without obstruction	false	
+SCTID_31452001	Gastric ulcer without hemorrhage AND without perforation but with obstruction	SCTID_2066005	Gastric ulcer with hemorrhage AND perforation but without obstruction	true	
+SCTID_31712002	Primary biliary cirrhosis	ENSPHENO:0001329	Primary biliary cirrhosis	false	
+SCTID_31712002	Primary biliary cirrhosis	ENSPHENO:0001329	Primary biliary cirrhosis	true	
+SCTID_31781004	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND mild panic attacks	SCTID_50983008	Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in partial remission	false	
+SCTID_31781004	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND mild panic attacks	SCTID_50983008	Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in partial remission	true	
+SCTID_32388005	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND moderate panic attacks	SCTID_76812003	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in partial remission	false	
+SCTID_32388005	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND moderate panic attacks	SCTID_76812003	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in partial remission	true	
+SCTID_33117006	Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_22825007	Cerebellar contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_33117006	Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_22825007	Cerebellar contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_33117006	Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_60546000	Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_33117006	Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_60546000	Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_33927004	Hypogonadotropic hypogonadism	ENSPHENO:0000770	HYPOGONADOTROPIC HYPOGONADISM	false	
+SCTID_33927004	Hypogonadotropic hypogonadism	ENSPHENO:0000770	HYPOGONADOTROPIC HYPOGONADISM	true	
+SCTID_34000006	Crohn's disease	ENSPHENO:0000398	Crohn's disease	false	
+SCTID_34000006	Crohn's disease	ENSPHENO:0000398	Crohn's disease	true	
+SCTID_34116005	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND severe panic attacks	SCTID_38328002	Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in full remission	false	
+SCTID_34116005	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND severe panic attacks	SCTID_38328002	Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in full remission	true	
+SCTID_35205000	Nonrheumatic heart valve disorder	SCTID_274097009	Heart valve disorders - non-rheumatic	true	
+SCTID_353295004	Graves' disease	ENSPHENO:0000618	Graves' disease	false	
+SCTID_353295004	Graves' disease	ENSPHENO:0000618	Graves' disease	true	
+SCTID_354737001	Prolapse of vaginal walls without uterine prolapse	SCTID_11597004	Uterine prolapse without vaginal wall prolapse	true	
+SCTID_35731002	Postlaminectomy syndrome of lumbar region	SCTID_202725007	Lumbar post-laminectomy syndrome	false	
+SCTID_35731002	Postlaminectomy syndrome of lumbar region	SCTID_202725007	Lumbar post-laminectomy syndrome	true	
+SCTID_361266001	Lip hypertrophy	SCTID_643001	Hypertrophy of lip	false	
+SCTID_361266001	Lip hypertrophy	SCTID_643001	Hypertrophy of lip	true	
+SCTID_363004000	Cardiovascular sequelae of disorders	SCTID_363294003	Sequelae of cardiovascular disorders	false	
+SCTID_363004000	Cardiovascular sequelae of disorders	SCTID_363294003	Sequelae of cardiovascular disorders	true	
+SCTID_363067009	Gastrointestinal sequelae of disorders	SCTID_363298000	Sequelae of gastrointestinal disorders	false	
+SCTID_363067009	Gastrointestinal sequelae of disorders	SCTID_363298000	Sequelae of gastrointestinal disorders	true	
+SCTID_363294003	Sequelae of cardiovascular disorders	SCTID_363004000	Cardiovascular sequelae of disorders	false	
+SCTID_363294003	Sequelae of cardiovascular disorders	SCTID_363004000	Cardiovascular sequelae of disorders	true	
+SCTID_363298000	Sequelae of gastrointestinal disorders	SCTID_363067009	Gastrointestinal sequelae of disorders	false	
+SCTID_363298000	Sequelae of gastrointestinal disorders	SCTID_363067009	Gastrointestinal sequelae of disorders	true	
+SCTID_367484009	Polymorphous light eruption	SCTID_238525001	Polymorphic light eruption	true	
+SCTID_36822000	Cortex contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_40286002	Cortex contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_36822000	Cortex contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_40286002	Cortex contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_36838006	Spinal cord injury of thoracic region without bone injury	SCTID_212169004	Thoracic cord injury without spinal bone injury	false	
+SCTID_36838006	Spinal cord injury of thoracic region without bone injury	SCTID_212169004	Thoracic cord injury without spinal bone injury	true	
+SCTID_36923009	Major depression, single episode	SCTID_268620009	Single major depressive episode	true	
+SCTID_369472002	Malignant tumor involving bladder by direct extension from prostate	SCTID_369485004	Malignant tumor involving prostate by direct extension from bladder	false	
+SCTID_369472002	Malignant tumor involving bladder by direct extension from prostate	SCTID_369485004	Malignant tumor involving prostate by direct extension from bladder	true	
+SCTID_369475000	Malignant tumor involving bladder by direct extension from vagina	SCTID_369504000	Malignant tumor involving vagina by direct extension from bladder	false	
+SCTID_369475000	Malignant tumor involving bladder by direct extension from vagina	SCTID_369504000	Malignant tumor involving vagina by direct extension from bladder	true	
+SCTID_369479006	Malignant tumor involving bladder by separate metastasis from prostate	SCTID_369486003	Malignant tumor involving prostate by separate metastasis from bladder	false	
+SCTID_369479006	Malignant tumor involving bladder by separate metastasis from prostate	SCTID_369486003	Malignant tumor involving prostate by separate metastasis from bladder	true	
+SCTID_369482001	Malignant tumor involving bladder by separate metastasis from vagina	SCTID_369581006	Malignant tumor involving vagina by separate metastasis from bladder	false	
+SCTID_369482001	Malignant tumor involving bladder by separate metastasis from vagina	SCTID_369581006	Malignant tumor involving vagina by separate metastasis from bladder	true	
+SCTID_369485004	Malignant tumor involving prostate by direct extension from bladder	SCTID_369472002	Malignant tumor involving bladder by direct extension from prostate	false	
+SCTID_369485004	Malignant tumor involving prostate by direct extension from bladder	SCTID_369472002	Malignant tumor involving bladder by direct extension from prostate	true	
+SCTID_369486003	Malignant tumor involving prostate by separate metastasis from bladder	SCTID_369479006	Malignant tumor involving bladder by separate metastasis from prostate	false	
+SCTID_369486003	Malignant tumor involving prostate by separate metastasis from bladder	SCTID_369479006	Malignant tumor involving bladder by separate metastasis from prostate	true	
+SCTID_369499000	Malignant tumor involving uterine cervix by direct extension from vagina	SCTID_369580007	Malignant tumor involving vagina by direct extension from uterine cervix	false	
+SCTID_369499000	Malignant tumor involving uterine cervix by direct extension from vagina	SCTID_369580007	Malignant tumor involving vagina by direct extension from uterine cervix	true	
+SCTID_369504000	Malignant tumor involving vagina by direct extension from bladder	SCTID_369475000	Malignant tumor involving bladder by direct extension from vagina	false	
+SCTID_369504000	Malignant tumor involving vagina by direct extension from bladder	SCTID_369475000	Malignant tumor involving bladder by direct extension from vagina	true	
+SCTID_369516006	Malignant tumor involving left fallopian tube by direct extension from ovary	SCTID_369525000	Malignant tumor involving left ovary by direct extension from fallopian tube	false	
+SCTID_369516006	Malignant tumor involving left fallopian tube by direct extension from ovary	SCTID_369525000	Malignant tumor involving left ovary by direct extension from fallopian tube	true	
+SCTID_369517002	Malignant tumor involving left fallopian tube by direct extension from right fallopian tube	SCTID_369548005	Malignant tumor involving right fallopian tube by direct extension from left fallopian tube	false	
+SCTID_369517002	Malignant tumor involving left fallopian tube by direct extension from right fallopian tube	SCTID_369548005	Malignant tumor involving right fallopian tube by direct extension from left fallopian tube	true	
+SCTID_369525000	Malignant tumor involving left ovary by direct extension from fallopian tube	SCTID_369516006	Malignant tumor involving left fallopian tube by direct extension from ovary	false	
+SCTID_369525000	Malignant tumor involving left ovary by direct extension from fallopian tube	SCTID_369516006	Malignant tumor involving left fallopian tube by direct extension from ovary	true	
+SCTID_369526004	Malignant tumor involving left ovary by direct extension from right ovary	SCTID_369533004	Malignant tumor involving right ovary by direct extension from left ovary	false	
+SCTID_369526004	Malignant tumor involving left ovary by direct extension from right ovary	SCTID_369533004	Malignant tumor involving right ovary by direct extension from left ovary	true	
+SCTID_369532009	Malignant tumor involving right ovary by direct extension from fallopian tube	SCTID_369549002	Malignant tumor involving right fallopian tube by direct extension from ovary	false	
+SCTID_369532009	Malignant tumor involving right ovary by direct extension from fallopian tube	SCTID_369549002	Malignant tumor involving right fallopian tube by direct extension from ovary	true	
+SCTID_369533004	Malignant tumor involving right ovary by direct extension from left ovary	SCTID_369526004	Malignant tumor involving left ovary by direct extension from right ovary	false	
+SCTID_369533004	Malignant tumor involving right ovary by direct extension from left ovary	SCTID_369526004	Malignant tumor involving left ovary by direct extension from right ovary	true	
+SCTID_369543001	Malignant tumor involving left fallopian tube by separate metastasis from ovary	SCTID_369561005	Malignant tumor involving left ovary by separate metastasis from fallopian tube	false	
+SCTID_369543001	Malignant tumor involving left fallopian tube by separate metastasis from ovary	SCTID_369561005	Malignant tumor involving left ovary by separate metastasis from fallopian tube	true	
+SCTID_369544007	Malignant tumor involving left fallopian tube by separate metastasis from right fallopian tube	SCTID_369554006	Malignant tumor involving right fallopian tube by separate metastasis from left fallopian tube	false	
+SCTID_369544007	Malignant tumor involving left fallopian tube by separate metastasis from right fallopian tube	SCTID_369554006	Malignant tumor involving right fallopian tube by separate metastasis from left fallopian tube	true	
+SCTID_369548005	Malignant tumor involving right fallopian tube by direct extension from left fallopian tube	SCTID_369517002	Malignant tumor involving left fallopian tube by direct extension from right fallopian tube	false	
+SCTID_369548005	Malignant tumor involving right fallopian tube by direct extension from left fallopian tube	SCTID_369517002	Malignant tumor involving left fallopian tube by direct extension from right fallopian tube	true	
+SCTID_369549002	Malignant tumor involving right fallopian tube by direct extension from ovary	SCTID_369532009	Malignant tumor involving right ovary by direct extension from fallopian tube	false	
+SCTID_369549002	Malignant tumor involving right fallopian tube by direct extension from ovary	SCTID_369532009	Malignant tumor involving right ovary by direct extension from fallopian tube	true	
+SCTID_369554006	Malignant tumor involving right fallopian tube by separate metastasis from left fallopian tube	SCTID_369544007	Malignant tumor involving left fallopian tube by separate metastasis from right fallopian tube	false	
+SCTID_369554006	Malignant tumor involving right fallopian tube by separate metastasis from left fallopian tube	SCTID_369544007	Malignant tumor involving left fallopian tube by separate metastasis from right fallopian tube	true	
+SCTID_369555007	Malignant tumor involving right fallopian tube by separate metastasis from ovary	SCTID_369569007	Malignant tumor involving right ovary by separate metastasis from fallopian tube	false	
+SCTID_369555007	Malignant tumor involving right fallopian tube by separate metastasis from ovary	SCTID_369569007	Malignant tumor involving right ovary by separate metastasis from fallopian tube	true	
+SCTID_369561005	Malignant tumor involving left ovary by separate metastasis from fallopian tube	SCTID_369543001	Malignant tumor involving left fallopian tube by separate metastasis from ovary	false	
+SCTID_369561005	Malignant tumor involving left ovary by separate metastasis from fallopian tube	SCTID_369543001	Malignant tumor involving left fallopian tube by separate metastasis from ovary	true	
+SCTID_369569007	Malignant tumor involving right ovary by separate metastasis from fallopian tube	SCTID_369555007	Malignant tumor involving right fallopian tube by separate metastasis from ovary	false	
+SCTID_369569007	Malignant tumor involving right ovary by separate metastasis from fallopian tube	SCTID_369555007	Malignant tumor involving right fallopian tube by separate metastasis from ovary	true	
+SCTID_369574004	Malignant tumor involving uterine cervix by separate metastasis from vagina	SCTID_369585002	Malignant tumor involving vagina by separate metastasis from uterine cervix	false	
+SCTID_369574004	Malignant tumor involving uterine cervix by separate metastasis from vagina	SCTID_369585002	Malignant tumor involving vagina by separate metastasis from uterine cervix	true	
+SCTID_369580007	Malignant tumor involving vagina by direct extension from uterine cervix	SCTID_369499000	Malignant tumor involving uterine cervix by direct extension from vagina	false	
+SCTID_369580007	Malignant tumor involving vagina by direct extension from uterine cervix	SCTID_369499000	Malignant tumor involving uterine cervix by direct extension from vagina	true	
+SCTID_369581006	Malignant tumor involving vagina by separate metastasis from bladder	SCTID_369482001	Malignant tumor involving bladder by separate metastasis from vagina	false	
+SCTID_369581006	Malignant tumor involving vagina by separate metastasis from bladder	SCTID_369482001	Malignant tumor involving bladder by separate metastasis from vagina	true	
+SCTID_369585002	Malignant tumor involving vagina by separate metastasis from uterine cervix	SCTID_369574004	Malignant tumor involving uterine cervix by separate metastasis from vagina	false	
+SCTID_369585002	Malignant tumor involving vagina by separate metastasis from uterine cervix	SCTID_369574004	Malignant tumor involving uterine cervix by separate metastasis from vagina	true	
+SCTID_370143000	Major depressive disorder	ENSPHENO:0001051	Major depressive disorder	false	
+SCTID_370143000	Major depressive disorder	ENSPHENO:0001051	Major depressive disorder	true	
+SCTID_370967009	Retinoblastoma	ENSPHENO:0001379	RETINOBLASTOMA	false	
+SCTID_370967009	Retinoblastoma	ENSPHENO:0001379	RETINOBLASTOMA	true	
+SCTID_371158002	Disorder of basilar artery	SCTID_64009001	Basilar artery syndrome	false	
+SCTID_371631005	Panic disorder	ENSPHENO:0001306	Panic disorder	false	
+SCTID_371631005	Panic disorder	ENSPHENO:0001306	Panic disorder	true	
+SCTID_37432007	Postlaminectomy syndrome of thoracic region	SCTID_202724006	Thoracic post-laminectomy syndrome	false	
+SCTID_37432007	Postlaminectomy syndrome of thoracic region	SCTID_202724006	Thoracic post-laminectomy syndrome	true	
+SCTID_37796009	Migraine	ENSPHENO:0001070	Migraine	false	
+SCTID_37796009	Migraine	ENSPHENO:0001070	Migraine	true	
+SCTID_38328002	Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in full remission	SCTID_34116005	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND severe panic attacks	false	
+SCTID_38328002	Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in full remission	SCTID_34116005	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND severe panic attacks	true	
+SCTID_385483009	Osteogenesis imperfecta type III	ENSPHENO:0001226	OSTEOGENESIS IMPERFECTA TYPE III	false	
+SCTID_385483009	Osteogenesis imperfecta type III	ENSPHENO:0001226	OSTEOGENESIS IMPERFECTA TYPE III	true	
+SCTID_38795005	Sialidosis	ENSPHENO:0001497	Sialidosis	false	
+SCTID_38795005	Sialidosis	ENSPHENO:0001497	Sialidosis	true	
+SCTID_390936003	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy	ENSPHENO:0000284	CEREBRAL ARTERIOPATHY AUTOSOMAL DOMINANT WITH SUBCORTICAL INFARCTS AND LEUKOENCEPHALOPATHY	true	
+SCTID_390936003	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy	ENSPHENO:0000365	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy	false	
+SCTID_390936003	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy	ENSPHENO:0000365	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy	true	
+SCTID_39390005	Niemann-Pick disease, type B	ENSPHENO:0001177	NIEMANN-PICK DISEASE TYPE B	false	
+SCTID_39390005	Niemann-Pick disease, type B	ENSPHENO:0001177	NIEMANN-PICK DISEASE TYPE B	true	
+SCTID_396331005	Celiac disease	ENSPHENO:0000362	Celiac disease	false	
+SCTID_396331005	Celiac disease	ENSPHENO:0000362	Celiac disease	true	
+SCTID_397754009	Regional anesthesia morbidity	SCTID_397936000	Anesthesia morbidity	true	
+SCTID_397936000	Anesthesia morbidity	SCTID_397754009	Regional anesthesia morbidity	true	
+SCTID_398036000	Familial hypercholesterolemia	ENSPHENO:0000558	Familial hypercholesterolemia	false	
+SCTID_398036000	Familial hypercholesterolemia	ENSPHENO:0000558	Familial hypercholesterolemia	true	
+SCTID_398071000	Epidermolysis bullosa simplex, Ogna type	ENSPHENO:0000482	EPIDERMOLYSIS BULLOSA SIMPLEX OGNA TYPE	false	
+SCTID_398071000	Epidermolysis bullosa simplex, Ogna type	ENSPHENO:0000482	EPIDERMOLYSIS BULLOSA SIMPLEX OGNA TYPE	true	
+SCTID_400063003	Neoplasm of skin region	SCTID_126488004	Neoplasm of skin	false	
+SCTID_400063003	Neoplasm of skin region	SCTID_126488004	Neoplasm of skin	true	
+SCTID_402815007	Squamous cell carcinoma	ENSPHENO:0001512	Squamous cell carcinoma	false	
+SCTID_402815007	Squamous cell carcinoma	ENSPHENO:0001512	Squamous cell carcinoma	true	
+SCTID_40286002	Cortex contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_36822000	Cortex contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_40286002	Cortex contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_36822000	Cortex contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_402991001	Cervico-facial actinomycosis	SCTID_23014006	Cervicofacial actinomycosis	false	
+SCTID_402991001	Cervico-facial actinomycosis	SCTID_23014006	Cervicofacial actinomycosis	true	
+SCTID_403762003	Odonto-onycho-dermal dysplasia	ENSPHENO:0001213	ODONTOONYCHODERMAL DYSPLASIA	false	
+SCTID_403762003	Odonto-onycho-dermal dysplasia	ENSPHENO:0001213	ODONTOONYCHODERMAL DYSPLASIA	true	
+SCTID_403770008	Cardio-facio-cutaneous syndrome	ENSPHENO:0000259	CARDIOFACIOCUTANEOUS SYNDROME	false	
+SCTID_403770008	Cardio-facio-cutaneous syndrome	ENSPHENO:0000259	CARDIOFACIOCUTANEOUS SYNDROME	true	
+SCTID_403805009	Albinism-deafness syndrome of Tietz	ENSPHENO:0001542	TIETZ ALBINISM-DEAFNESS SYNDROME	true	
+SCTID_405759003	Cervical spinal cord injury without spinal bone injury	SCTID_57360002	Spinal cord injury to cervical region without bone injury	false	
+SCTID_405759003	Cervical spinal cord injury without spinal bone injury	SCTID_57360002	Spinal cord injury to cervical region without bone injury	true	
+SCTID_406506008	Attention deficit hyperactivity disorder	ENSPHENO:0000150	Attention deficit hyperactivity disorder	false	
+SCTID_406506008	Attention deficit hyperactivity disorder	ENSPHENO:0000150	Attention deficit hyperactivity disorder	true	
+SCTID_40719004	Erosive esophagitis	SCTID_196623008	Esophageal erosions	true	
+SCTID_408661004	Carnitine acetyltransferase deficiency	SCTID_124257002	Deficiency of carnitine acetyltransferase	false	
+SCTID_408661004	Carnitine acetyltransferase deficiency	SCTID_124257002	Deficiency of carnitine acetyltransferase	true	
+SCTID_409501004	Hemorrhagic meningitis	SCTID_21233002	Meningeal hemorrhage	true	
+SCTID_410044005	Ankylosis of elbow joint	SCTID_202307002	Ankylosis of the elbow joint	false	
+SCTID_410044005	Ankylosis of elbow joint	SCTID_202307002	Ankylosis of the elbow joint	true	
+SCTID_410056006	Tyrosinemia type I	ENSPHENO:0001558	TYROSINEMIA TYPE I	false	
+SCTID_410056006	Tyrosinemia type I	ENSPHENO:0001558	TYROSINEMIA TYPE I	true	
+SCTID_410058007	Histidinemia	ENSPHENO:0000741	HISTIDINEMIA	false	
+SCTID_410058007	Histidinemia	ENSPHENO:0000741	HISTIDINEMIA	true	
+SCTID_41060007	Pre-eruptive color change of tooth	SCTID_196294003	Pre-eruption tooth color changes	true	
+SCTID_4106009	Rotator cuff syndrome	SCTID_414033006	Disorder of rotator cuff	false	
+SCTID_413652008	Biotin deficiency	SCTID_124910006	Deficiency of biotin	false	
+SCTID_413652008	Biotin deficiency	SCTID_124910006	Deficiency of biotin	true	
+SCTID_414024009	Disorder of coronary artery	ENSPHENO:0000391	Coronary Artery Disease	false	
+SCTID_414033006	Disorder of rotator cuff	SCTID_4106009	Rotator cuff syndrome	false	
+SCTID_414249001	Fetus papyraceus	SCTID_90127001	Fetus papyraceous	true	
+SCTID_414916001	Obesity	ENSPHENO:0001232	Obesity	false	
+SCTID_414916001	Obesity	ENSPHENO:0001232	Obesity	true	
+SCTID_416010008	Hypospadias	ENSPHENO:0000819	Hypospadias	false	
+SCTID_416010008	Hypospadias	ENSPHENO:0000819	Hypospadias	true	
+SCTID_417167007	Immunoglobulin deficiency	SCTID_124950009	Deficiency of immunoglobulin	false	
+SCTID_417167007	Immunoglobulin deficiency	SCTID_124950009	Deficiency of immunoglobulin	true	
+SCTID_417967008	Disorder of eosinophil	SCTID_191357009	Eosinophilic disorder	true	
+SCTID_418054005	Macular corneal dystrophy Type I	ENSPHENO:0000950	MACULAR CORNEAL DYSTROPHY TYPE I	false	
+SCTID_418054005	Macular corneal dystrophy Type I	ENSPHENO:0000950	MACULAR CORNEAL DYSTROPHY TYPE I	true	
+SCTID_41863008	Right bundle branch block, anterior fascicular block AND incomplete posterior fascicular block	SCTID_66568003	Right bundle branch block, posterior fascicular block AND incomplete anterior fascicular block	false	
+SCTID_41863008	Right bundle branch block, anterior fascicular block AND incomplete posterior fascicular block	SCTID_66568003	Right bundle branch block, posterior fascicular block AND incomplete anterior fascicular block	true	
+SCTID_41863008	Right bundle branch block, anterior fascicular block AND incomplete posterior fascicular block	SCTID_76887001	Anterior fascicular block, posterior fascicular block AND incomplete right bundle branch block	false	
+SCTID_41863008	Right bundle branch block, anterior fascicular block AND incomplete posterior fascicular block	SCTID_76887001	Anterior fascicular block, posterior fascicular block AND incomplete right bundle branch block	true	
+SCTID_420212002	Schnyder crystalline corneal dystrophy	ENSPHENO:0000332	CORNEAL DYSTROPHY CRYSTALLINE OF SCHNYDER	true	
+SCTID_420811004	Infection by Mansonella perstans	SCTID_240850009	Mansonella perstans infection	false	
+SCTID_420811004	Infection by Mansonella perstans	SCTID_240850009	Mansonella perstans infection	true	
+SCTID_420932006	Episodic ataxia type 2	ENSPHENO:0000487	EPISODIC ATAXIA TYPE 2	false	
+SCTID_420932006	Episodic ataxia type 2	ENSPHENO:0000487	EPISODIC ATAXIA TYPE 2	true	
+SCTID_420932006	Episodic ataxia type 2	ENSPHENO:0000512	Episodic ataxia type 2	false	
+SCTID_420932006	Episodic ataxia type 2	ENSPHENO:0000512	Episodic ataxia type 2	true	
+SCTID_42234000	Epididymitis associated with another disease	SCTID_197994001	Epididymitis associated with another disorder	false	
+SCTID_422504002	Ischemic stroke	ENSPHENO:0000861	Ischemic stroke	false	
+SCTID_422504002	Ischemic stroke	ENSPHENO:0000861	Ischemic stroke	true	
+SCTID_422504002	Ischemic stroke	ENSPHENO:0001465	STROKE ISCHEMIC	true	
+SCTID_425835006	Disorder of immune reconstitution	SCTID_426202004	Immune reconstitution syndrome	false	
+SCTID_426202004	Immune reconstitution syndrome	SCTID_425835006	Disorder of immune reconstitution	false	
+SCTID_42670008	Brain stem contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_10061007	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_42670008	Brain stem contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_10061007	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_42670008	Brain stem contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_63023005	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_42670008	Brain stem contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_63023005	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_428850001	Li-Fraumeni syndrome	ENSPHENO:0000926	Li-Fraumeni syndrome	false	
+SCTID_428850001	Li-Fraumeni syndrome	ENSPHENO:0000926	Li-Fraumeni syndrome	true	
+SCTID_428928001	Injury due to impact of moving object with stationary subject	SCTID_429061003	Injury due to impact of moving subject with the stationary object	false	
+SCTID_428928001	Injury due to impact of moving object with stationary subject	SCTID_429061003	Injury due to impact of moving subject with the stationary object	true	
+SCTID_429061003	Injury due to impact of moving subject with the stationary object	SCTID_428928001	Injury due to impact of moving object with stationary subject	false	
+SCTID_429061003	Injury due to impact of moving subject with the stationary object	SCTID_428928001	Injury due to impact of moving object with stationary subject	true	
+SCTID_43000004	Unilateral loss of labyrinthine reactivity	SCTID_194376005	Labyrinthine unilateral reactive loss	true	
+SCTID_43152001	Central core disease	ENSPHENO:0000279	CENTRAL CORE DISEASE	false	
+SCTID_43152001	Central core disease	ENSPHENO:0000279	CENTRAL CORE DISEASE	true	
+SCTID_43929004	Smith-Lemli-Opitz syndrome	ENSPHENO:0001503	Smith-Lemli-Opitz syndrome	false	
+SCTID_43929004	Smith-Lemli-Opitz syndrome	ENSPHENO:0001503	Smith-Lemli-Opitz syndrome	true	
+SCTID_4517001	Acute noninfective hepatitis	SCTID_197271008	Acute hepatitis - non-infective	false	
+SCTID_4517001	Acute noninfective hepatitis	SCTID_197271008	Acute hepatitis - non-infective	true	
+SCTID_45813008	Osteitis deformans associated with another disease	SCTID_203355007	Osteitis deformans associated with another disorder	false	
+SCTID_46523000	Chronic gastrojejunal ulcer with hemorrhage AND with perforation but without obstruction	SCTID_56579005	Chronic gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction	false	
+SCTID_46523000	Chronic gastrojejunal ulcer with hemorrhage AND with perforation but without obstruction	SCTID_56579005	Chronic gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction	true	
+SCTID_46659004	Von Hippel-Lindau syndrome	ENSPHENO:0001617	VON HIPPEL-LINDAU SYNDROME	false	
+SCTID_46659004	Von Hippel-Lindau syndrome	ENSPHENO:0001617	VON HIPPEL-LINDAU SYNDROME	true	
+SCTID_46659004	Von Hippel-Lindau syndrome	ENSPHENO:0001625	Von Hippel-Lindau disease	false	
+SCTID_47064007	Acute peptic ulcer with hemorrhage AND with perforation but without obstruction	SCTID_58085004	Acute peptic ulcer without hemorrhage AND without perforation but with obstruction	false	
+SCTID_47064007	Acute peptic ulcer with hemorrhage AND with perforation but without obstruction	SCTID_58085004	Acute peptic ulcer without hemorrhage AND without perforation but with obstruction	true	
+SCTID_47152002	Gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction	SCTID_87796008	Gastrojejunal ulcer with hemorrhage AND with perforation but without obstruction	false	
+SCTID_47152002	Gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction	SCTID_87796008	Gastrojejunal ulcer with hemorrhage AND with perforation but without obstruction	true	
+SCTID_47462004	Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_55885004	Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) with return to pre-existing conscious level	false	
+SCTID_47462004	Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_55885004	Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) with return to pre-existing conscious level	true	
+SCTID_47462004	Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_86488006	Brain injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_47462004	Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_86488006	Brain injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_47673003	Fundus flavimaculatus	ENSPHENO:0000569	Fundus flavimaculatus	false	
+SCTID_47673003	Fundus flavimaculatus	ENSPHENO:0000569	Fundus flavimaculatus	true	
+SCTID_47797003	Prostatitis associated with another disease	SCTID_197963001	Prostatitis associated with another disorder	false	
+SCTID_48522003	Spinal cord disorder	SCTID_282784007	Spinal cord syndrome	false	
+SCTID_4855003	Diabetic retinopathy	ENSPHENO:0000439	Diabetic retinopathy	false	
+SCTID_4855003	Diabetic retinopathy	ENSPHENO:0000439	Diabetic retinopathy	true	
+SCTID_49049000	Parkinson's disease	ENSPHENO:0001307	Parkinson disease	false	
+SCTID_49049000	Parkinson's disease	ENSPHENO:0001307	Parkinson disease	true	
+SCTID_49049000	Parkinson's disease	ENSPHENO:0001309	Parkinson's disease	false	
+SCTID_49049000	Parkinson's disease	ENSPHENO:0001309	Parkinson's disease	true	
+SCTID_4932002	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND mild panic attacks	SCTID_49564006	Panic disorder with agoraphobia, mild agoraphobic avoidance AND moderate panic attacks	false	
+SCTID_4932002	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND mild panic attacks	SCTID_49564006	Panic disorder with agoraphobia, mild agoraphobic avoidance AND moderate panic attacks	true	
+SCTID_49436004	Atrial fibrillation	ENSPHENO:0000146	Atrial fibrillation	false	
+SCTID_49436004	Atrial fibrillation	ENSPHENO:0000146	Atrial fibrillation	true	
+SCTID_49564006	Panic disorder with agoraphobia, mild agoraphobic avoidance AND moderate panic attacks	SCTID_4932002	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND mild panic attacks	false	
+SCTID_49564006	Panic disorder with agoraphobia, mild agoraphobic avoidance AND moderate panic attacks	SCTID_4932002	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND mild panic attacks	true	
+SCTID_50581000	Goodpasture's syndrome	SCTID_236506009	Goodpasture's disease	false	
+SCTID_50983008	Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in partial remission	SCTID_31781004	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND mild panic attacks	false	
+SCTID_50983008	Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in partial remission	SCTID_31781004	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND mild panic attacks	true	
+SCTID_51003001	Vestibular active MC)niC(re's disease	SCTID_194350005	Active vestibular MC)niC(re's disease	false	
+SCTID_51003001	Vestibular active MC)niC(re's disease	SCTID_194350005	Active vestibular MC)niC(re's disease	true	
+SCTID_51736007	Sprain of septal cartilage of nose	SCTID_209789003	Septal cartilage nose sprain	false	
+SCTID_51736007	Sprain of septal cartilage of nose	SCTID_209789003	Septal cartilage nose sprain	true	
+SCTID_51847008	Acute duodenal ulcer with hemorrhage AND with perforation but without obstruction	SCTID_75342000	Acute duodenal ulcer without hemorrhage AND without perforation but with obstruction	false	
+SCTID_51847008	Acute duodenal ulcer with hemorrhage AND with perforation but without obstruction	SCTID_75342000	Acute duodenal ulcer without hemorrhage AND without perforation but with obstruction	true	
+SCTID_51987004	Retinal detachment without retinal defect	SCTID_193338005	Retinal defects without detachment	true	
+SCTID_52165006	Niemann-Pick disease, type A	ENSPHENO:0001176	NIEMANN-PICK DISEASE TYPE A	false	
+SCTID_52165006	Niemann-Pick disease, type A	ENSPHENO:0001176	NIEMANN-PICK DISEASE TYPE A	true	
+SCTID_53432004	Cherubism	ENSPHENO:0000371	Cherubism	false	
+SCTID_53432004	Cherubism	ENSPHENO:0000371	Cherubism	true	
+SCTID_54157007	Peptic ulcer without hemorrhage AND without perforation but with obstruction	SCTID_90489006	Peptic ulcer with hemorrhage AND with perforation but without obstruction	false	
+SCTID_54157007	Peptic ulcer without hemorrhage AND without perforation but with obstruction	SCTID_90489006	Peptic ulcer with hemorrhage AND with perforation but without obstruction	true	
+SCTID_54470008	3 beta-Hydroxysteroid dehydrogenase deficiency	SCTID_124136000	Deficiency of 3beta-hydroxysteroid dehydrogenase	false	
+SCTID_54470008	3 beta-Hydroxysteroid dehydrogenase deficiency	SCTID_124136000	Deficiency of 3beta-hydroxysteroid dehydrogenase	true	
+SCTID_54569005	Bernard Soulier syndrome	ENSPHENO:0000197	Bernard-Soulier syndrome	false	
+SCTID_54569005	Bernard Soulier syndrome	ENSPHENO:0000197	Bernard-Soulier syndrome	true	
+SCTID_54822007	Jejunal ulcer	SCTID_235712006	Ulcerative jejunitis	true	
+SCTID_55464009	Systemic lupus erythematosus	ENSPHENO:0001524	Systemic lupus erythematosus	false	
+SCTID_55464009	Systemic lupus erythematosus	ENSPHENO:0001524	Systemic lupus erythematosus	true	
+SCTID_55746001	Chronic peptic ulcer with hemorrhage AND with perforation but without obstruction	SCTID_12384004	Chronic peptic ulcer without hemorrhage AND without perforation but with obstruction	false	
+SCTID_55746001	Chronic peptic ulcer with hemorrhage AND with perforation but without obstruction	SCTID_12384004	Chronic peptic ulcer without hemorrhage AND without perforation but with obstruction	true	
+SCTID_55885004	Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) with return to pre-existing conscious level	SCTID_47462004	Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_55885004	Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) with return to pre-existing conscious level	SCTID_47462004	Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_55885004	Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) with return to pre-existing conscious level	SCTID_86488006	Brain injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_55885004	Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) with return to pre-existing conscious level	SCTID_86488006	Brain injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_5619004	Bardet-Biedl syndrome	ENSPHENO:0000155	BARDET-BIEDL SYNDROME	false	
+SCTID_5619004	Bardet-Biedl syndrome	ENSPHENO:0000155	BARDET-BIEDL SYNDROME	true	
+SCTID_56294008	Nicotine dependence	ENSPHENO:0001194	Nicotine dependence	false	
+SCTID_56294008	Nicotine dependence	ENSPHENO:0001194	Nicotine dependence	true	
+SCTID_56579005	Chronic gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction	SCTID_46523000	Chronic gastrojejunal ulcer with hemorrhage AND with perforation but without obstruction	false	
+SCTID_56579005	Chronic gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction	SCTID_46523000	Chronic gastrojejunal ulcer with hemorrhage AND with perforation but without obstruction	true	
+SCTID_56677004	Pallister-Hall syndrome	ENSPHENO:0001250	PALLISTER-HALL SYNDROME	false	
+SCTID_56677004	Pallister-Hall syndrome	ENSPHENO:0001250	PALLISTER-HALL SYNDROME	true	
+SCTID_56717001	Tuberculosis	ENSPHENO:0001573	Tuberculosis	false	
+SCTID_56717001	Tuberculosis	ENSPHENO:0001573	Tuberculosis	true	
+SCTID_56727007	Vitiligo	ENSPHENO:0001623	Vitiligo	false	
+SCTID_56727007	Vitiligo	ENSPHENO:0001623	Vitiligo	true	
+SCTID_56882008	Anorexia nervosa	ENSPHENO:0000137	Anorexia nervosa	false	
+SCTID_56882008	Anorexia nervosa	ENSPHENO:0000137	Anorexia nervosa	true	
+SCTID_57360002	Spinal cord injury to cervical region without bone injury	SCTID_405759003	Cervical spinal cord injury without spinal bone injury	false	
+SCTID_57360002	Spinal cord injury to cervical region without bone injury	SCTID_405759003	Cervical spinal cord injury without spinal bone injury	true	
+SCTID_58085004	Acute peptic ulcer without hemorrhage AND without perforation but with obstruction	SCTID_47064007	Acute peptic ulcer with hemorrhage AND with perforation but without obstruction	false	
+SCTID_58085004	Acute peptic ulcer without hemorrhage AND without perforation but with obstruction	SCTID_47064007	Acute peptic ulcer with hemorrhage AND with perforation but without obstruction	true	
+SCTID_58214004	Schizophrenia	ENSPHENO:0001477	Schizophrenia	false	
+SCTID_58214004	Schizophrenia	ENSPHENO:0001477	Schizophrenia	true	
+SCTID_59269006	Vulvitis associated with another disease	SCTID_198217000	Vulvitis associated with another disorder	false	
+SCTID_59548005	Congenital dyserythropoietic anemia, type I	ENSPHENO:0000075	ANEMIA CONGENITAL DYSERYTHROPOIETIC TYPE I	true	
+SCTID_59548005	Congenital dyserythropoietic anemia, type I	ENSPHENO:0000076	ANEMIA DYSERYTHROPOIETIC CONGENITAL TYPE I	true	
+SCTID_59761008	Glutamate formiminotransferase deficiency	ENSPHENO:0000615	Glutamate formiminotransferase deficiency	false	
+SCTID_59761008	Glutamate formiminotransferase deficiency	ENSPHENO:0000615	Glutamate formiminotransferase deficiency	true	
+SCTID_60108003	Congenital dislocation of one hip with subluxation of other	SCTID_205054000	Congenital dislocation of one hip with subluxation of other hip	false	
+SCTID_60108003	Congenital dislocation of one hip with subluxation of other	SCTID_205054000	Congenital dislocation of one hip with subluxation of other hip	true	
+SCTID_60258001	Macular corneal dystrophy	ENSPHENO:0001049	Macular corneal dystrophy	false	
+SCTID_60258001	Macular corneal dystrophy	ENSPHENO:0001049	Macular corneal dystrophy	true	
+SCTID_60380001	Narcolepsy	ENSPHENO:0001186	Narcolepsy	false	
+SCTID_60380001	Narcolepsy	ENSPHENO:0001186	Narcolepsy	true	
+SCTID_60531007	Chronic gastric ulcer without hemorrhage AND without perforation but with obstruction	SCTID_74341002	Chronic gastric ulcer with hemorrhage AND with perforation but without obstruction	false	
+SCTID_60531007	Chronic gastric ulcer without hemorrhage AND without perforation but with obstruction	SCTID_74341002	Chronic gastric ulcer with hemorrhage AND with perforation but without obstruction	true	
+SCTID_60546000	Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_22825007	Cerebellar contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_60546000	Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_22825007	Cerebellar contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_60546000	Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_33117006	Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_60546000	Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_33117006	Cerebellar contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_61582004	Allergic rhinitis	ENSPHENO:0000054	ALLERGIC RHINITIS	false	
+SCTID_61582004	Allergic rhinitis	ENSPHENO:0000054	ALLERGIC RHINITIS	true	
+SCTID_62067003	Hypoplastic left heart syndrome	ENSPHENO:0000818	Hypoplastic left heart syndrome	false	
+SCTID_62067003	Hypoplastic left heart syndrome	ENSPHENO:0000818	Hypoplastic left heart syndrome	true	
+SCTID_62567006	Postlaminectomy lordosis	SCTID_203635002	Post-laminectomy lordosis	false	
+SCTID_62567006	Postlaminectomy lordosis	SCTID_203635002	Post-laminectomy lordosis	true	
+SCTID_63023005	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_10061007	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_63023005	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_10061007	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_63023005	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_42670008	Brain stem contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_63023005	Brain stem contusion without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_42670008	Brain stem contusion with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_63402005	Meigs' syndrome	SCTID_230325003	Meige syndrome	true	
+SCTID_63530007	Granulations of postmastoidectomy cavity	SCTID_194304007	Postmastoidectomy granulation cavity	true	
+SCTID_64009001	Basilar artery syndrome	SCTID_371158002	Disorder of basilar artery	false	
+SCTID_64060000	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in full remission	SCTID_87798009	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND moderate panic attacks	false	
+SCTID_64060000	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in full remission	SCTID_87798009	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND moderate panic attacks	true	
+SCTID_643001	Hypertrophy of lip	SCTID_361266001	Lip hypertrophy	false	
+SCTID_643001	Hypertrophy of lip	SCTID_361266001	Lip hypertrophy	true	
+SCTID_64337000	Cerebellar laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_65535000	Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_64337000	Cerebellar laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_65535000	Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_64337000	Cerebellar laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_91168001	Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_64337000	Cerebellar laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_91168001	Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_64413001	Brain stem laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_67378005	Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_64413001	Brain stem laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_67378005	Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_64413001	Brain stem laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_70686002	Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_64413001	Brain stem laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_70686002	Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_64560007	Eggshell nails	SCTID_201117001	Eggshell nail	true	
+SCTID_64716005	Fucosidosis	ENSPHENO:0000549	FUCOSIDOSIS	false	
+SCTID_64716005	Fucosidosis	ENSPHENO:0000549	FUCOSIDOSIS	true	
+SCTID_64766004	Ulcerative colitis	ENSPHENO:0001602	Ulcerative colitis	false	
+SCTID_64766004	Ulcerative colitis	ENSPHENO:0001602	Ulcerative colitis	true	
+SCTID_64859006	Osteoporosis	ENSPHENO:0001243	Osteoporosis	false	
+SCTID_64859006	Osteoporosis	ENSPHENO:0001243	Osteoporosis	true	
+SCTID_64859006	Osteoporosis	SCTID_281387004	Regional osteoporosis	true	
+SCTID_65327002	Mucopolysaccharidosis, MPS-I-H	SCTID_26745009	Mucopolysaccharidosis, MPS-I-H/S	false	
+SCTID_65327002	Mucopolysaccharidosis, MPS-I-H	SCTID_26745009	Mucopolysaccharidosis, MPS-I-H/S	true	
+SCTID_65535000	Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_64337000	Cerebellar laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_65535000	Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_64337000	Cerebellar laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_65535000	Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_91168001	Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_65535000	Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_91168001	Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_65959000	beta Thalassemia	ENSPHENO:0000167	BETA-THALASSEMIA	false	
+SCTID_65959000	beta Thalassemia	ENSPHENO:0000167	BETA-THALASSEMIA	true	
+SCTID_66568003	Right bundle branch block, posterior fascicular block AND incomplete anterior fascicular block	SCTID_41863008	Right bundle branch block, anterior fascicular block AND incomplete posterior fascicular block	false	
+SCTID_66568003	Right bundle branch block, posterior fascicular block AND incomplete anterior fascicular block	SCTID_41863008	Right bundle branch block, anterior fascicular block AND incomplete posterior fascicular block	true	
+SCTID_66568003	Right bundle branch block, posterior fascicular block AND incomplete anterior fascicular block	SCTID_76887001	Anterior fascicular block, posterior fascicular block AND incomplete right bundle branch block	false	
+SCTID_66568003	Right bundle branch block, posterior fascicular block AND incomplete anterior fascicular block	SCTID_76887001	Anterior fascicular block, posterior fascicular block AND incomplete right bundle branch block	true	
+SCTID_66590003	Alcohol dependence	ENSPHENO:0000119	Alcohol dependence	false	
+SCTID_66590003	Alcohol dependence	ENSPHENO:0000119	Alcohol dependence	true	
+SCTID_66673003	Acute gastrojejunal ulcer with hemorrhage AND with perforation but without obstruction	SCTID_10389003	Acute gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction	false	
+SCTID_66673003	Acute gastrojejunal ulcer with hemorrhage AND with perforation but without obstruction	SCTID_10389003	Acute gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction	true	
+SCTID_66783006	Popliteal pterygium syndrome	ENSPHENO:0001280	POPLITEAL PTERYGIUM SYNDROME	false	
+SCTID_66783006	Popliteal pterygium syndrome	ENSPHENO:0001280	POPLITEAL PTERYGIUM SYNDROME	true	
+SCTID_67359005	Pre-eclampsia added to pre-existing hypertension	SCTID_69909000	Eclampsia added to pre-existing hypertension	false	
+SCTID_67359005	Pre-eclampsia added to pre-existing hypertension	SCTID_69909000	Eclampsia added to pre-existing hypertension	true	
+SCTID_67378005	Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_64413001	Brain stem laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_67378005	Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_64413001	Brain stem laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_67378005	Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_70686002	Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_67378005	Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_70686002	Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_68618008	Rett's disorder	ENSPHENO:0001408	Rett syndrome	false	
+SCTID_69116000	Moyamoya disease	ENSPHENO:0001077	Moyamoya disease	false	
+SCTID_69116000	Moyamoya disease	ENSPHENO:0001077	Moyamoya disease	true	
+SCTID_69178005	Subarachnoid hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_20276007	Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND without return to pre-existing conscious level	false	
+SCTID_69178005	Subarachnoid hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_20276007	Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND without return to pre-existing conscious level	true	
+SCTID_69178005	Subarachnoid hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_88747000	Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_69178005	Subarachnoid hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_88747000	Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_69561008	Vaginitis associated with another disease	SCTID_198216009	Vaginitis associated with another disorder	false	
+SCTID_6963001	Inflammatory spondylopathy associated with another disease	SCTID_202652006	Inflammatory spondylopathy associated with another disorder	false	
+SCTID_69896004	Rheumatoid arthritis	ENSPHENO:0001410	Rheumatoid arthritis	false	
+SCTID_69896004	Rheumatoid arthritis	ENSPHENO:0001410	Rheumatoid arthritis	true	
+SCTID_69909000	Eclampsia added to pre-existing hypertension	SCTID_67359005	Pre-eclampsia added to pre-existing hypertension	false	
+SCTID_69909000	Eclampsia added to pre-existing hypertension	SCTID_67359005	Pre-eclampsia added to pre-existing hypertension	true	
+SCTID_69973000	Vascular anomaly of eyelid	SCTID_193966008	Eyelid vascular anomalies	true	
+SCTID_70348004	Pendred's syndrome	ENSPHENO:0001312	Pendred syndrome	false	
+SCTID_70348004	Pendred's syndrome	ENSPHENO:0001312	Pendred syndrome	true	
+SCTID_70686002	Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_64413001	Brain stem laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_70686002	Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_64413001	Brain stem laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_70686002	Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_67378005	Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_70686002	Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_67378005	Brain stem laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_70861009	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_111677000	Subdural hemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) and without return to pre-existing conscious level	false	
+SCTID_70861009	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_111677000	Subdural hemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) and without return to pre-existing conscious level	true	
+SCTID_70861009	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_87345009	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_70861009	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_87345009	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_71799002	Rheumatic mitral valve stenosis AND aortic valve insufficiency	SCTID_81552002	Rheumatic mitral valve insufficiency AND aortic valve stenosis	false	
+SCTID_71799002	Rheumatic mitral valve stenosis AND aortic valve insufficiency	SCTID_81552002	Rheumatic mitral valve insufficiency AND aortic valve stenosis	true	
+SCTID_73123008	Mucopolysaccharidosis, MPS-I-S	SCTID_75610003	Mucopolysaccharidosis, MPS-I	false	
+SCTID_73123008	Mucopolysaccharidosis, MPS-I-S	SCTID_75610003	Mucopolysaccharidosis, MPS-I	true	
+SCTID_74010007	Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in partial remission	SCTID_111490003	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND severe panic attacks	false	
+SCTID_74010007	Panic disorder with agoraphobia, severe agoraphobic avoidance AND panic attacks in partial remission	SCTID_111490003	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND severe panic attacks	true	
+SCTID_74263009	Carpenter syndrome	SCTID_205813009	Carpenter's syndrome	false	
+SCTID_74263009	Carpenter syndrome	SCTID_205813009	Carpenter's syndrome	true	
+SCTID_74341002	Chronic gastric ulcer with hemorrhage AND with perforation but without obstruction	SCTID_60531007	Chronic gastric ulcer without hemorrhage AND without perforation but with obstruction	false	
+SCTID_74341002	Chronic gastric ulcer with hemorrhage AND with perforation but without obstruction	SCTID_60531007	Chronic gastric ulcer without hemorrhage AND without perforation but with obstruction	true	
+SCTID_75342000	Acute duodenal ulcer without hemorrhage AND without perforation but with obstruction	SCTID_51847008	Acute duodenal ulcer with hemorrhage AND with perforation but without obstruction	false	
+SCTID_75342000	Acute duodenal ulcer without hemorrhage AND without perforation but with obstruction	SCTID_51847008	Acute duodenal ulcer with hemorrhage AND with perforation but without obstruction	true	
+SCTID_75610003	Mucopolysaccharidosis, MPS-I	SCTID_73123008	Mucopolysaccharidosis, MPS-I-S	false	
+SCTID_75610003	Mucopolysaccharidosis, MPS-I	SCTID_73123008	Mucopolysaccharidosis, MPS-I-S	true	
+SCTID_75659004	Acquired partial lipodystrophy	ENSPHENO:0001311	Partial acquired lipodystrophy	false	
+SCTID_75659004	Acquired partial lipodystrophy	ENSPHENO:0001311	Partial acquired lipodystrophy	true	
+SCTID_75934005	Metabolic disease	ENSPHENO:0001066	Metabolic syndrome	false	
+SCTID_7604001	Cortex laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_20167009	Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_7604001	Cortex laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_20167009	Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_7604001	Cortex laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_7711006	Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_7604001	Cortex laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_7711006	Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_76812003	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in partial remission	SCTID_32388005	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND moderate panic attacks	false	
+SCTID_76812003	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in partial remission	SCTID_32388005	Panic disorder with agoraphobia, agoraphobic avoidance in partial remission AND moderate panic attacks	true	
+SCTID_76868007	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND mild panic attacks	SCTID_24781009	Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in full remission	false	
+SCTID_76868007	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND mild panic attacks	SCTID_24781009	Panic disorder with agoraphobia, mild agoraphobic avoidance AND panic attacks in full remission	true	
+SCTID_76887001	Anterior fascicular block, posterior fascicular block AND incomplete right bundle branch block	SCTID_41863008	Right bundle branch block, anterior fascicular block AND incomplete posterior fascicular block	false	
+SCTID_76887001	Anterior fascicular block, posterior fascicular block AND incomplete right bundle branch block	SCTID_41863008	Right bundle branch block, anterior fascicular block AND incomplete posterior fascicular block	true	
+SCTID_76887001	Anterior fascicular block, posterior fascicular block AND incomplete right bundle branch block	SCTID_66568003	Right bundle branch block, posterior fascicular block AND incomplete anterior fascicular block	false	
+SCTID_76887001	Anterior fascicular block, posterior fascicular block AND incomplete right bundle branch block	SCTID_66568003	Right bundle branch block, posterior fascicular block AND incomplete anterior fascicular block	true	
+SCTID_77097004	Oculopharyngeal muscular dystrophy	ENSPHENO:0001212	OCULOPHARYNGEAL MUSCULAR DYSTROPHY	false	
+SCTID_77097004	Oculopharyngeal muscular dystrophy	ENSPHENO:0001212	OCULOPHARYNGEAL MUSCULAR DYSTROPHY	true	
+SCTID_7711006	Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_20167009	Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_7711006	Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_20167009	Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_7711006	Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_7604001	Cortex laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_7711006	Cortex laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_7604001	Cortex laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_78314001	Osteogenesis imperfecta	ENSPHENO:0001224	OSTEOGENESIS IMPERFECTA	false	
+SCTID_78314001	Osteogenesis imperfecta	ENSPHENO:0001224	OSTEOGENESIS IMPERFECTA	true	
+SCTID_79298009	Mild major depression, single episode	SCTID_191601008	Single major depressive episode, mild	true	
+SCTID_79578000	Alcohol paranoia	SCTID_191478006	Alcoholic paranoia	true	
+SCTID_80710001	Primary hypomagnesemia	ENSPHENO:0000773	HYPOMAGNESEMIA PRIMARY	false	
+SCTID_80710001	Primary hypomagnesemia	ENSPHENO:0000773	HYPOMAGNESEMIA PRIMARY	true	
+SCTID_81004002	Leprosy	ENSPHENO:0000923	Leprosy	false	
+SCTID_81004002	Leprosy	ENSPHENO:0000923	Leprosy	true	
+SCTID_81142005	Chronic duodenal ulcer with hemorrhage AND with perforation but without obstruction	SCTID_28082003	Chronic duodenal ulcer without hemorrhage AND without perforation but with obstruction	false	
+SCTID_81142005	Chronic duodenal ulcer with hemorrhage AND with perforation but without obstruction	SCTID_28082003	Chronic duodenal ulcer without hemorrhage AND without perforation but with obstruction	true	
+SCTID_81225008	Acute gastric ulcer without hemorrhage AND without perforation but with obstruction	SCTID_17067009	Acute gastric ulcer with hemorrhage AND with perforation but without obstruction	false	
+SCTID_81225008	Acute gastric ulcer without hemorrhage AND without perforation but with obstruction	SCTID_17067009	Acute gastric ulcer with hemorrhage AND with perforation but without obstruction	true	
+SCTID_81552002	Rheumatic mitral valve insufficiency AND aortic valve stenosis	SCTID_71799002	Rheumatic mitral valve stenosis AND aortic valve insufficiency	false	
+SCTID_81552002	Rheumatic mitral valve insufficiency AND aortic valve stenosis	SCTID_71799002	Rheumatic mitral valve stenosis AND aortic valve insufficiency	true	
+SCTID_81780002	Beckwith-Wiedemann syndrome	ENSPHENO:0000162	BECKWITH-WIEDEMANN SYNDROME	false	
+SCTID_81780002	Beckwith-Wiedemann syndrome	ENSPHENO:0000162	BECKWITH-WIEDEMANN SYNDROME	true	
+SCTID_81854007	Alexander's disease	ENSPHENO:0000123	Alexander disease	false	
+SCTID_81854007	Alexander's disease	ENSPHENO:0000123	Alexander disease	true	
+SCTID_82203000	Treacher Collins syndrome	ENSPHENO:0001549	TREACHER COLLINS SYNDROME	false	
+SCTID_82203000	Treacher Collins syndrome	ENSPHENO:0001549	TREACHER COLLINS SYNDROME	true	
+SCTID_83015004	Saethre-Chotzen syndrome	ENSPHENO:0001413	SAETHRE-CHOTZEN SYNDROME	false	
+SCTID_83015004	Saethre-Chotzen syndrome	ENSPHENO:0001413	SAETHRE-CHOTZEN SYNDROME	true	
+SCTID_83631006	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND severe panic attacks	SCTID_30059008	Panic disorder with agoraphobia, severe agoraphobic avoidance AND moderate panic attacks	false	
+SCTID_83631006	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND severe panic attacks	SCTID_30059008	Panic disorder with agoraphobia, severe agoraphobic avoidance AND moderate panic attacks	true	
+SCTID_84114007	Heart failure	ENSPHENO:0000791	Heart failure	false	
+SCTID_84114007	Heart failure	ENSPHENO:0000791	Heart failure	true	
+SCTID_84792001	Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_16907002	Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_84792001	Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_16907002	Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_84792001	Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_86182004	Extradural hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_84792001	Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_86182004	Extradural hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_85005007	Cannabis dependence	ENSPHENO:0000352	Cannabis dependence	false	
+SCTID_85005007	Cannabis dependence	ENSPHENO:0000352	Cannabis dependence	true	
+SCTID_85020001	Cystinuria	ENSPHENO:0000347	CYSTINURIA	false	
+SCTID_85020001	Cystinuria	ENSPHENO:0000347	CYSTINURIA	true	
+SCTID_85049009	Tritanopia	ENSPHENO:0001552	TRITANOPIA	false	
+SCTID_85049009	Tritanopia	ENSPHENO:0001552	TRITANOPIA	true	
+SCTID_8535002	Cochleovestibular active MC)niC(re's disease	SCTID_194348002	Active cochleovestibular MC)niC(re's disease	false	
+SCTID_8535002	Cochleovestibular active MC)niC(re's disease	SCTID_194348002	Active cochleovestibular MC)niC(re's disease	true	
+SCTID_85697009	Accessory eye muscle	SCTID_204216001	Accessory eye muscles	true	
+SCTID_86044005	Amyotrophic lateral sclerosis	ENSPHENO:0000135	Amyotrophic lateral sclerosis	false	
+SCTID_86044005	Amyotrophic lateral sclerosis	ENSPHENO:0000135	Amyotrophic lateral sclerosis	true	
+SCTID_86182004	Extradural hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_16907002	Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_86182004	Extradural hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_16907002	Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_86182004	Extradural hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_84792001	Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	false	
+SCTID_86182004	Extradural hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_84792001	Extradural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	true	
+SCTID_86299006	Tetralogy of Fallot	ENSPHENO:0001564	Tetralogy of Fallot	false	
+SCTID_86299006	Tetralogy of Fallot	ENSPHENO:0001564	Tetralogy of Fallot	true	
+SCTID_86488006	Brain injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_47462004	Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_86488006	Brain injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_47462004	Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_86488006	Brain injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_55885004	Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) with return to pre-existing conscious level	false	
+SCTID_86488006	Brain injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	SCTID_55885004	Brain injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) with return to pre-existing conscious level	true	
+SCTID_87345009	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_111677000	Subdural hemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) and without return to pre-existing conscious level	false	
+SCTID_87345009	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_111677000	Subdural hemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) and without return to pre-existing conscious level	true	
+SCTID_87345009	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_70861009	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_87345009	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_70861009	Subdural hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_87694001	Pyruvate carboxylase deficiency	ENSPHENO:0001349	Pyruvate carboxylase deficiency	false	
+SCTID_87694001	Pyruvate carboxylase deficiency	ENSPHENO:0001349	Pyruvate carboxylase deficiency	true	
+SCTID_87796008	Gastrojejunal ulcer with hemorrhage AND with perforation but without obstruction	SCTID_47152002	Gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction	false	
+SCTID_87796008	Gastrojejunal ulcer with hemorrhage AND with perforation but without obstruction	SCTID_47152002	Gastrojejunal ulcer without hemorrhage AND without perforation but with obstruction	true	
+SCTID_87798009	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND moderate panic attacks	SCTID_64060000	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in full remission	false	
+SCTID_87798009	Panic disorder with agoraphobia, agoraphobic avoidance in full remission AND moderate panic attacks	SCTID_64060000	Panic disorder with agoraphobia, moderate agoraphobic avoidance AND panic attacks in full remission	true	
+SCTID_88469006	Zellweger syndrome	ENSPHENO:0001646	ZELLWEGER SYNDROME	false	
+SCTID_88469006	Zellweger syndrome	ENSPHENO:0001646	ZELLWEGER SYNDROME	true	
+SCTID_88518009	Wilson's disease	ENSPHENO:0001638	Wilson disease	false	
+SCTID_88518009	Wilson's disease	ENSPHENO:0001638	Wilson disease	true	
+SCTID_88747000	Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_20276007	Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND without return to pre-existing conscious level	false	
+SCTID_88747000	Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_20276007	Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND without return to pre-existing conscious level	true	
+SCTID_88747000	Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_69178005	Subarachnoid hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_88747000	Subarachnoid hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_69178005	Subarachnoid hemorrhage following injury with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_89155008	Systemic sclerosis	ENSPHENO:0001525	Systemic sclerosis	false	
+SCTID_89155008	Systemic sclerosis	ENSPHENO:0001525	Systemic sclerosis	true	
+SCTID_8933000	Crigler-Najjar syndrome, type I	ENSPHENO:0000337	CRIGLER-NAJJAR SYNDROME TYPE I	false	
+SCTID_8933000	Crigler-Najjar syndrome, type I	ENSPHENO:0000337	CRIGLER-NAJJAR SYNDROME TYPE I	true	
+SCTID_90127001	Fetus papyraceous	SCTID_414249001	Fetus papyraceus	true	
+SCTID_9014002	Psoriasis	ENSPHENO:0001338	Psoriasis	false	
+SCTID_9014002	Psoriasis	ENSPHENO:0001338	Psoriasis	true	
+SCTID_90489006	Peptic ulcer with hemorrhage AND with perforation but without obstruction	SCTID_54157007	Peptic ulcer without hemorrhage AND without perforation but with obstruction	false	
+SCTID_90489006	Peptic ulcer with hemorrhage AND with perforation but without obstruction	SCTID_54157007	Peptic ulcer without hemorrhage AND without perforation but with obstruction	true	
+SCTID_90496008	Generalized epidermolysis bullosa simplex	ENSPHENO:0000480	EPIDERMOLYSIS BULLOSA SIMPLEX GENERALIZED	true	
+SCTID_90653005	Vitamin A deficiency with corneal ulceration AND xerosis	SCTID_190612001	Vitamin A deficiency with corneal xerosis and ulcer	true	
+SCTID_90911007	Erythematous plaques of pinta	SCTID_204919003	Erythematous pinta plaque	true	
+SCTID_91168001	Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_64337000	Cerebellar laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_91168001	Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_64337000	Cerebellar laceration with open intracranial wound AND prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_91168001	Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_65535000	Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	false	
+SCTID_91168001	Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) AND return to pre-existing conscious level	SCTID_65535000	Cerebellar laceration without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing conscious level	true	
+SCTID_95531001	Hemorrhagic duodenitis	SCTID_95533003	Duodenal hemorrhage	true	
+SCTID_95533003	Duodenal hemorrhage	SCTID_95531001	Hemorrhagic duodenitis	true	
+SCTID_9713002	Prostatitis	SCTID_11441004	Prostatism	true	

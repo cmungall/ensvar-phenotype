@@ -1,0 +1,16 @@
+ENSPHENO:0000146	Atrial fibrillation	SYMP:0000226	atrial fibrillation	false	
+ENSPHENO:0000146	Atrial fibrillation	SYMP:0000226	atrial fibrillation	true	
+ENSPHENO:0000791	Heart failure	SYMP:0000292	heart failure	false	
+ENSPHENO:0000791	Heart failure	SYMP:0000292	heart failure	true	
+ENSPHENO:0001303	Pain	SYMP:0000099	pain	false	
+ENSPHENO:0001303	Pain	SYMP:0000099	pain	true	
+ENSPHENO:0001514	Stroke	SYMP:0000734	stroke	false	
+ENSPHENO:0001514	Stroke	SYMP:0000734	stroke	true	
+SYMP:0000099	pain	ENSPHENO:0001303	Pain	false	
+SYMP:0000099	pain	ENSPHENO:0001303	Pain	true	
+SYMP:0000226	atrial fibrillation	ENSPHENO:0000146	Atrial fibrillation	false	
+SYMP:0000226	atrial fibrillation	ENSPHENO:0000146	Atrial fibrillation	true	
+SYMP:0000292	heart failure	ENSPHENO:0000791	Heart failure	false	
+SYMP:0000292	heart failure	ENSPHENO:0000791	Heart failure	true	
+SYMP:0000734	stroke	ENSPHENO:0001514	Stroke	false	
+SYMP:0000734	stroke	ENSPHENO:0001514	Stroke	true	

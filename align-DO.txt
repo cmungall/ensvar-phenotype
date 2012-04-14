@@ -1,0 +1,784 @@
+DOID:0014667	disease of metabolism	ENSPHENO:0001066	Metabolic syndrome	false	
+DOID:0050331	LADD syndrome	ENSPHENO:0000883	LADD SYNDROME	false	
+DOID:0050331	LADD syndrome	ENSPHENO:0000883	LADD SYNDROME	true	
+DOID:0050425	restless legs syndrome	ENSPHENO:0001404	Restless Leg Syndrome	true	
+DOID:0050425	restless legs syndrome	ENSPHENO:0001406	Restless legs syndrome	false	
+DOID:0050425	restless legs syndrome	ENSPHENO:0001406	Restless legs syndrome	true	
+DOID:0050432	Asperger syndrome	ENSPHENO:0000142	Asperger disorder	false	
+DOID:0050448	hereditary mucosal leukokeratosis	ENSPHENO:0001629	WHITE SPONGE NEVUS	false	
+DOID:0050448	hereditary mucosal leukokeratosis	ENSPHENO:0001629	WHITE SPONGE NEVUS	true	
+DOID:0050449	pachyonychia congenita	ENSPHENO:0001247	PACHYONYCHIA CONGENITA TYPE 1	false	
+DOID:0050449	pachyonychia congenita	ENSPHENO:0001247	PACHYONYCHIA CONGENITA TYPE 1	true	
+DOID:0050449	pachyonychia congenita	ENSPHENO:0001301	Pachyonychia congenita type 1	false	
+DOID:0050449	pachyonychia congenita	ENSPHENO:0001301	Pachyonychia congenita type 1	true	
+DOID:0050470	Donohue Syndrome	ENSPHENO:0000429	DONOHUE SYNDROME	false	
+DOID:0050470	Donohue Syndrome	ENSPHENO:0000429	DONOHUE SYNDROME	true	
+DOID:0050470	Donohue Syndrome	ENSPHENO:0000922	Leprechaunism	false	
+DOID:0050470	Donohue Syndrome	ENSPHENO:0000922	Leprechaunism	true	
+DOID:0050536	SC phocomelia syndrome	ENSPHENO:0001416	SC PHOCOMELIA SYNDROME	false	
+DOID:0050536	SC phocomelia syndrome	ENSPHENO:0001416	SC PHOCOMELIA SYNDROME	true	
+DOID:0050538	Charcot-Marie-Tooth disease type 1	ENSPHENO:0000291	CHARCOT-MARIE-TOOTH DISEASE TYPE 1A	false	
+DOID:0050538	Charcot-Marie-Tooth disease type 1	ENSPHENO:0000291	CHARCOT-MARIE-TOOTH DISEASE TYPE 1A	true	
+DOID:0050547	familial medullary thyroid carcinoma	ENSPHENO:0001537	THYROID CARCINOMA FAMILIAL MEDULLARY	false	
+DOID:0050547	familial medullary thyroid carcinoma	ENSPHENO:0001537	THYROID CARCINOMA FAMILIAL MEDULLARY	true	
+DOID:0050589	inflammatory bowel disease	ENSPHENO:0000855	Inflammatory bowel disease	false	
+DOID:0050589	inflammatory bowel disease	ENSPHENO:0000855	Inflammatory bowel disease	true	
+DOID:0050601	ADULT syndrome	ENSPHENO:0000030	ADULT SYNDROME	false	
+DOID:0050601	ADULT syndrome	ENSPHENO:0000030	ADULT SYNDROME	true	
+DOID:0050605	acrodermatitis enteropathica	ENSPHENO:0000022	ACRODERMATITIS ENTEROPATHICA	false	
+DOID:0050605	acrodermatitis enteropathica	ENSPHENO:0000022	ACRODERMATITIS ENTEROPATHICA	true	
+DOID:0050631	Allan-Herndon-Dudley syndrome	ENSPHENO:0000053	ALLAN-HERNDON-DUDLEY SYNDROME	false	
+DOID:0050631	Allan-Herndon-Dudley syndrome	ENSPHENO:0000053	ALLAN-HERNDON-DUDLEY SYNDROME	true	
+DOID:0050634	alopecia universalis	ENSPHENO:0000125	Alopecia universalis congenita	false	
+DOID:0050634	alopecia universalis	ENSPHENO:0000125	Alopecia universalis congenita	true	
+DOID:0050635	alternating hemiplegia of childhood	ENSPHENO:0000126	Alternating hemiplegia of childhood	false	
+DOID:0050635	alternating hemiplegia of childhood	ENSPHENO:0000126	Alternating hemiplegia of childhood	true	
+DOID:0050636	familial visceral amyloidosis	ENSPHENO:0000067	AMYLOIDOSIS FAMILIAL VISCERAL	false	
+DOID:0050636	familial visceral amyloidosis	ENSPHENO:0000067	AMYLOIDOSIS FAMILIAL VISCERAL	true	
+DOID:0050638	transthyretin amyloidosis	ENSPHENO:0000068	AMYLOIDOSIS HEREDITARY TRANSTHYRETIN-RELATED	false	
+DOID:0050638	transthyretin amyloidosis	ENSPHENO:0000068	AMYLOIDOSIS HEREDITARY TRANSTHYRETIN-RELATED	true	
+DOID:0050643	anonychia congenita	ENSPHENO:0000080	ANONYCHIA CONGENITA	false	
+DOID:0050643	anonychia congenita	ENSPHENO:0000080	ANONYCHIA CONGENITA	true	
+DOID:0050647	Arts syndrome	ENSPHENO:0000087	ARTS SYNDROME	false	
+DOID:0050647	Arts syndrome	ENSPHENO:0000087	ARTS SYNDROME	true	
+DOID:0050658	Bart-Pumphrey syndrome	ENSPHENO:0000875	KNUCKLE PADS LEUKONYCHIA AND SENSORINEURAL DEAFNESS	false	
+DOID:0050658	Bart-Pumphrey syndrome	ENSPHENO:0000875	KNUCKLE PADS LEUKONYCHIA AND SENSORINEURAL DEAFNESS	true	
+DOID:0050661	vitelliform macular dystrophy	ENSPHENO:0000166	BEST MACULAR DYSTROPHY	false	
+DOID:0050661	vitelliform macular dystrophy	ENSPHENO:0000166	BEST MACULAR DYSTROPHY	true	
+DOID:0050678	Blau syndrome	ENSPHENO:0000172	BLAU SYNDROME	false	
+DOID:0050678	Blau syndrome	ENSPHENO:0000172	BLAU SYNDROME	true	
+DOID:0060010	Omenn syndrome	ENSPHENO:0001215	OMENN SYNDROME	false	
+DOID:0060010	Omenn syndrome	ENSPHENO:0001215	OMENN SYNDROME	true	
+DOID:0060013	gamma chain deficiency	ENSPHENO:0001428	SEVERE COMBINED IMMUNODEFICIENCY X-LINKED	true	
+DOID:0060168	histidinemia	ENSPHENO:0000741	HISTIDINEMIA	false	
+DOID:0060168	histidinemia	ENSPHENO:0000741	HISTIDINEMIA	true	
+DOID:0060170	generalized epilepsy with febrile seizures plus	ENSPHENO:0000575	GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS	false	
+DOID:0060170	generalized epilepsy with febrile seizures plus	ENSPHENO:0000575	GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS	true	
+DOID:0060175	succinic semialdehyde dehydrogenase deficiency	ENSPHENO:0001468	SUCCINIC SEMIALDEHYDE DEHYDROGENASE DEFICIENCY	false	
+DOID:0060175	succinic semialdehyde dehydrogenase deficiency	ENSPHENO:0001468	SUCCINIC SEMIALDEHYDE DEHYDROGENASE DEFICIENCY	true	
+DOID:0080038	pycnodysostosis	ENSPHENO:0001348	Pycnodysostosis	false	
+DOID:0080038	pycnodysostosis	ENSPHENO:0001348	Pycnodysostosis	true	
+DOID:0080041	hypochondroplasia	ENSPHENO:0000816	Hypochondroplasia	false	
+DOID:0080041	hypochondroplasia	ENSPHENO:0000816	Hypochondroplasia	true	
+DOID:1024	leprosy	ENSPHENO:0000923	Leprosy	false	
+DOID:1024	leprosy	ENSPHENO:0000923	Leprosy	true	
+DOID:10283	prostate cancer	ENSPHENO:0001334	Prostate cancer	false	
+DOID:10283	prostate cancer	ENSPHENO:0001334	Prostate cancer	true	
+DOID:10286	prostate carcinoma	ENSPHENO:0001334	Prostate cancer	false	
+DOID:10286	prostate carcinoma	ENSPHENO:0001334	Prostate cancer	true	
+DOID:1040	chronic lymphocytic leukemia	ENSPHENO:0000377	Chronic lymphocytic leukemia	false	
+DOID:1040	chronic lymphocytic leukemia	ENSPHENO:0000377	Chronic lymphocytic leukemia	true	
+DOID:10581	metachromatic leukodystrophy	ENSPHENO:0000925	Leukodystrophy metachromatic	false	
+DOID:10581	metachromatic leukodystrophy	ENSPHENO:0000925	Leukodystrophy metachromatic	true	
+DOID:10581	metachromatic leukodystrophy	ENSPHENO:0000991	METACHROMATIC LEUKODYSTROPHY	false	
+DOID:10581	metachromatic leukodystrophy	ENSPHENO:0000991	METACHROMATIC LEUKODYSTROPHY	true	
+DOID:10587	Krabbe disease	ENSPHENO:0000924	Leukodystrophy globoid cell	false	
+DOID:10587	Krabbe disease	ENSPHENO:0000924	Leukodystrophy globoid cell	true	
+DOID:10608	celiac disease	ENSPHENO:0000362	Celiac disease	false	
+DOID:10608	celiac disease	ENSPHENO:0000362	Celiac disease	true	
+DOID:10632	Wolfram syndrome	ENSPHENO:0001639	Wolfram syndrome	false	
+DOID:10632	Wolfram syndrome	ENSPHENO:0001639	Wolfram syndrome	true	
+DOID:10652	Alzheimer's disease	ENSPHENO:0000128	Alzheimer's disease	false	
+DOID:10652	Alzheimer's disease	ENSPHENO:0000128	Alzheimer's disease	true	
+DOID:10763	hypertension	ENSPHENO:0000814	Hypertension	false	
+DOID:10763	hypertension	ENSPHENO:0000814	Hypertension	true	
+DOID:10871	age related macular degeneration	ENSPHENO:0000112	Age-related macular degeneration	false	
+DOID:10871	age related macular degeneration	ENSPHENO:0000112	Age-related macular degeneration	true	
+DOID:10892	hypospadias	ENSPHENO:0000819	Hypospadias	false	
+DOID:10892	hypospadias	ENSPHENO:0000819	Hypospadias	true	
+DOID:10923	sickle cell anemia	ENSPHENO:0001434	SICKLE CELL ANEMIA	false	
+DOID:10923	sickle cell anemia	ENSPHENO:0001434	SICKLE CELL ANEMIA	true	
+DOID:1094	attention deficit hyperactivity disorder	ENSPHENO:0000150	Attention deficit hyperactivity disorder	false	
+DOID:1094	attention deficit hyperactivity disorder	ENSPHENO:0000150	Attention deficit hyperactivity disorder	true	
+DOID:10941	intracranial aneurysm	ENSPHENO:0000859	Intracranial aneurysm	false	
+DOID:10941	intracranial aneurysm	ENSPHENO:0000859	Intracranial aneurysm	true	
+DOID:11054	urinary bladder cancer	ENSPHENO:0000205	Bladder cancer	false	
+DOID:11054	urinary bladder cancer	ENSPHENO:0000205	Bladder cancer	true	
+DOID:11054	urinary bladder cancer	ENSPHENO:0001605	Urinary bladder cancer	false	
+DOID:11054	urinary bladder cancer	ENSPHENO:0001605	Urinary bladder cancer	true	
+DOID:11383	cryptorchidism	ENSPHENO:0000401	Cryptorchidism	false	
+DOID:11383	cryptorchidism	ENSPHENO:0000401	Cryptorchidism	true	
+DOID:11476	osteoporosis	ENSPHENO:0001243	Osteoporosis	false	
+DOID:11476	osteoporosis	ENSPHENO:0001243	Osteoporosis	true	
+DOID:11661	blue color blindness	ENSPHENO:0001552	TRITANOPIA	false	
+DOID:11661	blue color blindness	ENSPHENO:0001552	TRITANOPIA	true	
+DOID:11719	oculopharyngeal muscular dystrophy	ENSPHENO:0001212	OCULOPHARYNGEAL MUSCULAR DYSTROPHY	false	
+DOID:11719	oculopharyngeal muscular dystrophy	ENSPHENO:0001212	OCULOPHARYNGEAL MUSCULAR DYSTROPHY	true	
+DOID:11981	morbid obesity	ENSPHENO:0001208	OBESITY SEVERE	false	
+DOID:11981	morbid obesity	ENSPHENO:0001208	OBESITY SEVERE	true	
+DOID:11986	familial hypertrophic cardiomyopathy	ENSPHENO:0000262	CARDIOMYOPATHY FAMILIAL HYPERTROPHIC	false	
+DOID:11986	familial hypertrophic cardiomyopathy	ENSPHENO:0000262	CARDIOMYOPATHY FAMILIAL HYPERTROPHIC	true	
+DOID:1206	Rett syndrome	ENSPHENO:0001408	Rett syndrome	false	
+DOID:1206	Rett syndrome	ENSPHENO:0001408	Rett syndrome	true	
+DOID:12236	primary biliary cirrhosis	ENSPHENO:0001329	Primary biliary cirrhosis	false	
+DOID:12236	primary biliary cirrhosis	ENSPHENO:0001329	Primary biliary cirrhosis	true	
+DOID:12241	beta thalassemia	ENSPHENO:0000167	BETA-THALASSEMIA	false	
+DOID:12241	beta thalassemia	ENSPHENO:0000167	BETA-THALASSEMIA	true	
+DOID:12259	hemophilia B	ENSPHENO:0000728	HEMOPHILIA B	false	
+DOID:12259	hemophilia B	ENSPHENO:0000728	HEMOPHILIA B	true	
+DOID:12306	vitiligo	ENSPHENO:0001623	Vitiligo	false	
+DOID:12306	vitiligo	ENSPHENO:0001623	Vitiligo	true	
+DOID:12347	osteogenesis imperfecta	ENSPHENO:0001224	OSTEOGENESIS IMPERFECTA	false	
+DOID:12347	osteogenesis imperfecta	ENSPHENO:0001224	OSTEOGENESIS IMPERFECTA	true	
+DOID:12361	Graves' disease	ENSPHENO:0000618	Graves' disease	false	
+DOID:12361	Graves' disease	ENSPHENO:0000618	Graves' disease	true	
+DOID:12449	aplastic anemia	ENSPHENO:0000081	APLASTIC ANEMIA	false	
+DOID:12449	aplastic anemia	ENSPHENO:0000081	APLASTIC ANEMIA	true	
+DOID:12705	Friedreich ataxia	ENSPHENO:0000545	FRIEDREICH ATAXIA	false	
+DOID:12705	Friedreich ataxia	ENSPHENO:0000545	FRIEDREICH ATAXIA	true	
+DOID:12801	mucopolysaccharidosis III	ENSPHENO:0001015	MUCOPOLYSACCHARIDOSIS TYPE IIIB	false	
+DOID:12801	mucopolysaccharidosis III	ENSPHENO:0001015	MUCOPOLYSACCHARIDOSIS TYPE IIIB	true	
+DOID:12801	mucopolysaccharidosis III	ENSPHENO:0001414	SANFILIPPO SYNDROME A	false	
+DOID:12801	mucopolysaccharidosis III	ENSPHENO:0001414	SANFILIPPO SYNDROME A	true	
+DOID:12804	mucopolysaccharidosis IV	ENSPHENO:0001018	MUCOPOLYSACCHARIDOSIS TYPE IVA	false	
+DOID:12804	mucopolysaccharidosis IV	ENSPHENO:0001018	MUCOPOLYSACCHARIDOSIS TYPE IVA	true	
+DOID:12849	autistic disorder	ENSPHENO:0000154	Autism	false	
+DOID:12849	autistic disorder	ENSPHENO:0000154	Autism	true	
+DOID:12858	Huntington's disease	ENSPHENO:0000751	HUNTINGTON DISEASE	false	
+DOID:12858	Huntington's disease	ENSPHENO:0000751	HUNTINGTON DISEASE	true	
+DOID:12930	dilated cardiomyopathy	ENSPHENO:0000443	Dilated cardiomyopathy	false	
+DOID:12930	dilated cardiomyopathy	ENSPHENO:0000443	Dilated cardiomyopathy	true	
+DOID:13099	Moyamoya disease	ENSPHENO:0001077	Moyamoya disease	false	
+DOID:13099	Moyamoya disease	ENSPHENO:0001077	Moyamoya disease	true	
+DOID:13223	uterine fibroid	ENSPHENO:0001608	Uterine fibroids	true	
+DOID:1324	lung cancer	ENSPHENO:0000947	Lung cancer	false	
+DOID:1324	lung cancer	ENSPHENO:0000947	Lung cancer	true	
+DOID:13608	biliary atresia	ENSPHENO:0000198	Biliary atresia	false	
+DOID:13608	biliary atresia	ENSPHENO:0000198	Biliary atresia	true	
+DOID:13636	Fanconi's anemia	ENSPHENO:0000563	Fanconi anemia	false	
+DOID:13636	Fanconi's anemia	ENSPHENO:0000563	Fanconi anemia	true	
+DOID:1380	endometrial cancer	ENSPHENO:0000474	ENDOMETRIAL CANCER	false	
+DOID:1380	endometrial cancer	ENSPHENO:0000474	ENDOMETRIAL CANCER	true	
+DOID:13810	familial hypercholesterolemia	ENSPHENO:0000558	Familial hypercholesterolemia	false	
+DOID:13810	familial hypercholesterolemia	ENSPHENO:0000558	Familial hypercholesterolemia	true	
+DOID:13994	cleidocranial dysplasia	ENSPHENO:0000309	CLEIDOCRANIAL DYSPLASIA	false	
+DOID:13994	cleidocranial dysplasia	ENSPHENO:0000309	CLEIDOCRANIAL DYSPLASIA	true	
+DOID:14175	von Hippel-Lindau disease	ENSPHENO:0001617	VON HIPPEL-LINDAU SYNDROME	false	
+DOID:14175	von Hippel-Lindau disease	ENSPHENO:0001617	VON HIPPEL-LINDAU SYNDROME	true	
+DOID:14175	von Hippel-Lindau disease	ENSPHENO:0001625	Von Hippel-Lindau disease	false	
+DOID:14175	von Hippel-Lindau disease	ENSPHENO:0001625	Von Hippel-Lindau disease	true	
+DOID:14323	Marfan syndrome	ENSPHENO:0001055	Marfan syndrome	false	
+DOID:14323	Marfan syndrome	ENSPHENO:0001055	Marfan syndrome	true	
+DOID:14330	Parkinson's disease	ENSPHENO:0001307	Parkinson disease	false	
+DOID:14330	Parkinson's disease	ENSPHENO:0001307	Parkinson disease	true	
+DOID:14330	Parkinson's disease	ENSPHENO:0001309	Parkinson's disease	false	
+DOID:14330	Parkinson's disease	ENSPHENO:0001309	Parkinson's disease	true	
+DOID:14499	Fabry disease	ENSPHENO:0000553	Fabry disease	false	
+DOID:14499	Fabry disease	ENSPHENO:0000553	Fabry disease	true	
+DOID:14500	fucosidosis	ENSPHENO:0000549	FUCOSIDOSIS	false	
+DOID:14500	fucosidosis	ENSPHENO:0000549	FUCOSIDOSIS	true	
+DOID:14504	Niemann-Pick disease	ENSPHENO:0001176	NIEMANN-PICK DISEASE TYPE A	false	
+DOID:14504	Niemann-Pick disease	ENSPHENO:0001176	NIEMANN-PICK DISEASE TYPE A	true	
+DOID:14504	Niemann-Pick disease	ENSPHENO:0001177	NIEMANN-PICK DISEASE TYPE B	false	
+DOID:14504	Niemann-Pick disease	ENSPHENO:0001177	NIEMANN-PICK DISEASE TYPE B	true	
+DOID:14686	Axenfeld-Rieger syndrome	ENSPHENO:0001384	RIEGER ANOMALY	false	
+DOID:14686	Axenfeld-Rieger syndrome	ENSPHENO:0001384	RIEGER ANOMALY	true	
+DOID:14692	Smith-Lemli-Opitz syndrome	ENSPHENO:0001503	Smith-Lemli-Opitz syndrome	false	
+DOID:14692	Smith-Lemli-Opitz syndrome	ENSPHENO:0001503	Smith-Lemli-Opitz syndrome	true	
+DOID:14695	galactokinase deficiency	ENSPHENO:0000572	GALACTOKINASE DEFICIENCY	false	
+DOID:14695	galactokinase deficiency	ENSPHENO:0000572	GALACTOKINASE DEFICIENCY	true	
+DOID:1470	major depressive disorder	ENSPHENO:0001051	Major depressive disorder	false	
+DOID:1470	major depressive disorder	ENSPHENO:0001051	Major depressive disorder	true	
+DOID:14737	craniofrontonasal syndrome	ENSPHENO:0000395	Craniofrontonasal syndrome	false	
+DOID:14737	craniofrontonasal syndrome	ENSPHENO:0000395	Craniofrontonasal syndrome	true	
+DOID:14743	trichorhinophalangeal syndrome type I	ENSPHENO:0001550	TRICHORHINOPHALANGEAL SYNDROME TYPE I	false	
+DOID:14743	trichorhinophalangeal syndrome type I	ENSPHENO:0001550	TRICHORHINOPHALANGEAL SYNDROME TYPE I	true	
+DOID:14749	methylmalonic acidemia	ENSPHENO:0001069	Methylmalonic aciduria type cblB	false	
+DOID:14749	methylmalonic acidemia	ENSPHENO:0001069	Methylmalonic aciduria type cblB	true	
+DOID:14753	isovaleric acidemia	ENSPHENO:0000849	ISOVALERIC ACIDEMIA	false	
+DOID:14753	isovaleric acidemia	ENSPHENO:0000849	ISOVALERIC ACIDEMIA	true	
+DOID:14755	argininosuccinic aciduria	ENSPHENO:0000084	ARGININOSUCCINIC ACIDURIA	false	
+DOID:14755	argininosuccinic aciduria	ENSPHENO:0000084	ARGININOSUCCINIC ACIDURIA	true	
+DOID:14766	renal agenesis	ENSPHENO:0001356	RENAL AGENESIS	false	
+DOID:14766	renal agenesis	ENSPHENO:0001356	RENAL AGENESIS	true	
+DOID:14768	Saethre-Chotzen syndrome	ENSPHENO:0001413	SAETHRE-CHOTZEN SYNDROME	false	
+DOID:14768	Saethre-Chotzen syndrome	ENSPHENO:0001413	SAETHRE-CHOTZEN SYNDROME	true	
+DOID:14784	olivopontocerebellar atrophy	ENSPHENO:0001451	SPINOCEREBELLAR ATAXIA 1	false	
+DOID:14784	olivopontocerebellar atrophy	ENSPHENO:0001451	SPINOCEREBELLAR ATAXIA 1	true	
+DOID:1485	cystic fibrosis	ENSPHENO:0000402	Cystic fibrosis	false	
+DOID:1485	cystic fibrosis	ENSPHENO:0000402	Cystic fibrosis	true	
+DOID:1612	breast cancer	ENSPHENO:0000014	A breast cancer sample	false	
+DOID:1612	breast cancer	ENSPHENO:0000014	A breast cancer sample	true	
+DOID:1612	breast cancer	ENSPHENO:0000250	Breast cancer	false	
+DOID:1612	breast cancer	ENSPHENO:0000250	Breast cancer	true	
+DOID:1686	glaucoma	ENSPHENO:0000609	Glaucoma	false	
+DOID:1686	glaucoma	ENSPHENO:0000609	Glaucoma	true	
+DOID:1749	squamous cell carcinoma	ENSPHENO:0001512	Squamous cell carcinoma	false	
+DOID:1749	squamous cell carcinoma	ENSPHENO:0001512	Squamous cell carcinoma	true	
+DOID:1793	pancreatic cancer	ENSPHENO:0001305	Pancreatic cancer	false	
+DOID:1793	pancreatic cancer	ENSPHENO:0001305	Pancreatic cancer	true	
+DOID:1838	Menkes disease	ENSPHENO:0000979	MENKES DISEASE	false	
+DOID:1838	Menkes disease	ENSPHENO:0000979	MENKES DISEASE	true	
+DOID:1849	cannabis dependence	ENSPHENO:0000352	Cannabis dependence	false	
+DOID:1849	cannabis dependence	ENSPHENO:0000352	Cannabis dependence	true	
+DOID:1856	cherubism	ENSPHENO:0000371	Cherubism	false	
+DOID:1856	cherubism	ENSPHENO:0000371	Cherubism	true	
+DOID:1909	melanoma	ENSPHENO:0001062	Melanoma	false	
+DOID:1909	melanoma	ENSPHENO:0001062	Melanoma	true	
+DOID:1921	Klinefelter's syndrome	ENSPHENO:0000770	HYPOGONADOTROPIC HYPOGONADISM	false	
+DOID:1921	Klinefelter's syndrome	ENSPHENO:0000770	HYPOGONADOTROPIC HYPOGONADISM	true	
+DOID:1926	Gaucher's disease	ENSPHENO:0000604	Gaucher disease	false	
+DOID:1926	Gaucher's disease	ENSPHENO:0000604	Gaucher disease	true	
+DOID:1935	Bardet-Biedl syndrome	ENSPHENO:0000155	BARDET-BIEDL SYNDROME	false	
+DOID:1935	Bardet-Biedl syndrome	ENSPHENO:0000155	BARDET-BIEDL SYNDROME	true	
+DOID:2043	hepatitis B	ENSPHENO:0000802	Hepatitis B	false	
+DOID:2043	hepatitis B	ENSPHENO:0000802	Hepatitis B	true	
+DOID:219	colon cancer	ENSPHENO:0000015	A colon cancer sample	false	
+DOID:219	colon cancer	ENSPHENO:0000015	A colon cancer sample	true	
+DOID:2217	Bernard-Soulier syndrome	ENSPHENO:0000197	Bernard-Soulier syndrome	false	
+DOID:2217	Bernard-Soulier syndrome	ENSPHENO:0000197	Bernard-Soulier syndrome	true	
+DOID:2229	factor XI deficiency	ENSPHENO:0000554	Factor XI deficiency	false	
+DOID:2229	factor XI deficiency	ENSPHENO:0000554	Factor XI deficiency	true	
+DOID:2377	multiple sclerosis	ENSPHENO:0001144	Multiple sclerosis	false	
+DOID:2377	multiple sclerosis	ENSPHENO:0001144	Multiple sclerosis	true	
+DOID:2394	ovarian cancer	ENSPHENO:0001245	Ovarian cancer	false	
+DOID:2394	ovarian cancer	ENSPHENO:0001245	Ovarian cancer	true	
+DOID:2565	macular corneal dystrophy	ENSPHENO:0001049	Macular corneal dystrophy	false	
+DOID:2565	macular corneal dystrophy	ENSPHENO:0001049	Macular corneal dystrophy	true	
+DOID:2738	pseudoxanthoma elasticum	ENSPHENO:0001337	Pseudoxanthoma elasticum	false	
+DOID:2738	pseudoxanthoma elasticum	ENSPHENO:0001337	Pseudoxanthoma elasticum	true	
+DOID:2739	Gilbert syndrome	ENSPHENO:0000608	Gilbert syndrome	false	
+DOID:2739	Gilbert syndrome	ENSPHENO:0000608	Gilbert syndrome	true	
+DOID:2748	glycogen storage disease III	ENSPHENO:0000588	GLYCOGEN STORAGE DISEASE III	false	
+DOID:2748	glycogen storage disease III	ENSPHENO:0000588	GLYCOGEN STORAGE DISEASE III	true	
+DOID:2754	glycogen storage disease VI	ENSPHENO:0000593	GLYCOGEN STORAGE DISEASE VI	false	
+DOID:2754	glycogen storage disease VI	ENSPHENO:0000593	GLYCOGEN STORAGE DISEASE VI	true	
+DOID:2841	asthma	ENSPHENO:0000143	Asthma	false	
+DOID:2841	asthma	ENSPHENO:0000143	Asthma	true	
+DOID:2908	Treacher Collins syndrome	ENSPHENO:0001549	TREACHER COLLINS SYNDROME	false	
+DOID:2908	Treacher Collins syndrome	ENSPHENO:0001549	TREACHER COLLINS SYNDROME	true	
+DOID:2935	Chediak-Higashi syndrome	ENSPHENO:0000370	Chediak-Higashi syndrome	false	
+DOID:2935	Chediak-Higashi syndrome	ENSPHENO:0000370	Chediak-Higashi syndrome	true	
+DOID:2987	familial Mediterranean fever	ENSPHENO:0000526	FAMILIAL MEDITERRANEAN FEVER	false	
+DOID:2987	familial Mediterranean fever	ENSPHENO:0000526	FAMILIAL MEDITERRANEAN FEVER	true	
+DOID:3012	Li-Fraumeni syndrome	ENSPHENO:0000926	Li-Fraumeni syndrome	false	
+DOID:3012	Li-Fraumeni syndrome	ENSPHENO:0000926	Li-Fraumeni syndrome	true	
+DOID:3070	malignant glioma	ENSPHENO:0000613	Glioma	false	
+DOID:3070	malignant glioma	ENSPHENO:0000613	Glioma	true	
+DOID:3083	chronic obstructive pulmonary disease	ENSPHENO:0000378	Chronic obstructive pulmonary disease	false	
+DOID:3083	chronic obstructive pulmonary disease	ENSPHENO:0000378	Chronic obstructive pulmonary disease	true	
+DOID:3312	bipolar disorder	ENSPHENO:0000203	Bipolar disorder	false	
+DOID:3312	bipolar disorder	ENSPHENO:0000203	Bipolar disorder	true	
+DOID:332	amyotrophic lateral sclerosis	ENSPHENO:0000135	Amyotrophic lateral sclerosis	false	
+DOID:332	amyotrophic lateral sclerosis	ENSPHENO:0000135	Amyotrophic lateral sclerosis	true	
+DOID:3320	Tay-Sachs disease	ENSPHENO:0001527	TAY-SACHS DISEASE	false	
+DOID:3320	Tay-Sachs disease	ENSPHENO:0001527	TAY-SACHS DISEASE	true	
+DOID:3389	Papillon-Lefevre disease	ENSPHENO:0001254	PAPILLON-LEFEVRE SYNDROME	false	
+DOID:3389	Papillon-Lefevre disease	ENSPHENO:0001254	PAPILLON-LEFEVRE SYNDROME	true	
+DOID:3393	coronary heart disease	ENSPHENO:0000392	Coronary heart disease	false	
+DOID:3393	coronary heart disease	ENSPHENO:0000392	Coronary heart disease	true	
+DOID:3443	mammary Paget's disease	ENSPHENO:0001302	Paget's disease	false	
+DOID:3443	mammary Paget's disease	ENSPHENO:0001302	Paget's disease	true	
+DOID:3455	cerebrovascular accident	ENSPHENO:0001514	Stroke	false	
+DOID:3455	cerebrovascular accident	ENSPHENO:0001514	Stroke	true	
+DOID:3529	central core myopathy	ENSPHENO:0000279	CENTRAL CORE DISEASE	false	
+DOID:3529	central core myopathy	ENSPHENO:0000279	CENTRAL CORE DISEASE	true	
+DOID:3613	Canavan disease	ENSPHENO:0000349	Canavan disease	false	
+DOID:3613	Canavan disease	ENSPHENO:0000349	Canavan disease	true	
+DOID:3651	pyruvate carboxylase deficiency disease	ENSPHENO:0001349	Pyruvate carboxylase deficiency	true	
+DOID:3762	cytochrome-c oxidase deficiency	ENSPHENO:0001074	Mitochondrial complex IV deficiency	false	
+DOID:3762	cytochrome-c oxidase deficiency	ENSPHENO:0001074	Mitochondrial complex IV deficiency	true	
+DOID:3890	acute intermittent porphyria	ENSPHENO:0001282	PORPHYRIA ACUTE INTERMITTENT	true	
+DOID:3905	lung carcinoma	ENSPHENO:0000947	Lung cancer	false	
+DOID:3905	lung carcinoma	ENSPHENO:0000947	Lung cancer	true	
+DOID:3905	lung carcinoma	ENSPHENO:0000949	Lung carcinoma	false	
+DOID:3905	lung carcinoma	ENSPHENO:0000949	Lung carcinoma	true	
+DOID:3911	progeria	ENSPHENO:0000813	Hutchinson-Gilford progeria syndrome	false	
+DOID:3911	progeria	ENSPHENO:0000813	Hutchinson-Gilford progeria syndrome	true	
+DOID:399	tuberculosis	ENSPHENO:0001573	Tuberculosis	false	
+DOID:399	tuberculosis	ENSPHENO:0001573	Tuberculosis	true	
+DOID:418	systemic scleroderma	ENSPHENO:0001525	Systemic sclerosis	false	
+DOID:418	systemic scleroderma	ENSPHENO:0001525	Systemic sclerosis	true	
+DOID:4249	Gerstmann-Straussler-Scheinker disease	ENSPHENO:0000577	GERSTMANN-STRAUSSLER DISEASE	false	
+DOID:4249	Gerstmann-Straussler-Scheinker disease	ENSPHENO:0000577	GERSTMANN-STRAUSSLER DISEASE	true	
+DOID:4252	Alexander disease	ENSPHENO:0000123	Alexander disease	false	
+DOID:4252	Alexander disease	ENSPHENO:0000123	Alexander disease	true	
+DOID:4450	renal cell carcinoma	ENSPHENO:0001395	Renal cell carcinoma	false	
+DOID:4450	renal cell carcinoma	ENSPHENO:0001395	Renal cell carcinoma	true	
+DOID:4481	allergic rhinitis	ENSPHENO:0000054	ALLERGIC RHINITIS	false	
+DOID:4481	allergic rhinitis	ENSPHENO:0000054	ALLERGIC RHINITIS	true	
+DOID:4603	epidermolytic hyperkeratosis	ENSPHENO:0000252	Bullous congenital ichthyosiform erythroderma	false	
+DOID:4603	epidermolytic hyperkeratosis	ENSPHENO:0000252	Bullous congenital ichthyosiform erythroderma	true	
+DOID:4603	epidermolytic hyperkeratosis	ENSPHENO:0000483	EPIDERMOLYTIC HYPERKERATOSIS	false	
+DOID:4603	epidermolytic hyperkeratosis	ENSPHENO:0000483	EPIDERMOLYTIC HYPERKERATOSIS	true	
+DOID:4997	Camurati-Engelmann disease	ENSPHENO:0000255	CAMURATI-ENGELMANN DISEASE	false	
+DOID:4997	Camurati-Engelmann disease	ENSPHENO:0000255	CAMURATI-ENGELMANN DISEASE	true	
+DOID:5041	esophageal cancer	ENSPHENO:0000515	Esophageal cancer	false	
+DOID:5041	esophageal cancer	ENSPHENO:0000515	Esophageal cancer	true	
+DOID:5325	Roberts syndrome	ENSPHENO:0001388	ROBERTS SYNDROME	false	
+DOID:5325	Roberts syndrome	ENSPHENO:0001388	ROBERTS SYNDROME	true	
+DOID:5408	Paget's disease of bone	ENSPHENO:0001249	PAGET DISEASE OF BONE	false	
+DOID:5408	Paget's disease of bone	ENSPHENO:0001249	PAGET DISEASE OF BONE	true	
+DOID:5419	schizophrenia	ENSPHENO:0001477	Schizophrenia	false	
+DOID:5419	schizophrenia	ENSPHENO:0001477	Schizophrenia	true	
+DOID:5425	ovarian hyperstimulation syndrome	ENSPHENO:0001246	Ovarian hyperstimulation syndrome	false	
+DOID:5425	ovarian hyperstimulation syndrome	ENSPHENO:0001246	Ovarian hyperstimulation syndrome	true	
+DOID:5557	testicular germ cell cancer	ENSPHENO:0001562	Testicular germ cell cancer	false	
+DOID:5557	testicular germ cell cancer	ENSPHENO:0001562	Testicular germ cell cancer	true	
+DOID:5572	Beckwith-Wiedemann syndrome	ENSPHENO:0000162	BECKWITH-WIEDEMANN SYNDROME	false	
+DOID:5572	Beckwith-Wiedemann syndrome	ENSPHENO:0000162	BECKWITH-WIEDEMANN SYNDROME	true	
+DOID:5844	myocardial infarction	ENSPHENO:0001156	Myocardial infarction	false	
+DOID:5844	myocardial infarction	ENSPHENO:0001156	Myocardial infarction	true	
+DOID:585	nephrolithiasis	ENSPHENO:0001165	NEPHROLITHIASIS CALCIUM OXALATE	false	
+DOID:585	nephrolithiasis	ENSPHENO:0001165	NEPHROLITHIASIS CALCIUM OXALATE	true	
+DOID:594	panic disorder	ENSPHENO:0001306	Panic disorder	false	
+DOID:594	panic disorder	ENSPHENO:0001306	Panic disorder	true	
+DOID:6000	heart failure	ENSPHENO:0000791	Heart failure	false	
+DOID:6000	heart failure	ENSPHENO:0000791	Heart failure	true	
+DOID:6255	growth hormone secreting pituitary adenoma	ENSPHENO:0001276	PITUITARY ADENOMA GROWTH HORMONE-SECRETING	true	
+DOID:635	acquired immunodeficiency syndrome	ENSPHENO:0000038	AIDS	false	
+DOID:635	acquired immunodeficiency syndrome	ENSPHENO:0000038	AIDS	true	
+DOID:6364	migraine	ENSPHENO:0001070	Migraine	false	
+DOID:6364	migraine	ENSPHENO:0001070	Migraine	true	
+DOID:6419	tetralogy of Fallot	ENSPHENO:0001564	Tetralogy of Fallot	false	
+DOID:6419	tetralogy of Fallot	ENSPHENO:0001564	Tetralogy of Fallot	true	
+DOID:678	progressive supranuclear palsy	ENSPHENO:0001332	Progressive Supranuclear Palsy	false	
+DOID:678	progressive supranuclear palsy	ENSPHENO:0001332	Progressive Supranuclear Palsy	true	
+DOID:684	hepatocellular carcinoma	ENSPHENO:0000803	Hepatocellular carcinoma	false	
+DOID:684	hepatocellular carcinoma	ENSPHENO:0000803	Hepatocellular carcinoma	true	
+DOID:7148	rheumatoid arthritis	ENSPHENO:0001410	Rheumatoid arthritis	false	
+DOID:7148	rheumatoid arthritis	ENSPHENO:0001410	Rheumatoid arthritis	true	
+DOID:768	retinoblastoma	ENSPHENO:0001379	RETINOBLASTOMA	false	
+DOID:768	retinoblastoma	ENSPHENO:0001379	RETINOBLASTOMA	true	
+DOID:8577	ulcerative colitis	ENSPHENO:0001602	Ulcerative colitis	false	
+DOID:8577	ulcerative colitis	ENSPHENO:0001602	Ulcerative colitis	true	
+DOID:8584	Burkitt's lymphoma	ENSPHENO:0000193	BURKITT LYMPHOMA	false	
+DOID:8584	Burkitt's lymphoma	ENSPHENO:0000193	BURKITT LYMPHOMA	true	
+DOID:859	holocarboxylase synthetase deficiency	ENSPHENO:0000810	Holocarboxylase synthetase deficiency	false	
+DOID:859	holocarboxylase synthetase deficiency	ENSPHENO:0000810	Holocarboxylase synthetase deficiency	true	
+DOID:8689	anorexia nervosa	ENSPHENO:0000137	Anorexia nervosa	false	
+DOID:8689	anorexia nervosa	ENSPHENO:0000137	Anorexia nervosa	true	
+DOID:8778	Crohn's disease	ENSPHENO:0000398	Crohn's disease	false	
+DOID:8778	Crohn's disease	ENSPHENO:0000398	Crohn's disease	true	
+DOID:8893	psoriasis	ENSPHENO:0001338	Psoriasis	false	
+DOID:8893	psoriasis	ENSPHENO:0001338	Psoriasis	true	
+DOID:893	Wilson disease	ENSPHENO:0001638	Wilson disease	false	
+DOID:893	Wilson disease	ENSPHENO:0001638	Wilson disease	true	
+DOID:8947	diabetic retinopathy	ENSPHENO:0000439	Diabetic retinopathy	false	
+DOID:8947	diabetic retinopathy	ENSPHENO:0000439	Diabetic retinopathy	true	
+DOID:8986	narcolepsy	ENSPHENO:0001186	Narcolepsy	false	
+DOID:8986	narcolepsy	ENSPHENO:0001186	Narcolepsy	true	
+DOID:9008	psoriatic arthritis	ENSPHENO:0001339	Psoriatic arthritis	false	
+DOID:9008	psoriatic arthritis	ENSPHENO:0001339	Psoriatic arthritis	true	
+DOID:905	Zellweger syndrome	ENSPHENO:0001646	ZELLWEGER SYNDROME	false	
+DOID:905	Zellweger syndrome	ENSPHENO:0001646	ZELLWEGER SYNDROME	true	
+DOID:9074	systemic lupus erythematosus	ENSPHENO:0001524	Systemic lupus erythematosus	false	
+DOID:9074	systemic lupus erythematosus	ENSPHENO:0001524	Systemic lupus erythematosus	true	
+DOID:9248	Pallister-Hall syndrome	ENSPHENO:0001250	PALLISTER-HALL SYNDROME	false	
+DOID:9248	Pallister-Hall syndrome	ENSPHENO:0001250	PALLISTER-HALL SYNDROME	true	
+DOID:9255	frontotemporal dementia	ENSPHENO:0000546	FRONTOTEMPORAL DEMENTIA	false	
+DOID:9255	frontotemporal dementia	ENSPHENO:0000546	FRONTOTEMPORAL DEMENTIA	true	
+DOID:9256	colorectal cancer	ENSPHENO:0000016	A colorectal cancer sample	false	
+DOID:9256	colorectal cancer	ENSPHENO:0000382	Colorectal cancer	false	
+DOID:9256	colorectal cancer	ENSPHENO:0000382	Colorectal cancer	true	
+DOID:9261	nasopharynx carcinoma	ENSPHENO:0001187	Nasopharyngeal carcinoma	false	
+DOID:9261	nasopharynx carcinoma	ENSPHENO:0001187	Nasopharyngeal carcinoma	true	
+DOID:9266	cystinuria	ENSPHENO:0000347	CYSTINURIA	false	
+DOID:9266	cystinuria	ENSPHENO:0000347	CYSTINURIA	true	
+DOID:9270	alkaptonuria	ENSPHENO:0000124	Alkaptonuria	false	
+DOID:9270	alkaptonuria	ENSPHENO:0000124	Alkaptonuria	true	
+DOID:9271	ornithine carbamoyltransferase deficiency	ENSPHENO:0001220	ORNITHINE TRANSCARBAMYLASE DEFICIENCY	false	
+DOID:9271	ornithine carbamoyltransferase deficiency	ENSPHENO:0001220	ORNITHINE TRANSCARBAMYLASE DEFICIENCY	true	
+DOID:9278	hyperargininemia	ENSPHENO:0000139	Argininemia	false	
+DOID:9278	hyperargininemia	ENSPHENO:0000139	Argininemia	true	
+DOID:9281	phenylketonuria	ENSPHENO:0001314	Phenylketonuria	false	
+DOID:9281	phenylketonuria	ENSPHENO:0001314	Phenylketonuria	true	
+DOID:9352	type 2 diabetes mellitus	ENSPHENO:0000422	DIABETES MELLITUS NONINSULIN-DEPENDENT	false	
+DOID:9352	type 2 diabetes mellitus	ENSPHENO:0000422	DIABETES MELLITUS NONINSULIN-DEPENDENT	true	
+DOID:9538	multiple myeloma	ENSPHENO:0001040	MYELOMA MULTIPLE	true	
+DOID:9955	hypoplastic left heart syndrome	ENSPHENO:0000818	Hypoplastic left heart syndrome	false	
+DOID:9955	hypoplastic left heart syndrome	ENSPHENO:0000818	Hypoplastic left heart syndrome	true	
+DOID:9970	obesity	ENSPHENO:0001232	Obesity	false	
+DOID:9970	obesity	ENSPHENO:0001232	Obesity	true	
+ENSPHENO:0000014	A breast cancer sample	DOID:1612	breast cancer	false	
+ENSPHENO:0000014	A breast cancer sample	DOID:1612	breast cancer	true	
+ENSPHENO:0000015	A colon cancer sample	DOID:219	colon cancer	false	
+ENSPHENO:0000015	A colon cancer sample	DOID:219	colon cancer	true	
+ENSPHENO:0000016	A colorectal cancer sample	DOID:9256	colorectal cancer	false	
+ENSPHENO:0000022	ACRODERMATITIS ENTEROPATHICA	DOID:0050605	acrodermatitis enteropathica	false	
+ENSPHENO:0000022	ACRODERMATITIS ENTEROPATHICA	DOID:0050605	acrodermatitis enteropathica	true	
+ENSPHENO:0000030	ADULT SYNDROME	DOID:0050601	ADULT syndrome	false	
+ENSPHENO:0000030	ADULT SYNDROME	DOID:0050601	ADULT syndrome	true	
+ENSPHENO:0000038	AIDS	DOID:635	acquired immunodeficiency syndrome	false	
+ENSPHENO:0000038	AIDS	DOID:635	acquired immunodeficiency syndrome	true	
+ENSPHENO:0000053	ALLAN-HERNDON-DUDLEY SYNDROME	DOID:0050631	Allan-Herndon-Dudley syndrome	false	
+ENSPHENO:0000053	ALLAN-HERNDON-DUDLEY SYNDROME	DOID:0050631	Allan-Herndon-Dudley syndrome	true	
+ENSPHENO:0000054	ALLERGIC RHINITIS	DOID:4481	allergic rhinitis	false	
+ENSPHENO:0000054	ALLERGIC RHINITIS	DOID:4481	allergic rhinitis	true	
+ENSPHENO:0000067	AMYLOIDOSIS FAMILIAL VISCERAL	DOID:0050636	familial visceral amyloidosis	false	
+ENSPHENO:0000067	AMYLOIDOSIS FAMILIAL VISCERAL	DOID:0050636	familial visceral amyloidosis	true	
+ENSPHENO:0000068	AMYLOIDOSIS HEREDITARY TRANSTHYRETIN-RELATED	DOID:0050638	transthyretin amyloidosis	false	
+ENSPHENO:0000068	AMYLOIDOSIS HEREDITARY TRANSTHYRETIN-RELATED	DOID:0050638	transthyretin amyloidosis	true	
+ENSPHENO:0000080	ANONYCHIA CONGENITA	DOID:0050643	anonychia congenita	false	
+ENSPHENO:0000080	ANONYCHIA CONGENITA	DOID:0050643	anonychia congenita	true	
+ENSPHENO:0000081	APLASTIC ANEMIA	DOID:12449	aplastic anemia	false	
+ENSPHENO:0000081	APLASTIC ANEMIA	DOID:12449	aplastic anemia	true	
+ENSPHENO:0000084	ARGININOSUCCINIC ACIDURIA	DOID:14755	argininosuccinic aciduria	false	
+ENSPHENO:0000084	ARGININOSUCCINIC ACIDURIA	DOID:14755	argininosuccinic aciduria	true	
+ENSPHENO:0000087	ARTS SYNDROME	DOID:0050647	Arts syndrome	false	
+ENSPHENO:0000087	ARTS SYNDROME	DOID:0050647	Arts syndrome	true	
+ENSPHENO:0000112	Age-related macular degeneration	DOID:10871	age related macular degeneration	false	
+ENSPHENO:0000112	Age-related macular degeneration	DOID:10871	age related macular degeneration	true	
+ENSPHENO:0000123	Alexander disease	DOID:4252	Alexander disease	false	
+ENSPHENO:0000123	Alexander disease	DOID:4252	Alexander disease	true	
+ENSPHENO:0000124	Alkaptonuria	DOID:9270	alkaptonuria	false	
+ENSPHENO:0000124	Alkaptonuria	DOID:9270	alkaptonuria	true	
+ENSPHENO:0000125	Alopecia universalis congenita	DOID:0050634	alopecia universalis	false	
+ENSPHENO:0000125	Alopecia universalis congenita	DOID:0050634	alopecia universalis	true	
+ENSPHENO:0000126	Alternating hemiplegia of childhood	DOID:0050635	alternating hemiplegia of childhood	false	
+ENSPHENO:0000126	Alternating hemiplegia of childhood	DOID:0050635	alternating hemiplegia of childhood	true	
+ENSPHENO:0000128	Alzheimer's disease	DOID:10652	Alzheimer's disease	false	
+ENSPHENO:0000128	Alzheimer's disease	DOID:10652	Alzheimer's disease	true	
+ENSPHENO:0000135	Amyotrophic lateral sclerosis	DOID:332	amyotrophic lateral sclerosis	false	
+ENSPHENO:0000135	Amyotrophic lateral sclerosis	DOID:332	amyotrophic lateral sclerosis	true	
+ENSPHENO:0000137	Anorexia nervosa	DOID:8689	anorexia nervosa	false	
+ENSPHENO:0000137	Anorexia nervosa	DOID:8689	anorexia nervosa	true	
+ENSPHENO:0000139	Argininemia	DOID:9278	hyperargininemia	false	
+ENSPHENO:0000139	Argininemia	DOID:9278	hyperargininemia	true	
+ENSPHENO:0000142	Asperger disorder	DOID:0050432	Asperger syndrome	false	
+ENSPHENO:0000143	Asthma	DOID:2841	asthma	false	
+ENSPHENO:0000143	Asthma	DOID:2841	asthma	true	
+ENSPHENO:0000150	Attention deficit hyperactivity disorder	DOID:1094	attention deficit hyperactivity disorder	false	
+ENSPHENO:0000150	Attention deficit hyperactivity disorder	DOID:1094	attention deficit hyperactivity disorder	true	
+ENSPHENO:0000154	Autism	DOID:12849	autistic disorder	false	
+ENSPHENO:0000154	Autism	DOID:12849	autistic disorder	true	
+ENSPHENO:0000155	BARDET-BIEDL SYNDROME	DOID:1935	Bardet-Biedl syndrome	false	
+ENSPHENO:0000155	BARDET-BIEDL SYNDROME	DOID:1935	Bardet-Biedl syndrome	true	
+ENSPHENO:0000162	BECKWITH-WIEDEMANN SYNDROME	DOID:5572	Beckwith-Wiedemann syndrome	false	
+ENSPHENO:0000162	BECKWITH-WIEDEMANN SYNDROME	DOID:5572	Beckwith-Wiedemann syndrome	true	
+ENSPHENO:0000166	BEST MACULAR DYSTROPHY	DOID:0050661	vitelliform macular dystrophy	false	
+ENSPHENO:0000166	BEST MACULAR DYSTROPHY	DOID:0050661	vitelliform macular dystrophy	true	
+ENSPHENO:0000167	BETA-THALASSEMIA	DOID:12241	beta thalassemia	false	
+ENSPHENO:0000167	BETA-THALASSEMIA	DOID:12241	beta thalassemia	true	
+ENSPHENO:0000172	BLAU SYNDROME	DOID:0050678	Blau syndrome	false	
+ENSPHENO:0000172	BLAU SYNDROME	DOID:0050678	Blau syndrome	true	
+ENSPHENO:0000193	BURKITT LYMPHOMA	DOID:8584	Burkitt's lymphoma	false	
+ENSPHENO:0000193	BURKITT LYMPHOMA	DOID:8584	Burkitt's lymphoma	true	
+ENSPHENO:0000197	Bernard-Soulier syndrome	DOID:2217	Bernard-Soulier syndrome	false	
+ENSPHENO:0000197	Bernard-Soulier syndrome	DOID:2217	Bernard-Soulier syndrome	true	
+ENSPHENO:0000198	Biliary atresia	DOID:13608	biliary atresia	false	
+ENSPHENO:0000198	Biliary atresia	DOID:13608	biliary atresia	true	
+ENSPHENO:0000203	Bipolar disorder	DOID:3312	bipolar disorder	false	
+ENSPHENO:0000203	Bipolar disorder	DOID:3312	bipolar disorder	true	
+ENSPHENO:0000205	Bladder cancer	DOID:11054	urinary bladder cancer	false	
+ENSPHENO:0000205	Bladder cancer	DOID:11054	urinary bladder cancer	true	
+ENSPHENO:0000250	Breast cancer	DOID:1612	breast cancer	false	
+ENSPHENO:0000250	Breast cancer	DOID:1612	breast cancer	true	
+ENSPHENO:0000252	Bullous congenital ichthyosiform erythroderma	DOID:4603	epidermolytic hyperkeratosis	false	
+ENSPHENO:0000252	Bullous congenital ichthyosiform erythroderma	DOID:4603	epidermolytic hyperkeratosis	true	
+ENSPHENO:0000255	CAMURATI-ENGELMANN DISEASE	DOID:4997	Camurati-Engelmann disease	false	
+ENSPHENO:0000255	CAMURATI-ENGELMANN DISEASE	DOID:4997	Camurati-Engelmann disease	true	
+ENSPHENO:0000262	CARDIOMYOPATHY FAMILIAL HYPERTROPHIC	DOID:11986	familial hypertrophic cardiomyopathy	false	
+ENSPHENO:0000262	CARDIOMYOPATHY FAMILIAL HYPERTROPHIC	DOID:11986	familial hypertrophic cardiomyopathy	true	
+ENSPHENO:0000279	CENTRAL CORE DISEASE	DOID:3529	central core myopathy	false	
+ENSPHENO:0000279	CENTRAL CORE DISEASE	DOID:3529	central core myopathy	true	
+ENSPHENO:0000291	CHARCOT-MARIE-TOOTH DISEASE TYPE 1A	DOID:0050538	Charcot-Marie-Tooth disease type 1	false	
+ENSPHENO:0000291	CHARCOT-MARIE-TOOTH DISEASE TYPE 1A	DOID:0050538	Charcot-Marie-Tooth disease type 1	true	
+ENSPHENO:0000309	CLEIDOCRANIAL DYSPLASIA	DOID:13994	cleidocranial dysplasia	false	
+ENSPHENO:0000309	CLEIDOCRANIAL DYSPLASIA	DOID:13994	cleidocranial dysplasia	true	
+ENSPHENO:0000347	CYSTINURIA	DOID:9266	cystinuria	false	
+ENSPHENO:0000347	CYSTINURIA	DOID:9266	cystinuria	true	
+ENSPHENO:0000349	Canavan disease	DOID:3613	Canavan disease	false	
+ENSPHENO:0000349	Canavan disease	DOID:3613	Canavan disease	true	
+ENSPHENO:0000352	Cannabis dependence	DOID:1849	cannabis dependence	false	
+ENSPHENO:0000352	Cannabis dependence	DOID:1849	cannabis dependence	true	
+ENSPHENO:0000362	Celiac disease	DOID:10608	celiac disease	false	
+ENSPHENO:0000362	Celiac disease	DOID:10608	celiac disease	true	
+ENSPHENO:0000370	Chediak-Higashi syndrome	DOID:2935	Chediak-Higashi syndrome	false	
+ENSPHENO:0000370	Chediak-Higashi syndrome	DOID:2935	Chediak-Higashi syndrome	true	
+ENSPHENO:0000371	Cherubism	DOID:1856	cherubism	false	
+ENSPHENO:0000371	Cherubism	DOID:1856	cherubism	true	
+ENSPHENO:0000377	Chronic lymphocytic leukemia	DOID:1040	chronic lymphocytic leukemia	false	
+ENSPHENO:0000377	Chronic lymphocytic leukemia	DOID:1040	chronic lymphocytic leukemia	true	
+ENSPHENO:0000378	Chronic obstructive pulmonary disease	DOID:3083	chronic obstructive pulmonary disease	false	
+ENSPHENO:0000378	Chronic obstructive pulmonary disease	DOID:3083	chronic obstructive pulmonary disease	true	
+ENSPHENO:0000382	Colorectal cancer	DOID:9256	colorectal cancer	false	
+ENSPHENO:0000382	Colorectal cancer	DOID:9256	colorectal cancer	true	
+ENSPHENO:0000392	Coronary heart disease	DOID:3393	coronary heart disease	false	
+ENSPHENO:0000392	Coronary heart disease	DOID:3393	coronary heart disease	true	
+ENSPHENO:0000395	Craniofrontonasal syndrome	DOID:14737	craniofrontonasal syndrome	false	
+ENSPHENO:0000395	Craniofrontonasal syndrome	DOID:14737	craniofrontonasal syndrome	true	
+ENSPHENO:0000398	Crohn's disease	DOID:8778	Crohn's disease	false	
+ENSPHENO:0000398	Crohn's disease	DOID:8778	Crohn's disease	true	
+ENSPHENO:0000401	Cryptorchidism	DOID:11383	cryptorchidism	false	
+ENSPHENO:0000401	Cryptorchidism	DOID:11383	cryptorchidism	true	
+ENSPHENO:0000402	Cystic fibrosis	DOID:1485	cystic fibrosis	false	
+ENSPHENO:0000402	Cystic fibrosis	DOID:1485	cystic fibrosis	true	
+ENSPHENO:0000422	DIABETES MELLITUS NONINSULIN-DEPENDENT	DOID:9352	type 2 diabetes mellitus	false	
+ENSPHENO:0000422	DIABETES MELLITUS NONINSULIN-DEPENDENT	DOID:9352	type 2 diabetes mellitus	true	
+ENSPHENO:0000429	DONOHUE SYNDROME	DOID:0050470	Donohue Syndrome	false	
+ENSPHENO:0000429	DONOHUE SYNDROME	DOID:0050470	Donohue Syndrome	true	
+ENSPHENO:0000439	Diabetic retinopathy	DOID:8947	diabetic retinopathy	false	
+ENSPHENO:0000439	Diabetic retinopathy	DOID:8947	diabetic retinopathy	true	
+ENSPHENO:0000443	Dilated cardiomyopathy	DOID:12930	dilated cardiomyopathy	false	
+ENSPHENO:0000443	Dilated cardiomyopathy	DOID:12930	dilated cardiomyopathy	true	
+ENSPHENO:0000474	ENDOMETRIAL CANCER	DOID:1380	endometrial cancer	false	
+ENSPHENO:0000474	ENDOMETRIAL CANCER	DOID:1380	endometrial cancer	true	
+ENSPHENO:0000483	EPIDERMOLYTIC HYPERKERATOSIS	DOID:4603	epidermolytic hyperkeratosis	false	
+ENSPHENO:0000483	EPIDERMOLYTIC HYPERKERATOSIS	DOID:4603	epidermolytic hyperkeratosis	true	
+ENSPHENO:0000515	Esophageal cancer	DOID:5041	esophageal cancer	false	
+ENSPHENO:0000515	Esophageal cancer	DOID:5041	esophageal cancer	true	
+ENSPHENO:0000526	FAMILIAL MEDITERRANEAN FEVER	DOID:2987	familial Mediterranean fever	false	
+ENSPHENO:0000526	FAMILIAL MEDITERRANEAN FEVER	DOID:2987	familial Mediterranean fever	true	
+ENSPHENO:0000545	FRIEDREICH ATAXIA	DOID:12705	Friedreich ataxia	false	
+ENSPHENO:0000545	FRIEDREICH ATAXIA	DOID:12705	Friedreich ataxia	true	
+ENSPHENO:0000546	FRONTOTEMPORAL DEMENTIA	DOID:9255	frontotemporal dementia	false	
+ENSPHENO:0000546	FRONTOTEMPORAL DEMENTIA	DOID:9255	frontotemporal dementia	true	
+ENSPHENO:0000549	FUCOSIDOSIS	DOID:14500	fucosidosis	false	
+ENSPHENO:0000549	FUCOSIDOSIS	DOID:14500	fucosidosis	true	
+ENSPHENO:0000553	Fabry disease	DOID:14499	Fabry disease	false	
+ENSPHENO:0000553	Fabry disease	DOID:14499	Fabry disease	true	
+ENSPHENO:0000554	Factor XI deficiency	DOID:2229	factor XI deficiency	false	
+ENSPHENO:0000554	Factor XI deficiency	DOID:2229	factor XI deficiency	true	
+ENSPHENO:0000558	Familial hypercholesterolemia	DOID:13810	familial hypercholesterolemia	false	
+ENSPHENO:0000558	Familial hypercholesterolemia	DOID:13810	familial hypercholesterolemia	true	
+ENSPHENO:0000563	Fanconi anemia	DOID:13636	Fanconi's anemia	false	
+ENSPHENO:0000563	Fanconi anemia	DOID:13636	Fanconi's anemia	true	
+ENSPHENO:0000572	GALACTOKINASE DEFICIENCY	DOID:14695	galactokinase deficiency	false	
+ENSPHENO:0000572	GALACTOKINASE DEFICIENCY	DOID:14695	galactokinase deficiency	true	
+ENSPHENO:0000575	GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS	DOID:0060170	generalized epilepsy with febrile seizures plus	false	
+ENSPHENO:0000575	GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS	DOID:0060170	generalized epilepsy with febrile seizures plus	true	
+ENSPHENO:0000577	GERSTMANN-STRAUSSLER DISEASE	DOID:4249	Gerstmann-Straussler-Scheinker disease	false	
+ENSPHENO:0000577	GERSTMANN-STRAUSSLER DISEASE	DOID:4249	Gerstmann-Straussler-Scheinker disease	true	
+ENSPHENO:0000588	GLYCOGEN STORAGE DISEASE III	DOID:2748	glycogen storage disease III	false	
+ENSPHENO:0000588	GLYCOGEN STORAGE DISEASE III	DOID:2748	glycogen storage disease III	true	
+ENSPHENO:0000593	GLYCOGEN STORAGE DISEASE VI	DOID:2754	glycogen storage disease VI	false	
+ENSPHENO:0000593	GLYCOGEN STORAGE DISEASE VI	DOID:2754	glycogen storage disease VI	true	
+ENSPHENO:0000604	Gaucher disease	DOID:1926	Gaucher's disease	false	
+ENSPHENO:0000604	Gaucher disease	DOID:1926	Gaucher's disease	true	
+ENSPHENO:0000608	Gilbert syndrome	DOID:2739	Gilbert syndrome	false	
+ENSPHENO:0000608	Gilbert syndrome	DOID:2739	Gilbert syndrome	true	
+ENSPHENO:0000609	Glaucoma	DOID:1686	glaucoma	false	
+ENSPHENO:0000609	Glaucoma	DOID:1686	glaucoma	true	
+ENSPHENO:0000613	Glioma	DOID:3070	malignant glioma	false	
+ENSPHENO:0000613	Glioma	DOID:3070	malignant glioma	true	
+ENSPHENO:0000618	Graves' disease	DOID:12361	Graves' disease	false	
+ENSPHENO:0000618	Graves' disease	DOID:12361	Graves' disease	true	
+ENSPHENO:0000728	HEMOPHILIA B	DOID:12259	hemophilia B	false	
+ENSPHENO:0000728	HEMOPHILIA B	DOID:12259	hemophilia B	true	
+ENSPHENO:0000741	HISTIDINEMIA	DOID:0060168	histidinemia	false	
+ENSPHENO:0000741	HISTIDINEMIA	DOID:0060168	histidinemia	true	
+ENSPHENO:0000751	HUNTINGTON DISEASE	DOID:12858	Huntington's disease	false	
+ENSPHENO:0000751	HUNTINGTON DISEASE	DOID:12858	Huntington's disease	true	
+ENSPHENO:0000770	HYPOGONADOTROPIC HYPOGONADISM	DOID:1921	Klinefelter's syndrome	false	
+ENSPHENO:0000770	HYPOGONADOTROPIC HYPOGONADISM	DOID:1921	Klinefelter's syndrome	true	
+ENSPHENO:0000791	Heart failure	DOID:6000	heart failure	false	
+ENSPHENO:0000791	Heart failure	DOID:6000	heart failure	true	
+ENSPHENO:0000802	Hepatitis B	DOID:2043	hepatitis B	false	
+ENSPHENO:0000802	Hepatitis B	DOID:2043	hepatitis B	true	
+ENSPHENO:0000803	Hepatocellular carcinoma	DOID:684	hepatocellular carcinoma	false	
+ENSPHENO:0000803	Hepatocellular carcinoma	DOID:684	hepatocellular carcinoma	true	
+ENSPHENO:0000810	Holocarboxylase synthetase deficiency	DOID:859	holocarboxylase synthetase deficiency	false	
+ENSPHENO:0000810	Holocarboxylase synthetase deficiency	DOID:859	holocarboxylase synthetase deficiency	true	
+ENSPHENO:0000813	Hutchinson-Gilford progeria syndrome	DOID:3911	progeria	false	
+ENSPHENO:0000813	Hutchinson-Gilford progeria syndrome	DOID:3911	progeria	true	
+ENSPHENO:0000814	Hypertension	DOID:10763	hypertension	false	
+ENSPHENO:0000814	Hypertension	DOID:10763	hypertension	true	
+ENSPHENO:0000816	Hypochondroplasia	DOID:0080041	hypochondroplasia	false	
+ENSPHENO:0000816	Hypochondroplasia	DOID:0080041	hypochondroplasia	true	
+ENSPHENO:0000818	Hypoplastic left heart syndrome	DOID:9955	hypoplastic left heart syndrome	false	
+ENSPHENO:0000818	Hypoplastic left heart syndrome	DOID:9955	hypoplastic left heart syndrome	true	
+ENSPHENO:0000819	Hypospadias	DOID:10892	hypospadias	false	
+ENSPHENO:0000819	Hypospadias	DOID:10892	hypospadias	true	
+ENSPHENO:0000849	ISOVALERIC ACIDEMIA	DOID:14753	isovaleric acidemia	false	
+ENSPHENO:0000849	ISOVALERIC ACIDEMIA	DOID:14753	isovaleric acidemia	true	
+ENSPHENO:0000855	Inflammatory bowel disease	DOID:0050589	inflammatory bowel disease	false	
+ENSPHENO:0000855	Inflammatory bowel disease	DOID:0050589	inflammatory bowel disease	true	
+ENSPHENO:0000859	Intracranial aneurysm	DOID:10941	intracranial aneurysm	false	
+ENSPHENO:0000859	Intracranial aneurysm	DOID:10941	intracranial aneurysm	true	
+ENSPHENO:0000875	KNUCKLE PADS LEUKONYCHIA AND SENSORINEURAL DEAFNESS	DOID:0050658	Bart-Pumphrey syndrome	false	
+ENSPHENO:0000875	KNUCKLE PADS LEUKONYCHIA AND SENSORINEURAL DEAFNESS	DOID:0050658	Bart-Pumphrey syndrome	true	
+ENSPHENO:0000883	LADD SYNDROME	DOID:0050331	LADD syndrome	false	
+ENSPHENO:0000883	LADD SYNDROME	DOID:0050331	LADD syndrome	true	
+ENSPHENO:0000922	Leprechaunism	DOID:0050470	Donohue Syndrome	false	
+ENSPHENO:0000922	Leprechaunism	DOID:0050470	Donohue Syndrome	true	
+ENSPHENO:0000923	Leprosy	DOID:1024	leprosy	false	
+ENSPHENO:0000923	Leprosy	DOID:1024	leprosy	true	
+ENSPHENO:0000924	Leukodystrophy globoid cell	DOID:10587	Krabbe disease	false	
+ENSPHENO:0000924	Leukodystrophy globoid cell	DOID:10587	Krabbe disease	true	
+ENSPHENO:0000925	Leukodystrophy metachromatic	DOID:10581	metachromatic leukodystrophy	false	
+ENSPHENO:0000925	Leukodystrophy metachromatic	DOID:10581	metachromatic leukodystrophy	true	
+ENSPHENO:0000926	Li-Fraumeni syndrome	DOID:3012	Li-Fraumeni syndrome	false	
+ENSPHENO:0000926	Li-Fraumeni syndrome	DOID:3012	Li-Fraumeni syndrome	true	
+ENSPHENO:0000947	Lung cancer	DOID:1324	lung cancer	false	
+ENSPHENO:0000947	Lung cancer	DOID:1324	lung cancer	true	
+ENSPHENO:0000947	Lung cancer	DOID:3905	lung carcinoma	false	
+ENSPHENO:0000947	Lung cancer	DOID:3905	lung carcinoma	true	
+ENSPHENO:0000949	Lung carcinoma	DOID:3905	lung carcinoma	false	
+ENSPHENO:0000949	Lung carcinoma	DOID:3905	lung carcinoma	true	
+ENSPHENO:0000979	MENKES DISEASE	DOID:1838	Menkes disease	false	
+ENSPHENO:0000979	MENKES DISEASE	DOID:1838	Menkes disease	true	
+ENSPHENO:0000991	METACHROMATIC LEUKODYSTROPHY	DOID:10581	metachromatic leukodystrophy	false	
+ENSPHENO:0000991	METACHROMATIC LEUKODYSTROPHY	DOID:10581	metachromatic leukodystrophy	true	
+ENSPHENO:0001015	MUCOPOLYSACCHARIDOSIS TYPE IIIB	DOID:12801	mucopolysaccharidosis III	false	
+ENSPHENO:0001015	MUCOPOLYSACCHARIDOSIS TYPE IIIB	DOID:12801	mucopolysaccharidosis III	true	
+ENSPHENO:0001018	MUCOPOLYSACCHARIDOSIS TYPE IVA	DOID:12804	mucopolysaccharidosis IV	false	
+ENSPHENO:0001018	MUCOPOLYSACCHARIDOSIS TYPE IVA	DOID:12804	mucopolysaccharidosis IV	true	
+ENSPHENO:0001040	MYELOMA MULTIPLE	DOID:9538	multiple myeloma	true	
+ENSPHENO:0001049	Macular corneal dystrophy	DOID:2565	macular corneal dystrophy	false	
+ENSPHENO:0001049	Macular corneal dystrophy	DOID:2565	macular corneal dystrophy	true	
+ENSPHENO:0001051	Major depressive disorder	DOID:1470	major depressive disorder	false	
+ENSPHENO:0001051	Major depressive disorder	DOID:1470	major depressive disorder	true	
+ENSPHENO:0001055	Marfan syndrome	DOID:14323	Marfan syndrome	false	
+ENSPHENO:0001055	Marfan syndrome	DOID:14323	Marfan syndrome	true	
+ENSPHENO:0001062	Melanoma	DOID:1909	melanoma	false	
+ENSPHENO:0001062	Melanoma	DOID:1909	melanoma	true	
+ENSPHENO:0001066	Metabolic syndrome	DOID:0014667	disease of metabolism	false	
+ENSPHENO:0001069	Methylmalonic aciduria type cblB	DOID:14749	methylmalonic acidemia	false	
+ENSPHENO:0001069	Methylmalonic aciduria type cblB	DOID:14749	methylmalonic acidemia	true	
+ENSPHENO:0001070	Migraine	DOID:6364	migraine	false	
+ENSPHENO:0001070	Migraine	DOID:6364	migraine	true	
+ENSPHENO:0001074	Mitochondrial complex IV deficiency	DOID:3762	cytochrome-c oxidase deficiency	false	
+ENSPHENO:0001074	Mitochondrial complex IV deficiency	DOID:3762	cytochrome-c oxidase deficiency	true	
+ENSPHENO:0001077	Moyamoya disease	DOID:13099	Moyamoya disease	false	
+ENSPHENO:0001077	Moyamoya disease	DOID:13099	Moyamoya disease	true	
+ENSPHENO:0001144	Multiple sclerosis	DOID:2377	multiple sclerosis	false	
+ENSPHENO:0001144	Multiple sclerosis	DOID:2377	multiple sclerosis	true	
+ENSPHENO:0001156	Myocardial infarction	DOID:5844	myocardial infarction	false	
+ENSPHENO:0001156	Myocardial infarction	DOID:5844	myocardial infarction	true	
+ENSPHENO:0001165	NEPHROLITHIASIS CALCIUM OXALATE	DOID:585	nephrolithiasis	false	
+ENSPHENO:0001165	NEPHROLITHIASIS CALCIUM OXALATE	DOID:585	nephrolithiasis	true	
+ENSPHENO:0001176	NIEMANN-PICK DISEASE TYPE A	DOID:14504	Niemann-Pick disease	false	
+ENSPHENO:0001176	NIEMANN-PICK DISEASE TYPE A	DOID:14504	Niemann-Pick disease	true	
+ENSPHENO:0001177	NIEMANN-PICK DISEASE TYPE B	DOID:14504	Niemann-Pick disease	false	
+ENSPHENO:0001177	NIEMANN-PICK DISEASE TYPE B	DOID:14504	Niemann-Pick disease	true	
+ENSPHENO:0001186	Narcolepsy	DOID:8986	narcolepsy	false	
+ENSPHENO:0001186	Narcolepsy	DOID:8986	narcolepsy	true	
+ENSPHENO:0001187	Nasopharyngeal carcinoma	DOID:9261	nasopharynx carcinoma	false	
+ENSPHENO:0001187	Nasopharyngeal carcinoma	DOID:9261	nasopharynx carcinoma	true	
+ENSPHENO:0001208	OBESITY SEVERE	DOID:11981	morbid obesity	false	
+ENSPHENO:0001208	OBESITY SEVERE	DOID:11981	morbid obesity	true	
+ENSPHENO:0001212	OCULOPHARYNGEAL MUSCULAR DYSTROPHY	DOID:11719	oculopharyngeal muscular dystrophy	false	
+ENSPHENO:0001212	OCULOPHARYNGEAL MUSCULAR DYSTROPHY	DOID:11719	oculopharyngeal muscular dystrophy	true	
+ENSPHENO:0001215	OMENN SYNDROME	DOID:0060010	Omenn syndrome	false	
+ENSPHENO:0001215	OMENN SYNDROME	DOID:0060010	Omenn syndrome	true	
+ENSPHENO:0001220	ORNITHINE TRANSCARBAMYLASE DEFICIENCY	DOID:9271	ornithine carbamoyltransferase deficiency	false	
+ENSPHENO:0001220	ORNITHINE TRANSCARBAMYLASE DEFICIENCY	DOID:9271	ornithine carbamoyltransferase deficiency	true	
+ENSPHENO:0001224	OSTEOGENESIS IMPERFECTA	DOID:12347	osteogenesis imperfecta	false	
+ENSPHENO:0001224	OSTEOGENESIS IMPERFECTA	DOID:12347	osteogenesis imperfecta	true	
+ENSPHENO:0001232	Obesity	DOID:9970	obesity	false	
+ENSPHENO:0001232	Obesity	DOID:9970	obesity	true	
+ENSPHENO:0001243	Osteoporosis	DOID:11476	osteoporosis	false	
+ENSPHENO:0001243	Osteoporosis	DOID:11476	osteoporosis	true	
+ENSPHENO:0001245	Ovarian cancer	DOID:2394	ovarian cancer	false	
+ENSPHENO:0001245	Ovarian cancer	DOID:2394	ovarian cancer	true	
+ENSPHENO:0001246	Ovarian hyperstimulation syndrome	DOID:5425	ovarian hyperstimulation syndrome	false	
+ENSPHENO:0001246	Ovarian hyperstimulation syndrome	DOID:5425	ovarian hyperstimulation syndrome	true	
+ENSPHENO:0001247	PACHYONYCHIA CONGENITA TYPE 1	DOID:0050449	pachyonychia congenita	false	
+ENSPHENO:0001247	PACHYONYCHIA CONGENITA TYPE 1	DOID:0050449	pachyonychia congenita	true	
+ENSPHENO:0001249	PAGET DISEASE OF BONE	DOID:5408	Paget's disease of bone	false	
+ENSPHENO:0001249	PAGET DISEASE OF BONE	DOID:5408	Paget's disease of bone	true	
+ENSPHENO:0001250	PALLISTER-HALL SYNDROME	DOID:9248	Pallister-Hall syndrome	false	
+ENSPHENO:0001250	PALLISTER-HALL SYNDROME	DOID:9248	Pallister-Hall syndrome	true	
+ENSPHENO:0001254	PAPILLON-LEFEVRE SYNDROME	DOID:3389	Papillon-Lefevre disease	false	
+ENSPHENO:0001254	PAPILLON-LEFEVRE SYNDROME	DOID:3389	Papillon-Lefevre disease	true	
+ENSPHENO:0001276	PITUITARY ADENOMA GROWTH HORMONE-SECRETING	DOID:6255	growth hormone secreting pituitary adenoma	true	
+ENSPHENO:0001282	PORPHYRIA ACUTE INTERMITTENT	DOID:3890	acute intermittent porphyria	true	
+ENSPHENO:0001301	Pachyonychia congenita type 1	DOID:0050449	pachyonychia congenita	false	
+ENSPHENO:0001301	Pachyonychia congenita type 1	DOID:0050449	pachyonychia congenita	true	
+ENSPHENO:0001302	Paget's disease	DOID:3443	mammary Paget's disease	false	
+ENSPHENO:0001302	Paget's disease	DOID:3443	mammary Paget's disease	true	
+ENSPHENO:0001305	Pancreatic cancer	DOID:1793	pancreatic cancer	false	
+ENSPHENO:0001305	Pancreatic cancer	DOID:1793	pancreatic cancer	true	
+ENSPHENO:0001306	Panic disorder	DOID:594	panic disorder	false	
+ENSPHENO:0001306	Panic disorder	DOID:594	panic disorder	true	
+ENSPHENO:0001307	Parkinson disease	DOID:14330	Parkinson's disease	false	
+ENSPHENO:0001307	Parkinson disease	DOID:14330	Parkinson's disease	true	
+ENSPHENO:0001309	Parkinson's disease	DOID:14330	Parkinson's disease	false	
+ENSPHENO:0001309	Parkinson's disease	DOID:14330	Parkinson's disease	true	
+ENSPHENO:0001314	Phenylketonuria	DOID:9281	phenylketonuria	false	
+ENSPHENO:0001314	Phenylketonuria	DOID:9281	phenylketonuria	true	
+ENSPHENO:0001329	Primary biliary cirrhosis	DOID:12236	primary biliary cirrhosis	false	
+ENSPHENO:0001329	Primary biliary cirrhosis	DOID:12236	primary biliary cirrhosis	true	
+ENSPHENO:0001332	Progressive Supranuclear Palsy	DOID:678	progressive supranuclear palsy	false	
+ENSPHENO:0001332	Progressive Supranuclear Palsy	DOID:678	progressive supranuclear palsy	true	
+ENSPHENO:0001334	Prostate cancer	DOID:10283	prostate cancer	false	
+ENSPHENO:0001334	Prostate cancer	DOID:10283	prostate cancer	true	
+ENSPHENO:0001334	Prostate cancer	DOID:10286	prostate carcinoma	false	
+ENSPHENO:0001334	Prostate cancer	DOID:10286	prostate carcinoma	true	
+ENSPHENO:0001337	Pseudoxanthoma elasticum	DOID:2738	pseudoxanthoma elasticum	false	
+ENSPHENO:0001337	Pseudoxanthoma elasticum	DOID:2738	pseudoxanthoma elasticum	true	
+ENSPHENO:0001338	Psoriasis	DOID:8893	psoriasis	false	
+ENSPHENO:0001338	Psoriasis	DOID:8893	psoriasis	true	
+ENSPHENO:0001339	Psoriatic arthritis	DOID:9008	psoriatic arthritis	false	
+ENSPHENO:0001339	Psoriatic arthritis	DOID:9008	psoriatic arthritis	true	
+ENSPHENO:0001348	Pycnodysostosis	DOID:0080038	pycnodysostosis	false	
+ENSPHENO:0001348	Pycnodysostosis	DOID:0080038	pycnodysostosis	true	
+ENSPHENO:0001349	Pyruvate carboxylase deficiency	DOID:3651	pyruvate carboxylase deficiency disease	true	
+ENSPHENO:0001356	RENAL AGENESIS	DOID:14766	renal agenesis	false	
+ENSPHENO:0001356	RENAL AGENESIS	DOID:14766	renal agenesis	true	
+ENSPHENO:0001379	RETINOBLASTOMA	DOID:768	retinoblastoma	false	
+ENSPHENO:0001379	RETINOBLASTOMA	DOID:768	retinoblastoma	true	
+ENSPHENO:0001384	RIEGER ANOMALY	DOID:14686	Axenfeld-Rieger syndrome	false	
+ENSPHENO:0001384	RIEGER ANOMALY	DOID:14686	Axenfeld-Rieger syndrome	true	
+ENSPHENO:0001388	ROBERTS SYNDROME	DOID:5325	Roberts syndrome	false	
+ENSPHENO:0001388	ROBERTS SYNDROME	DOID:5325	Roberts syndrome	true	
+ENSPHENO:0001395	Renal cell carcinoma	DOID:4450	renal cell carcinoma	false	
+ENSPHENO:0001395	Renal cell carcinoma	DOID:4450	renal cell carcinoma	true	
+ENSPHENO:0001404	Restless Leg Syndrome	DOID:0050425	restless legs syndrome	true	
+ENSPHENO:0001406	Restless legs syndrome	DOID:0050425	restless legs syndrome	false	
+ENSPHENO:0001406	Restless legs syndrome	DOID:0050425	restless legs syndrome	true	
+ENSPHENO:0001408	Rett syndrome	DOID:1206	Rett syndrome	false	
+ENSPHENO:0001408	Rett syndrome	DOID:1206	Rett syndrome	true	
+ENSPHENO:0001410	Rheumatoid arthritis	DOID:7148	rheumatoid arthritis	false	
+ENSPHENO:0001410	Rheumatoid arthritis	DOID:7148	rheumatoid arthritis	true	
+ENSPHENO:0001413	SAETHRE-CHOTZEN SYNDROME	DOID:14768	Saethre-Chotzen syndrome	false	
+ENSPHENO:0001413	SAETHRE-CHOTZEN SYNDROME	DOID:14768	Saethre-Chotzen syndrome	true	
+ENSPHENO:0001414	SANFILIPPO SYNDROME A	DOID:12801	mucopolysaccharidosis III	false	
+ENSPHENO:0001414	SANFILIPPO SYNDROME A	DOID:12801	mucopolysaccharidosis III	true	
+ENSPHENO:0001416	SC PHOCOMELIA SYNDROME	DOID:0050536	SC phocomelia syndrome	false	
+ENSPHENO:0001416	SC PHOCOMELIA SYNDROME	DOID:0050536	SC phocomelia syndrome	true	
+ENSPHENO:0001428	SEVERE COMBINED IMMUNODEFICIENCY X-LINKED	DOID:0060013	gamma chain deficiency	true	
+ENSPHENO:0001434	SICKLE CELL ANEMIA	DOID:10923	sickle cell anemia	false	
+ENSPHENO:0001434	SICKLE CELL ANEMIA	DOID:10923	sickle cell anemia	true	
+ENSPHENO:0001451	SPINOCEREBELLAR ATAXIA 1	DOID:14784	olivopontocerebellar atrophy	false	
+ENSPHENO:0001451	SPINOCEREBELLAR ATAXIA 1	DOID:14784	olivopontocerebellar atrophy	true	
+ENSPHENO:0001468	SUCCINIC SEMIALDEHYDE DEHYDROGENASE DEFICIENCY	DOID:0060175	succinic semialdehyde dehydrogenase deficiency	false	
+ENSPHENO:0001468	SUCCINIC SEMIALDEHYDE DEHYDROGENASE DEFICIENCY	DOID:0060175	succinic semialdehyde dehydrogenase deficiency	true	
+ENSPHENO:0001477	Schizophrenia	DOID:5419	schizophrenia	false	
+ENSPHENO:0001477	Schizophrenia	DOID:5419	schizophrenia	true	
+ENSPHENO:0001503	Smith-Lemli-Opitz syndrome	DOID:14692	Smith-Lemli-Opitz syndrome	false	
+ENSPHENO:0001503	Smith-Lemli-Opitz syndrome	DOID:14692	Smith-Lemli-Opitz syndrome	true	
+ENSPHENO:0001512	Squamous cell carcinoma	DOID:1749	squamous cell carcinoma	false	
+ENSPHENO:0001512	Squamous cell carcinoma	DOID:1749	squamous cell carcinoma	true	
+ENSPHENO:0001514	Stroke	DOID:3455	cerebrovascular accident	false	
+ENSPHENO:0001514	Stroke	DOID:3455	cerebrovascular accident	true	
+ENSPHENO:0001524	Systemic lupus erythematosus	DOID:9074	systemic lupus erythematosus	false	
+ENSPHENO:0001524	Systemic lupus erythematosus	DOID:9074	systemic lupus erythematosus	true	
+ENSPHENO:0001525	Systemic sclerosis	DOID:418	systemic scleroderma	false	
+ENSPHENO:0001525	Systemic sclerosis	DOID:418	systemic scleroderma	true	
+ENSPHENO:0001527	TAY-SACHS DISEASE	DOID:3320	Tay-Sachs disease	false	
+ENSPHENO:0001527	TAY-SACHS DISEASE	DOID:3320	Tay-Sachs disease	true	
+ENSPHENO:0001537	THYROID CARCINOMA FAMILIAL MEDULLARY	DOID:0050547	familial medullary thyroid carcinoma	false	
+ENSPHENO:0001537	THYROID CARCINOMA FAMILIAL MEDULLARY	DOID:0050547	familial medullary thyroid carcinoma	true	
+ENSPHENO:0001549	TREACHER COLLINS SYNDROME	DOID:2908	Treacher Collins syndrome	false	
+ENSPHENO:0001549	TREACHER COLLINS SYNDROME	DOID:2908	Treacher Collins syndrome	true	
+ENSPHENO:0001550	TRICHORHINOPHALANGEAL SYNDROME TYPE I	DOID:14743	trichorhinophalangeal syndrome type I	false	
+ENSPHENO:0001550	TRICHORHINOPHALANGEAL SYNDROME TYPE I	DOID:14743	trichorhinophalangeal syndrome type I	true	
+ENSPHENO:0001552	TRITANOPIA	DOID:11661	blue color blindness	false	
+ENSPHENO:0001552	TRITANOPIA	DOID:11661	blue color blindness	true	
+ENSPHENO:0001562	Testicular germ cell cancer	DOID:5557	testicular germ cell cancer	false	
+ENSPHENO:0001562	Testicular germ cell cancer	DOID:5557	testicular germ cell cancer	true	
+ENSPHENO:0001564	Tetralogy of Fallot	DOID:6419	tetralogy of Fallot	false	
+ENSPHENO:0001564	Tetralogy of Fallot	DOID:6419	tetralogy of Fallot	true	
+ENSPHENO:0001573	Tuberculosis	DOID:399	tuberculosis	false	
+ENSPHENO:0001573	Tuberculosis	DOID:399	tuberculosis	true	
+ENSPHENO:0001602	Ulcerative colitis	DOID:8577	ulcerative colitis	false	
+ENSPHENO:0001602	Ulcerative colitis	DOID:8577	ulcerative colitis	true	
+ENSPHENO:0001605	Urinary bladder cancer	DOID:11054	urinary bladder cancer	false	
+ENSPHENO:0001605	Urinary bladder cancer	DOID:11054	urinary bladder cancer	true	
+ENSPHENO:0001608	Uterine fibroids	DOID:13223	uterine fibroid	true	
+ENSPHENO:0001617	VON HIPPEL-LINDAU SYNDROME	DOID:14175	von Hippel-Lindau disease	false	
+ENSPHENO:0001617	VON HIPPEL-LINDAU SYNDROME	DOID:14175	von Hippel-Lindau disease	true	
+ENSPHENO:0001623	Vitiligo	DOID:12306	vitiligo	false	
+ENSPHENO:0001623	Vitiligo	DOID:12306	vitiligo	true	
+ENSPHENO:0001625	Von Hippel-Lindau disease	DOID:14175	von Hippel-Lindau disease	false	
+ENSPHENO:0001625	Von Hippel-Lindau disease	DOID:14175	von Hippel-Lindau disease	true	
+ENSPHENO:0001629	WHITE SPONGE NEVUS	DOID:0050448	hereditary mucosal leukokeratosis	false	
+ENSPHENO:0001629	WHITE SPONGE NEVUS	DOID:0050448	hereditary mucosal leukokeratosis	true	
+ENSPHENO:0001638	Wilson disease	DOID:893	Wilson disease	false	
+ENSPHENO:0001638	Wilson disease	DOID:893	Wilson disease	true	
+ENSPHENO:0001639	Wolfram syndrome	DOID:10632	Wolfram syndrome	false	
+ENSPHENO:0001639	Wolfram syndrome	DOID:10632	Wolfram syndrome	true	
+ENSPHENO:0001646	ZELLWEGER SYNDROME	DOID:905	Zellweger syndrome	false	
+ENSPHENO:0001646	ZELLWEGER SYNDROME	DOID:905	Zellweger syndrome	true	

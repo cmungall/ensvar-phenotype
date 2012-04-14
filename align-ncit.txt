@@ -1,0 +1,740 @@
+ENSPHENO:0000018	A metastatic melanoma sample	ncithesaurus:Metastatic_Melanoma	Metastatic Melanoma	false	
+ENSPHENO:0000041	ALBUMIN	ncithesaurus:Albumin	Albumin	false	
+ENSPHENO:0000041	ALBUMIN	ncithesaurus:Albumin	Albumin	true	
+ENSPHENO:0000054	ALLERGIC RHINITIS	ncithesaurus:Allergic_Rhinitis	Allergic Rhinitis	false	
+ENSPHENO:0000054	ALLERGIC RHINITIS	ncithesaurus:Allergic_Rhinitis	Allergic Rhinitis	true	
+ENSPHENO:0000065	AMYLOID BETA A4 PRECURSOR PROTEIN	ncithesaurus:Amyloid_Beta-A4_Protein_Precursor	Amyloid Beta A4 Protein Precursor	true	
+ENSPHENO:0000081	APLASTIC ANEMIA	ncithesaurus:Aplastic_Anemia	Aplastic Anemia	false	
+ENSPHENO:0000081	APLASTIC ANEMIA	ncithesaurus:Aplastic_Anemia	Aplastic Anemia	true	
+ENSPHENO:0000084	ARGININOSUCCINIC ACIDURIA	ncithesaurus:Argininosuccinic_Aciduria	Argininosuccinic Aciduria	false	
+ENSPHENO:0000084	ARGININOSUCCINIC ACIDURIA	ncithesaurus:Argininosuccinic_Aciduria	Argininosuccinic Aciduria	true	
+ENSPHENO:0000106	Acyl-CoA dehydrogenase short-chain deficiency	ncithesaurus:Acyl-CoA_Dehydrogenase_Short-Chain_Deficiency	Acyl-CoA Dehydrogenase, Short-Chain Deficiency	false	
+ENSPHENO:0000106	Acyl-CoA dehydrogenase short-chain deficiency	ncithesaurus:Acyl-CoA_Dehydrogenase_Short-Chain_Deficiency	Acyl-CoA Dehydrogenase, Short-Chain Deficiency	true	
+ENSPHENO:0000118	Alcohol consumption	ncithesaurus:Alcohol_Consumption	Alcohol Consumption	false	
+ENSPHENO:0000118	Alcohol consumption	ncithesaurus:Alcohol_Consumption	Alcohol Consumption	true	
+ENSPHENO:0000123	Alexander disease	ncithesaurus:Alexander_Disease	Alexander Disease	false	
+ENSPHENO:0000123	Alexander disease	ncithesaurus:Alexander_Disease	Alexander Disease	true	
+ENSPHENO:0000124	Alkaptonuria	ncithesaurus:Alkaptonuria	Alkaptonuria	false	
+ENSPHENO:0000124	Alkaptonuria	ncithesaurus:Alkaptonuria	Alkaptonuria	true	
+ENSPHENO:0000128	Alzheimer's disease	ncithesaurus:Alzheimer_s_Disease	Alzheimer's Disease	false	
+ENSPHENO:0000128	Alzheimer's disease	ncithesaurus:Alzheimer_s_Disease	Alzheimer's Disease	true	
+ENSPHENO:0000135	Amyotrophic lateral sclerosis	ncithesaurus:Amyotrophic_Lateral_Sclerosis	Amyotrophic Lateral Sclerosis	false	
+ENSPHENO:0000135	Amyotrophic lateral sclerosis	ncithesaurus:Amyotrophic_Lateral_Sclerosis	Amyotrophic Lateral Sclerosis	true	
+ENSPHENO:0000137	Anorexia nervosa	ncithesaurus:Anorexia_Nervosa	Anorexia Nervosa	false	
+ENSPHENO:0000137	Anorexia nervosa	ncithesaurus:Anorexia_Nervosa	Anorexia Nervosa	true	
+ENSPHENO:0000139	Argininemia	ncithesaurus:Argininemia	Argininemia	false	
+ENSPHENO:0000139	Argininemia	ncithesaurus:Argininemia	Argininemia	true	
+ENSPHENO:0000143	Asthma	ncithesaurus:Asthma	Asthma	false	
+ENSPHENO:0000143	Asthma	ncithesaurus:Asthma	Asthma	true	
+ENSPHENO:0000146	Atrial fibrillation	ncithesaurus:Atrial_Fibrillation	Atrial Fibrillation	false	
+ENSPHENO:0000146	Atrial fibrillation	ncithesaurus:Atrial_Fibrillation	Atrial Fibrillation	true	
+ENSPHENO:0000162	BECKWITH-WIEDEMANN SYNDROME	ncithesaurus:Beckwith-Wiedemann_Syndrome	Beckwith-Wiedemann Syndrome	false	
+ENSPHENO:0000162	BECKWITH-WIEDEMANN SYNDROME	ncithesaurus:Beckwith-Wiedemann_Syndrome	Beckwith-Wiedemann Syndrome	true	
+ENSPHENO:0000167	BETA-THALASSEMIA	ncithesaurus:S-Beta_Thalassemia	S-Beta Thalassemia	false	
+ENSPHENO:0000167	BETA-THALASSEMIA	ncithesaurus:S-Beta_Thalassemia	S-Beta Thalassemia	true	
+ENSPHENO:0000185	BONE MORPHOGENETIC PROTEIN 15	ncithesaurus:Bone_Morphogenetic_Protein-15	Bone Morphogenetic Protein 15	false	
+ENSPHENO:0000185	BONE MORPHOGENETIC PROTEIN 15	ncithesaurus:Bone_Morphogenetic_Protein-15	Bone Morphogenetic Protein 15	true	
+ENSPHENO:0000187	BRCA2 GENE	ncithesaurus:BRCA2_Gene	BRCA2 Gene	false	
+ENSPHENO:0000187	BRCA2 GENE	ncithesaurus:BRCA2_Gene	BRCA2 Gene	true	
+ENSPHENO:0000193	BURKITT LYMPHOMA	ncithesaurus:Burkitt_s_Lymphoma	Burkitt Lymphoma	false	
+ENSPHENO:0000193	BURKITT LYMPHOMA	ncithesaurus:Burkitt_s_Lymphoma	Burkitt Lymphoma	true	
+ENSPHENO:0000197	Bernard-Soulier syndrome	ncithesaurus:Bernard-Soulier_Syndrome	Bernard-Soulier Syndrome	false	
+ENSPHENO:0000197	Bernard-Soulier syndrome	ncithesaurus:Bernard-Soulier_Syndrome	Bernard-Soulier Syndrome	true	
+ENSPHENO:0000198	Biliary atresia	ncithesaurus:Biliary_Atresia	Biliary Atresia	false	
+ENSPHENO:0000198	Biliary atresia	ncithesaurus:Biliary_Atresia	Biliary Atresia	true	
+ENSPHENO:0000203	Bipolar disorder	ncithesaurus:Bipolar_Disorder	Bipolar Disorder	false	
+ENSPHENO:0000203	Bipolar disorder	ncithesaurus:Bipolar_Disorder	Bipolar Disorder	true	
+ENSPHENO:0000222	Blood pressure	ncithesaurus:Blood_Pressure	Blood Pressure	false	
+ENSPHENO:0000222	Blood pressure	ncithesaurus:Blood_Pressure	Blood Pressure	true	
+ENSPHENO:0000224	Body mass index	ncithesaurus:Body_Mass_Index	Body Mass Index	false	
+ENSPHENO:0000224	Body mass index	ncithesaurus:Body_Mass_Index	Body Mass Index	true	
+ENSPHENO:0000249	Brain structure	ncithesaurus:Brain	Brain	false	
+ENSPHENO:0000249	Brain structure	ncithesaurus:Brain	Brain	true	
+ENSPHENO:0000254	C-reactive protein	ncithesaurus:C-Reactive_Protein	C-Reactive Protein	false	
+ENSPHENO:0000254	C-reactive protein	ncithesaurus:C-Reactive_Protein	C-Reactive Protein	true	
+ENSPHENO:0000255	CAMURATI-ENGELMANN DISEASE	ncithesaurus:Camurati-Engelmann_Syndrome	Camurati-Engelmann Syndrome	false	
+ENSPHENO:0000255	CAMURATI-ENGELMANN DISEASE	ncithesaurus:Camurati-Engelmann_Syndrome	Camurati-Engelmann Syndrome	true	
+ENSPHENO:0000259	CARDIOFACIOCUTANEOUS SYNDROME	ncithesaurus:Cardiofaciocutaneous_Syndrome	Cardiofaciocutaneous Syndrome	false	
+ENSPHENO:0000259	CARDIOFACIOCUTANEOUS SYNDROME	ncithesaurus:Cardiofaciocutaneous_Syndrome	Cardiofaciocutaneous Syndrome	true	
+ENSPHENO:0000262	CARDIOMYOPATHY FAMILIAL HYPERTROPHIC	ncithesaurus:Familial_Hypertrophic_Cardiomyopathy	Familial Hypertrophic Cardiomyopathy	false	
+ENSPHENO:0000262	CARDIOMYOPATHY FAMILIAL HYPERTROPHIC	ncithesaurus:Familial_Hypertrophic_Cardiomyopathy	Familial Hypertrophic Cardiomyopathy	true	
+ENSPHENO:0000279	CENTRAL CORE DISEASE	ncithesaurus:Central_Core_Disease	Central Core Disease	false	
+ENSPHENO:0000279	CENTRAL CORE DISEASE	ncithesaurus:Central_Core_Disease	Central Core Disease	true	
+ENSPHENO:0000291	CHARCOT-MARIE-TOOTH DISEASE TYPE 1A	ncithesaurus:Charcot_Marie_Tooth_Disease_Type_1A	Charcot-Marie-Tooth Disease Type 1A	false	
+ENSPHENO:0000291	CHARCOT-MARIE-TOOTH DISEASE TYPE 1A	ncithesaurus:Charcot_Marie_Tooth_Disease_Type_1A	Charcot-Marie-Tooth Disease Type 1A	true	
+ENSPHENO:0000309	CLEIDOCRANIAL DYSPLASIA	ncithesaurus:Cleidocranial_Dysplasia	Cleidocranial Dysplasia	false	
+ENSPHENO:0000309	CLEIDOCRANIAL DYSPLASIA	ncithesaurus:Cleidocranial_Dysplasia	Cleidocranial Dysplasia	true	
+ENSPHENO:0000347	CYSTINURIA	ncithesaurus:Cystinuria	Cystinuria	false	
+ENSPHENO:0000347	CYSTINURIA	ncithesaurus:Cystinuria	Cystinuria	true	
+ENSPHENO:0000349	Canavan disease	ncithesaurus:Canavan_Disease	Canavan Disease	false	
+ENSPHENO:0000349	Canavan disease	ncithesaurus:Canavan_Disease	Canavan Disease	true	
+ENSPHENO:0000352	Cannabis dependence	ncithesaurus:Cannabis_Dependence	Cannabis Dependence	false	
+ENSPHENO:0000352	Cannabis dependence	ncithesaurus:Cannabis_Dependence	Cannabis Dependence	true	
+ENSPHENO:0000362	Celiac disease	ncithesaurus:Celiac_Disease	Celiac Disease	false	
+ENSPHENO:0000362	Celiac disease	ncithesaurus:Celiac_Disease	Celiac Disease	true	
+ENSPHENO:0000370	Chediak-Higashi syndrome	ncithesaurus:Chediak-Higashi_Syndrome	Chediak-Higashi Syndrome	false	
+ENSPHENO:0000370	Chediak-Higashi syndrome	ncithesaurus:Chediak-Higashi_Syndrome	Chediak-Higashi Syndrome	true	
+ENSPHENO:0000371	Cherubism	ncithesaurus:Cherubism	Cherubism	false	
+ENSPHENO:0000371	Cherubism	ncithesaurus:Cherubism	Cherubism	true	
+ENSPHENO:0000376	Chronic kidney disease	ncithesaurus:Chronic_Kidney_Disease	Chronic Kidney Disease	false	
+ENSPHENO:0000376	Chronic kidney disease	ncithesaurus:Chronic_Kidney_Disease	Chronic Kidney Disease	true	
+ENSPHENO:0000377	Chronic lymphocytic leukemia	ncithesaurus:Chronic_Lymphocytic_Leukemia	Chronic Lymphocytic Leukemia	false	
+ENSPHENO:0000377	Chronic lymphocytic leukemia	ncithesaurus:Chronic_Lymphocytic_Leukemia	Chronic Lymphocytic Leukemia	true	
+ENSPHENO:0000378	Chronic obstructive pulmonary disease	ncithesaurus:Chronic_Obstructive_Airways_Disease	Chronic Obstructive Pulmonary Disease	false	
+ENSPHENO:0000378	Chronic obstructive pulmonary disease	ncithesaurus:Chronic_Obstructive_Airways_Disease	Chronic Obstructive Pulmonary Disease	true	
+ENSPHENO:0000391	Coronary Artery Disease	ncithesaurus:Coronary_Disease	Coronary Artery Disease	false	
+ENSPHENO:0000391	Coronary Artery Disease	ncithesaurus:Coronary_Disease	Coronary Artery Disease	true	
+ENSPHENO:0000398	Crohn's disease	ncithesaurus:Crohn_s_Disease	Crohn Disease	false	
+ENSPHENO:0000398	Crohn's disease	ncithesaurus:Crohn_s_Disease	Crohn Disease	true	
+ENSPHENO:0000402	Cystic fibrosis	ncithesaurus:Cystic_Fibrosis	Cystic Fibrosis	false	
+ENSPHENO:0000402	Cystic fibrosis	ncithesaurus:Cystic_Fibrosis	Cystic Fibrosis	true	
+ENSPHENO:0000429	DONOHUE SYNDROME	ncithesaurus:Donohue_Syndrome	Donohue Syndrome	false	
+ENSPHENO:0000429	DONOHUE SYNDROME	ncithesaurus:Donohue_Syndrome	Donohue Syndrome	true	
+ENSPHENO:0000438	Diabetic nephropathy	ncithesaurus:Diabetic_Nephropathy	Diabetic Nephropathy	false	
+ENSPHENO:0000438	Diabetic nephropathy	ncithesaurus:Diabetic_Nephropathy	Diabetic Nephropathy	true	
+ENSPHENO:0000439	Diabetic retinopathy	ncithesaurus:Diabetic_Retinopathy	Diabetic Retinopathy	false	
+ENSPHENO:0000439	Diabetic retinopathy	ncithesaurus:Diabetic_Retinopathy	Diabetic Retinopathy	true	
+ENSPHENO:0000441	Diastolic blood pressure	ncithesaurus:Diastolic_Pressure	Diastolic Blood Pressure	false	
+ENSPHENO:0000441	Diastolic blood pressure	ncithesaurus:Diastolic_Pressure	Diastolic Blood Pressure	true	
+ENSPHENO:0000443	Dilated cardiomyopathy	ncithesaurus:Dilated_Cardiomyopathy	Dilated Cardiomyopathy	false	
+ENSPHENO:0000443	Dilated cardiomyopathy	ncithesaurus:Dilated_Cardiomyopathy	Dilated Cardiomyopathy	true	
+ENSPHENO:0000483	EPIDERMOLYTIC HYPERKERATOSIS	ncithesaurus:Epidermolytic_Hyperkeratosis	Epidermolytic Hyperkeratosis	false	
+ENSPHENO:0000483	EPIDERMOLYTIC HYPERKERATOSIS	ncithesaurus:Epidermolytic_Hyperkeratosis	Epidermolytic Hyperkeratosis	true	
+ENSPHENO:0000493	ESTROGEN RECEPTOR 2	ncithesaurus:Estrogen_Receptor_2	Estrogen Receptor 2	false	
+ENSPHENO:0000493	ESTROGEN RECEPTOR 2	ncithesaurus:Estrogen_Receptor_2	Estrogen Receptor 2	true	
+ENSPHENO:0000526	FAMILIAL MEDITERRANEAN FEVER	ncithesaurus:Familial_Mediterranean_Fever	Familial Mediterranean Fever	false	
+ENSPHENO:0000526	FAMILIAL MEDITERRANEAN FEVER	ncithesaurus:Familial_Mediterranean_Fever	Familial Mediterranean Fever	true	
+ENSPHENO:0000537	FIBROBLAST GROWTH FACTOR 20	ncithesaurus:Fibroblast_Growth_Factor-20	Fibroblast Growth Factor 20	false	
+ENSPHENO:0000537	FIBROBLAST GROWTH FACTOR 20	ncithesaurus:Fibroblast_Growth_Factor-20	Fibroblast Growth Factor 20	true	
+ENSPHENO:0000545	FRIEDREICH ATAXIA	ncithesaurus:Friedreich_Ataxia	Friedreich Ataxia	false	
+ENSPHENO:0000545	FRIEDREICH ATAXIA	ncithesaurus:Friedreich_Ataxia	Friedreich Ataxia	true	
+ENSPHENO:0000546	FRONTOTEMPORAL DEMENTIA	ncithesaurus:Frontotemporal_Dementia	Frontotemporal Dementia	false	
+ENSPHENO:0000546	FRONTOTEMPORAL DEMENTIA	ncithesaurus:Frontotemporal_Dementia	Frontotemporal Dementia	true	
+ENSPHENO:0000549	FUCOSIDOSIS	ncithesaurus:Fucosidosis	Fucosidosis	false	
+ENSPHENO:0000549	FUCOSIDOSIS	ncithesaurus:Fucosidosis	Fucosidosis	true	
+ENSPHENO:0000553	Fabry disease	ncithesaurus:Fabry_Disease	Fabry Disease	false	
+ENSPHENO:0000553	Fabry disease	ncithesaurus:Fabry_Disease	Fabry Disease	true	
+ENSPHENO:0000554	Factor XI deficiency	ncithesaurus:Factor_XI_Deficiency	Factor XI Deficiency	false	
+ENSPHENO:0000554	Factor XI deficiency	ncithesaurus:Factor_XI_Deficiency	Factor XI Deficiency	true	
+ENSPHENO:0000563	Fanconi anemia	ncithesaurus:Fanconi_Anemia	Fanconi Anemia	false	
+ENSPHENO:0000563	Fanconi anemia	ncithesaurus:Fanconi_Anemia	Fanconi Anemia	true	
+ENSPHENO:0000563	Fanconi anemia	ncithesaurus:Fanconi_s_Anemia	Fanconi's Anemia	false	
+ENSPHENO:0000563	Fanconi anemia	ncithesaurus:Fanconi_s_Anemia	Fanconi's Anemia	true	
+ENSPHENO:0000604	Gaucher disease	ncithesaurus:Gaucher_Disease	Gaucher Disease	false	
+ENSPHENO:0000604	Gaucher disease	ncithesaurus:Gaucher_Disease	Gaucher Disease	true	
+ENSPHENO:0000608	Gilbert syndrome	ncithesaurus:Gilbert_Syndrome	Gilbert Syndrome	false	
+ENSPHENO:0000608	Gilbert syndrome	ncithesaurus:Gilbert_Syndrome	Gilbert Syndrome	true	
+ENSPHENO:0000609	Glaucoma	ncithesaurus:Glaucoma	Glaucoma	false	
+ENSPHENO:0000609	Glaucoma	ncithesaurus:Glaucoma	Glaucoma	true	
+ENSPHENO:0000618	Graves' disease	ncithesaurus:Graves_Disease	Graves' Disease	false	
+ENSPHENO:0000618	Graves' disease	ncithesaurus:Graves_Disease	Graves' Disease	true	
+ENSPHENO:0000728	HEMOPHILIA B	ncithesaurus:Hemophilia_B	Hemophilia B	false	
+ENSPHENO:0000728	HEMOPHILIA B	ncithesaurus:Hemophilia_B	Hemophilia B	true	
+ENSPHENO:0000751	HUNTINGTON DISEASE	ncithesaurus:Huntington_s_Disease	Huntington's Disease	false	
+ENSPHENO:0000751	HUNTINGTON DISEASE	ncithesaurus:Huntington_s_Disease	Huntington's Disease	true	
+ENSPHENO:0000760	HYPERPARATHYROIDISM-JAW TUMOR SYNDROME	ncithesaurus:Hyperparathyroidism-Jaw_Tumor_Syndrome	Hyperparathyroidism-Jaw Tumor Syndrome	false	
+ENSPHENO:0000760	HYPERPARATHYROIDISM-JAW TUMOR SYNDROME	ncithesaurus:Hyperparathyroidism-Jaw_Tumor_Syndrome	Hyperparathyroidism-Jaw Tumor Syndrome	true	
+ENSPHENO:0000791	Heart failure	ncithesaurus:Heart_Failure	Heart Failure	false	
+ENSPHENO:0000791	Heart failure	ncithesaurus:Heart_Failure	Heart Failure	true	
+ENSPHENO:0000792	Height	ncithesaurus:Height	Height	false	
+ENSPHENO:0000792	Height	ncithesaurus:Height	Height	true	
+ENSPHENO:0000797	Hemoglobin	ncithesaurus:Hemoglobin	Hemoglobin	false	
+ENSPHENO:0000797	Hemoglobin	ncithesaurus:Hemoglobin	Hemoglobin	true	
+ENSPHENO:0000798	Hemophilia A	ncithesaurus:Hemophilia	Hemophilia	false	
+ENSPHENO:0000798	Hemophilia A	ncithesaurus:Hemophilia	Hemophilia	true	
+ENSPHENO:0000798	Hemophilia A	ncithesaurus:Hemophilia_A	Hemophilia A	false	
+ENSPHENO:0000798	Hemophilia A	ncithesaurus:Hemophilia_A	Hemophilia A	true	
+ENSPHENO:0000803	Hepatocellular carcinoma	ncithesaurus:Hepatocellular_Carcinoma	Hepatocellular Carcinoma	false	
+ENSPHENO:0000803	Hepatocellular carcinoma	ncithesaurus:Hepatocellular_Carcinoma	Hepatocellular Carcinoma	true	
+ENSPHENO:0000814	Hypertension	ncithesaurus:Hypertension	Hypertension	false	
+ENSPHENO:0000814	Hypertension	ncithesaurus:Hypertension	Hypertension	true	
+ENSPHENO:0000815	Hypertriglyceridemia	ncithesaurus:Hypertriglyceridemia	Hypertriglyceridemia	false	
+ENSPHENO:0000815	Hypertriglyceridemia	ncithesaurus:Hypertriglyceridemia	Hypertriglyceridemia	true	
+ENSPHENO:0000819	Hypospadias	ncithesaurus:Hypospadias	Hypospadias	false	
+ENSPHENO:0000819	Hypospadias	ncithesaurus:Hypospadias	Hypospadias	true	
+ENSPHENO:0000842	INTERFERON REGULATORY FACTOR 1	ncithesaurus:Interferon_Regulatory_Factor-1	Interferon Regulatory Factor 1	false	
+ENSPHENO:0000842	INTERFERON REGULATORY FACTOR 1	ncithesaurus:Interferon_Regulatory_Factor-1	Interferon Regulatory Factor 1	true	
+ENSPHENO:0000843	INTERFERON REGULATORY FACTOR 6	ncithesaurus:Interferon_Regulatory_Factor_6	Interferon Regulatory Factor 6	false	
+ENSPHENO:0000843	INTERFERON REGULATORY FACTOR 6	ncithesaurus:Interferon_Regulatory_Factor_6	Interferon Regulatory Factor 6	true	
+ENSPHENO:0000846	INTERLEUKIN 6	ncithesaurus:Interleukin-6	Interleukin-6	false	
+ENSPHENO:0000846	INTERLEUKIN 6	ncithesaurus:Interleukin-6	Interleukin-6	true	
+ENSPHENO:0000853	Immunoglobulin A	ncithesaurus:Immunoglobulin	Immunoglobulin	false	
+ENSPHENO:0000853	Immunoglobulin A	ncithesaurus:Immunoglobulin	Immunoglobulin	true	
+ENSPHENO:0000855	Inflammatory bowel disease	ncithesaurus:Inflammatory_Bowel_Disease	Inflammatory Bowel Disease	false	
+ENSPHENO:0000855	Inflammatory bowel disease	ncithesaurus:Inflammatory_Bowel_Disease	Inflammatory Bowel Disease	true	
+ENSPHENO:0000859	Intracranial aneurysm	ncithesaurus:Intracranial_Aneurysm	Intracranial Aneurysm	false	
+ENSPHENO:0000859	Intracranial aneurysm	ncithesaurus:Intracranial_Aneurysm	Intracranial Aneurysm	true	
+ENSPHENO:0000865	JANUS KINASE 2	ncithesaurus:Janus_Kinase-2	Janus Kinase 2	false	
+ENSPHENO:0000865	JANUS KINASE 2	ncithesaurus:Janus_Kinase-2	Janus Kinase 2	true	
+ENSPHENO:0000876	Keloid	ncithesaurus:Keloid	Keloid	false	
+ENSPHENO:0000876	Keloid	ncithesaurus:Keloid	Keloid	true	
+ENSPHENO:0000891	LEUKEMIA ACUTE LYMPHOBLASTIC	ncithesaurus:Acute_Lymphoblastic_Leukemia	Acute Lymphoblastic Leukemia	true	
+ENSPHENO:0000921	Left ventricular mass	ncithesaurus:Left_Ventricular_Mass	Left Ventricular Mass	false	
+ENSPHENO:0000921	Left ventricular mass	ncithesaurus:Left_Ventricular_Mass	Left Ventricular Mass	true	
+ENSPHENO:0000923	Leprosy	ncithesaurus:Leprosy	Leprosy	false	
+ENSPHENO:0000923	Leprosy	ncithesaurus:Leprosy	Leprosy	true	
+ENSPHENO:0000925	Leukodystrophy metachromatic	ncithesaurus:Metachromatic_Leukodystrophy	Metachromatic Leukodystrophy	false	
+ENSPHENO:0000925	Leukodystrophy metachromatic	ncithesaurus:Metachromatic_Leukodystrophy	Metachromatic Leukodystrophy	true	
+ENSPHENO:0000926	Li-Fraumeni syndrome	ncithesaurus:Li-Fraumeni_Syndrome	Li-Fraumeni Syndrome	false	
+ENSPHENO:0000926	Li-Fraumeni syndrome	ncithesaurus:Li-Fraumeni_Syndrome	Li-Fraumeni Syndrome	true	
+ENSPHENO:0000949	Lung carcinoma	ncithesaurus:Lung_Carcinoma	Lung Carcinoma	false	
+ENSPHENO:0000949	Lung carcinoma	ncithesaurus:Lung_Carcinoma	Lung Carcinoma	true	
+ENSPHENO:0000965	MATRIX METALLOPROTEINASE 1	ncithesaurus:Matrix_Metalloproteinase-1	Matrix Metalloproteinase-1	false	
+ENSPHENO:0000965	MATRIX METALLOPROTEINASE 1	ncithesaurus:Matrix_Metalloproteinase-1	Matrix Metalloproteinase-1	true	
+ENSPHENO:0000979	MENKES DISEASE	ncithesaurus:Menkes_Disease	Menkes Disease	false	
+ENSPHENO:0000979	MENKES DISEASE	ncithesaurus:Menkes_Disease	Menkes Disease	true	
+ENSPHENO:0000991	METACHROMATIC LEUKODYSTROPHY	ncithesaurus:Metachromatic_Leukodystrophy	Metachromatic Leukodystrophy	false	
+ENSPHENO:0000991	METACHROMATIC LEUKODYSTROPHY	ncithesaurus:Metachromatic_Leukodystrophy	Metachromatic Leukodystrophy	true	
+ENSPHENO:0001015	MUCOPOLYSACCHARIDOSIS TYPE IIIB	ncithesaurus:Mucopolysaccharidosis_Type_IIIB	Mucopolysaccharidosis Type IIIB	false	
+ENSPHENO:0001015	MUCOPOLYSACCHARIDOSIS TYPE IIIB	ncithesaurus:Mucopolysaccharidosis_Type_IIIB	Mucopolysaccharidosis Type IIIB	true	
+ENSPHENO:0001016	MUCOPOLYSACCHARIDOSIS TYPE IIIC	ncithesaurus:Mucopolysaccharidosis_Type_IIIC	Mucopolysaccharidosis Type IIIC	false	
+ENSPHENO:0001016	MUCOPOLYSACCHARIDOSIS TYPE IIIC	ncithesaurus:Mucopolysaccharidosis_Type_IIIC	Mucopolysaccharidosis Type IIIC	true	
+ENSPHENO:0001017	MUCOPOLYSACCHARIDOSIS TYPE IIID	ncithesaurus:Mucopolysaccharidosis_Type_IIID	Mucopolysaccharidosis Type IIID	false	
+ENSPHENO:0001017	MUCOPOLYSACCHARIDOSIS TYPE IIID	ncithesaurus:Mucopolysaccharidosis_Type_IIID	Mucopolysaccharidosis Type IIID	true	
+ENSPHENO:0001018	MUCOPOLYSACCHARIDOSIS TYPE IVA	ncithesaurus:Mucopolysaccharidosis_Type_IVA	Mucopolysaccharidosis Type IVA	false	
+ENSPHENO:0001018	MUCOPOLYSACCHARIDOSIS TYPE IVA	ncithesaurus:Mucopolysaccharidosis_Type_IVA	Mucopolysaccharidosis Type IVA	true	
+ENSPHENO:0001019	MUCOPOLYSACCHARIDOSIS TYPE IVB	ncithesaurus:Mucopolysaccharidosis_Type_IVB	Mucopolysaccharidosis Type IVB	false	
+ENSPHENO:0001019	MUCOPOLYSACCHARIDOSIS TYPE IVB	ncithesaurus:Mucopolysaccharidosis_Type_IVB	Mucopolysaccharidosis Type IVB	true	
+ENSPHENO:0001049	Macular corneal dystrophy	ncithesaurus:Macular_Corneal_Dystrophy	Macular Corneal Dystrophy	false	
+ENSPHENO:0001049	Macular corneal dystrophy	ncithesaurus:Macular_Corneal_Dystrophy	Macular Corneal Dystrophy	true	
+ENSPHENO:0001055	Marfan syndrome	ncithesaurus:Marfan_s_Syndrome	Marfan Syndrome	false	
+ENSPHENO:0001055	Marfan syndrome	ncithesaurus:Marfan_s_Syndrome	Marfan Syndrome	true	
+ENSPHENO:0001061	Meesmann corneal dystrophy	ncithesaurus:Meesmann_Corneal_Dystrophy	Meesmann Corneal Dystrophy	false	
+ENSPHENO:0001061	Meesmann corneal dystrophy	ncithesaurus:Meesmann_Corneal_Dystrophy	Meesmann Corneal Dystrophy	true	
+ENSPHENO:0001062	Melanoma	ncithesaurus:Melanoma	Melanoma	false	
+ENSPHENO:0001062	Melanoma	ncithesaurus:Melanoma	Melanoma	true	
+ENSPHENO:0001066	Metabolic syndrome	ncithesaurus:Metabolic_Disorder	Metabolic Disorder	false	
+ENSPHENO:0001066	Metabolic syndrome	ncithesaurus:Metabolic_Syndrome	Metabolic Syndrome	false	
+ENSPHENO:0001066	Metabolic syndrome	ncithesaurus:Metabolic_Syndrome	Metabolic Syndrome	true	
+ENSPHENO:0001077	Moyamoya disease	ncithesaurus:Moyamoya_Disease	Moyamoya Disease	false	
+ENSPHENO:0001077	Moyamoya disease	ncithesaurus:Moyamoya_Disease	Moyamoya Disease	true	
+ENSPHENO:0001078	Muenke syndrome	ncithesaurus:Muenke_Syndrome	Muenke Syndrome	false	
+ENSPHENO:0001078	Muenke syndrome	ncithesaurus:Muenke_Syndrome	Muenke Syndrome	true	
+ENSPHENO:0001144	Multiple sclerosis	ncithesaurus:Multiple_Sclerosis	Multiple Sclerosis	false	
+ENSPHENO:0001144	Multiple sclerosis	ncithesaurus:Multiple_Sclerosis	Multiple Sclerosis	true	
+ENSPHENO:0001156	Myocardial infarction	ncithesaurus:Myocardial_Infarction	Myocardial Infarction	false	
+ENSPHENO:0001156	Myocardial infarction	ncithesaurus:Myocardial_Infarction	Myocardial Infarction	true	
+ENSPHENO:0001172	NEUROTROPHIC TYROSINE KINASE RECEPTOR TYPE 3	ncithesaurus:Neurotrophic_Tyrosine_Kinase_Receptor_Type-3	Neurotrophic Tyrosine Kinase Receptor Type 3	false	
+ENSPHENO:0001172	NEUROTROPHIC TYROSINE KINASE RECEPTOR TYPE 3	ncithesaurus:Neurotrophic_Tyrosine_Kinase_Receptor_Type-3	Neurotrophic Tyrosine Kinase Receptor Type 3	true	
+ENSPHENO:0001186	Narcolepsy	ncithesaurus:Narcolepsy	Narcolepsy	false	
+ENSPHENO:0001186	Narcolepsy	ncithesaurus:Narcolepsy	Narcolepsy	true	
+ENSPHENO:0001187	Nasopharyngeal carcinoma	ncithesaurus:Nasopharyngeal_Carcinoma	Nasopharyngeal Carcinoma	false	
+ENSPHENO:0001187	Nasopharyngeal carcinoma	ncithesaurus:Nasopharyngeal_Carcinoma	Nasopharyngeal Carcinoma	true	
+ENSPHENO:0001190	Nephropathy	ncithesaurus:Nephropathy	Nephropathy	false	
+ENSPHENO:0001190	Nephropathy	ncithesaurus:Nephropathy	Nephropathy	true	
+ENSPHENO:0001193	Neutrophil count	ncithesaurus:Neutrophil_Count	Neutrophil Count	false	
+ENSPHENO:0001193	Neutrophil count	ncithesaurus:Neutrophil_Count	Neutrophil Count	true	
+ENSPHENO:0001194	Nicotine dependence	ncithesaurus:Nicotine_Dependence	Nicotine Dependence	false	
+ENSPHENO:0001194	Nicotine dependence	ncithesaurus:Nicotine_Dependence	Nicotine Dependence	true	
+ENSPHENO:0001212	OCULOPHARYNGEAL MUSCULAR DYSTROPHY	ncithesaurus:Oculopharyngeal_Muscular_Dystrophy	Oculopharyngeal Muscular Dystrophy	false	
+ENSPHENO:0001212	OCULOPHARYNGEAL MUSCULAR DYSTROPHY	ncithesaurus:Oculopharyngeal_Muscular_Dystrophy	Oculopharyngeal Muscular Dystrophy	true	
+ENSPHENO:0001215	OMENN SYNDROME	ncithesaurus:Omenn_Syndrome	Omenn Syndrome	false	
+ENSPHENO:0001215	OMENN SYNDROME	ncithesaurus:Omenn_Syndrome	Omenn Syndrome	true	
+ENSPHENO:0001220	ORNITHINE TRANSCARBAMYLASE DEFICIENCY	ncithesaurus:Ornithine_Transcarbamylase_Deficiency	Ornithine Transcarbamylase Deficiency	false	
+ENSPHENO:0001220	ORNITHINE TRANSCARBAMYLASE DEFICIENCY	ncithesaurus:Ornithine_Transcarbamylase_Deficiency	Ornithine Transcarbamylase Deficiency	true	
+ENSPHENO:0001224	OSTEOGENESIS IMPERFECTA	ncithesaurus:Osteogenesis_Imperfecta	Osteogenesis Imperfecta	false	
+ENSPHENO:0001224	OSTEOGENESIS IMPERFECTA	ncithesaurus:Osteogenesis_Imperfecta	Osteogenesis Imperfecta	true	
+ENSPHENO:0001232	Obesity	ncithesaurus:Obesity	Obesity	false	
+ENSPHENO:0001232	Obesity	ncithesaurus:Obesity	Obesity	true	
+ENSPHENO:0001243	Osteoporosis	ncithesaurus:Osteoporosis	Osteoporosis	false	
+ENSPHENO:0001243	Osteoporosis	ncithesaurus:Osteoporosis	Osteoporosis	true	
+ENSPHENO:0001249	PAGET DISEASE OF BONE	ncithesaurus:Bone_Paget_s_Disease	Bone Paget Disease	true	
+ENSPHENO:0001250	PALLISTER-HALL SYNDROME	ncithesaurus:Pallister-Hall_Syndrome	Pallister-Hall Syndrome	false	
+ENSPHENO:0001250	PALLISTER-HALL SYNDROME	ncithesaurus:Pallister-Hall_Syndrome	Pallister-Hall Syndrome	true	
+ENSPHENO:0001251	PALMOPLANTAR KERATODERMA EPIDERMOLYTIC	ncithesaurus:Epidermolytic_Palmoplantar_Keratoderma	Epidermolytic Palmoplantar Keratoderma	true	
+ENSPHENO:0001254	PAPILLON-LEFEVRE SYNDROME	ncithesaurus:Papillon-Lefevre_Syndrome	Papillon-Lefevre Syndrome	false	
+ENSPHENO:0001254	PAPILLON-LEFEVRE SYNDROME	ncithesaurus:Papillon-Lefevre_Syndrome	Papillon-Lefevre Syndrome	true	
+ENSPHENO:0001282	PORPHYRIA ACUTE INTERMITTENT	ncithesaurus:Acute_Intermittent_Porphyria	Acute Intermittent Porphyria	true	
+ENSPHENO:0001302	Paget's disease	ncithesaurus:Paget_s_Cell_Neoplasm	Paget Disease	false	
+ENSPHENO:0001302	Paget's disease	ncithesaurus:Paget_s_Cell_Neoplasm	Paget Disease	true	
+ENSPHENO:0001303	Pain	ncithesaurus:Pain	Pain	false	
+ENSPHENO:0001303	Pain	ncithesaurus:Pain	Pain	true	
+ENSPHENO:0001303	Pain	ncithesaurus:Painful	Painful	true	
+ENSPHENO:0001304	Palmoplantar keratoderma epidermolytic	ncithesaurus:Epidermolytic_Palmoplantar_Keratoderma	Epidermolytic Palmoplantar Keratoderma	false	
+ENSPHENO:0001304	Palmoplantar keratoderma epidermolytic	ncithesaurus:Epidermolytic_Palmoplantar_Keratoderma	Epidermolytic Palmoplantar Keratoderma	true	
+ENSPHENO:0001306	Panic disorder	ncithesaurus:Panic_Disorder	Panic Disorder	false	
+ENSPHENO:0001306	Panic disorder	ncithesaurus:Panic_Disorder	Panic Disorder	true	
+ENSPHENO:0001307	Parkinson disease	ncithesaurus:Parkinson_s_Disease	Parkinson's Disease	false	
+ENSPHENO:0001307	Parkinson disease	ncithesaurus:Parkinson_s_Disease	Parkinson's Disease	true	
+ENSPHENO:0001309	Parkinson's disease	ncithesaurus:Parkinson_s_Disease	Parkinson's Disease	false	
+ENSPHENO:0001309	Parkinson's disease	ncithesaurus:Parkinson_s_Disease	Parkinson's Disease	true	
+ENSPHENO:0001310	Paroxysmal nocturnal hemoglobinuria	ncithesaurus:Paroxysmal_Nocturnal_Hemoglobinuria	Paroxysmal Nocturnal Hemoglobinuria	false	
+ENSPHENO:0001310	Paroxysmal nocturnal hemoglobinuria	ncithesaurus:Paroxysmal_Nocturnal_Hemoglobinuria	Paroxysmal Nocturnal Hemoglobinuria	true	
+ENSPHENO:0001314	Phenylketonuria	ncithesaurus:Phenylketonuria	Phenylketonuria	false	
+ENSPHENO:0001314	Phenylketonuria	ncithesaurus:Phenylketonuria	Phenylketonuria	true	
+ENSPHENO:0001324	Platelet aggregation	ncithesaurus:Platelet_Aggregation	Platelet Aggregation	false	
+ENSPHENO:0001324	Platelet aggregation	ncithesaurus:Platelet_Aggregation	Platelet Aggregation	true	
+ENSPHENO:0001325	Platelet counts	ncithesaurus:Platelet_Count	Platelet Count	true	
+ENSPHENO:0001329	Primary biliary cirrhosis	ncithesaurus:Primary_Biliary_Cirrhosis	Primary Biliary Cirrhosis	false	
+ENSPHENO:0001329	Primary biliary cirrhosis	ncithesaurus:Primary_Biliary_Cirrhosis	Primary Biliary Cirrhosis	true	
+ENSPHENO:0001332	Progressive Supranuclear Palsy	ncithesaurus:Progressive_Supranuclear_Palsy	Progressive Supranuclear Palsy	false	
+ENSPHENO:0001332	Progressive Supranuclear Palsy	ncithesaurus:Progressive_Supranuclear_Palsy	Progressive Supranuclear Palsy	true	
+ENSPHENO:0001337	Pseudoxanthoma elasticum	ncithesaurus:Pseudoxanthoma_Elasticum	Pseudoxanthoma Elasticum	false	
+ENSPHENO:0001337	Pseudoxanthoma elasticum	ncithesaurus:Pseudoxanthoma_Elasticum	Pseudoxanthoma Elasticum	true	
+ENSPHENO:0001338	Psoriasis	ncithesaurus:Psoriasis	Psoriasis	false	
+ENSPHENO:0001338	Psoriasis	ncithesaurus:Psoriasis	Psoriasis	true	
+ENSPHENO:0001339	Psoriatic arthritis	ncithesaurus:Psoriatic_Arthritis	Psoriatic Arthritis	false	
+ENSPHENO:0001339	Psoriatic arthritis	ncithesaurus:Psoriatic_Arthritis	Psoriatic Arthritis	true	
+ENSPHENO:0001349	Pyruvate carboxylase deficiency	ncithesaurus:Pyruvate_Carboxylase_Deficiency	Pyruvate Carboxylase Deficiency	false	
+ENSPHENO:0001349	Pyruvate carboxylase deficiency	ncithesaurus:Pyruvate_Carboxylase_Deficiency	Pyruvate Carboxylase Deficiency	true	
+ENSPHENO:0001351	QT interval	ncithesaurus:QT_Interval	QT Interval	false	
+ENSPHENO:0001351	QT interval	ncithesaurus:QT_Interval	QT Interval	true	
+ENSPHENO:0001379	RETINOBLASTOMA	ncithesaurus:Retinoblastoma	Retinoblastoma	false	
+ENSPHENO:0001379	RETINOBLASTOMA	ncithesaurus:Retinoblastoma	Retinoblastoma	true	
+ENSPHENO:0001380	RETINOBLASTOMA-BINDING PROTEIN 8	ncithesaurus:Retinoblastoma_Binding_Protein_8	Retinoblastoma Binding Protein 8	false	
+ENSPHENO:0001380	RETINOBLASTOMA-BINDING PROTEIN 8	ncithesaurus:Retinoblastoma_Binding_Protein_8	Retinoblastoma Binding Protein 8	true	
+ENSPHENO:0001391	Reasoning	ncithesaurus:Reason	Reason	true	
+ENSPHENO:0001391	Reasoning	ncithesaurus:Reasoning	Reasoning	false	
+ENSPHENO:0001391	Reasoning	ncithesaurus:Reasoning	Reasoning	true	
+ENSPHENO:0001395	Renal cell carcinoma	ncithesaurus:Renal_Cell_Carcinoma	Renal Cell Carcinoma	false	
+ENSPHENO:0001395	Renal cell carcinoma	ncithesaurus:Renal_Cell_Carcinoma	Renal Cell Carcinoma	true	
+ENSPHENO:0001404	Restless Leg Syndrome	ncithesaurus:Restless_Leg_Syndrome	Restless Leg Syndrome	false	
+ENSPHENO:0001404	Restless Leg Syndrome	ncithesaurus:Restless_Leg_Syndrome	Restless Leg Syndrome	true	
+ENSPHENO:0001406	Restless legs syndrome	ncithesaurus:Restless_Leg_Syndrome	Restless Leg Syndrome	true	
+ENSPHENO:0001408	Rett syndrome	ncithesaurus:Rett_Syndrome	Rett Syndrome	false	
+ENSPHENO:0001408	Rett syndrome	ncithesaurus:Rett_Syndrome	Rett Syndrome	true	
+ENSPHENO:0001410	Rheumatoid arthritis	ncithesaurus:Rheumatoid_Arthritis	Rheumatoid Arthritis	false	
+ENSPHENO:0001410	Rheumatoid arthritis	ncithesaurus:Rheumatoid_Arthritis	Rheumatoid Arthritis	true	
+ENSPHENO:0001413	SAETHRE-CHOTZEN SYNDROME	ncithesaurus:Saethre_Chotzen_Syndrome	Saethre-Chotzen Syndrome	false	
+ENSPHENO:0001413	SAETHRE-CHOTZEN SYNDROME	ncithesaurus:Saethre_Chotzen_Syndrome	Saethre-Chotzen Syndrome	true	
+ENSPHENO:0001414	SANFILIPPO SYNDROME A	ncithesaurus:Sanfilippo_Syndrome	Sanfilippo Syndrome	false	
+ENSPHENO:0001414	SANFILIPPO SYNDROME A	ncithesaurus:Sanfilippo_Syndrome	Sanfilippo Syndrome	true	
+ENSPHENO:0001428	SEVERE COMBINED IMMUNODEFICIENCY X-LINKED	ncithesaurus:X-Linked_Severe_Combined_Immunodeficiency	X-Linked Severe Combined Immunodeficiency	true	
+ENSPHENO:0001429	SEX HORMONE-BINDING GLOBULIN	ncithesaurus:Sex_Hormone-Binding_Globulin	Sex Hormone-Binding Globulin	false	
+ENSPHENO:0001429	SEX HORMONE-BINDING GLOBULIN	ncithesaurus:Sex_Hormone-Binding_Globulin	Sex Hormone-Binding Globulin	true	
+ENSPHENO:0001477	Schizophrenia	ncithesaurus:Schizophrenia	Schizophrenia	false	
+ENSPHENO:0001477	Schizophrenia	ncithesaurus:Schizophrenia	Schizophrenia	true	
+ENSPHENO:0001496	Shwachman-Diamond syndrome	ncithesaurus:Schwachmann-Diamond_Syndrome	Shwachman-Diamond Syndrome	false	
+ENSPHENO:0001496	Shwachman-Diamond syndrome	ncithesaurus:Schwachmann-Diamond_Syndrome	Shwachman-Diamond Syndrome	true	
+ENSPHENO:0001498	Skin pigmentation	ncithesaurus:Skin_Pigmentation	Skin Pigmentation	false	
+ENSPHENO:0001498	Skin pigmentation	ncithesaurus:Skin_Pigmentation	Skin Pigmentation	true	
+ENSPHENO:0001503	Smith-Lemli-Opitz syndrome	ncithesaurus:Smith-Lemli-Opitz_Syndrome	Smith-Lemli-Opitz Syndrome	false	
+ENSPHENO:0001503	Smith-Lemli-Opitz syndrome	ncithesaurus:Smith-Lemli-Opitz_Syndrome	Smith-Lemli-Opitz Syndrome	true	
+ENSPHENO:0001504	Smoking behavior	ncithesaurus:Smoking_Behavior	Smoking Behavior	false	
+ENSPHENO:0001504	Smoking behavior	ncithesaurus:Smoking_Behavior	Smoking Behavior	true	
+ENSPHENO:0001512	Squamous cell carcinoma	ncithesaurus:Squamous_Cell_Carcinoma	Squamous Cell Carcinoma	false	
+ENSPHENO:0001512	Squamous cell carcinoma	ncithesaurus:Squamous_Cell_Carcinoma	Squamous Cell Carcinoma	true	
+ENSPHENO:0001524	Systemic lupus erythematosus	ncithesaurus:Systemic_Lupus_Erythematosus	Systemic Lupus Erythematosus	false	
+ENSPHENO:0001524	Systemic lupus erythematosus	ncithesaurus:Systemic_Lupus_Erythematosus	Systemic Lupus Erythematosus	true	
+ENSPHENO:0001526	Systolic blood pressure	ncithesaurus:Systolic_Pressure	Systolic Blood Pressure	false	
+ENSPHENO:0001526	Systolic blood pressure	ncithesaurus:Systolic_Pressure	Systolic Blood Pressure	true	
+ENSPHENO:0001527	TAY-SACHS DISEASE	ncithesaurus:Tay-Sachs_Disease	Tay-Sachs Disease	false	
+ENSPHENO:0001527	TAY-SACHS DISEASE	ncithesaurus:Tay-Sachs_Disease	Tay-Sachs Disease	true	
+ENSPHENO:0001543	TOLL-LIKE RECEPTOR 3	ncithesaurus:Toll-Like_Receptor-3	Toll-Like Receptor 3	false	
+ENSPHENO:0001543	TOLL-LIKE RECEPTOR 3	ncithesaurus:Toll-Like_Receptor-3	Toll-Like Receptor 3	true	
+ENSPHENO:0001547	TRANSCRIPTION FACTOR 7-LIKE 2	ncithesaurus:Transcription_Factor-7-Like-2_Protein	Transcription Factor 7-Like 2	false	
+ENSPHENO:0001547	TRANSCRIPTION FACTOR 7-LIKE 2	ncithesaurus:Transcription_Factor-7-Like-2_Protein	Transcription Factor 7-Like 2	true	
+ENSPHENO:0001549	TREACHER COLLINS SYNDROME	ncithesaurus:Treacher_Collins_Syndrome	Treacher Collins Syndrome	false	
+ENSPHENO:0001549	TREACHER COLLINS SYNDROME	ncithesaurus:Treacher_Collins_Syndrome	Treacher Collins Syndrome	true	
+ENSPHENO:0001550	TRICHORHINOPHALANGEAL SYNDROME TYPE I	ncithesaurus:Trichorhinophalangeal_Syndrome_Type_I	Trichorhinophalangeal Syndrome Type I	false	
+ENSPHENO:0001550	TRICHORHINOPHALANGEAL SYNDROME TYPE I	ncithesaurus:Trichorhinophalangeal_Syndrome_Type_I	Trichorhinophalangeal Syndrome Type I	true	
+ENSPHENO:0001554	TUBEROUS SCLEROSIS 1	ncithesaurus:Tuberous_Sclerosis_1	Tuberous Sclerosis 1	false	
+ENSPHENO:0001554	TUBEROUS SCLEROSIS 1	ncithesaurus:Tuberous_Sclerosis_1	Tuberous Sclerosis 1	true	
+ENSPHENO:0001555	TUBEROUS SCLEROSIS 2	ncithesaurus:Tuberous_Sclerosis_2	Tuberous Sclerosis 2	false	
+ENSPHENO:0001555	TUBEROUS SCLEROSIS 2	ncithesaurus:Tuberous_Sclerosis_2	Tuberous Sclerosis 2	true	
+ENSPHENO:0001557	TYROSINASE	ncithesaurus:Tyrosinase	Tyrosinase	false	
+ENSPHENO:0001557	TYROSINASE	ncithesaurus:Tyrosinase	Tyrosinase	true	
+ENSPHENO:0001563	Testicular germ cell tumor	ncithesaurus:Testicular_Germ_Cell_Neoplasm	Testicular Germ Cell Tumor	false	
+ENSPHENO:0001563	Testicular germ cell tumor	ncithesaurus:Testicular_Germ_Cell_Neoplasm	Testicular Germ Cell Tumor	true	
+ENSPHENO:0001564	Tetralogy of Fallot	ncithesaurus:Tetralogy_of_Fallot	Tetralogy of Fallot	false	
+ENSPHENO:0001564	Tetralogy of Fallot	ncithesaurus:Tetralogy_of_Fallot	Tetralogy of Fallot	true	
+ENSPHENO:0001566	Thiopurine S-methyltransferase deficiency	ncithesaurus:Thiopurine_Methyltransferase_Deficiency	Thiopurine Methyltransferase Deficiency	false	
+ENSPHENO:0001566	Thiopurine S-methyltransferase deficiency	ncithesaurus:Thiopurine_Methyltransferase_Deficiency	Thiopurine Methyltransferase Deficiency	true	
+ENSPHENO:0001572	Triglycerides	ncithesaurus:Triglyceride	Triglyceride	true	
+ENSPHENO:0001572	Triglycerides	ncithesaurus:Triglycerides	Triglycerides	false	
+ENSPHENO:0001572	Triglycerides	ncithesaurus:Triglycerides	Triglycerides	true	
+ENSPHENO:0001573	Tuberculosis	ncithesaurus:Tuberculosis	Tuberculosis	false	
+ENSPHENO:0001573	Tuberculosis	ncithesaurus:Tuberculosis	Tuberculosis	true	
+ENSPHENO:0001602	Ulcerative colitis	ncithesaurus:Ulcerative_Colitis	Ulcerative Colitis	false	
+ENSPHENO:0001602	Ulcerative colitis	ncithesaurus:Ulcerative_Colitis	Ulcerative Colitis	true	
+ENSPHENO:0001614	VITAMIN K EPOXIDE REDUCTASE COMPLEX SUBUNIT 1	ncithesaurus:VKORC1_Protein	Vitamin K Epoxide Reductase Complex, Subunit 1	false	
+ENSPHENO:0001614	VITAMIN K EPOXIDE REDUCTASE COMPLEX SUBUNIT 1	ncithesaurus:VKORC1_Protein	Vitamin K Epoxide Reductase Complex, Subunit 1	true	
+ENSPHENO:0001617	VON HIPPEL-LINDAU SYNDROME	ncithesaurus:Von_Hippel-Lindau_Syndrome	Von Hippel-Lindau Syndrome	false	
+ENSPHENO:0001617	VON HIPPEL-LINDAU SYNDROME	ncithesaurus:Von_Hippel-Lindau_Syndrome	Von Hippel-Lindau Syndrome	true	
+ENSPHENO:0001623	Vitiligo	ncithesaurus:Vitiligo	Vitiligo	false	
+ENSPHENO:0001623	Vitiligo	ncithesaurus:Vitiligo	Vitiligo	true	
+ENSPHENO:0001625	Von Hippel-Lindau disease	ncithesaurus:Von_Hippel-Lindau_Syndrome	Von Hippel-Lindau Syndrome	false	
+ENSPHENO:0001626	WAARDENBURG SYNDROME TYPE 1	ncithesaurus:Waardenburg_Syndrome_Type_1	Waardenburg Syndrome Type 1	false	
+ENSPHENO:0001626	WAARDENBURG SYNDROME TYPE 1	ncithesaurus:Waardenburg_Syndrome_Type_1	Waardenburg Syndrome Type 1	true	
+ENSPHENO:0001633	Waist-hip ratio	ncithesaurus:Waist-Hip_Ratio	Waist-Hip Ratio	false	
+ENSPHENO:0001633	Waist-hip ratio	ncithesaurus:Waist-Hip_Ratio	Waist-Hip Ratio	true	
+ENSPHENO:0001635	Weight	ncithesaurus:Sample_Weight	Sample Weight	false	
+ENSPHENO:0001635	Weight	ncithesaurus:Sample_Weight	Sample Weight	true	
+ENSPHENO:0001635	Weight	ncithesaurus:Weight	Weight	false	
+ENSPHENO:0001635	Weight	ncithesaurus:Weight	Weight	true	
+ENSPHENO:0001639	Wolfram syndrome	ncithesaurus:Wolfram_Syndrome	Wolfram Syndrome	false	
+ENSPHENO:0001639	Wolfram syndrome	ncithesaurus:Wolfram_Syndrome	Wolfram Syndrome	true	
+ENSPHENO:0001642	XERODERMA PIGMENTOSUM COMPLEMENTATION GROUP A	ncithesaurus:Xeroderma_Pigmentosum_Complementation_Group_A	Xeroderma Pigmentosum Complementation Group A	false	
+ENSPHENO:0001642	XERODERMA PIGMENTOSUM COMPLEMENTATION GROUP A	ncithesaurus:Xeroderma_Pigmentosum_Complementation_Group_A	Xeroderma Pigmentosum Complementation Group A	true	
+ENSPHENO:0001646	ZELLWEGER SYNDROME	ncithesaurus:Zellweger_Syndrome	Zellweger Syndrome	false	
+ENSPHENO:0001646	ZELLWEGER SYNDROME	ncithesaurus:Zellweger_Syndrome	Zellweger Syndrome	true	
+ncithesaurus:Acute_Intermittent_Porphyria	Acute Intermittent Porphyria	ENSPHENO:0001282	PORPHYRIA ACUTE INTERMITTENT	true	
+ncithesaurus:Acute_Lymphoblastic_Leukemia	Acute Lymphoblastic Leukemia	ENSPHENO:0000891	LEUKEMIA ACUTE LYMPHOBLASTIC	true	
+ncithesaurus:Acyl-CoA_Dehydrogenase_Short-Chain_Deficiency	Acyl-CoA Dehydrogenase, Short-Chain Deficiency	ENSPHENO:0000106	Acyl-CoA dehydrogenase short-chain deficiency	false	
+ncithesaurus:Acyl-CoA_Dehydrogenase_Short-Chain_Deficiency	Acyl-CoA Dehydrogenase, Short-Chain Deficiency	ENSPHENO:0000106	Acyl-CoA dehydrogenase short-chain deficiency	true	
+ncithesaurus:Albumin	Albumin	ENSPHENO:0000041	ALBUMIN	false	
+ncithesaurus:Albumin	Albumin	ENSPHENO:0000041	ALBUMIN	true	
+ncithesaurus:Alcohol_Consumption	Alcohol Consumption	ENSPHENO:0000118	Alcohol consumption	false	
+ncithesaurus:Alcohol_Consumption	Alcohol Consumption	ENSPHENO:0000118	Alcohol consumption	true	
+ncithesaurus:Alexander_Disease	Alexander Disease	ENSPHENO:0000123	Alexander disease	false	
+ncithesaurus:Alexander_Disease	Alexander Disease	ENSPHENO:0000123	Alexander disease	true	
+ncithesaurus:Alkaptonuria	Alkaptonuria	ENSPHENO:0000124	Alkaptonuria	false	
+ncithesaurus:Alkaptonuria	Alkaptonuria	ENSPHENO:0000124	Alkaptonuria	true	
+ncithesaurus:Allergic_Rhinitis	Allergic Rhinitis	ENSPHENO:0000054	ALLERGIC RHINITIS	false	
+ncithesaurus:Allergic_Rhinitis	Allergic Rhinitis	ENSPHENO:0000054	ALLERGIC RHINITIS	true	
+ncithesaurus:Alzheimer_s_Disease	Alzheimer's Disease	ENSPHENO:0000128	Alzheimer's disease	false	
+ncithesaurus:Alzheimer_s_Disease	Alzheimer's Disease	ENSPHENO:0000128	Alzheimer's disease	true	
+ncithesaurus:Amyloid_Beta-A4_Protein_Precursor	Amyloid Beta A4 Protein Precursor	ENSPHENO:0000065	AMYLOID BETA A4 PRECURSOR PROTEIN	true	
+ncithesaurus:Amyotrophic_Lateral_Sclerosis	Amyotrophic Lateral Sclerosis	ENSPHENO:0000135	Amyotrophic lateral sclerosis	false	
+ncithesaurus:Amyotrophic_Lateral_Sclerosis	Amyotrophic Lateral Sclerosis	ENSPHENO:0000135	Amyotrophic lateral sclerosis	true	
+ncithesaurus:Anorexia_Nervosa	Anorexia Nervosa	ENSPHENO:0000137	Anorexia nervosa	false	
+ncithesaurus:Anorexia_Nervosa	Anorexia Nervosa	ENSPHENO:0000137	Anorexia nervosa	true	
+ncithesaurus:Aplastic_Anemia	Aplastic Anemia	ENSPHENO:0000081	APLASTIC ANEMIA	false	
+ncithesaurus:Aplastic_Anemia	Aplastic Anemia	ENSPHENO:0000081	APLASTIC ANEMIA	true	
+ncithesaurus:Argininemia	Argininemia	ENSPHENO:0000139	Argininemia	false	
+ncithesaurus:Argininemia	Argininemia	ENSPHENO:0000139	Argininemia	true	
+ncithesaurus:Argininosuccinic_Aciduria	Argininosuccinic Aciduria	ENSPHENO:0000084	ARGININOSUCCINIC ACIDURIA	false	
+ncithesaurus:Argininosuccinic_Aciduria	Argininosuccinic Aciduria	ENSPHENO:0000084	ARGININOSUCCINIC ACIDURIA	true	
+ncithesaurus:Asthma	Asthma	ENSPHENO:0000143	Asthma	false	
+ncithesaurus:Asthma	Asthma	ENSPHENO:0000143	Asthma	true	
+ncithesaurus:Atrial_Fibrillation	Atrial Fibrillation	ENSPHENO:0000146	Atrial fibrillation	false	
+ncithesaurus:Atrial_Fibrillation	Atrial Fibrillation	ENSPHENO:0000146	Atrial fibrillation	true	
+ncithesaurus:BRCA2_Gene	BRCA2 Gene	ENSPHENO:0000187	BRCA2 GENE	false	
+ncithesaurus:BRCA2_Gene	BRCA2 Gene	ENSPHENO:0000187	BRCA2 GENE	true	
+ncithesaurus:Beckwith-Wiedemann_Syndrome	Beckwith-Wiedemann Syndrome	ENSPHENO:0000162	BECKWITH-WIEDEMANN SYNDROME	false	
+ncithesaurus:Beckwith-Wiedemann_Syndrome	Beckwith-Wiedemann Syndrome	ENSPHENO:0000162	BECKWITH-WIEDEMANN SYNDROME	true	
+ncithesaurus:Bernard-Soulier_Syndrome	Bernard-Soulier Syndrome	ENSPHENO:0000197	Bernard-Soulier syndrome	false	
+ncithesaurus:Bernard-Soulier_Syndrome	Bernard-Soulier Syndrome	ENSPHENO:0000197	Bernard-Soulier syndrome	true	
+ncithesaurus:Biliary_Atresia	Biliary Atresia	ENSPHENO:0000198	Biliary atresia	false	
+ncithesaurus:Biliary_Atresia	Biliary Atresia	ENSPHENO:0000198	Biliary atresia	true	
+ncithesaurus:Bipolar_Disorder	Bipolar Disorder	ENSPHENO:0000203	Bipolar disorder	false	
+ncithesaurus:Bipolar_Disorder	Bipolar Disorder	ENSPHENO:0000203	Bipolar disorder	true	
+ncithesaurus:Blood_Pressure	Blood Pressure	ENSPHENO:0000222	Blood pressure	false	
+ncithesaurus:Blood_Pressure	Blood Pressure	ENSPHENO:0000222	Blood pressure	true	
+ncithesaurus:Body_Mass_Index	Body Mass Index	ENSPHENO:0000224	Body mass index	false	
+ncithesaurus:Body_Mass_Index	Body Mass Index	ENSPHENO:0000224	Body mass index	true	
+ncithesaurus:Bone_Morphogenetic_Protein-15	Bone Morphogenetic Protein 15	ENSPHENO:0000185	BONE MORPHOGENETIC PROTEIN 15	false	
+ncithesaurus:Bone_Morphogenetic_Protein-15	Bone Morphogenetic Protein 15	ENSPHENO:0000185	BONE MORPHOGENETIC PROTEIN 15	true	
+ncithesaurus:Bone_Paget_s_Disease	Bone Paget Disease	ENSPHENO:0001249	PAGET DISEASE OF BONE	true	
+ncithesaurus:Brain	Brain	ENSPHENO:0000249	Brain structure	false	
+ncithesaurus:Brain	Brain	ENSPHENO:0000249	Brain structure	true	
+ncithesaurus:Burkitt_s_Lymphoma	Burkitt Lymphoma	ENSPHENO:0000193	BURKITT LYMPHOMA	false	
+ncithesaurus:Burkitt_s_Lymphoma	Burkitt Lymphoma	ENSPHENO:0000193	BURKITT LYMPHOMA	true	
+ncithesaurus:C-Reactive_Protein	C-Reactive Protein	ENSPHENO:0000254	C-reactive protein	false	
+ncithesaurus:C-Reactive_Protein	C-Reactive Protein	ENSPHENO:0000254	C-reactive protein	true	
+ncithesaurus:Camurati-Engelmann_Syndrome	Camurati-Engelmann Syndrome	ENSPHENO:0000255	CAMURATI-ENGELMANN DISEASE	false	
+ncithesaurus:Camurati-Engelmann_Syndrome	Camurati-Engelmann Syndrome	ENSPHENO:0000255	CAMURATI-ENGELMANN DISEASE	true	
+ncithesaurus:Canavan_Disease	Canavan Disease	ENSPHENO:0000349	Canavan disease	false	
+ncithesaurus:Canavan_Disease	Canavan Disease	ENSPHENO:0000349	Canavan disease	true	
+ncithesaurus:Cannabis_Dependence	Cannabis Dependence	ENSPHENO:0000352	Cannabis dependence	false	
+ncithesaurus:Cannabis_Dependence	Cannabis Dependence	ENSPHENO:0000352	Cannabis dependence	true	
+ncithesaurus:Cardiofaciocutaneous_Syndrome	Cardiofaciocutaneous Syndrome	ENSPHENO:0000259	CARDIOFACIOCUTANEOUS SYNDROME	false	
+ncithesaurus:Cardiofaciocutaneous_Syndrome	Cardiofaciocutaneous Syndrome	ENSPHENO:0000259	CARDIOFACIOCUTANEOUS SYNDROME	true	
+ncithesaurus:Celiac_Disease	Celiac Disease	ENSPHENO:0000362	Celiac disease	false	
+ncithesaurus:Celiac_Disease	Celiac Disease	ENSPHENO:0000362	Celiac disease	true	
+ncithesaurus:Central_Core_Disease	Central Core Disease	ENSPHENO:0000279	CENTRAL CORE DISEASE	false	
+ncithesaurus:Central_Core_Disease	Central Core Disease	ENSPHENO:0000279	CENTRAL CORE DISEASE	true	
+ncithesaurus:Charcot_Marie_Tooth_Disease_Type_1A	Charcot-Marie-Tooth Disease Type 1A	ENSPHENO:0000291	CHARCOT-MARIE-TOOTH DISEASE TYPE 1A	false	
+ncithesaurus:Charcot_Marie_Tooth_Disease_Type_1A	Charcot-Marie-Tooth Disease Type 1A	ENSPHENO:0000291	CHARCOT-MARIE-TOOTH DISEASE TYPE 1A	true	
+ncithesaurus:Chediak-Higashi_Syndrome	Chediak-Higashi Syndrome	ENSPHENO:0000370	Chediak-Higashi syndrome	false	
+ncithesaurus:Chediak-Higashi_Syndrome	Chediak-Higashi Syndrome	ENSPHENO:0000370	Chediak-Higashi syndrome	true	
+ncithesaurus:Cherubism	Cherubism	ENSPHENO:0000371	Cherubism	false	
+ncithesaurus:Cherubism	Cherubism	ENSPHENO:0000371	Cherubism	true	
+ncithesaurus:Chronic_Kidney_Disease	Chronic Kidney Disease	ENSPHENO:0000376	Chronic kidney disease	false	
+ncithesaurus:Chronic_Kidney_Disease	Chronic Kidney Disease	ENSPHENO:0000376	Chronic kidney disease	true	
+ncithesaurus:Chronic_Lymphocytic_Leukemia	Chronic Lymphocytic Leukemia	ENSPHENO:0000377	Chronic lymphocytic leukemia	false	
+ncithesaurus:Chronic_Lymphocytic_Leukemia	Chronic Lymphocytic Leukemia	ENSPHENO:0000377	Chronic lymphocytic leukemia	true	
+ncithesaurus:Chronic_Obstructive_Airways_Disease	Chronic Obstructive Pulmonary Disease	ENSPHENO:0000378	Chronic obstructive pulmonary disease	false	
+ncithesaurus:Chronic_Obstructive_Airways_Disease	Chronic Obstructive Pulmonary Disease	ENSPHENO:0000378	Chronic obstructive pulmonary disease	true	
+ncithesaurus:Cleidocranial_Dysplasia	Cleidocranial Dysplasia	ENSPHENO:0000309	CLEIDOCRANIAL DYSPLASIA	false	
+ncithesaurus:Cleidocranial_Dysplasia	Cleidocranial Dysplasia	ENSPHENO:0000309	CLEIDOCRANIAL DYSPLASIA	true	
+ncithesaurus:Coronary_Disease	Coronary Artery Disease	ENSPHENO:0000391	Coronary Artery Disease	false	
+ncithesaurus:Coronary_Disease	Coronary Artery Disease	ENSPHENO:0000391	Coronary Artery Disease	true	
+ncithesaurus:Crohn_s_Disease	Crohn Disease	ENSPHENO:0000398	Crohn's disease	false	
+ncithesaurus:Crohn_s_Disease	Crohn Disease	ENSPHENO:0000398	Crohn's disease	true	
+ncithesaurus:Cystic_Fibrosis	Cystic Fibrosis	ENSPHENO:0000402	Cystic fibrosis	false	
+ncithesaurus:Cystic_Fibrosis	Cystic Fibrosis	ENSPHENO:0000402	Cystic fibrosis	true	
+ncithesaurus:Cystinuria	Cystinuria	ENSPHENO:0000347	CYSTINURIA	false	
+ncithesaurus:Cystinuria	Cystinuria	ENSPHENO:0000347	CYSTINURIA	true	
+ncithesaurus:Diabetic_Nephropathy	Diabetic Nephropathy	ENSPHENO:0000438	Diabetic nephropathy	false	
+ncithesaurus:Diabetic_Nephropathy	Diabetic Nephropathy	ENSPHENO:0000438	Diabetic nephropathy	true	
+ncithesaurus:Diabetic_Retinopathy	Diabetic Retinopathy	ENSPHENO:0000439	Diabetic retinopathy	false	
+ncithesaurus:Diabetic_Retinopathy	Diabetic Retinopathy	ENSPHENO:0000439	Diabetic retinopathy	true	
+ncithesaurus:Diastolic_Pressure	Diastolic Blood Pressure	ENSPHENO:0000441	Diastolic blood pressure	false	
+ncithesaurus:Diastolic_Pressure	Diastolic Blood Pressure	ENSPHENO:0000441	Diastolic blood pressure	true	
+ncithesaurus:Dilated_Cardiomyopathy	Dilated Cardiomyopathy	ENSPHENO:0000443	Dilated cardiomyopathy	false	
+ncithesaurus:Dilated_Cardiomyopathy	Dilated Cardiomyopathy	ENSPHENO:0000443	Dilated cardiomyopathy	true	
+ncithesaurus:Donohue_Syndrome	Donohue Syndrome	ENSPHENO:0000429	DONOHUE SYNDROME	false	
+ncithesaurus:Donohue_Syndrome	Donohue Syndrome	ENSPHENO:0000429	DONOHUE SYNDROME	true	
+ncithesaurus:Epidermolytic_Hyperkeratosis	Epidermolytic Hyperkeratosis	ENSPHENO:0000483	EPIDERMOLYTIC HYPERKERATOSIS	false	
+ncithesaurus:Epidermolytic_Hyperkeratosis	Epidermolytic Hyperkeratosis	ENSPHENO:0000483	EPIDERMOLYTIC HYPERKERATOSIS	true	
+ncithesaurus:Epidermolytic_Palmoplantar_Keratoderma	Epidermolytic Palmoplantar Keratoderma	ENSPHENO:0001251	PALMOPLANTAR KERATODERMA EPIDERMOLYTIC	true	
+ncithesaurus:Epidermolytic_Palmoplantar_Keratoderma	Epidermolytic Palmoplantar Keratoderma	ENSPHENO:0001304	Palmoplantar keratoderma epidermolytic	false	
+ncithesaurus:Epidermolytic_Palmoplantar_Keratoderma	Epidermolytic Palmoplantar Keratoderma	ENSPHENO:0001304	Palmoplantar keratoderma epidermolytic	true	
+ncithesaurus:Estrogen_Receptor_2	Estrogen Receptor 2	ENSPHENO:0000493	ESTROGEN RECEPTOR 2	false	
+ncithesaurus:Estrogen_Receptor_2	Estrogen Receptor 2	ENSPHENO:0000493	ESTROGEN RECEPTOR 2	true	
+ncithesaurus:Fabry_Disease	Fabry Disease	ENSPHENO:0000553	Fabry disease	false	
+ncithesaurus:Fabry_Disease	Fabry Disease	ENSPHENO:0000553	Fabry disease	true	
+ncithesaurus:Factor_XI_Deficiency	Factor XI Deficiency	ENSPHENO:0000554	Factor XI deficiency	false	
+ncithesaurus:Factor_XI_Deficiency	Factor XI Deficiency	ENSPHENO:0000554	Factor XI deficiency	true	
+ncithesaurus:Familial_Hypertrophic_Cardiomyopathy	Familial Hypertrophic Cardiomyopathy	ENSPHENO:0000262	CARDIOMYOPATHY FAMILIAL HYPERTROPHIC	false	
+ncithesaurus:Familial_Hypertrophic_Cardiomyopathy	Familial Hypertrophic Cardiomyopathy	ENSPHENO:0000262	CARDIOMYOPATHY FAMILIAL HYPERTROPHIC	true	
+ncithesaurus:Familial_Mediterranean_Fever	Familial Mediterranean Fever	ENSPHENO:0000526	FAMILIAL MEDITERRANEAN FEVER	false	
+ncithesaurus:Familial_Mediterranean_Fever	Familial Mediterranean Fever	ENSPHENO:0000526	FAMILIAL MEDITERRANEAN FEVER	true	
+ncithesaurus:Fanconi_Anemia	Fanconi Anemia	ENSPHENO:0000563	Fanconi anemia	false	
+ncithesaurus:Fanconi_Anemia	Fanconi Anemia	ENSPHENO:0000563	Fanconi anemia	true	
+ncithesaurus:Fanconi_s_Anemia	Fanconi's Anemia	ENSPHENO:0000563	Fanconi anemia	false	
+ncithesaurus:Fanconi_s_Anemia	Fanconi's Anemia	ENSPHENO:0000563	Fanconi anemia	true	
+ncithesaurus:Fibroblast_Growth_Factor-20	Fibroblast Growth Factor 20	ENSPHENO:0000537	FIBROBLAST GROWTH FACTOR 20	false	
+ncithesaurus:Fibroblast_Growth_Factor-20	Fibroblast Growth Factor 20	ENSPHENO:0000537	FIBROBLAST GROWTH FACTOR 20	true	
+ncithesaurus:Friedreich_Ataxia	Friedreich Ataxia	ENSPHENO:0000545	FRIEDREICH ATAXIA	false	
+ncithesaurus:Friedreich_Ataxia	Friedreich Ataxia	ENSPHENO:0000545	FRIEDREICH ATAXIA	true	
+ncithesaurus:Frontotemporal_Dementia	Frontotemporal Dementia	ENSPHENO:0000546	FRONTOTEMPORAL DEMENTIA	false	
+ncithesaurus:Frontotemporal_Dementia	Frontotemporal Dementia	ENSPHENO:0000546	FRONTOTEMPORAL DEMENTIA	true	
+ncithesaurus:Fucosidosis	Fucosidosis	ENSPHENO:0000549	FUCOSIDOSIS	false	
+ncithesaurus:Fucosidosis	Fucosidosis	ENSPHENO:0000549	FUCOSIDOSIS	true	
+ncithesaurus:Gaucher_Disease	Gaucher Disease	ENSPHENO:0000604	Gaucher disease	false	
+ncithesaurus:Gaucher_Disease	Gaucher Disease	ENSPHENO:0000604	Gaucher disease	true	
+ncithesaurus:Gilbert_Syndrome	Gilbert Syndrome	ENSPHENO:0000608	Gilbert syndrome	false	
+ncithesaurus:Gilbert_Syndrome	Gilbert Syndrome	ENSPHENO:0000608	Gilbert syndrome	true	
+ncithesaurus:Glaucoma	Glaucoma	ENSPHENO:0000609	Glaucoma	false	
+ncithesaurus:Glaucoma	Glaucoma	ENSPHENO:0000609	Glaucoma	true	
+ncithesaurus:Graves_Disease	Graves' Disease	ENSPHENO:0000618	Graves' disease	false	
+ncithesaurus:Graves_Disease	Graves' Disease	ENSPHENO:0000618	Graves' disease	true	
+ncithesaurus:Heart_Failure	Heart Failure	ENSPHENO:0000791	Heart failure	false	
+ncithesaurus:Heart_Failure	Heart Failure	ENSPHENO:0000791	Heart failure	true	
+ncithesaurus:Height	Height	ENSPHENO:0000792	Height	false	
+ncithesaurus:Height	Height	ENSPHENO:0000792	Height	true	
+ncithesaurus:Hemoglobin	Hemoglobin	ENSPHENO:0000797	Hemoglobin	false	
+ncithesaurus:Hemoglobin	Hemoglobin	ENSPHENO:0000797	Hemoglobin	true	
+ncithesaurus:Hemophilia	Hemophilia	ENSPHENO:0000798	Hemophilia A	false	
+ncithesaurus:Hemophilia	Hemophilia	ENSPHENO:0000798	Hemophilia A	true	
+ncithesaurus:Hemophilia_A	Hemophilia A	ENSPHENO:0000798	Hemophilia A	false	
+ncithesaurus:Hemophilia_A	Hemophilia A	ENSPHENO:0000798	Hemophilia A	true	
+ncithesaurus:Hemophilia_B	Hemophilia B	ENSPHENO:0000728	HEMOPHILIA B	false	
+ncithesaurus:Hemophilia_B	Hemophilia B	ENSPHENO:0000728	HEMOPHILIA B	true	
+ncithesaurus:Hepatocellular_Carcinoma	Hepatocellular Carcinoma	ENSPHENO:0000803	Hepatocellular carcinoma	false	
+ncithesaurus:Hepatocellular_Carcinoma	Hepatocellular Carcinoma	ENSPHENO:0000803	Hepatocellular carcinoma	true	
+ncithesaurus:Huntington_s_Disease	Huntington's Disease	ENSPHENO:0000751	HUNTINGTON DISEASE	false	
+ncithesaurus:Huntington_s_Disease	Huntington's Disease	ENSPHENO:0000751	HUNTINGTON DISEASE	true	
+ncithesaurus:Hyperparathyroidism-Jaw_Tumor_Syndrome	Hyperparathyroidism-Jaw Tumor Syndrome	ENSPHENO:0000760	HYPERPARATHYROIDISM-JAW TUMOR SYNDROME	false	
+ncithesaurus:Hyperparathyroidism-Jaw_Tumor_Syndrome	Hyperparathyroidism-Jaw Tumor Syndrome	ENSPHENO:0000760	HYPERPARATHYROIDISM-JAW TUMOR SYNDROME	true	
+ncithesaurus:Hypertension	Hypertension	ENSPHENO:0000814	Hypertension	false	
+ncithesaurus:Hypertension	Hypertension	ENSPHENO:0000814	Hypertension	true	
+ncithesaurus:Hypertriglyceridemia	Hypertriglyceridemia	ENSPHENO:0000815	Hypertriglyceridemia	false	
+ncithesaurus:Hypertriglyceridemia	Hypertriglyceridemia	ENSPHENO:0000815	Hypertriglyceridemia	true	
+ncithesaurus:Hypospadias	Hypospadias	ENSPHENO:0000819	Hypospadias	false	
+ncithesaurus:Hypospadias	Hypospadias	ENSPHENO:0000819	Hypospadias	true	
+ncithesaurus:Immunoglobulin	Immunoglobulin	ENSPHENO:0000853	Immunoglobulin A	false	
+ncithesaurus:Immunoglobulin	Immunoglobulin	ENSPHENO:0000853	Immunoglobulin A	true	
+ncithesaurus:Inflammatory_Bowel_Disease	Inflammatory Bowel Disease	ENSPHENO:0000855	Inflammatory bowel disease	false	
+ncithesaurus:Inflammatory_Bowel_Disease	Inflammatory Bowel Disease	ENSPHENO:0000855	Inflammatory bowel disease	true	
+ncithesaurus:Interferon_Regulatory_Factor-1	Interferon Regulatory Factor 1	ENSPHENO:0000842	INTERFERON REGULATORY FACTOR 1	false	
+ncithesaurus:Interferon_Regulatory_Factor-1	Interferon Regulatory Factor 1	ENSPHENO:0000842	INTERFERON REGULATORY FACTOR 1	true	
+ncithesaurus:Interferon_Regulatory_Factor_6	Interferon Regulatory Factor 6	ENSPHENO:0000843	INTERFERON REGULATORY FACTOR 6	false	
+ncithesaurus:Interferon_Regulatory_Factor_6	Interferon Regulatory Factor 6	ENSPHENO:0000843	INTERFERON REGULATORY FACTOR 6	true	
+ncithesaurus:Interleukin-6	Interleukin-6	ENSPHENO:0000846	INTERLEUKIN 6	false	
+ncithesaurus:Interleukin-6	Interleukin-6	ENSPHENO:0000846	INTERLEUKIN 6	true	
+ncithesaurus:Intracranial_Aneurysm	Intracranial Aneurysm	ENSPHENO:0000859	Intracranial aneurysm	false	
+ncithesaurus:Intracranial_Aneurysm	Intracranial Aneurysm	ENSPHENO:0000859	Intracranial aneurysm	true	
+ncithesaurus:Janus_Kinase-2	Janus Kinase 2	ENSPHENO:0000865	JANUS KINASE 2	false	
+ncithesaurus:Janus_Kinase-2	Janus Kinase 2	ENSPHENO:0000865	JANUS KINASE 2	true	
+ncithesaurus:Keloid	Keloid	ENSPHENO:0000876	Keloid	false	
+ncithesaurus:Keloid	Keloid	ENSPHENO:0000876	Keloid	true	
+ncithesaurus:Left_Ventricular_Mass	Left Ventricular Mass	ENSPHENO:0000921	Left ventricular mass	false	
+ncithesaurus:Left_Ventricular_Mass	Left Ventricular Mass	ENSPHENO:0000921	Left ventricular mass	true	
+ncithesaurus:Leprosy	Leprosy	ENSPHENO:0000923	Leprosy	false	
+ncithesaurus:Leprosy	Leprosy	ENSPHENO:0000923	Leprosy	true	
+ncithesaurus:Li-Fraumeni_Syndrome	Li-Fraumeni Syndrome	ENSPHENO:0000926	Li-Fraumeni syndrome	false	
+ncithesaurus:Li-Fraumeni_Syndrome	Li-Fraumeni Syndrome	ENSPHENO:0000926	Li-Fraumeni syndrome	true	
+ncithesaurus:Lung_Carcinoma	Lung Carcinoma	ENSPHENO:0000949	Lung carcinoma	false	
+ncithesaurus:Lung_Carcinoma	Lung Carcinoma	ENSPHENO:0000949	Lung carcinoma	true	
+ncithesaurus:Macular_Corneal_Dystrophy	Macular Corneal Dystrophy	ENSPHENO:0001049	Macular corneal dystrophy	false	
+ncithesaurus:Macular_Corneal_Dystrophy	Macular Corneal Dystrophy	ENSPHENO:0001049	Macular corneal dystrophy	true	
+ncithesaurus:Marfan_s_Syndrome	Marfan Syndrome	ENSPHENO:0001055	Marfan syndrome	false	
+ncithesaurus:Marfan_s_Syndrome	Marfan Syndrome	ENSPHENO:0001055	Marfan syndrome	true	
+ncithesaurus:Matrix_Metalloproteinase-1	Matrix Metalloproteinase-1	ENSPHENO:0000965	MATRIX METALLOPROTEINASE 1	false	
+ncithesaurus:Matrix_Metalloproteinase-1	Matrix Metalloproteinase-1	ENSPHENO:0000965	MATRIX METALLOPROTEINASE 1	true	
+ncithesaurus:Meesmann_Corneal_Dystrophy	Meesmann Corneal Dystrophy	ENSPHENO:0001061	Meesmann corneal dystrophy	false	
+ncithesaurus:Meesmann_Corneal_Dystrophy	Meesmann Corneal Dystrophy	ENSPHENO:0001061	Meesmann corneal dystrophy	true	
+ncithesaurus:Melanoma	Melanoma	ENSPHENO:0001062	Melanoma	false	
+ncithesaurus:Melanoma	Melanoma	ENSPHENO:0001062	Melanoma	true	
+ncithesaurus:Menkes_Disease	Menkes Disease	ENSPHENO:0000979	MENKES DISEASE	false	
+ncithesaurus:Menkes_Disease	Menkes Disease	ENSPHENO:0000979	MENKES DISEASE	true	
+ncithesaurus:Metabolic_Disorder	Metabolic Disorder	ENSPHENO:0001066	Metabolic syndrome	false	
+ncithesaurus:Metabolic_Syndrome	Metabolic Syndrome	ENSPHENO:0001066	Metabolic syndrome	false	
+ncithesaurus:Metabolic_Syndrome	Metabolic Syndrome	ENSPHENO:0001066	Metabolic syndrome	true	
+ncithesaurus:Metachromatic_Leukodystrophy	Metachromatic Leukodystrophy	ENSPHENO:0000925	Leukodystrophy metachromatic	false	
+ncithesaurus:Metachromatic_Leukodystrophy	Metachromatic Leukodystrophy	ENSPHENO:0000925	Leukodystrophy metachromatic	true	
+ncithesaurus:Metachromatic_Leukodystrophy	Metachromatic Leukodystrophy	ENSPHENO:0000991	METACHROMATIC LEUKODYSTROPHY	false	
+ncithesaurus:Metachromatic_Leukodystrophy	Metachromatic Leukodystrophy	ENSPHENO:0000991	METACHROMATIC LEUKODYSTROPHY	true	
+ncithesaurus:Metastatic_Melanoma	Metastatic Melanoma	ENSPHENO:0000018	A metastatic melanoma sample	false	
+ncithesaurus:Moyamoya_Disease	Moyamoya Disease	ENSPHENO:0001077	Moyamoya disease	false	
+ncithesaurus:Moyamoya_Disease	Moyamoya Disease	ENSPHENO:0001077	Moyamoya disease	true	
+ncithesaurus:Mucopolysaccharidosis_Type_IIIB	Mucopolysaccharidosis Type IIIB	ENSPHENO:0001015	MUCOPOLYSACCHARIDOSIS TYPE IIIB	false	
+ncithesaurus:Mucopolysaccharidosis_Type_IIIB	Mucopolysaccharidosis Type IIIB	ENSPHENO:0001015	MUCOPOLYSACCHARIDOSIS TYPE IIIB	true	
+ncithesaurus:Mucopolysaccharidosis_Type_IIIC	Mucopolysaccharidosis Type IIIC	ENSPHENO:0001016	MUCOPOLYSACCHARIDOSIS TYPE IIIC	false	
+ncithesaurus:Mucopolysaccharidosis_Type_IIIC	Mucopolysaccharidosis Type IIIC	ENSPHENO:0001016	MUCOPOLYSACCHARIDOSIS TYPE IIIC	true	
+ncithesaurus:Mucopolysaccharidosis_Type_IIID	Mucopolysaccharidosis Type IIID	ENSPHENO:0001017	MUCOPOLYSACCHARIDOSIS TYPE IIID	false	
+ncithesaurus:Mucopolysaccharidosis_Type_IIID	Mucopolysaccharidosis Type IIID	ENSPHENO:0001017	MUCOPOLYSACCHARIDOSIS TYPE IIID	true	
+ncithesaurus:Mucopolysaccharidosis_Type_IVA	Mucopolysaccharidosis Type IVA	ENSPHENO:0001018	MUCOPOLYSACCHARIDOSIS TYPE IVA	false	
+ncithesaurus:Mucopolysaccharidosis_Type_IVA	Mucopolysaccharidosis Type IVA	ENSPHENO:0001018	MUCOPOLYSACCHARIDOSIS TYPE IVA	true	
+ncithesaurus:Mucopolysaccharidosis_Type_IVB	Mucopolysaccharidosis Type IVB	ENSPHENO:0001019	MUCOPOLYSACCHARIDOSIS TYPE IVB	false	
+ncithesaurus:Mucopolysaccharidosis_Type_IVB	Mucopolysaccharidosis Type IVB	ENSPHENO:0001019	MUCOPOLYSACCHARIDOSIS TYPE IVB	true	
+ncithesaurus:Muenke_Syndrome	Muenke Syndrome	ENSPHENO:0001078	Muenke syndrome	false	
+ncithesaurus:Muenke_Syndrome	Muenke Syndrome	ENSPHENO:0001078	Muenke syndrome	true	
+ncithesaurus:Multiple_Sclerosis	Multiple Sclerosis	ENSPHENO:0001144	Multiple sclerosis	false	
+ncithesaurus:Multiple_Sclerosis	Multiple Sclerosis	ENSPHENO:0001144	Multiple sclerosis	true	
+ncithesaurus:Myocardial_Infarction	Myocardial Infarction	ENSPHENO:0001156	Myocardial infarction	false	
+ncithesaurus:Myocardial_Infarction	Myocardial Infarction	ENSPHENO:0001156	Myocardial infarction	true	
+ncithesaurus:Narcolepsy	Narcolepsy	ENSPHENO:0001186	Narcolepsy	false	
+ncithesaurus:Narcolepsy	Narcolepsy	ENSPHENO:0001186	Narcolepsy	true	
+ncithesaurus:Nasopharyngeal_Carcinoma	Nasopharyngeal Carcinoma	ENSPHENO:0001187	Nasopharyngeal carcinoma	false	
+ncithesaurus:Nasopharyngeal_Carcinoma	Nasopharyngeal Carcinoma	ENSPHENO:0001187	Nasopharyngeal carcinoma	true	
+ncithesaurus:Nephropathy	Nephropathy	ENSPHENO:0001190	Nephropathy	false	
+ncithesaurus:Nephropathy	Nephropathy	ENSPHENO:0001190	Nephropathy	true	
+ncithesaurus:Neurotrophic_Tyrosine_Kinase_Receptor_Type-3	Neurotrophic Tyrosine Kinase Receptor Type 3	ENSPHENO:0001172	NEUROTROPHIC TYROSINE KINASE RECEPTOR TYPE 3	false	
+ncithesaurus:Neurotrophic_Tyrosine_Kinase_Receptor_Type-3	Neurotrophic Tyrosine Kinase Receptor Type 3	ENSPHENO:0001172	NEUROTROPHIC TYROSINE KINASE RECEPTOR TYPE 3	true	
+ncithesaurus:Neutrophil_Count	Neutrophil Count	ENSPHENO:0001193	Neutrophil count	false	
+ncithesaurus:Neutrophil_Count	Neutrophil Count	ENSPHENO:0001193	Neutrophil count	true	
+ncithesaurus:Nicotine_Dependence	Nicotine Dependence	ENSPHENO:0001194	Nicotine dependence	false	
+ncithesaurus:Nicotine_Dependence	Nicotine Dependence	ENSPHENO:0001194	Nicotine dependence	true	
+ncithesaurus:Obesity	Obesity	ENSPHENO:0001232	Obesity	false	
+ncithesaurus:Obesity	Obesity	ENSPHENO:0001232	Obesity	true	
+ncithesaurus:Oculopharyngeal_Muscular_Dystrophy	Oculopharyngeal Muscular Dystrophy	ENSPHENO:0001212	OCULOPHARYNGEAL MUSCULAR DYSTROPHY	false	
+ncithesaurus:Oculopharyngeal_Muscular_Dystrophy	Oculopharyngeal Muscular Dystrophy	ENSPHENO:0001212	OCULOPHARYNGEAL MUSCULAR DYSTROPHY	true	
+ncithesaurus:Omenn_Syndrome	Omenn Syndrome	ENSPHENO:0001215	OMENN SYNDROME	false	
+ncithesaurus:Omenn_Syndrome	Omenn Syndrome	ENSPHENO:0001215	OMENN SYNDROME	true	
+ncithesaurus:Ornithine_Transcarbamylase_Deficiency	Ornithine Transcarbamylase Deficiency	ENSPHENO:0001220	ORNITHINE TRANSCARBAMYLASE DEFICIENCY	false	
+ncithesaurus:Ornithine_Transcarbamylase_Deficiency	Ornithine Transcarbamylase Deficiency	ENSPHENO:0001220	ORNITHINE TRANSCARBAMYLASE DEFICIENCY	true	
+ncithesaurus:Osteogenesis_Imperfecta	Osteogenesis Imperfecta	ENSPHENO:0001224	OSTEOGENESIS IMPERFECTA	false	
+ncithesaurus:Osteogenesis_Imperfecta	Osteogenesis Imperfecta	ENSPHENO:0001224	OSTEOGENESIS IMPERFECTA	true	
+ncithesaurus:Osteoporosis	Osteoporosis	ENSPHENO:0001243	Osteoporosis	false	
+ncithesaurus:Osteoporosis	Osteoporosis	ENSPHENO:0001243	Osteoporosis	true	
+ncithesaurus:Paget_s_Cell_Neoplasm	Paget Disease	ENSPHENO:0001302	Paget's disease	false	
+ncithesaurus:Paget_s_Cell_Neoplasm	Paget Disease	ENSPHENO:0001302	Paget's disease	true	
+ncithesaurus:Pain	Pain	ENSPHENO:0001303	Pain	false	
+ncithesaurus:Pain	Pain	ENSPHENO:0001303	Pain	true	
+ncithesaurus:Painful	Painful	ENSPHENO:0001303	Pain	true	
+ncithesaurus:Pallister-Hall_Syndrome	Pallister-Hall Syndrome	ENSPHENO:0001250	PALLISTER-HALL SYNDROME	false	
+ncithesaurus:Pallister-Hall_Syndrome	Pallister-Hall Syndrome	ENSPHENO:0001250	PALLISTER-HALL SYNDROME	true	
+ncithesaurus:Panic_Disorder	Panic Disorder	ENSPHENO:0001306	Panic disorder	false	
+ncithesaurus:Panic_Disorder	Panic Disorder	ENSPHENO:0001306	Panic disorder	true	
+ncithesaurus:Papillon-Lefevre_Syndrome	Papillon-Lefevre Syndrome	ENSPHENO:0001254	PAPILLON-LEFEVRE SYNDROME	false	
+ncithesaurus:Papillon-Lefevre_Syndrome	Papillon-Lefevre Syndrome	ENSPHENO:0001254	PAPILLON-LEFEVRE SYNDROME	true	
+ncithesaurus:Parkinson_s_Disease	Parkinson's Disease	ENSPHENO:0001307	Parkinson disease	false	
+ncithesaurus:Parkinson_s_Disease	Parkinson's Disease	ENSPHENO:0001307	Parkinson disease	true	
+ncithesaurus:Parkinson_s_Disease	Parkinson's Disease	ENSPHENO:0001309	Parkinson's disease	false	
+ncithesaurus:Parkinson_s_Disease	Parkinson's Disease	ENSPHENO:0001309	Parkinson's disease	true	
+ncithesaurus:Paroxysmal_Nocturnal_Hemoglobinuria	Paroxysmal Nocturnal Hemoglobinuria	ENSPHENO:0001310	Paroxysmal nocturnal hemoglobinuria	false	
+ncithesaurus:Paroxysmal_Nocturnal_Hemoglobinuria	Paroxysmal Nocturnal Hemoglobinuria	ENSPHENO:0001310	Paroxysmal nocturnal hemoglobinuria	true	
+ncithesaurus:Phenylketonuria	Phenylketonuria	ENSPHENO:0001314	Phenylketonuria	false	
+ncithesaurus:Phenylketonuria	Phenylketonuria	ENSPHENO:0001314	Phenylketonuria	true	
+ncithesaurus:Platelet_Aggregation	Platelet Aggregation	ENSPHENO:0001324	Platelet aggregation	false	
+ncithesaurus:Platelet_Aggregation	Platelet Aggregation	ENSPHENO:0001324	Platelet aggregation	true	
+ncithesaurus:Platelet_Count	Platelet Count	ENSPHENO:0001325	Platelet counts	true	
+ncithesaurus:Primary_Biliary_Cirrhosis	Primary Biliary Cirrhosis	ENSPHENO:0001329	Primary biliary cirrhosis	false	
+ncithesaurus:Primary_Biliary_Cirrhosis	Primary Biliary Cirrhosis	ENSPHENO:0001329	Primary biliary cirrhosis	true	
+ncithesaurus:Progressive_Supranuclear_Palsy	Progressive Supranuclear Palsy	ENSPHENO:0001332	Progressive Supranuclear Palsy	false	
+ncithesaurus:Progressive_Supranuclear_Palsy	Progressive Supranuclear Palsy	ENSPHENO:0001332	Progressive Supranuclear Palsy	true	
+ncithesaurus:Pseudoxanthoma_Elasticum	Pseudoxanthoma Elasticum	ENSPHENO:0001337	Pseudoxanthoma elasticum	false	
+ncithesaurus:Pseudoxanthoma_Elasticum	Pseudoxanthoma Elasticum	ENSPHENO:0001337	Pseudoxanthoma elasticum	true	
+ncithesaurus:Psoriasis	Psoriasis	ENSPHENO:0001338	Psoriasis	false	
+ncithesaurus:Psoriasis	Psoriasis	ENSPHENO:0001338	Psoriasis	true	
+ncithesaurus:Psoriatic_Arthritis	Psoriatic Arthritis	ENSPHENO:0001339	Psoriatic arthritis	false	
+ncithesaurus:Psoriatic_Arthritis	Psoriatic Arthritis	ENSPHENO:0001339	Psoriatic arthritis	true	
+ncithesaurus:Pyruvate_Carboxylase_Deficiency	Pyruvate Carboxylase Deficiency	ENSPHENO:0001349	Pyruvate carboxylase deficiency	false	
+ncithesaurus:Pyruvate_Carboxylase_Deficiency	Pyruvate Carboxylase Deficiency	ENSPHENO:0001349	Pyruvate carboxylase deficiency	true	
+ncithesaurus:QT_Interval	QT Interval	ENSPHENO:0001351	QT interval	false	
+ncithesaurus:QT_Interval	QT Interval	ENSPHENO:0001351	QT interval	true	
+ncithesaurus:Reason	Reason	ENSPHENO:0001391	Reasoning	true	
+ncithesaurus:Reasoning	Reasoning	ENSPHENO:0001391	Reasoning	false	
+ncithesaurus:Reasoning	Reasoning	ENSPHENO:0001391	Reasoning	true	
+ncithesaurus:Renal_Cell_Carcinoma	Renal Cell Carcinoma	ENSPHENO:0001395	Renal cell carcinoma	false	
+ncithesaurus:Renal_Cell_Carcinoma	Renal Cell Carcinoma	ENSPHENO:0001395	Renal cell carcinoma	true	
+ncithesaurus:Restless_Leg_Syndrome	Restless Leg Syndrome	ENSPHENO:0001404	Restless Leg Syndrome	false	
+ncithesaurus:Restless_Leg_Syndrome	Restless Leg Syndrome	ENSPHENO:0001404	Restless Leg Syndrome	true	
+ncithesaurus:Restless_Leg_Syndrome	Restless Leg Syndrome	ENSPHENO:0001406	Restless legs syndrome	true	
+ncithesaurus:Retinoblastoma	Retinoblastoma	ENSPHENO:0001379	RETINOBLASTOMA	false	
+ncithesaurus:Retinoblastoma	Retinoblastoma	ENSPHENO:0001379	RETINOBLASTOMA	true	
+ncithesaurus:Retinoblastoma_Binding_Protein_8	Retinoblastoma Binding Protein 8	ENSPHENO:0001380	RETINOBLASTOMA-BINDING PROTEIN 8	false	
+ncithesaurus:Retinoblastoma_Binding_Protein_8	Retinoblastoma Binding Protein 8	ENSPHENO:0001380	RETINOBLASTOMA-BINDING PROTEIN 8	true	
+ncithesaurus:Rett_Syndrome	Rett Syndrome	ENSPHENO:0001408	Rett syndrome	false	
+ncithesaurus:Rett_Syndrome	Rett Syndrome	ENSPHENO:0001408	Rett syndrome	true	
+ncithesaurus:Rheumatoid_Arthritis	Rheumatoid Arthritis	ENSPHENO:0001410	Rheumatoid arthritis	false	
+ncithesaurus:Rheumatoid_Arthritis	Rheumatoid Arthritis	ENSPHENO:0001410	Rheumatoid arthritis	true	
+ncithesaurus:S-Beta_Thalassemia	S-Beta Thalassemia	ENSPHENO:0000167	BETA-THALASSEMIA	false	
+ncithesaurus:S-Beta_Thalassemia	S-Beta Thalassemia	ENSPHENO:0000167	BETA-THALASSEMIA	true	
+ncithesaurus:Saethre_Chotzen_Syndrome	Saethre-Chotzen Syndrome	ENSPHENO:0001413	SAETHRE-CHOTZEN SYNDROME	false	
+ncithesaurus:Saethre_Chotzen_Syndrome	Saethre-Chotzen Syndrome	ENSPHENO:0001413	SAETHRE-CHOTZEN SYNDROME	true	
+ncithesaurus:Sample_Weight	Sample Weight	ENSPHENO:0001635	Weight	false	
+ncithesaurus:Sample_Weight	Sample Weight	ENSPHENO:0001635	Weight	true	
+ncithesaurus:Sanfilippo_Syndrome	Sanfilippo Syndrome	ENSPHENO:0001414	SANFILIPPO SYNDROME A	false	
+ncithesaurus:Sanfilippo_Syndrome	Sanfilippo Syndrome	ENSPHENO:0001414	SANFILIPPO SYNDROME A	true	
+ncithesaurus:Schizophrenia	Schizophrenia	ENSPHENO:0001477	Schizophrenia	false	
+ncithesaurus:Schizophrenia	Schizophrenia	ENSPHENO:0001477	Schizophrenia	true	
+ncithesaurus:Schwachmann-Diamond_Syndrome	Shwachman-Diamond Syndrome	ENSPHENO:0001496	Shwachman-Diamond syndrome	false	
+ncithesaurus:Schwachmann-Diamond_Syndrome	Shwachman-Diamond Syndrome	ENSPHENO:0001496	Shwachman-Diamond syndrome	true	
+ncithesaurus:Sex_Hormone-Binding_Globulin	Sex Hormone-Binding Globulin	ENSPHENO:0001429	SEX HORMONE-BINDING GLOBULIN	false	
+ncithesaurus:Sex_Hormone-Binding_Globulin	Sex Hormone-Binding Globulin	ENSPHENO:0001429	SEX HORMONE-BINDING GLOBULIN	true	
+ncithesaurus:Skin_Pigmentation	Skin Pigmentation	ENSPHENO:0001498	Skin pigmentation	false	
+ncithesaurus:Skin_Pigmentation	Skin Pigmentation	ENSPHENO:0001498	Skin pigmentation	true	
+ncithesaurus:Smith-Lemli-Opitz_Syndrome	Smith-Lemli-Opitz Syndrome	ENSPHENO:0001503	Smith-Lemli-Opitz syndrome	false	
+ncithesaurus:Smith-Lemli-Opitz_Syndrome	Smith-Lemli-Opitz Syndrome	ENSPHENO:0001503	Smith-Lemli-Opitz syndrome	true	
+ncithesaurus:Smoking_Behavior	Smoking Behavior	ENSPHENO:0001504	Smoking behavior	false	
+ncithesaurus:Smoking_Behavior	Smoking Behavior	ENSPHENO:0001504	Smoking behavior	true	
+ncithesaurus:Squamous_Cell_Carcinoma	Squamous Cell Carcinoma	ENSPHENO:0001512	Squamous cell carcinoma	false	
+ncithesaurus:Squamous_Cell_Carcinoma	Squamous Cell Carcinoma	ENSPHENO:0001512	Squamous cell carcinoma	true	
+ncithesaurus:Systemic_Lupus_Erythematosus	Systemic Lupus Erythematosus	ENSPHENO:0001524	Systemic lupus erythematosus	false	
+ncithesaurus:Systemic_Lupus_Erythematosus	Systemic Lupus Erythematosus	ENSPHENO:0001524	Systemic lupus erythematosus	true	
+ncithesaurus:Systolic_Pressure	Systolic Blood Pressure	ENSPHENO:0001526	Systolic blood pressure	false	
+ncithesaurus:Systolic_Pressure	Systolic Blood Pressure	ENSPHENO:0001526	Systolic blood pressure	true	
+ncithesaurus:Tay-Sachs_Disease	Tay-Sachs Disease	ENSPHENO:0001527	TAY-SACHS DISEASE	false	
+ncithesaurus:Tay-Sachs_Disease	Tay-Sachs Disease	ENSPHENO:0001527	TAY-SACHS DISEASE	true	
+ncithesaurus:Testicular_Germ_Cell_Neoplasm	Testicular Germ Cell Tumor	ENSPHENO:0001563	Testicular germ cell tumor	false	
+ncithesaurus:Testicular_Germ_Cell_Neoplasm	Testicular Germ Cell Tumor	ENSPHENO:0001563	Testicular germ cell tumor	true	
+ncithesaurus:Tetralogy_of_Fallot	Tetralogy of Fallot	ENSPHENO:0001564	Tetralogy of Fallot	false	
+ncithesaurus:Tetralogy_of_Fallot	Tetralogy of Fallot	ENSPHENO:0001564	Tetralogy of Fallot	true	
+ncithesaurus:Thiopurine_Methyltransferase_Deficiency	Thiopurine Methyltransferase Deficiency	ENSPHENO:0001566	Thiopurine S-methyltransferase deficiency	false	
+ncithesaurus:Thiopurine_Methyltransferase_Deficiency	Thiopurine Methyltransferase Deficiency	ENSPHENO:0001566	Thiopurine S-methyltransferase deficiency	true	
+ncithesaurus:Toll-Like_Receptor-3	Toll-Like Receptor 3	ENSPHENO:0001543	TOLL-LIKE RECEPTOR 3	false	
+ncithesaurus:Toll-Like_Receptor-3	Toll-Like Receptor 3	ENSPHENO:0001543	TOLL-LIKE RECEPTOR 3	true	
+ncithesaurus:Transcription_Factor-7-Like-2_Protein	Transcription Factor 7-Like 2	ENSPHENO:0001547	TRANSCRIPTION FACTOR 7-LIKE 2	false	
+ncithesaurus:Transcription_Factor-7-Like-2_Protein	Transcription Factor 7-Like 2	ENSPHENO:0001547	TRANSCRIPTION FACTOR 7-LIKE 2	true	
+ncithesaurus:Treacher_Collins_Syndrome	Treacher Collins Syndrome	ENSPHENO:0001549	TREACHER COLLINS SYNDROME	false	
+ncithesaurus:Treacher_Collins_Syndrome	Treacher Collins Syndrome	ENSPHENO:0001549	TREACHER COLLINS SYNDROME	true	
+ncithesaurus:Trichorhinophalangeal_Syndrome_Type_I	Trichorhinophalangeal Syndrome Type I	ENSPHENO:0001550	TRICHORHINOPHALANGEAL SYNDROME TYPE I	false	
+ncithesaurus:Trichorhinophalangeal_Syndrome_Type_I	Trichorhinophalangeal Syndrome Type I	ENSPHENO:0001550	TRICHORHINOPHALANGEAL SYNDROME TYPE I	true	
+ncithesaurus:Triglyceride	Triglyceride	ENSPHENO:0001572	Triglycerides	true	
+ncithesaurus:Triglycerides	Triglycerides	ENSPHENO:0001572	Triglycerides	false	
+ncithesaurus:Triglycerides	Triglycerides	ENSPHENO:0001572	Triglycerides	true	
+ncithesaurus:Tuberculosis	Tuberculosis	ENSPHENO:0001573	Tuberculosis	false	
+ncithesaurus:Tuberculosis	Tuberculosis	ENSPHENO:0001573	Tuberculosis	true	
+ncithesaurus:Tuberous_Sclerosis_1	Tuberous Sclerosis 1	ENSPHENO:0001554	TUBEROUS SCLEROSIS 1	false	
+ncithesaurus:Tuberous_Sclerosis_1	Tuberous Sclerosis 1	ENSPHENO:0001554	TUBEROUS SCLEROSIS 1	true	
+ncithesaurus:Tuberous_Sclerosis_2	Tuberous Sclerosis 2	ENSPHENO:0001555	TUBEROUS SCLEROSIS 2	false	
+ncithesaurus:Tuberous_Sclerosis_2	Tuberous Sclerosis 2	ENSPHENO:0001555	TUBEROUS SCLEROSIS 2	true	
+ncithesaurus:Tyrosinase	Tyrosinase	ENSPHENO:0001557	TYROSINASE	false	
+ncithesaurus:Tyrosinase	Tyrosinase	ENSPHENO:0001557	TYROSINASE	true	
+ncithesaurus:Ulcerative_Colitis	Ulcerative Colitis	ENSPHENO:0001602	Ulcerative colitis	false	
+ncithesaurus:Ulcerative_Colitis	Ulcerative Colitis	ENSPHENO:0001602	Ulcerative colitis	true	
+ncithesaurus:VKORC1_Protein	Vitamin K Epoxide Reductase Complex, Subunit 1	ENSPHENO:0001614	VITAMIN K EPOXIDE REDUCTASE COMPLEX SUBUNIT 1	false	
+ncithesaurus:VKORC1_Protein	Vitamin K Epoxide Reductase Complex, Subunit 1	ENSPHENO:0001614	VITAMIN K EPOXIDE REDUCTASE COMPLEX SUBUNIT 1	true	
+ncithesaurus:Vitiligo	Vitiligo	ENSPHENO:0001623	Vitiligo	false	
+ncithesaurus:Vitiligo	Vitiligo	ENSPHENO:0001623	Vitiligo	true	
+ncithesaurus:Von_Hippel-Lindau_Syndrome	Von Hippel-Lindau Syndrome	ENSPHENO:0001617	VON HIPPEL-LINDAU SYNDROME	false	
+ncithesaurus:Von_Hippel-Lindau_Syndrome	Von Hippel-Lindau Syndrome	ENSPHENO:0001617	VON HIPPEL-LINDAU SYNDROME	true	
+ncithesaurus:Von_Hippel-Lindau_Syndrome	Von Hippel-Lindau Syndrome	ENSPHENO:0001625	Von Hippel-Lindau disease	false	
+ncithesaurus:Waardenburg_Syndrome_Type_1	Waardenburg Syndrome Type 1	ENSPHENO:0001626	WAARDENBURG SYNDROME TYPE 1	false	
+ncithesaurus:Waardenburg_Syndrome_Type_1	Waardenburg Syndrome Type 1	ENSPHENO:0001626	WAARDENBURG SYNDROME TYPE 1	true	
+ncithesaurus:Waist-Hip_Ratio	Waist-Hip Ratio	ENSPHENO:0001633	Waist-hip ratio	false	
+ncithesaurus:Waist-Hip_Ratio	Waist-Hip Ratio	ENSPHENO:0001633	Waist-hip ratio	true	
+ncithesaurus:Weight	Weight	ENSPHENO:0001635	Weight	false	
+ncithesaurus:Weight	Weight	ENSPHENO:0001635	Weight	true	
+ncithesaurus:Wolfram_Syndrome	Wolfram Syndrome	ENSPHENO:0001639	Wolfram syndrome	false	
+ncithesaurus:Wolfram_Syndrome	Wolfram Syndrome	ENSPHENO:0001639	Wolfram syndrome	true	
+ncithesaurus:X-Linked_Severe_Combined_Immunodeficiency	X-Linked Severe Combined Immunodeficiency	ENSPHENO:0001428	SEVERE COMBINED IMMUNODEFICIENCY X-LINKED	true	
+ncithesaurus:Xeroderma_Pigmentosum_Complementation_Group_A	Xeroderma Pigmentosum Complementation Group A	ENSPHENO:0001642	XERODERMA PIGMENTOSUM COMPLEMENTATION GROUP A	false	
+ncithesaurus:Xeroderma_Pigmentosum_Complementation_Group_A	Xeroderma Pigmentosum Complementation Group A	ENSPHENO:0001642	XERODERMA PIGMENTOSUM COMPLEMENTATION GROUP A	true	
+ncithesaurus:Zellweger_Syndrome	Zellweger Syndrome	ENSPHENO:0001646	ZELLWEGER SYNDROME	false	
+ncithesaurus:Zellweger_Syndrome	Zellweger Syndrome	ENSPHENO:0001646	ZELLWEGER SYNDROME	true	

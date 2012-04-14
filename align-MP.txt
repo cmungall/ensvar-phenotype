@@ -1,0 +1,90 @@
+ENSPHENO:0000073	ANALBUMINEMIA	MP:0000199	abnormal circulating serum albumin level	false	
+ENSPHENO:0000073	ANALBUMINEMIA	MP:0000199	abnormal circulating serum albumin level	true	
+ENSPHENO:0000146	Atrial fibrillation	MP:0008543	atrial fibrillation	false	
+ENSPHENO:0000146	Atrial fibrillation	MP:0008543	atrial fibrillation	true	
+ENSPHENO:0000353	Cardiac hypertrophy	MP:0001625	cardiac hypertrophy	false	
+ENSPHENO:0000353	Cardiac hypertrophy	MP:0001625	cardiac hypertrophy	true	
+ENSPHENO:0000391	Coronary Artery Disease	MP:0003024	coronary artery stenosis	false	
+ENSPHENO:0000391	Coronary Artery Disease	MP:0003024	coronary artery stenosis	true	
+ENSPHENO:0000401	Cryptorchidism	MP:0002286	cryptorchism	false	
+ENSPHENO:0000401	Cryptorchidism	MP:0002286	cryptorchism	true	
+ENSPHENO:0000443	Dilated cardiomyopathy	MP:0002795	dilated cardiomyopathy	false	
+ENSPHENO:0000443	Dilated cardiomyopathy	MP:0002795	dilated cardiomyopathy	true	
+ENSPHENO:0000803	Hepatocellular carcinoma	MP:0003331	hepatocellular carcinoma	false	
+ENSPHENO:0000803	Hepatocellular carcinoma	MP:0003331	hepatocellular carcinoma	true	
+ENSPHENO:0000814	Hypertension	MP:0000231	hypertension	false	
+ENSPHENO:0000814	Hypertension	MP:0000231	hypertension	true	
+ENSPHENO:0000815	Hypertriglyceridemia	MP:0001552	increased circulating triglyceride level	false	
+ENSPHENO:0000815	Hypertriglyceridemia	MP:0001552	increased circulating triglyceride level	true	
+ENSPHENO:0000819	Hypospadias	MP:0003124	hypospadia	true	
+ENSPHENO:0000859	Intracranial aneurysm	MP:0010478	intracranial aneurysm	false	
+ENSPHENO:0000859	Intracranial aneurysm	MP:0010478	intracranial aneurysm	true	
+ENSPHENO:0000949	Lung carcinoma	MP:0008714	lung carcinoma	false	
+ENSPHENO:0000949	Lung carcinoma	MP:0008714	lung carcinoma	true	
+ENSPHENO:0001058	Mean corpuscular hemoglobin	MP:0001589	abnormal mean corpuscular hemoglobin	false	
+ENSPHENO:0001058	Mean corpuscular hemoglobin	MP:0001589	abnormal mean corpuscular hemoglobin	true	
+ENSPHENO:0001186	Narcolepsy	MP:0005279	narcolepsy	false	
+ENSPHENO:0001186	Narcolepsy	MP:0005279	narcolepsy	true	
+ENSPHENO:0001232	Obesity	MP:0001261	obese	false	
+ENSPHENO:0001232	Obesity	MP:0001261	obese	true	
+ENSPHENO:0001243	Osteoporosis	MP:0000066	osteoporosis	false	
+ENSPHENO:0001243	Osteoporosis	MP:0000066	osteoporosis	true	
+ENSPHENO:0001305	Pancreatic cancer	MP:0009153	increased pancreas tumor incidence	false	
+ENSPHENO:0001305	Pancreatic cancer	MP:0009153	increased pancreas tumor incidence	true	
+ENSPHENO:0001338	Psoriasis	MP:0001193	psoriasis	false	
+ENSPHENO:0001338	Psoriasis	MP:0001193	psoriasis	true	
+ENSPHENO:0001356	RENAL AGENESIS	MP:0000520	absent kidney	false	
+ENSPHENO:0001356	RENAL AGENESIS	MP:0000520	absent kidney	true	
+ENSPHENO:0001379	RETINOBLASTOMA	MP:0006310	retinoblastoma	false	
+ENSPHENO:0001379	RETINOBLASTOMA	MP:0006310	retinoblastoma	true	
+ENSPHENO:0001410	Rheumatoid arthritis	MP:0003561	rheumatoid arthritis	false	
+ENSPHENO:0001410	Rheumatoid arthritis	MP:0003561	rheumatoid arthritis	true	
+ENSPHENO:0001512	Squamous cell carcinoma	MP:0004207	squamous cell carcinoma	false	
+ENSPHENO:0001512	Squamous cell carcinoma	MP:0004207	squamous cell carcinoma	true	
+ENSPHENO:0001623	Vitiligo	MP:0010016	variable depigmentation	false	
+ENSPHENO:0001623	Vitiligo	MP:0010016	variable depigmentation	true	
+MP:0000066	osteoporosis	ENSPHENO:0001243	Osteoporosis	false	
+MP:0000066	osteoporosis	ENSPHENO:0001243	Osteoporosis	true	
+MP:0000199	abnormal circulating serum albumin level	ENSPHENO:0000073	ANALBUMINEMIA	false	
+MP:0000199	abnormal circulating serum albumin level	ENSPHENO:0000073	ANALBUMINEMIA	true	
+MP:0000231	hypertension	ENSPHENO:0000814	Hypertension	false	
+MP:0000231	hypertension	ENSPHENO:0000814	Hypertension	true	
+MP:0000520	absent kidney	ENSPHENO:0001356	RENAL AGENESIS	false	
+MP:0000520	absent kidney	ENSPHENO:0001356	RENAL AGENESIS	true	
+MP:0001193	psoriasis	ENSPHENO:0001338	Psoriasis	false	
+MP:0001193	psoriasis	ENSPHENO:0001338	Psoriasis	true	
+MP:0001261	obese	ENSPHENO:0001232	Obesity	false	
+MP:0001261	obese	ENSPHENO:0001232	Obesity	true	
+MP:0001552	increased circulating triglyceride level	ENSPHENO:0000815	Hypertriglyceridemia	false	
+MP:0001552	increased circulating triglyceride level	ENSPHENO:0000815	Hypertriglyceridemia	true	
+MP:0001589	abnormal mean corpuscular hemoglobin	ENSPHENO:0001058	Mean corpuscular hemoglobin	false	
+MP:0001589	abnormal mean corpuscular hemoglobin	ENSPHENO:0001058	Mean corpuscular hemoglobin	true	
+MP:0001625	cardiac hypertrophy	ENSPHENO:0000353	Cardiac hypertrophy	false	
+MP:0001625	cardiac hypertrophy	ENSPHENO:0000353	Cardiac hypertrophy	true	
+MP:0002286	cryptorchism	ENSPHENO:0000401	Cryptorchidism	false	
+MP:0002286	cryptorchism	ENSPHENO:0000401	Cryptorchidism	true	
+MP:0002795	dilated cardiomyopathy	ENSPHENO:0000443	Dilated cardiomyopathy	false	
+MP:0002795	dilated cardiomyopathy	ENSPHENO:0000443	Dilated cardiomyopathy	true	
+MP:0003024	coronary artery stenosis	ENSPHENO:0000391	Coronary Artery Disease	false	
+MP:0003024	coronary artery stenosis	ENSPHENO:0000391	Coronary Artery Disease	true	
+MP:0003124	hypospadia	ENSPHENO:0000819	Hypospadias	true	
+MP:0003331	hepatocellular carcinoma	ENSPHENO:0000803	Hepatocellular carcinoma	false	
+MP:0003331	hepatocellular carcinoma	ENSPHENO:0000803	Hepatocellular carcinoma	true	
+MP:0003561	rheumatoid arthritis	ENSPHENO:0001410	Rheumatoid arthritis	false	
+MP:0003561	rheumatoid arthritis	ENSPHENO:0001410	Rheumatoid arthritis	true	
+MP:0004207	squamous cell carcinoma	ENSPHENO:0001512	Squamous cell carcinoma	false	
+MP:0004207	squamous cell carcinoma	ENSPHENO:0001512	Squamous cell carcinoma	true	
+MP:0005279	narcolepsy	ENSPHENO:0001186	Narcolepsy	false	
+MP:0005279	narcolepsy	ENSPHENO:0001186	Narcolepsy	true	
+MP:0006310	retinoblastoma	ENSPHENO:0001379	RETINOBLASTOMA	false	
+MP:0006310	retinoblastoma	ENSPHENO:0001379	RETINOBLASTOMA	true	
+MP:0008543	atrial fibrillation	ENSPHENO:0000146	Atrial fibrillation	false	
+MP:0008543	atrial fibrillation	ENSPHENO:0000146	Atrial fibrillation	true	
+MP:0008714	lung carcinoma	ENSPHENO:0000949	Lung carcinoma	false	
+MP:0008714	lung carcinoma	ENSPHENO:0000949	Lung carcinoma	true	
+MP:0009153	increased pancreas tumor incidence	ENSPHENO:0001305	Pancreatic cancer	false	
+MP:0009153	increased pancreas tumor incidence	ENSPHENO:0001305	Pancreatic cancer	true	
+MP:0010016	variable depigmentation	ENSPHENO:0001623	Vitiligo	false	
+MP:0010016	variable depigmentation	ENSPHENO:0001623	Vitiligo	true	
+MP:0010478	intracranial aneurysm	ENSPHENO:0000859	Intracranial aneurysm	false	
+MP:0010478	intracranial aneurysm	ENSPHENO:0000859	Intracranial aneurysm	true	
