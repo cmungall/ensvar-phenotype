@@ -2,7 +2,7 @@ AONTS = DO HP MP omim snomed_disorder
 AFILES = $(patsubst %, align-%.txt, $(AONTS))
 
 align-%.txt: ensvar-phenotype.obo
-	blip-findall -consult nlp_filter.pro -u metadata_nlp -u metadata_nlp_disorder_hook -goal index_entity_pair_label_match -i $< -r $* "entity_pair_label_reciprocal_best_intermatch(A,B,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+	blip-findall -consult nlp_filter.pro -u metadata_nlp -u metadata_nlp_disorder_hook -goal index_entity_pair_label_match -i $< -r $* "entity_pair_label_reciprocal_best_intermatch(A,B,S)" -use_tabs -label -no_pred > $@.tmp && grep -v UMLS $@.tmp |  sort -u > $@
 .PRECIOUS: align-%.txt
 
 
