@@ -1,3 +1,8 @@
+ENSPHENO:0000014	A breast cancer sample	DOID:1612	breast cancer	false	
+ENSPHENO:0000014	A breast cancer sample	DOID:1612	breast cancer	true	
+ENSPHENO:0000015	A colon cancer sample	DOID:219	colon cancer	false	
+ENSPHENO:0000015	A colon cancer sample	DOID:219	colon cancer	true	
+ENSPHENO:0000016	A colorectal cancer sample	DOID:9256	colorectal cancer	false	
 ENSPHENO:0000022	ACRODERMATITIS ENTEROPATHICA	DOID:0050605	acrodermatitis enteropathica	false	
 ENSPHENO:0000022	ACRODERMATITIS ENTEROPATHICA	DOID:0050605	acrodermatitis enteropathica	true	
 ENSPHENO:0000030	ADULT SYNDROME	DOID:0050601	ADULT syndrome	false	
@@ -75,6 +80,8 @@ ENSPHENO:0000262	CARDIOMYOPATHY FAMILIAL HYPERTROPHIC	DOID:11986	familial hypert
 ENSPHENO:0000262	CARDIOMYOPATHY FAMILIAL HYPERTROPHIC	DOID:11986	familial hypertrophic cardiomyopathy	true	
 ENSPHENO:0000279	CENTRAL CORE DISEASE	DOID:3529	central core myopathy	false	
 ENSPHENO:0000279	CENTRAL CORE DISEASE	DOID:3529	central core myopathy	true	
+ENSPHENO:0000291	CHARCOT-MARIE-TOOTH DISEASE TYPE 1A	DOID:0050538	Charcot-Marie-Tooth disease type 1	false	
+ENSPHENO:0000291	CHARCOT-MARIE-TOOTH DISEASE TYPE 1A	DOID:0050538	Charcot-Marie-Tooth disease type 1	true	
 ENSPHENO:0000309	CLEIDOCRANIAL DYSPLASIA	DOID:13994	cleidocranial dysplasia	false	
 ENSPHENO:0000309	CLEIDOCRANIAL DYSPLASIA	DOID:13994	cleidocranial dysplasia	true	
 ENSPHENO:0000347	CYSTINURIA	DOID:9266	cystinuria	false	
@@ -383,6 +390,10 @@ ENSPHENO:0001639	Wolfram syndrome	DOID:10632	Wolfram syndrome	false
 ENSPHENO:0001639	Wolfram syndrome	DOID:10632	Wolfram syndrome	true	
 ENSPHENO:0001646	ZELLWEGER SYNDROME	DOID:905	Zellweger syndrome	false	
 ENSPHENO:0001646	ZELLWEGER SYNDROME	DOID:905	Zellweger syndrome	true	
+ENSPHENO:0000014	A breast cancer sample	HP:0003002	Breast carcinoma	false	
+ENSPHENO:0000014	A breast cancer sample	HP:0003002	Breast carcinoma	true	
+ENSPHENO:0000015	A colon cancer sample	HP:0003003	Colon cancer	false	
+ENSPHENO:0000015	A colon cancer sample	HP:0003003	Colon cancer	true	
 ENSPHENO:0000028	ADRENAL HYPOPLASIA CONGENITAL	HP:0008244	Congenital adrenal hypoplasia	true	
 ENSPHENO:0000054	ALLERGIC RHINITIS	HP:0003193	Allergic rhinitis	false	
 ENSPHENO:0000054	ALLERGIC RHINITIS	HP:0003193	Allergic rhinitis	true	
@@ -406,6 +417,8 @@ ENSPHENO:0000203	Bipolar disorder	HP:0007302	Bipolar affective disorder	false
 ENSPHENO:0000203	Bipolar disorder	HP:0007302	Bipolar affective disorder	true	
 ENSPHENO:0000250	Breast cancer	HP:0003002	Breast carcinoma	false	
 ENSPHENO:0000250	Breast cancer	HP:0003002	Breast carcinoma	true	
+ENSPHENO:0000252	Bullous congenital ichthyosiform erythroderma	HP:0007475	Congenital bullous ichthyosiform erythroderma	false	
+ENSPHENO:0000252	Bullous congenital ichthyosiform erythroderma	HP:0007475	Congenital bullous ichthyosiform erythroderma	true	
 ENSPHENO:0000347	CYSTINURIA	HP:0003131	Cystinuria	false	
 ENSPHENO:0000347	CYSTINURIA	HP:0003131	Cystinuria	true	
 ENSPHENO:0000362	Celiac disease	HP:0002608	Celiac disease	false	
@@ -424,8 +437,8 @@ ENSPHENO:0000422	DIABETES MELLITUS NONINSULIN-DEPENDENT	HP:0005978	Type II diabe
 ENSPHENO:0000422	DIABETES MELLITUS NONINSULIN-DEPENDENT	HP:0005978	Type II diabetes mellitus	true	
 ENSPHENO:0000443	Dilated cardiomyopathy	HP:0001644	Dilated cardiomyopathy	false	
 ENSPHENO:0000443	Dilated cardiomyopathy	HP:0001644	Dilated cardiomyopathy	true	
-ENSPHENO:0000483	EPIDERMOLYTIC HYPERKERATOSIS	HP:0007475	Epidermolytic hyperkeratosis	false	
-ENSPHENO:0000483	EPIDERMOLYTIC HYPERKERATOSIS	HP:0007475	Epidermolytic hyperkeratosis	true	
+ENSPHENO:0000483	EPIDERMOLYTIC HYPERKERATOSIS	HP:0007475	Congenital bullous ichthyosiform erythroderma	false	
+ENSPHENO:0000483	EPIDERMOLYTIC HYPERKERATOSIS	HP:0007475	Congenital bullous ichthyosiform erythroderma	true	
 ENSPHENO:0000546	FRONTOTEMPORAL DEMENTIA	HP:0002145	Frontotemporal dementia	false	
 ENSPHENO:0000546	FRONTOTEMPORAL DEMENTIA	HP:0002145	Frontotemporal dementia	true	
 ENSPHENO:0000554	Factor XI deficiency	HP:0001929	Factor XI deficiency	false	
@@ -478,8 +491,6 @@ ENSPHENO:0001305	Pancreatic cancer	HP:0002894	Neoplasm of the pancreas	false
 ENSPHENO:0001305	Pancreatic cancer	HP:0002894	Neoplasm of the pancreas	true	
 ENSPHENO:0001310	Paroxysmal nocturnal hemoglobinuria	HP:0004818	paroxysmal nocturnal hemoglobinuria	false	
 ENSPHENO:0001310	Paroxysmal nocturnal hemoglobinuria	HP:0004818	paroxysmal nocturnal hemoglobinuria	true	
-ENSPHENO:0001329	Primary biliary cirrhosis	HP:0002613	Biliary cirrhosis	false	
-ENSPHENO:0001329	Primary biliary cirrhosis	HP:0002613	Biliary cirrhosis	true	
 ENSPHENO:0001338	Psoriasis	HP:0003765	Psoriasis	false	
 ENSPHENO:0001338	Psoriasis	HP:0003765	Psoriasis	true	
 ENSPHENO:0001356	RENAL AGENESIS	HP:0000104	Renal agenesis	false	

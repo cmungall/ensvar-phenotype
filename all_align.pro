@@ -1,3 +1,8 @@
+all_align('ENSPHENO:0000014', 'A breast cancer sample', 'DOID:1612', 'breast cancer', 'false', '').
+all_align('ENSPHENO:0000014', 'A breast cancer sample', 'DOID:1612', 'breast cancer', 'true', '').
+all_align('ENSPHENO:0000015', 'A colon cancer sample', 'DOID:219', 'colon cancer', 'false', '').
+all_align('ENSPHENO:0000015', 'A colon cancer sample', 'DOID:219', 'colon cancer', 'true', '').
+all_align('ENSPHENO:0000016', 'A colorectal cancer sample', 'DOID:9256', 'colorectal cancer', 'false', '').
 all_align('ENSPHENO:0000022', 'ACRODERMATITIS ENTEROPATHICA', 'DOID:0050605', 'acrodermatitis enteropathica', 'false', '').
 all_align('ENSPHENO:0000022', 'ACRODERMATITIS ENTEROPATHICA', 'DOID:0050605', 'acrodermatitis enteropathica', 'true', '').
 all_align('ENSPHENO:0000030', 'ADULT SYNDROME', 'DOID:0050601', 'ADULT syndrome', 'false', '').
@@ -75,6 +80,8 @@ all_align('ENSPHENO:0000262', 'CARDIOMYOPATHY FAMILIAL HYPERTROPHIC', 'DOID:1198
 all_align('ENSPHENO:0000262', 'CARDIOMYOPATHY FAMILIAL HYPERTROPHIC', 'DOID:11986', 'familial hypertrophic cardiomyopathy', 'true', '').
 all_align('ENSPHENO:0000279', 'CENTRAL CORE DISEASE', 'DOID:3529', 'central core myopathy', 'false', '').
 all_align('ENSPHENO:0000279', 'CENTRAL CORE DISEASE', 'DOID:3529', 'central core myopathy', 'true', '').
+all_align('ENSPHENO:0000291', 'CHARCOT-MARIE-TOOTH DISEASE TYPE 1A', 'DOID:0050538', 'Charcot-Marie-Tooth disease type 1', 'false', '').
+all_align('ENSPHENO:0000291', 'CHARCOT-MARIE-TOOTH DISEASE TYPE 1A', 'DOID:0050538', 'Charcot-Marie-Tooth disease type 1', 'true', '').
 all_align('ENSPHENO:0000309', 'CLEIDOCRANIAL DYSPLASIA', 'DOID:13994', 'cleidocranial dysplasia', 'false', '').
 all_align('ENSPHENO:0000309', 'CLEIDOCRANIAL DYSPLASIA', 'DOID:13994', 'cleidocranial dysplasia', 'true', '').
 all_align('ENSPHENO:0000347', 'CYSTINURIA', 'DOID:9266', 'cystinuria', 'false', '').
@@ -383,6 +390,10 @@ all_align('ENSPHENO:0001639', 'Wolfram syndrome', 'DOID:10632', 'Wolfram syndrom
 all_align('ENSPHENO:0001639', 'Wolfram syndrome', 'DOID:10632', 'Wolfram syndrome', 'true', '').
 all_align('ENSPHENO:0001646', 'ZELLWEGER SYNDROME', 'DOID:905', 'Zellweger syndrome', 'false', '').
 all_align('ENSPHENO:0001646', 'ZELLWEGER SYNDROME', 'DOID:905', 'Zellweger syndrome', 'true', '').
+all_align('ENSPHENO:0000014', 'A breast cancer sample', 'HP:0003002', 'Breast carcinoma', 'false', '').
+all_align('ENSPHENO:0000014', 'A breast cancer sample', 'HP:0003002', 'Breast carcinoma', 'true', '').
+all_align('ENSPHENO:0000015', 'A colon cancer sample', 'HP:0003003', 'Colon cancer', 'false', '').
+all_align('ENSPHENO:0000015', 'A colon cancer sample', 'HP:0003003', 'Colon cancer', 'true', '').
 all_align('ENSPHENO:0000028', 'ADRENAL HYPOPLASIA CONGENITAL', 'HP:0008244', 'Congenital adrenal hypoplasia', 'true', '').
 all_align('ENSPHENO:0000054', 'ALLERGIC RHINITIS', 'HP:0003193', 'Allergic rhinitis', 'false', '').
 all_align('ENSPHENO:0000054', 'ALLERGIC RHINITIS', 'HP:0003193', 'Allergic rhinitis', 'true', '').
@@ -406,6 +417,8 @@ all_align('ENSPHENO:0000203', 'Bipolar disorder', 'HP:0007302', 'Bipolar affecti
 all_align('ENSPHENO:0000203', 'Bipolar disorder', 'HP:0007302', 'Bipolar affective disorder', 'true', '').
 all_align('ENSPHENO:0000250', 'Breast cancer', 'HP:0003002', 'Breast carcinoma', 'false', '').
 all_align('ENSPHENO:0000250', 'Breast cancer', 'HP:0003002', 'Breast carcinoma', 'true', '').
+all_align('ENSPHENO:0000252', 'Bullous congenital ichthyosiform erythroderma', 'HP:0007475', 'Congenital bullous ichthyosiform erythroderma', 'false', '').
+all_align('ENSPHENO:0000252', 'Bullous congenital ichthyosiform erythroderma', 'HP:0007475', 'Congenital bullous ichthyosiform erythroderma', 'true', '').
 all_align('ENSPHENO:0000347', 'CYSTINURIA', 'HP:0003131', 'Cystinuria', 'false', '').
 all_align('ENSPHENO:0000347', 'CYSTINURIA', 'HP:0003131', 'Cystinuria', 'true', '').
 all_align('ENSPHENO:0000362', 'Celiac disease', 'HP:0002608', 'Celiac disease', 'false', '').
@@ -424,8 +437,8 @@ all_align('ENSPHENO:0000422', 'DIABETES MELLITUS NONINSULIN-DEPENDENT', 'HP:0005
 all_align('ENSPHENO:0000422', 'DIABETES MELLITUS NONINSULIN-DEPENDENT', 'HP:0005978', 'Type II diabetes mellitus', 'true', '').
 all_align('ENSPHENO:0000443', 'Dilated cardiomyopathy', 'HP:0001644', 'Dilated cardiomyopathy', 'false', '').
 all_align('ENSPHENO:0000443', 'Dilated cardiomyopathy', 'HP:0001644', 'Dilated cardiomyopathy', 'true', '').
-all_align('ENSPHENO:0000483', 'EPIDERMOLYTIC HYPERKERATOSIS', 'HP:0007475', 'Epidermolytic hyperkeratosis', 'false', '').
-all_align('ENSPHENO:0000483', 'EPIDERMOLYTIC HYPERKERATOSIS', 'HP:0007475', 'Epidermolytic hyperkeratosis', 'true', '').
+all_align('ENSPHENO:0000483', 'EPIDERMOLYTIC HYPERKERATOSIS', 'HP:0007475', 'Congenital bullous ichthyosiform erythroderma', 'false', '').
+all_align('ENSPHENO:0000483', 'EPIDERMOLYTIC HYPERKERATOSIS', 'HP:0007475', 'Congenital bullous ichthyosiform erythroderma', 'true', '').
 all_align('ENSPHENO:0000546', 'FRONTOTEMPORAL DEMENTIA', 'HP:0002145', 'Frontotemporal dementia', 'false', '').
 all_align('ENSPHENO:0000546', 'FRONTOTEMPORAL DEMENTIA', 'HP:0002145', 'Frontotemporal dementia', 'true', '').
 all_align('ENSPHENO:0000554', 'Factor XI deficiency', 'HP:0001929', 'Factor XI deficiency', 'false', '').
@@ -478,8 +491,6 @@ all_align('ENSPHENO:0001305', 'Pancreatic cancer', 'HP:0002894', 'Neoplasm of th
 all_align('ENSPHENO:0001305', 'Pancreatic cancer', 'HP:0002894', 'Neoplasm of the pancreas', 'true', '').
 all_align('ENSPHENO:0001310', 'Paroxysmal nocturnal hemoglobinuria', 'HP:0004818', 'paroxysmal nocturnal hemoglobinuria', 'false', '').
 all_align('ENSPHENO:0001310', 'Paroxysmal nocturnal hemoglobinuria', 'HP:0004818', 'paroxysmal nocturnal hemoglobinuria', 'true', '').
-all_align('ENSPHENO:0001329', 'Primary biliary cirrhosis', 'HP:0002613', 'Biliary cirrhosis', 'false', '').
-all_align('ENSPHENO:0001329', 'Primary biliary cirrhosis', 'HP:0002613', 'Biliary cirrhosis', 'true', '').
 all_align('ENSPHENO:0001338', 'Psoriasis', 'HP:0003765', 'Psoriasis', 'false', '').
 all_align('ENSPHENO:0001338', 'Psoriasis', 'HP:0003765', 'Psoriasis', 'true', '').
 all_align('ENSPHENO:0001356', 'RENAL AGENESIS', 'HP:0000104', 'Renal agenesis', 'false', '').
